@@ -1,0 +1,569 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - The tech term “malware” combines what word with software? Malfunctioning",
+                "totalResults": "78700",
+                "searchTerms": "The tech term “malware” combines what word with software? Malfunctioning",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - The tech term “malware” combines what word with software? Malfunctioning",
+                "totalResults": "78700",
+                "searchTerms": "The tech term “malware” combines what word with software? Malfunctioning",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ]
+    },
+    "context": {
+        "title": "second"
+    },
+    "searchInformation": {
+        "searchTime": 0.232871,
+        "formattedSearchTime": "0.23",
+        "totalResults": "78700",
+        "formattedTotalResults": "78,700"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "BBC Bitesize - What are viruses and malware?",
+            "htmlTitle": "BBC Bitesize - What are viruses and <b>malware</b>?",
+            "link": "http://www.bbc.co.uk/guides/zcmbgk7",
+            "displayLink": "www.bbc.co.uk",
+            "snippet": "If you're unlucky, your computer could be infected with a virus or malware. These \nprograms ... Computing. Viruses and malware are programs that can attack \ncomputers, tablets, phones and other digital devices. ... By combining the words '\nmalicious' (meaning 'harmful') and 'software' we get the word 'malware'. Viruses \nare ...",
+            "htmlSnippet": "If you&#39;re unlucky, your computer could be infected with a virus or <b>malware</b>. These <br>\n<b>programs</b> ... <b>Computing</b>. Viruses and <b>malware</b> are <b>programs</b> that can attack <br>\ncomputers, tablets, phones and other digital devices. ... By <b>combining</b> the words &#39;<br>\nmalicious&#39; (meaning &#39;harmful&#39;) and &#39;<b>software</b>&#39; we get the <b>word</b> &#39;<b>malware</b>&#39;. Viruses <br>\nare&nbsp;...",
+            "cacheId": "9C5Q1y7hlloJ",
+            "formattedUrl": "www.bbc.co.uk/guides/zcmbgk7",
+            "htmlFormattedUrl": "www.bbc.co.uk/guides/zcmbgk7",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "208",
+                        "height": "208",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMOlBN4xS-ZgCdrnHPWQC_yUQDwzJLhNBS9G0P_5fncPEIVm7m-L3zM7o"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "fb:admins": "100004154058350",
+                        "og:title": "What are viruses and malware?",
+                        "og:type": "article",
+                        "og:site_name": "BBC Guides",
+                        "og:image": "http://ichef.bbci.co.uk/images/ic/208x208/p025hpwx.jpg",
+                        "og:url": "http://www.bbc.co.uk/guides/zcmbgk7",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "If you’re unlucky, your computer could be infected with a virus or malware. These programs attack your device, stopping it from running or stealing your data.",
+                        "twitter:image:src": "http://ichef.bbci.co.uk/images/ic/288x162/p025hpwx.jpg",
+                        "twitter:site": "@BBCiWonder"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "name": "Viruses and Malware",
+                        "description": "Find about different types of malware including viruses and worms.",
+                        "thumbnailurl": "http://ichef.bbci.co.uk/images/ic/320x180/p025hszj.jpg"
+                    },
+                    {
+                        "name": "Lady Jane Grey – Beware What You Download",
+                        "description": "Lady Jane Grey receives a dodgy e-mail.",
+                        "thumbnailurl": "http://ichef.bbci.co.uk/images/ic/320x180/p03g3ymg.jpg"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "name": "anti-virus-software",
+                        "description": "Illustration of an anti-virus installation screen.",
+                        "contenturl": "http://ichef.bbci.co.uk/images/ic/608xn/p025frct.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://ichef.bbci.co.uk/images/ic/208x208/p025hpwx.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Malware 101: An Overview of Malware Types | Inc.com",
+            "htmlTitle": "<b>Malware</b> 101: An Overview of <b>Malware</b> Types | Inc.com",
+            "link": "https://www.inc.com/joseph-steinberg/malware-101-an-overview-of-malware-types.html",
+            "displayLink": "www.inc.com",
+            "snippet": "Dec 28, 2017 ... Malware. Malware is an all-encompassing term that includes many forms of \nintentionally malicious software (in fact, the word malware was first coined in \n1990 ... Blended malware is malware that utilizes multiple types of malware \ntechnology as part of an attack - for example, combining features of Trojans, ...",
+            "htmlSnippet": "Dec 28, 2017 <b>...</b> <b>Malware</b>. <b>Malware</b> is an all-encompassing <b>term</b> that includes many forms of <br>\nintentionally malicious <b>software</b> (in fact, the <b>word malware</b> was first coined in <br>\n1990 ... Blended <b>malware</b> is <b>malware</b> that utilizes multiple types of <b>malware</b> <br>\n<b>technology</b> as part of an attack - for example, <b>combining</b> features of Trojans,&nbsp;...",
+            "formattedUrl": "https://www.inc.com/.../malware-101-an-overview-of-malware-types.html",
+            "htmlFormattedUrl": "https://www.inc.com/.../<b>malware</b>-101-an-overview-of-<b>malware</b>-types.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "330",
+                        "height": "153",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREv0JjQZf2cOMtwwCVwtFnKULeVo6Ox4aEcA_HBF00IyzbyvipnAVbI8"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "Malware 101: An Overview of Malware Types",
+                        "syndication-source": "https://www.inc.com/joseph-steinberg/malware-101-an-overview-of-malware-types.html",
+                        "og:title": "Malware 101: An Overview of Malware Types",
+                        "og:description": "Here is a short primer that should be useful for people of all backgrounds:",
+                        "og:type": "article",
+                        "og:url": "https://www.inc.com/joseph-steinberg/malware-101-an-overview-of-malware-types.html",
+                        "og:image": "https://www.incimages.com/uploaded_files/image/970x450/getty_541003850_338307.jpg",
+                        "og:site_name": "Inc.com",
+                        "twitter:card": "summary_large_image",
+                        "twitter:image": "https://www.incimages.com/uploaded_files/image/1940x900/getty_541003850_338307.jpg",
+                        "twitter:site": "@Inc",
+                        "twitter:creator": "@JosephSteinberg",
+                        "twitter:url": "https://www.inc.com/joseph-steinberg/malware-101-an-overview-of-malware-types.html",
+                        "twitter:title": "Malware 101: An Overview of Malware Types",
+                        "twitter:description": "Here is a short primer that should be useful for people of all backgrounds:",
+                        "fb:app_id": "139291179414843",
+                        "article:section": "Technology",
+                        "article:author": "Joseph Steinberg",
+                        "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width height=device-height",
+                        "format-detection": "telephone=no",
+                        "article:published_time": "2017-12-28T19:15:41.000Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.incimages.com/uploaded_files/image/970x450/getty_541003850_338307.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Quiz: Malware - Quiz from WhatIs.com",
+            "htmlTitle": "Quiz: <b>Malware</b> - Quiz from WhatIs.com",
+            "link": "https://searchsecurity.techtarget.com/definition/Quiz-Malware",
+            "displayLink": "searchsecurity.techtarget.com",
+            "snippet": "So many kinds of malware in the wild From garden variety worms to hybrid \nviruses youve got to watch out for Trojan horses spyware and social engineering.\n.. ... _____This is malicious coding that combines virus' ability to alter program \ncode with the worm's ability to reside in live memory and to propagate without \nany action ...",
+            "htmlSnippet": "So many kinds of <b>malware</b> in the wild From garden variety worms to hybrid <br>\nviruses youve got to watch out for Trojan horses spyware and social engineering.<br>\n.. ... _____This is malicious coding that <b>combines</b> virus&#39; ability to alter program <br>\ncode with the worm&#39;s ability to reside in live memory and to propagate without <br>\nany action&nbsp;...",
+            "cacheId": "rwkJVXjC5rMJ",
+            "formattedUrl": "https://searchsecurity.techtarget.com/definition/Quiz-Malware",
+            "htmlFormattedUrl": "https://searchsecurity.<b>tech</b>target.com/<b>definition</b>/Quiz-<b>Malware</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "308",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvMB4nwG9hQHW8ohR69o2GlS7JtQjngijuizY4-i5UOGo4Yt7liaICWKo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1",
+                        "og:title": "Quiz: Malware - Quiz from WhatIs.com",
+                        "og:site_name": "SearchSecurity",
+                        "og:url": "https://searchsecurity.techtarget.com/definition/Quiz-Malware",
+                        "fb:app_id": "870327132989388",
+                        "og:type": "article",
+                        "og:locale": "en_US",
+                        "article:publisher": "https://www.facebook.com/SearchSecuritycom/178802708831989",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@searchsecurity",
+                        "twitter:title": "Quiz: Malware - Quiz from WhatIs.com",
+                        "twitter:description": "So many kinds of malware in the wild From garden variety worms to hybrid viruses youve got to watch out for Trojan horses spyware and social engineering...",
+                        "og:image": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+                        "twitter:creator": "@whatisdotcom"
+                    }
+                ],
+                "article": [
+                    {
+                        "name": "Quiz: Malware - Quiz from WhatIs.com",
+                        "image": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Malicious Software",
+            "htmlTitle": "Malicious <b>Software</b>",
+            "link": "http://www.oecd.org/sti/40724457.pdf",
+            "displayLink": "www.oecd.org",
+            "snippet": "Jan 19, 2007 ... US have spyware or other types of malware on their computers‖ should read ―\nAfter hearing descriptions ...... of malware and thus the overall malware problem \nis difficult to quantify. Data on .... Malware is a general term for a piece of software \ninserted into an information system to cause harm to that.",
+            "htmlSnippet": "Jan 19, 2007 <b>...</b> US have spyware or other types of <b>malware</b> on their computers‖ should read ―<br>\nAfter hearing descriptions ...... of <b>malware</b> and thus the overall <b>malware problem</b> <br>\nis difficult to quantify. Data on .... <b>Malware</b> is a general <b>term</b> for a piece of <b>software</b> <br>\ninserted into an information system to cause harm to that.",
+            "cacheId": "L1TKcMjoV_QJ",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "www.oecd.org/sti/40724457.pdf",
+            "htmlFormattedUrl": "www.oecd.org/sti/40724457.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "author": "OECD",
+                        "creator": "Microsoft® Office Word 2007",
+                        "creationdate": "D:20080609105529",
+                        "moddate": "D:20080609105529",
+                        "producer": "Microsoft® Office Word 2007"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Malware 101: An Overview Of Malware Types - Joseph Steinberg",
+            "htmlTitle": "<b>Malware</b> 101: An Overview Of <b>Malware</b> Types - Joseph Steinberg",
+            "link": "http://josephsteinberg.com/malware-101-overview-malware-types/",
+            "displayLink": "josephsteinberg.com",
+            "snippet": "Malware is an all-encompassing term that includes many forms of intentionally \nmalicious software (in fact, the word malware was first coined in 1990 by the ... \nBlended malware is malware that utilizes multiple types of malware technology \nas part of an attack – for example, combining features of Trojans, worms, and \nviruses.",
+            "htmlSnippet": "<b>Malware</b> is an all-encompassing <b>term</b> that includes many forms of intentionally <br>\nmalicious <b>software</b> (in fact, the <b>word malware</b> was first coined in 1990 by the ... <br>\nBlended <b>malware</b> is <b>malware</b> that utilizes multiple types of <b>malware technology</b> <br>\nas part of an attack – for example, <b>combining</b> features of Trojans, worms, and <br>\nviruses.",
+            "cacheId": "LvE1pJxmBxoJ",
+            "formattedUrl": "josephsteinberg.com/malware-101-overview-malware-types/",
+            "htmlFormattedUrl": "josephsteinberg.com/<b>malware</b>-101-overview-<b>malware</b>-types/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "279",
+                        "height": "180",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl-yuZapP7A3kmX3kM5eWs-XrLdy9k4_i6HvXVZIZqzlOM3vD4tynOlIrQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+                        "og:image": "http://josephsteinberg.com/wp-content/uploads/2017/02/malware.jpg",
+                        "twitter:image": "http://josephsteinberg.com/wp-content/uploads/2017/02/malware.jpg",
+                        "og:type": "article",
+                        "og:description": "Most businesspeople today are familiar with the term malware – that is, malicious software of some sort – but, in recent months I have heard multiple otherwise knowledgeable people misuse various terms related to malware types, so I decided to share a short primer that should be useful for people of all backgrounds: Malware Malware […]",
+                        "twitter:card": "summary",
+                        "twitter:url": "http://josephsteinberg.com/malware-101-overview-malware-types/",
+                        "twitter:title": "Malware 101: An Overview Of Malware Types",
+                        "twitter:description": "Most businesspeople today are familiar with the term malware – that is, malicious software of some sort – but, in recent months I have heard multiple otherwise knowledgeable people misuse various terms related to malware types, so I decided to share a short primer that should be useful for people of all backgrounds: Malware Malware […]",
+                        "wpsso:mark:begin": "wpsso meta tags begin",
+                        "og:url": "http://josephsteinberg.com/malware-101-overview-malware-types/",
+                        "og:locale": "en_US",
+                        "og:site_name": "Joseph Steinberg",
+                        "og:title": "Malware 101: An Overview Of Malware Types - Joseph Steinberg",
+                        "og:image:width": "600",
+                        "og:image:height": "315",
+                        "article:publisher": "https://www.facebook.com/JosephSteinberg",
+                        "article:published_time": "2018-02-14T06:48:14+00:00",
+                        "article:modified_time": "2018-02-14T13:26:12+00:00",
+                        "article:section": "Computer Security",
+                        "og:updated_time": "2018-02-14T13:26:12+00:00",
+                        "weibo:article:create_at": "2018-02-14 06:48:14",
+                        "weibo:article:update_at": "2018-02-14 13:26:12",
+                        "twitter:domain": "josephsteinberg.com",
+                        "twitter:site": "@JosephSteinberg",
+                        "author": "Joseph Steinberg",
+                        "wpsso:mark:end": "wpsso meta tags end",
+                        "msapplication-tileimage": "http://josephsteinberg.com/wp-content/uploads/2018/03/cropped-IMG_20170408_112127_642-270x270.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "headline": "Malware 101: An Overview Of Malware Types",
+                        "datepublished": "2018-02-14",
+                        "datemodified": "2018-02-14",
+                        "articlebody": "Most businesspeople today are familiar with the term malware – that is, malicious software of some sort – but, in recent months I have heard multiple otherwise knowledgeable people misuse..."
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "http://josephsteinberg.com/wp-content/uploads/2017/02/malware.jpg",
+                        "width": "720",
+                        "height": "465"
+                    },
+                    {
+                        "url": "http://josephsteinberg.com/wp-content/uploads/2017/02/malware.jpg",
+                        "width": "720",
+                        "height": "465",
+                        "headline": "Malware 101: An Overview Of Malware Types"
+                    },
+                    {
+                        "url": "http://josephsteinberg.com/wp-content/uploads/2016/11/Left-Logo-1.png"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Joseph Steinberg"
+                    },
+                    {
+                        "name": "Joseph Steinberg"
+                    }
+                ],
+                "organization": [
+                    {
+                        "url": "http://josephsteinberg.com/",
+                        "logo": "http://josephsteinberg.com/wp-content/uploads/2016/11/Left-Logo-1.png"
+                    },
+                    {
+                        "name": "Joseph Steinberg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://josephsteinberg.com/wp-content/uploads/2017/02/malware.jpg"
+                    }
+                ],
+                "blogposting": [
+                    {
+                        "url": "http://josephsteinberg.com/malware-101-overview-malware-types/",
+                        "name": "Malware 101: An Overview Of Malware Types - Joseph Steinberg",
+                        "description": "Most businesspeople today are familiar with the term malware - that is, malicious software of some sort - but, in recent months I have heard multiple otherwise knowledgeable people misuse various...",
+                        "datepublished": "2018-02-14T06:48:14+00:00",
+                        "datemodified": "2018-02-14T13:26:12+00:00"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Honeypot (computing) - Wikipedia",
+            "htmlTitle": "Honeypot (<b>computing</b>) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Honeypot_(computing)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In computer terminology, a honeypot is a computer security mechanism set to \ndetect, deflect, or, in some manner, counteract attempts at unauthorized use of \ninformation systems. Generally, a honeypot consists of data that appears to be a \nlegitimate part of the site, but is actually isolated and monitored, and that seems \nto ...",
+            "htmlSnippet": "In computer <b>terminology</b>, a honeypot is a computer security mechanism set to <br>\ndetect, deflect, or, in some manner, counteract attempts at unauthorized use of <br>\ninformation systems. Generally, a honeypot consists of data that appears to be a <br>\nlegitimate part of the site, but is actually isolated and monitored, and that seems <br>\nto&nbsp;...",
+            "cacheId": "6feOgAfVwKwJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Honeypot_(computing)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Honeypot_(<b>computing</b>)",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "255",
+                        "height": "198",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaz54oo0qRvlZkWhxhxLgdoGu8rvTO3h1SEymfMZX6enE3E1nz-jnCbD0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Honeypot_diagram.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Honeypot_diagram.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "12+ Types of Malware Explained with Examples (Complete List)",
+            "htmlTitle": "12+ Types of <b>Malware</b> Explained with Examples (Complete List)",
+            "link": "https://www.malwarefox.com/malware-types/",
+            "displayLink": "www.malwarefox.com",
+            "snippet": "May 24, 2017 ... Different Types of Malware. Running into the word that starts with mal is a literal \nsign that something is bad. In general, most experts view the term malware as a \ncontraction of two words — malicious software. The word has bad connotations \nby deliberate construction, but the actual psychology of malware is ...",
+            "htmlSnippet": "May 24, 2017 <b>...</b> Different Types of <b>Malware</b>. Running into the <b>word</b> that starts with mal is a literal <br>\nsign that something is bad. In general, most experts view the <b>term malware</b> as a <br>\ncontraction of two words — malicious <b>software</b>. The <b>word</b> has bad connotations <br>\nby deliberate construction, but the actual psychology of <b>malware</b> is&nbsp;...",
+            "cacheId": "SpD-pMsibbAJ",
+            "formattedUrl": "https://www.malwarefox.com/malware-types/",
+            "htmlFormattedUrl": "https://www.<b>malware</b>fox.com/<b>malware</b>-types/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMkmAY9Ky5gtbbBHLM7ptPBACRovmR6brCJ5jj-q_x_kTziREs5YuDvdqO"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "12+ Types of Malware Explanied: Scariest and Dangerous!",
+                        "og:description": "Complete list of types of malware along with all Cyber terminologies explained with examples. What it is and How it attacks Computer?",
+                        "og:url": "https://www.malwarefox.com/malware-types/",
+                        "og:site_name": "MalwareFox",
+                        "article:section": "Glossary",
+                        "article:published_time": "2017-05-24T11:41:00+05:30",
+                        "article:modified_time": "2018-01-09T19:59:49+05:30",
+                        "og:updated_time": "2018-01-09T19:59:49+05:30",
+                        "og:image": "https://malwarefox-e4cahqzcal86se23rw2j.netdna-ssl.com/wp-content/uploads/2017/05/types-malwareFB.jpg",
+                        "og:image:secure_url": "https://malwarefox-e4cahqzcal86se23rw2j.netdna-ssl.com/wp-content/uploads/2017/05/types-malwareFB.jpg",
+                        "twitter:card": "summary",
+                        "twitter:description": "Complete list of types of malware along with all Cyber terminologies explained with examples and proper classification. What it is and How it attacks?",
+                        "twitter:title": "12+ Types of Malware Explained with Examples (Complete List)",
+                        "twitter:image": "https://malwarefox-e4cahqzcal86se23rw2j.netdna-ssl.com/wp-content/uploads/2017/05/types-malwareFB.jpg",
+                        "msapplication-tileimage": "https://malwarefox-e4cahqzcal86se23rw2j.netdna-ssl.com/wp-content/uploads/2016/12/cropped-fox-512-270x270.png"
+                    }
+                ],
+                "Breadcrumb": [
+                    {
+                        "title": "Home >>",
+                        "url": "Home >>"
+                    },
+                    {
+                        "title": "Blog >>",
+                        "url": "Blog >>"
+                    },
+                    {
+                        "title": "Glossary",
+                        "url": "Glossary"
+                    },
+                    {
+                        "title": ">> List of Types of Malware",
+                        "url": ">> List of Types of Malware"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://malwarefox-e4cahqzcal86se23rw2j.netdna-ssl.com/wp-content/uploads/2017/05/types-malwareFB.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Rootkit - Wikipedia",
+            "htmlTitle": "Rootkit - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Rootkit",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "A root kit is a collection of computer software, typically malicious, designed to \nenable access to a computer or areas of its software that is not otherwise allowed \nand often masks its existence or the existence of other software. The term rootkit \nis a concatenation of \"root\" (the traditional name of the privileged account on ...",
+            "htmlSnippet": "A root kit is a collection of computer <b>software</b>, typically malicious, designed to <br>\nenable access to a computer or areas of its <b>software</b> that is not otherwise allowed <br>\nand often masks its existence or the existence of other <b>software</b>. The <b>term</b> rootkit <br>\nis a concatenation of &quot;root&quot; (the traditional name of the privileged account on&nbsp;...",
+            "cacheId": "QHsg6IX7oVQJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rootkit",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rootkit",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Glossary of Cybersecurity Terms - Scott Schober",
+            "htmlTitle": "Glossary of Cybersecurity <b>Terms</b> - Scott Schober",
+            "link": "https://scottschober.com/glossary-of-cybersecurity-terms/",
+            "displayLink": "scottschober.com",
+            "snippet": "Definition: A program that specializes in detecting and blocking or removing \nforms of spyware. Related Term(s): spyware. antivirus software. Definition: A \nprogram that monitors a computer or network to detect or identify major types of \nmalicious code and to prevent or contain malware incidents. Sometimes by \nremoving or ...",
+            "htmlSnippet": "<b>Definition</b>: A program that specializes in detecting and blocking or removing <br>\nforms of spyware. Related <b>Term</b>(s): spyware. antivirus <b>software</b>. <b>Definition</b>: A <br>\nprogram that monitors a computer or network to detect or identify major types of <br>\nmalicious code and to prevent or contain <b>malware</b> incidents. Sometimes by <br>\nremoving or&nbsp;...",
+            "cacheId": "I0VmMKtofmYJ",
+            "formattedUrl": "https://scottschober.com/glossary-of-cybersecurity-terms/",
+            "htmlFormattedUrl": "https://scottschober.com/glossary-of-cybersecurity-<b>terms</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Glossary of Cybersecurity Terms - Scott Schober",
+                        "og:description": "Common Cybersecurity Terminology from a Cyber Security Expert",
+                        "og:url": "https://scottschober.com/glossary-of-cybersecurity-terms/",
+                        "og:site_name": "Scott Schober",
+                        "article:author": "https://www.facebook.com/Berkeley-Varitronics-Systems-359423124187883/?ref=hl",
+                        "twitter:card": "summary",
+                        "twitter:description": "Common Cybersecurity Terminology from a Cyber Security Expert",
+                        "twitter:title": "Glossary of Cybersecurity Terms - Scott Schober",
+                        "twitter:creator": "@bvsystems"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "text": "Common Cybersecurity Terminology from a Cyber Security Expert Scott Schober, BVS CEO & Cyber Security Expert, has appeared regularly on Bloomberg TV, Fox Business & Fox News, CNBC, CNN, Canadian..."
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Home",
+                        "name": "Home"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "image": "https://scottschober.com/wp-content/uploads/2018/04/spring-cleaning-225x130.jpg",
+                        "headline": "4 Key Benefits of Financial Spring Cleaning",
+                        "url": "Cybersecurity Product Inventor"
+                    }
+                ],
+                "searchaction": [
+                    {
+                        "target": "https://scottschober.com/?s={s}",
+                        "query-input": "name=s"
+                    },
+                    {
+                        "target": "https://scottschober.com/?s={s}",
+                        "query-input": "name=s"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Hackers hit software supply chains more in 2017 than prior two ...",
+            "htmlTitle": "Hackers hit <b>software</b> supply chains more in 2017 than prior two ...",
+            "link": "https://www.axios.com/hackers-hit-software-supply-chains-more-in-2017-than-prior-two-years-combined-579b5bb4-11b4-4326-9f4f-78711f03d840.html",
+            "displayLink": "www.axios.com",
+            "snippet": "Hackers hit software supply chains more in 2017 than prior two years combined. \nA computer user points at a system infected with the NotPetya malware. A \ncomputer user points at the word \"Bitcoin\" in ransom message associated with \nthe NotPetya malware. Photo: Donat Sorokin\\TASS via Getty Images. Hackers ...",
+            "htmlSnippet": "Hackers hit <b>software</b> supply chains more in 2017 than prior two years <b>combined</b>. <br>\nA computer user points at a system infected with the NotPetya <b>malware</b>. A <br>\ncomputer user points at the <b>word</b> &quot;Bitcoin&quot; in ransom message associated with <br>\nthe NotPetya <b>malware</b>. Photo: Donat Sorokin\\TASS via Getty Images. Hackers&nbsp;...",
+            "cacheId": "VHx9KeeHKZkJ",
+            "formattedUrl": "https://www.axios.com/hackers-hit-software-supply-chains-more-in-2017- than-prior-two-years-combined-579b5bb4-11b4-4326-9f4f-78711f...",
+            "htmlFormattedUrl": "https://www.axios.com/hackers-hit-<b>software</b>-supply-chains-more-in-2017- than-prior-two-years-<b>combined</b>-579b5bb4-11b4-4326-9f4f-78711f...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLZYC2krbZMjusk-7fafI-GmFHwl8ntMblrdgIBF9upDY3qvZ0KT0J9UfM"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "og:type": "website",
+                        "og:site_name": "Axios",
+                        "fb:app_id": "650172611997232",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@axios",
+                        "og:url": "https://www.axios.com/hackers-hit-software-supply-chains-more-in-2017-than-prior-two-years-combined-579b5bb4-11b4-4326-9f4f-78711f03d840.html",
+                        "og:title": "Hackers hit software supply chains more in 2017 than prior two years combined",
+                        "og:description": "There were 10 in 2017, up from three in 2015 and four in 2016.",
+                        "og:image": "https://images.axios.com/HyY9zz9Ymn_w8tFckisszuBIews=/0x0:5568x3132/1920x1080/2018/03/22/1521723878383.jpg",
+                        "mobile-web-app-capable": "yes",
+                        "theme-color": "#fff",
+                        "application-name": "Axios",
+                        "apple-mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "apple-mobile-web-app-title": "Axios",
+                        "msapplication-tilecolor": "#fff",
+                        "msapplication-tileimage": "mstile-144x144.png",
+                        "msapplication-config": "browserconfig.xml"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.axios.com/HyY9zz9Ymn_w8tFckisszuBIews=/0x0:5568x3132/1920x1080/2018/03/22/1521723878383.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

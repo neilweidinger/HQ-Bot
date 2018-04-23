@@ -1,0 +1,517 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - The tech term “malware” combines what word with software? Malevolent",
+                "totalResults": "419",
+                "searchTerms": "The tech term “malware” combines what word with software? Malevolent",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - The tech term “malware” combines what word with software? Malevolent",
+                "totalResults": "419",
+                "searchTerms": "The tech term “malware” combines what word with software? Malevolent",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ]
+    },
+    "context": {
+        "title": "second"
+    },
+    "searchInformation": {
+        "searchTime": 0.209318,
+        "formattedSearchTime": "0.21",
+        "totalResults": "419",
+        "formattedTotalResults": "419"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Malevolent | Definition of Malevolent by Merriam-Webster",
+            "htmlTitle": "<b>Malevolent</b> | <b>Definition</b> of <b>Malevolent</b> by Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/malevolent",
+            "displayLink": "www.merriam-webster.com",
+            "snippet": "Malevolent definition is — Define malevolent: having, showing, or arising from \nintense often vicious ill will, spite, or hatred. How to use Malevolent in a sentence. \n... The hackers also then download malware — malevolent software — that \nallows them to explore and manipulate the system. — philip bump, Washington \nPost, ...",
+            "htmlSnippet": "<b>Malevolent definition</b> is — Define <b>malevolent</b>: having, showing, or arising from <br>\nintense often vicious ill will, spite, or hatred. How to use <b>Malevolent</b> in a sentence. <br>\n... The hackers also then download <b>malware</b> — <b>malevolent software</b> — that <br>\nallows them to explore and manipulate the system. — philip bump, Washington <br>\nPost,&nbsp;...",
+            "cacheId": "0zZ5W0QinGsJ",
+            "formattedUrl": "https://www.merriam-webster.com/dictionary/malevolent",
+            "htmlFormattedUrl": "https://www.merriam-webster.com/dictionary/<b>malevolent</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxteAqFzgSAMiy8b5-r1fG63ve3OdgXkZ778E5cPtx64aGw_HQfe6hZPYq"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "unsafe-url",
+                        "fb:app_id": "178450008855735",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Definition of MALEVOLENT",
+                        "og:image": "https://www.merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
+                        "og:url": "https://www.merriam-webster.com/dictionary/malevolent",
+                        "og:description": "having, showing, or arising from intense often vicious ill will, spite, or hatred; productive of harm or evil… See the full definition",
+                        "twitter:title": "Definition of MALEVOLENT",
+                        "twitter:image": "https://www.merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
+                        "twitter:url": "https://www.merriam-webster.com/dictionary/malevolent",
+                        "twitter:description": "having, showing, or arising from intense often vicious ill will, spite, or hatred; productive of harm or evil… See the full definition",
+                        "twitter:card": "summary",
+                        "twitter:site": "@MerriamWebster"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Macro Viruses",
+            "htmlTitle": "Macro Viruses",
+            "link": "https://us.norton.com/internetsecurity-malware-macro-viruses.html",
+            "displayLink": "us.norton.com",
+            "snippet": "A macro virus is defined as “a computer virus written in the same macro language \nused for software applications, such as word processors.” ... As with many other \nforms of viruses and malware, macro viruses are difficult to detect. ... One of their \nmore popular uses is as transportation for destructive viruses and malware.",
+            "htmlSnippet": "A macro virus is defined as “a computer virus written in the same macro language <br>\nused for <b>software</b> applications, such as <b>word</b> processors.” ... As with many other <br>\nforms of viruses and <b>malware</b>, macro viruses are difficult to detect. ... One of their <br>\nmore popular uses is as transportation for destructive viruses and <b>malware</b>.",
+            "cacheId": "YKWNXcnyg2YJ",
+            "formattedUrl": "https://us.norton.com/internetsecurity-malware-macro-viruses.html",
+            "htmlFormattedUrl": "https://us.norton.com/internetsecurity-<b>malware</b>-macro-viruses.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "311",
+                        "height": "162",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRROntHn6ccIa_2Ink6w8UXCyZ3zVMI34TtU0_Ii7gG_XvVAbY_HdF24AQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,minimum-scale=1,maximum-scale=1",
+                        "msvalidate.01": "94ADFF0C4C81F166F5F8DE2E4B8BF89E",
+                        "og:title": "Macro Viruses",
+                        "og:description": "A macro virus is defined as “a computer virus written in the same macro language used for software applications, such as word processors.”",
+                        "og:type": "website",
+                        "og:image": "https://now.symassets.com/content/dam/norton/global/images/non-product/misc/tlc/Malware/macro-viruses/FB-macro-viruses-1200x627.jpg",
+                        "og:url": "https://us.norton.com/internetsecurity-malware-macro-viruses.html",
+                        "twitter:title": "Macro Viruses",
+                        "twitter:description": "A macro virus is defined as “a computer virus written in the same macro language used for software applications, such as word processors.”",
+                        "twitter:image": "https://now.symassets.com/content/dam/norton/global/images/non-product/misc/tlc/Malware/macro-viruses/tw-macro-viruses-280x150.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://now.symassets.com/content/dam/norton/global/images/non-product/misc/tlc/Malware/macro-viruses/FB-macro-viruses-1200x627.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Malware, Spyware, Virus, Worm, etc… What's the Difference ...",
+            "htmlTitle": "<b>Malware</b>, Spyware, Virus, Worm, etc… What&#39;s the Difference ...",
+            "link": "http://www.superantispyware.com/blog/2013/03/28/malware-spyware-virus-worm-etc-whats-the-difference/",
+            "displayLink": "www.superantispyware.com",
+            "snippet": "Mar 28, 2013 ... They are all types of malicious software that each behave differently. The word \nmalware is a combination of two words “malicious” and “software”. It is a generic \nterm used to describe all of the hostile and intrusive program codes including \nviruses, spyware, worms, Trojans, or anything that is designed to ...",
+            "htmlSnippet": "Mar 28, 2013 <b>...</b> They are all types of <b>malicious software</b> that each behave differently. The <b>word</b> <br>\n<b>malware</b> is a combination of two words “<b>malicious</b>” and “<b>software</b>”. It is a generic <br>\n<b>term</b> used to describe all of the hostile and intrusive program codes including <br>\nviruses, spyware, worms, Trojans, or anything that is designed to&nbsp;...",
+            "cacheId": "Vbk-k6dsOiYJ",
+            "formattedUrl": "www.superantispyware.com/.../malware-spyware-virus-worm-etc-whats-the- difference/",
+            "htmlFormattedUrl": "www.superantispyware.com/.../<b>malware</b>-spyware-virus-worm-etc-whats-the- difference/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200",
+                        "height": "200",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWFd3H4RHfOldxeesuf5INtso9lDvoaCpBocXJaRRmC-FLpHMaF4tw1Uk"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:type": "article",
+                        "og:title": "Malware, Spyware, Virus, Worm, etc… What’s the Difference?",
+                        "og:url": "http://www.superantispyware.com/blog/2013/03/28/malware-spyware-virus-worm-etc-whats-the-difference/",
+                        "og:description": "Many PC users consider malware, viruses, spyware, adware, worms, Trojans, etc. as the same thing. While all these infections harm our computers, they are not the same. They are all types of malicio…",
+                        "article:published_time": "2013-03-28T09:33:01+00:00",
+                        "article:modified_time": "2013-03-28T09:33:01+00:00",
+                        "og:site_name": "SUPERAntiSpyware Blog",
+                        "og:image": "https://s0.wp.com/i/blank.jpg",
+                        "og:locale": "en_US",
+                        "twitter:text:title": "Malware, Spyware, Virus, Worm, etc… What’s the Difference?",
+                        "twitter:card": "summary"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Satya Panigrahi",
+                        "url": "http://www.facebook.com/satya.panigrahi.96",
+                        "url_text": "Satya Panigrahi"
+                    },
+                    {
+                        "fn": "Rajive Pai",
+                        "url": "http://www.facebook.com/rajive.rpai",
+                        "url_text": "Rajive Pai"
+                    },
+                    {
+                        "fn": "Craig",
+                        "nickname": "Craig"
+                    },
+                    {
+                        "fn": "David",
+                        "nickname": "David"
+                    },
+                    {
+                        "fn": "elizbathmartin",
+                        "nickname": "elizbathmartin"
+                    },
+                    {
+                        "fn": "Gaz",
+                        "nickname": "Gaz"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s0.wp.com/i/blank.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What Is the Difference: Viruses, Worms, Ransomware, Trojans, Bots ...",
+            "htmlTitle": "What Is the Difference: Viruses, Worms, Ransomware, Trojans, Bots ...",
+            "link": "https://fossbytes.com/difference-viruses-worms-ransomware-trojans-bots-malware-spyware-etc/",
+            "displayLink": "fossbytes.com",
+            "snippet": "Oct 4, 2015 ... Malware is a concise word for malicious software which includes all sorts of \nharmful creatures like viruses, trojans, ransomware, bots, spyware, etc. ... If you're \na regular or even an occasional computer user, then you might've heard the \nterms like Viruses, Worms, Trojans, Bots, Malware, Spyware, etc.",
+            "htmlSnippet": "Oct 4, 2015 <b>...</b> <b>Malware</b> is a concise <b>word</b> for <b>malicious software</b> which includes all sorts of <br>\nharmful creatures like viruses, trojans, ransomware, bots, spyware, etc. ... If you&#39;re <br>\na regular or even an occasional computer user, then you might&#39;ve heard the <br>\n<b>terms</b> like Viruses, Worms, Trojans, Bots, <b>Malware</b>, Spyware, etc.",
+            "cacheId": "9HPn8BPgCu0J",
+            "formattedUrl": "https://fossbytes.com/difference-viruses-worms-ransomware-trojans-bots- malware-spyware-etc/",
+            "htmlFormattedUrl": "https://fossbytes.com/difference-viruses-worms-ransomware-trojans-bots- <b>malware</b>-spyware-etc/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "296",
+                        "height": "170",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDdICcKTp35umCwbCsuHZMh4IV74AUi3wFQLsu4ZXD9Mo4AwLGNpZq1UFQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:image": "https://fossbytes.com/wp-content/uploads/2015/10/antivirus-protection-FILEminimizer.jpg",
+                        "author": "Aditya Tiwari",
+                        "news_keywords": "adware, bots, cyber security, malware, ransomware, spam, spyware, trojan, virus, worms, technology, internet, computing, open source, linux, android, security, privacy",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "What Is the Difference: Viruses, Worms, Ransomware, Trojans, Bots, Malware, Spyware etc?",
+                        "og:description": "If you are among the people who consider malware, worms, viruses to be the same thing then you’re on the wrong track. Malware is a concise word for malicious software which includes all sorts of harmful creatures like viruses, trojans, ransomware, bots, spyware, etc. They have now become one of the worst threats in the world after nuclear weapons.",
+                        "og:url": "https://fossbytes.com/difference-viruses-worms-ransomware-trojans-bots-malware-spyware-etc/",
+                        "og:site_name": "Fossbytes",
+                        "article:publisher": "https://www.facebook.com/fossbytes",
+                        "article:author": "https://www.facebook.com/tiwari.aditya.1506",
+                        "article:tag": "adware",
+                        "article:section": "What is",
+                        "article:published_time": "2015-10-04T21:42:44+00:00",
+                        "article:modified_time": "2017-12-14T13:33:46+00:00",
+                        "og:updated_time": "2017-12-14T13:33:46+00:00",
+                        "fb:app_id": "871486229630969",
+                        "og:image:width": "792",
+                        "og:image:height": "456",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "If you are among the people who consider malware, worms, viruses to be the same thing then you’re on the wrong track. Malware is a concise word for malicious software which includes all sorts of harmful creatures like viruses, trojans, ransomware, bots, spyware, etc. They have now become one of the worst threats in the world after nuclear weapons.",
+                        "twitter:title": "What Is the Difference: Viruses, Worms, Ransomware, Trojans, Bots, Malware, Spyware etc?",
+                        "twitter:site": "@fossbytes14",
+                        "twitter:image": "https://fossbytes.com/wp-content/uploads/2015/10/antivirus-protection-FILEminimizer.jpg",
+                        "twitter:creator": "@fossbytes14",
+                        "fb:admins": "100000605515047,100002546081997",
+                        "fb:pages": "548577038603547",
+                        "onesignal": "wordpress-plugin",
+                        "google-play-app": "app-id=com.fossbytes.fossbytes"
+                    }
+                ],
+                "article": [
+                    {
+                        "datepublished": "2015-10-04T21:42:44+00:00",
+                        "datemodified": "2017-12-14T13:33:46+00:00",
+                        "headline": "What Is The Difference: Viruses, Worms, Ransomware, Trojans, Bots, Malware, Spyware, Etc?"
+                    },
+                    {
+                        "name": "What Is The Difference: Viruses, Worms, Ransomware, Trojans, Bots, Malware, Spyware, Etc?",
+                        "headline": "What Is The Difference: Viruses, Worms, Ransomware, Trojans, Bots, Malware, Spyware, Etc?",
+                        "url": "https://fossbytes.com/difference-viruses-worms-ransomware-trojans-bots-malware-spyware-etc/",
+                        "author": "https://fossbytes.com/author/tiwari-aditya/",
+                        "description": "Short Bytes: If you are among the people who consider malware, worms, viruses to be the same thing, then you’re on the wrong track. Malware is a concise word for",
+                        "datepublished": "2015-10-04 21:42:44",
+                        "datemodified": "2017-12-14 13:33:46",
+                        "interactioncount": "UserComments:2"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "position": "1"
+                    },
+                    {
+                        "position": "2"
+                    },
+                    {
+                        "position": "3"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Aditya Tiwari"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://fossbytes.com/wp-content/uploads/2015/10/antivirus-protection-FILEminimizer.jpg",
+                        "width": "792",
+                        "height": "456"
+                    },
+                    {
+                        "url": "https://fossbytes.com/wp-content/uploads/2016/11/FOSSBYTES-LOGO-NEW-2-1-1.png"
+                    },
+                    {
+                        "url": "https://fossbytes.com/wp-content/uploads/2015/10/antivirus-protection-FILEminimizer.jpg",
+                        "width": "792",
+                        "height": "456"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Aditya Tiwari"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Fossbytes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fossbytes.com/wp-content/uploads/2015/10/antivirus-protection-FILEminimizer.jpg"
+                    }
+                ],
+                "thing": [
+                    {
+                        "name": "Home"
+                    },
+                    {
+                        "name": "More"
+                    },
+                    {
+                        "name": "What is"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ransomware and Modern Health Information Technology",
+            "htmlTitle": "Ransomware and Modern Health Information <b>Technology</b>",
+            "link": "https://www.healthlawyers.org/find-a-resource/HealthLawHub/Documents/Compliance/ac1701_Feature1.pdf",
+            "displayLink": "www.healthlawyers.org",
+            "snippet": "tion technology posed by malevolent software (“malware”) in general and a sub-\nspecies known as “ransomware” is ... However, the term “ransomware” is used in \nthis article to refer to both traditional ransomware and .... the hackers) or opening \nan attachment (most often a Microsoft Word document) that will unleash a hidden.",
+            "htmlSnippet": "tion <b>technology</b> posed by <b>malevolent software</b> (“<b>malware</b>”) in general and a sub-<br>\nspecies known as “ransomware” is ... However, the <b>term</b> “ransomware” is used in <br>\nthis article to refer to both traditional ransomware and .... the hackers) or opening <br>\nan attachment (most often a Microsoft <b>Word</b> document) that will unleash a hidden.",
+            "cacheId": "YDBx48Q8XgAJ",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://www.healthlawyers.org/find-a.../ac1701_Feature1.pdf",
+            "htmlFormattedUrl": "https://www.healthlawyers.org/find-a.../ac1701_Feature1.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "creationdate": "D:20170119123741-05'00'",
+                        "creator": "Adobe InDesign CC 2017 (Macintosh)",
+                        "moddate": "D:20180131105436-05'00'",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Keyword Index and Glossary of Core Ideas - Cybersecurity Wiki",
+            "htmlTitle": "Keyword Index and Glossary of Core Ideas - Cybersecurity Wiki",
+            "link": "https://cyber.harvard.edu/cybersecurity/Keyword_Index_and_Glossary_of_Core_Ideas",
+            "displayLink": "cyber.harvard.edu",
+            "snippet": "Aug 7, 2012 ... Antivirus software may use both a database containing signatures of known \nthreats and heuristics to identify malware. ... The owners of a botnet may use the \ncombined network processing power and bandwidth to send SPAM, install \nmalware and mount DDoS attacks or may rent out the botnet to other ...",
+            "htmlSnippet": "Aug 7, 2012 <b>...</b> Antivirus <b>software</b> may use both a database containing signatures of known <br>\nthreats and heuristics to identify <b>malware</b>. ... The owners of a botnet may use the <br>\n<b>combined</b> network processing power and bandwidth to send SPAM, install <br>\n<b>malware</b> and mount DDoS attacks or may rent out the botnet to other&nbsp;...",
+            "cacheId": "A0h2M-vubdAJ",
+            "formattedUrl": "https://cyber.harvard.edu/.../Keyword_Index_and_Glossary_of_Core_Ideas",
+            "htmlFormattedUrl": "https://cyber.harvard.edu/.../Key<b>word</b>_Index_and_Glossary_of_Core_Ideas"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Access Control Policy and Procedures",
+            "htmlTitle": "Access Control Policy and Procedures",
+            "link": "https://nvd.nist.gov/download/800-53/800-53-controls.xml",
+            "displayLink": "nvd.nist.gov",
+            "snippet": "NIST 800-100 NIST 800-12 Technical Access Control AC-2 Account \nManagement P1 The organization manages information system accounts, \nincluding: .... Actions to support this enhancement include: checking all \ntransferred information for malware, implementing dirty word list searches on \ntransferred information, and ...",
+            "htmlSnippet": "NIST 800-100 NIST 800-12 <b>Technical</b> Access Control AC-2 Account <br>\nManagement P1 The organization manages information system accounts, <br>\nincluding: .... Actions to support this enhancement include: checking all <br>\ntransferred information for <b>malware</b>, implementing dirty <b>word</b> list searches on <br>\ntransferred information, and&nbsp;...",
+            "cacheId": "vyXYVui99uEJ",
+            "mime": "text/xml",
+            "formattedUrl": "https://nvd.nist.gov/download/800-53/800-53-controls.xml",
+            "htmlFormattedUrl": "https://nvd.nist.gov/download/800-53/800-53-controls.xml"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Researchers create 'Frankenstein' malware made up of common ...",
+            "htmlTitle": "Researchers create &#39;Frankenstein&#39; <b>malware</b> made up of common ...",
+            "link": "https://phys.org/news/2012-08-frankenstein-malware-common-gadgets.html",
+            "displayLink": "phys.org",
+            "snippet": "Aug 21, 2012 ... And it seems the answer is yes, though the malware the team created isn't a virus \nin the technical sense because it doesn't cause any harm, ... that hide in the dark \ntoiling in earnest to conceive and construct ever more malevolent software that \nonce unleashed might prey on others and do their bidding.",
+            "htmlSnippet": "Aug 21, 2012 <b>...</b> And it seems the answer is yes, though the <b>malware</b> the team created isn&#39;t a virus <br>\nin <b>the technical</b> sense because it doesn&#39;t cause any harm, ... that hide in the dark <br>\ntoiling in earnest to conceive and construct ever more <b>malevolent software</b> that <br>\nonce unleashed might prey on others and do their bidding.",
+            "cacheId": "dffByTeb7gAJ",
+            "formattedUrl": "https://phys.org/.../2012-08-frankenstein-malware-common-gadgets.html",
+            "htmlFormattedUrl": "https://phys.org/.../2012-08-frankenstein-<b>malware</b>-common-gadgets.html",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2012/srgfdgr.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=1024",
+                        "twitter:account_id": "17248121",
+                        "fb:app_id": "163850683679377",
+                        "fb:pages": "47849178041",
+                        "og:title": "Researchers create 'Frankenstein' malware made up of common gadgets",
+                        "og:description": "(Phys.org)—In the ever ongoing struggle between good and evil, or in this case, the battle between those that create malware and those that seek to detect and destroy it, the good guys appear to have mimicked the bad by creating a computer virus that can evade detection by building itself from pieces of code that normally reside harmlessly on people's computers. The result, the team of Vishwath Mohan and Kevin Hamlen of the University of Texas, say, is a cyber version of Frankenstein's monster.",
+                        "og:image": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/srgfdgr.jpg",
+                        "og:type": "article",
+                        "og:url": "https://phys.org/news/2012-08-frankenstein-malware-common-gadgets.html",
+                        "twitter:card": "summary_large_image",
+                        "twitter:url": "https://phys.org/news/2012-08-frankenstein-malware-common-gadgets.html",
+                        "twitter:title": "Researchers create 'Frankenstein' malware made up of common gadgets",
+                        "twitter:description": "(Phys.org)—In the ever ongoing struggle between good and evil, or in this case, the battle between those that create malware and those that seek to detect and destroy it, the good guys appear to have ...",
+                        "twitter:image": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2012/srgfdgr.jpg",
+                        "thumbnail": "https://3c1703fe8d.site.internapcdn.net/newman/csz/news/tmb/2012/srgfdgr.jpg"
+                    }
+                ],
+                "breadcrumb": [
+                    {
+                        "url": "Home",
+                        "title": "Home"
+                    },
+                    {
+                        "url": "Technology",
+                        "title": "Technology"
+                    },
+                    {
+                        "url": "Software",
+                        "title": "Software"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "relatedlink": "Bitdefender researchers find evidence of viruses infecting worms creating new form of malware"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2012/srgfdgr.jpg",
+                        "type": "1",
+                        "width": "352",
+                        "height": "143"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "BY Janna Anderson and Lee Rainie",
+            "htmlTitle": "BY Janna Anderson and Lee Rainie",
+            "link": "http://assets.pewresearch.org/wp-content/uploads/sites/14/2017/10/19095643/PI_2017.10.19_Future-of-Truth-and-Misinformation_FINAL.pdf",
+            "displayLink": "assets.pewresearch.org",
+            "snippet": "Oct 19, 2017 ... In late 2016, Oxford Dictionaries selected “post-truth” as the word of the year, \ndefining it as .... MAJOR. PROGRAMS. ARE. NECESSARY. Theme 5 Tech can't \nwin the battle. The public must fund and support the production of objective, \naccurate .... possible in terms of controlling or labeling information.",
+            "htmlSnippet": "Oct 19, 2017 <b>...</b> In late 2016, Oxford Dictionaries selected “post-truth” as the <b>word</b> of the year, <br>\ndefining it as .... MAJOR. <b>PROGRAMS</b>. ARE. NECESSARY. Theme 5 <b>Tech</b> can&#39;t <br>\nwin the battle. The public must fund and support the production of objective, <br>\naccurate .... possible in <b>terms</b> of controlling or labeling information.",
+            "cacheId": "s1AXvOXZ3qYJ",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "assets.pewresearch.org/.../PI_2017.10.19_Future-of-Truth-and- Misinformation_FINAL.pdf",
+            "htmlFormattedUrl": "assets.pewresearch.org/.../PI_2017.10.19_Future-of-Truth-and- Misinformation_FINAL.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "author": "Lee Rainie",
+                        "creator": "Microsoft® Word 2010",
+                        "creationdate": "D:20171019095536-04'00'",
+                        "moddate": "D:20171019095536-04'00'",
+                        "producer": "Microsoft® Word 2010"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Press accept to update now: Individual differences in susceptibility to ...",
+            "htmlTitle": "Press accept to update now: Individual differences in susceptibility to ...",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167923617300404",
+            "displayLink": "www.sciencedirect.com",
+            "snippet": "Increasingly, connected communication technologies have resulted in people \nbeing exposed to fraudulent communications by scammers and hackers \nattempting to gain access to computer systems for malicious purposes. Common \ninfluence techniques, such as mimicking authority figures or instilling a sense of \nurgency, ...",
+            "htmlSnippet": "Increasingly, connected communication <b>technologies</b> have resulted in people <br>\nbeing exposed to fraudulent communications by scammers and hackers <br>\nattempting to gain access to computer systems for <b>malicious</b> purposes. Common <br>\ninfluence techniques, such as mimicking authority figures or instilling a sense of <br>\nurgency,&nbsp;...",
+            "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S0167923617300404",
+            "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S0167923617300404",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "145",
+                        "height": "160",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBdPj64J1L0UCwFE026H6S8BNYE4fv2Qp3mAVO5ZE_NR64bKRZkxuzeuju"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "citation_pii": "S0167923617300404",
+                        "citation_issn": "0167-9236",
+                        "citation_volume": "96",
+                        "citation_lastpage": "129",
+                        "citation_publisher": "North-Holland",
+                        "citation_firstpage": "119",
+                        "citation_journal_title": "Decision Support Systems",
+                        "citation_type": "JOUR",
+                        "citation_doi": "10.1016/j.dss.2017.02.014",
+                        "dc.identifier": "10.1016/j.dss.2017.02.014",
+                        "citation_article_type": "Full-length article",
+                        "og:description": "Increasingly, connected communication technologies have resulted in people being exposed to fraudulent communications by scammers and hackers attempti…",
+                        "citation_abstract": "<div class=\"Abstracts\"><div class=\"abstract author\" id=\"ab0005\" lang=\"en\"><h2 class=\"section-title\">Abstract</h2><div id=\"as0005\"><p id=\"sp0060\">Increasingly, connected communication technologies have resulted in people being exposed to fraudulent communications by scammers and hackers attempting to gain access to computer systems for malicious purposes. Common influence techniques, such as mimicking authority figures or instilling a sense of urgency, are used to persuade people to respond to malevolent messages by, for example, accepting urgent updates. An ‘accept’ response to a malevolent influence message can result in severe negative consequences for the user and for others, including the organisations they work for. This paper undertakes exploratory research to examine individual differences in susceptibility to fraudulent computer messages when they masquerade as interruptions during a demanding memory recall primary task compared to when they are presented in a post-task phase. A mixed-methods appr",
+                        "citation_title": "Press accept to update now: Individual differences in susceptibility to malevolent interruptions",
+                        "og:title": "Press accept to update now: Individual differences in susceptibility to malevolent interruptions",
+                        "citation_publication_date": "2017/04/01",
+                        "citation_online_date": "2017/02/27",
+                        "citation_author": "Emma J. Williams",
+                        "citation_author_institution": "School of Management, University of Bath, Claverton Down, Bath, UK",
+                        "citation_author_email": "Phil.Morgan@uwe.ac.uk",
+                        "citation_reference": "citation_journal_title=Open J. Soc. Sci.;citation_author=B. Atkins;citation_author=W. Huang;citation_title=A study of social engineering in online frauds;citation_firstpage=23;citation_volume=1;citation_publication_date=2013;citation_issue=3;citation_doi=10.4236/jss.2013.13004;"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://sdfestaticassets-us-east-1.sciencedirectassets.com/prod/1e264b7889423b8bcbd243deeacce84386a4de15/image/elsevier-non-solus.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

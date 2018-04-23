@@ -1,0 +1,409 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? French franc",
+                "totalResults": "110000",
+                "searchTerms": "When the US dollar currency was created, what was its value pegged to? French franc",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? French franc",
+                "totalResults": "110000",
+                "searchTerms": "When the US dollar currency was created, what was its value pegged to? French franc",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ]
+    },
+    "context": {
+        "title": "second"
+    },
+    "searchInformation": {
+        "searchTime": 0.664077,
+        "formattedSearchTime": "0.66",
+        "totalResults": "110000",
+        "formattedTotalResults": "110,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "CFA franc - Wikipedia",
+            "htmlTitle": "CFA <b>franc</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/CFA_franc",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The reason for their creation was the weakness of the French franc immediately \nafter World War II. When France ratified the Bretton Woods Agreement in \nDecember 1945, the French franc was devalued in order to set a fixed exchange \nrate with the US dollar. New currencies were created in the French colonies to \nspare them ...",
+            "htmlSnippet": "The reason for <b>their creation</b> was the weakness of the <b>French franc</b> immediately <br>\nafter World War II. When France ratified the Bretton Woods Agreement <b>in</b> <br>\nDecember 1945, the <b>French franc</b> was devalued <b>in</b> order to set <b>a</b> fixed <b>exchange</b> <br>\nrate with the <b>US dollar</b>. New <b>currencies</b> were <b>created in</b> the French colonies to <br>\nspare them&nbsp;...",
+            "cacheId": "rLOna4a65FkJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/CFA_franc",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CFA_<b>franc</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "253",
+                        "height": "199",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPD4OiKpjUsk1gljKhwDtPy5BCCQpP7HvLGY5bFujnEH5vLH1wdnEL15T"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CFA_Franc_map.svg/1200px-CFA_Franc_map.svg.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CFA_Franc_map.svg/1200px-CFA_Franc_map.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Understanding the CFA Franc and its Foreign Exchange Rate Impact",
+            "htmlTitle": "Understanding the CFA <b>Franc</b> and <b>its</b> Foreign <b>Exchange</b> Rate Impact",
+            "link": "https://www.americanexpress.com/us/content/foreign-exchange/articles/cfa-franc-and-its-foreign-exchange-rate-impact/",
+            "displayLink": "www.americanexpress.com",
+            "snippet": "To help support its recovery, the French franc was substantially devalued before \nbeing fixed to the US dollar under the Bretton Woods system. ... exactly the same \nin euro terms, and the hard peg to the euro means that their external value is also \nidentical, since their foreign exchange rates float up and down with the euro.",
+            "htmlSnippet": "To help support <b>its</b> recovery, the <b>French franc</b> was substantially devalued before <br>\nbeing fixed to the <b>US dollar</b> under the Bretton Woods system. ... exactly the same <br>\n<b>in</b> euro terms, and the hard <b>peg</b> to the euro means that <b>their</b> external <b>value</b> is also <br>\nidentical, since <b>their</b> foreign <b>exchange</b> rates float up and down with the euro.",
+            "cacheId": "QPf2gqLfoh8J",
+            "formattedUrl": "https://www.americanexpress.com/us/...exchange/.../cfa-franc-and-its-foreign- exchange-rate-impact/",
+            "htmlFormattedUrl": "https://www.<b>american</b>express.com/<b>us</b>/...<b>exchange</b>/.../cfa-<b>franc</b>-and-<b>its</b>-foreign- <b>exchange</b>-rate-impact/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "55",
+                        "height": "54",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTxj2sOEoBiUfOyb5oymjt2mz7Po0VpWWkHrsmvtj5qO8XSeu0FFNzAg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,minimum-scale=1,maximum-scale=1",
+                        "content-language": "EN",
+                        "title": "Understanding the CFA Franc and its Foreign Exchange Rate Impact | American Express FX International Payments",
+                        "og:type": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
+                        "og:description": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
+                        "og:title": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
+                        "og:site_name": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
+                        "og:image": "https://www.aexp-static.com/nav/ngn/img/logo_bluebox.gif",
+                        "og:url": "/us/content/foreign-exchange/articles/cfa-franc-and-its-foreign-exchange-rate-impact/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.aexp-static.com/nav/ngn/img/logo_bluebox.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "French franc - Wikipedia",
+            "htmlTitle": "<b>French franc</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/French_franc",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Charles V pursued a policy of reform, including stable coinage. An edict dated 20 \nApril 1365 established the centerpiece of this policy, a gold coin officially called \nthe denier d'or aux fleurs de lis which had a standing figure of the king on its \nobverse. Its value in money of account was one livre tournois, just like the franc à\n ...",
+            "htmlSnippet": "Charles V pursued <b>a</b> policy of reform, including stable coinage. An edict dated 20 <br>\nApril 1365 <b>established</b> the centerpiece of this policy, <b>a</b> gold coin officially called <br>\nthe denier d&#39;or aux fleurs de lis which had <b>a</b> standing figure <b>of the</b> king on <b>its</b> <br>\nobverse. <b>Its value in money</b> of account was one livre tournois, just like the <b>franc</b> à<br>\n&nbsp;...",
+            "cacheId": "jbbNV_w8yZgJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/French_franc",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>French</b>_<b>franc</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "326",
+                        "height": "154",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVQUJAMTFbig5lyHnymuJ5Q5aexzztGMpAbE7Ag17IUEuXIPOzPtwRkUj"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/50_ve_100_fransiz_frangi.PNG/1200px-50_ve_100_fransiz_frangi.PNG"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/50_ve_100_fransiz_frangi.PNG/1200px-50_ve_100_fransiz_frangi.PNG"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CFA Franc",
+            "htmlTitle": "CFA <b>Franc</b>",
+            "link": "https://www.investopedia.com/terms/c/cfa-franc.asp",
+            "displayLink": "www.investopedia.com",
+            "snippet": "The CFA franc was created in 1945 following the end of the Second World War. \nPreviously, French colonies had their currencies pegged to the French franc, but \nthe Bretton Woods Agreement ratified in 1945 had the French franc pegged to the \ndollar, devaluing the French Franc. By creating a new currency, the CFA Franc, ...",
+            "htmlSnippet": "The CFA franc was <b>created in</b> 1945 following the end <b>of the</b> Second World War. <br>\nPreviously, French colonies had <b>their currencies pegged</b> to the <b>French franc</b>, but <br>\nthe Bretton Woods Agreement ratified <b>in</b> 1945 had the <b>French franc pegged</b> to the <br>\n<b>dollar</b>, devaluing the <b>French Franc</b>. By <b>creating a</b> new <b>currency</b>, the CFA Franc,&nbsp;...",
+            "cacheId": "eTZDap06ZwoJ",
+            "formattedUrl": "https://www.investopedia.com/terms/c/cfa-franc.asp",
+            "htmlFormattedUrl": "https://www.investopedia.com/terms/c/cfa-<b>franc</b>.asp",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "180",
+                        "height": "116",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDivPwl0kSo06lX86U8orkg8y_xx5eUKmfmuC_Q7ZiUSGp7dPr0WJtLQw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Investopedia",
+                        "fb:pages": "105109162854142, 925483520864421",
+                        "fb:app_id": "371867692868423",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:title": "CFA Franc",
+                        "og:description": "One of two African regional currencies backed by the French treasury, and pegged to the euro. CFA franc can refer to two either the Central African CFA franc or the West African CFA franc. Although they are separate currencies, the two are effectively interchangeable as they have the same monetary value against other currencies.",
+                        "og:url": "https://www.investopedia.com/terms/c/cfa-franc.asp",
+                        "og:site_name": "Investopedia",
+                        "og:type": "article",
+                        "og:image": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg",
+                        "article:content_type": "Term",
+                        "article:assigned_editor": "root",
+                        "article:company": "Investopedia.com",
+                        "article:published_time": "2011-06-09T11:00:00-06:00",
+                        "article:modified_time": "2011-06-09T11:00:00-06:00",
+                        "article:tag": "bretton woods agreement,currency",
+                        "emailprimarychannel": "trading",
+                        "emailprimarysubchannel": "forex & currencies",
+                        "emailcontenttype": "term",
+                        "author": "Investopedia Staff",
+                        "fb:admins": "100003532063336",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@Investopedia",
+                        "twitter:title": "CFA Franc",
+                        "twitter:description": "One of two African regional currencies backed by the French treasury, and pegged to the euro. CFA franc can refer to two either the Central African CFA franc or the West African CFA franc. Although they are separate currencies, the two are effectively interchangeable as they have the same monetary value against other currencies.",
+                        "twitter:image:src": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg",
+                        "parsely-title": "CFA Franc",
+                        "parsely-link": "https://www.investopedia.com/terms/c/cfa-franc.asp",
+                        "parsely-type": "post",
+                        "parsely-image-url": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg",
+                        "parsely-pub-date": "2011-06-09T17:00:00Z",
+                        "parsely-section": "Forex & Currencies",
+                        "parsely-author": "Investopedia Staff",
+                        "parsely-tags": "CFA franc,French Franc,Central African CFA Franc,West African CFA franc,France,French Community,euro,Bretton Woods Agreement,Second World War,Africa,con-Term,ed-root,time-Timeless,luc-,proj-,tk-,rp-Y",
+                        "sailthru.tags": "french franc,france,euro,bretton woods agreement,second world war,forex & currencies",
+                        "sailthru.author": "Investopedia Staff",
+                        "sailthru.date": "2014-05-12T06:17:39+00:00",
+                        "sailthru.image.full": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg?quality=80&width=680&height=680",
+                        "sailthru.image.thumb": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg?quality=60&width=200&height=200",
+                        "sailthru.title": "CFA Franc",
+                        "contenttype": "term"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.investopedia.com/dimages/graphics/158677240.jpg?quality=60&width=180&height=120"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Swiss franc - Wikipedia",
+            "htmlTitle": "Swiss <b>franc</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Swiss_franc",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The franc is the currency and legal tender of Switzerland and Liechtenstein; it is \nalso legal tender in the Italian exclave Campione d'Italia. The Swiss National \nBank (SNB) issues banknotes and the federal mint Swissmint issues coins. The \nsmaller ...",
+            "htmlSnippet": "The <b>franc</b> is the <b>currency</b> and legal tender of Switzerland and Liechtenstein; it is <br>\nalso legal tender <b>in</b> the Italian exclave Campione d&#39;Italia. The Swiss National <br>\nBank (SNB) issues banknotes and the federal mint Swissmint issues coins. The <br>\nsmaller&nbsp;...",
+            "cacheId": "N_h9YpBFmWoJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swiss_franc",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swiss_<b>franc</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "205",
+                        "height": "246",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUxTTP5xoUGlZildMzOi6LWkNUTKd860K6u13O3O5tx8TbrT24EOoIDmD4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/CHF_Banknotes.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/CHF_Banknotes.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Here are all the countries that don't have a currency of their own ...",
+            "htmlTitle": "Here are all the countries that don&#39;t have <b>a currency</b> of <b>their</b> own ...",
+            "link": "https://qz.com/260980/meet-the-countries-that-dont-use-their-own-currency/",
+            "displayLink": "qz.com",
+            "snippet": "Sep 15, 2014 ... The US dollar is the most widely used currency in the world, with many countries \nemploying it as an accepted alternative to their own currency. .... The CFA franc \nwas created in 1945 to spare France's colonies the pain that the post-World War \nII revaluation in the French franc would do to their much smaller ...",
+            "htmlSnippet": "Sep 15, 2014 <b>...</b> The <b>US dollar</b> is the most widely used <b>currency in</b> the world, with many countries <br>\nemploying it as an accepted alternative to <b>their</b> own <b>currency</b>. .... The CFA franc <br>\nwas <b>created in</b> 1945 to spare France&#39;s colonies the pain that the post-World War <br>\nII revaluation <b>in</b> the <b>French franc</b> would do to <b>their</b> much smaller&nbsp;...",
+            "cacheId": "MXq5hxyKQJEJ",
+            "formattedUrl": "https://qz.com/.../meet-the-countries-that-dont-use-their-own-currency/",
+            "htmlFormattedUrl": "https://qz.com/.../meet-the-countries-that-dont-use-<b>their</b>-own-<b>currency</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "298",
+                        "height": "169",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn9zqJQ1oDJWWkQLOKJwrDCJo11GCyr1i0DYkfz6aEJLa0yZ4VGAEZdLvl"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
+                        "apple-mobile-web-app-title": "Quartz",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "bitly-verification": "3cc1017cee1d",
+                        "theme-color": "#000000",
+                        "fb:pages": "444654488901592",
+                        "msvalidate.01": "4B2AFFFDBF9736993D778515CB307FAF",
+                        "author": "Kabir Chibber",
+                        "news_keywords": "Currency, currency union, dollar, dollarization, euro, fiat money, maps, monetary policy, pegging, pound sterling",
+                        "og:title": "Here are all the countries that don’t have a currency of their own",
+                        "og:type": "article",
+                        "og:image": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=1600",
+                        "og:image:width": "1600",
+                        "og:image:height": "900",
+                        "og:url": "https://qz.com/260980/meet-the-countries-that-dont-use-their-own-currency/",
+                        "og:description": "As Scotland prepares to vote on independence on Sept. 18, the future of its currency has taken center stage. For the moment, Scotland prints its own notes and uses the British pound, which is controlled by the Bank of England. (Follow?) In the event of independence, Scotland wants to continue to use the pound as part of a negotiated...",
+                        "og:locale": "en_US",
+                        "og:site_name": "Quartz",
+                        "article:publisher": "https://www.facebook.com/quartznews",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Here are all the countries that don’t have a currency of their own",
+                        "twitter:image": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=800&h=400&crop=1",
+                        "twitter:url": "https://qz.com/260980/meet-the-countries-that-dont-use-their-own-currency/",
+                        "twitter:description": "As Scotland prepares to vote on independence on Sept. 18, the future of its currency has taken center stage. For the moment, Scotland prints its own notes and uses the British pound, which is controlled by the Bank of England. (Follow?) In the event of independence, Scotland wants to continue to use the pound as part of a negotiated...",
+                        "twitter:site": "@qz",
+                        "twitter:creator": "@quinto_quarto",
+                        "article:published_time": "2014-09-15T10:00:54+00:00",
+                        "article:modified_time": "2014-09-15T16:48:09+00:00",
+                        "twitter:text:title": "Here are all the countries that don’t have a currency of their own",
+                        "msapplication-tileimage": "https://qz.com/wp-content/uploads/2018/03/qz_og_img1.png?w=270"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "headline": "Here are all the countries that don’t have a currency of their own",
+                        "author": "Kabir Chibber",
+                        "datepublished": "September 15, 2014",
+                        "image": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=320",
+                        "articlebody": "As Scotland prepares to vote on independence on Sept. 18, the future of its currency has taken center stage. For the moment, Scotland prints its own notes and uses the British pound, which..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=1600"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "History of Franc CFA",
+            "htmlTitle": "History of <b>Franc</b> CFA",
+            "link": "https://www.cameroonweb.com/CameroonHomePage/economy/history-of-franc-cfa.php",
+            "displayLink": "www.cameroonweb.com",
+            "snippet": "This currency was created because of the weakness of the French franc \nimmediately after World War II. When France ratified the Bretton Woods \nAgreement in December 1945, the French franc was devalued in order to set a \nfixed exchange rate with the US dollar. New currencies were created in the \nFrench colonies to spare ...",
+            "htmlSnippet": "This <b>currency was created</b> because of the weakness of the <b>French franc</b> <br>\nimmediately after World War II. When France ratified the Bretton Woods <br>\nAgreement <b>in</b> December 1945, the <b>French franc</b> was devalued <b>in</b> order to set <b>a</b> <br>\nfixed <b>exchange</b> rate with the <b>US dollar</b>. New <b>currencies</b> were <b>created in</b> the <br>\nFrench colonies to spare&nbsp;...",
+            "cacheId": "olxtJtqCAQUJ",
+            "formattedUrl": "https://www.cameroonweb.com/.../economy/history-of-franc-cfa.php",
+            "htmlFormattedUrl": "https://www.cameroonweb.com/.../economy/<b>his</b>tory-of-<b>franc</b>-cfa.php"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Creation of the Euro and the Role of the Dollar in International ...",
+            "htmlTitle": "The <b>Creation</b> of the Euro and the Role <b>of the Dollar in</b> International ...",
+            "link": "https://files.stlouisfed.org/research/publications/review/01/09/0109pp.pdf",
+            "displayLink": "files.stlouisfed.org",
+            "snippet": "rate peg. It serves (i) as a store of value if govern- ments and/or central banks \nhold foreign exchange. 1. Although the national currencies will continue to exist \nuntil .... Currency. 1980. 1995. 1980. 1995. U.S. dollar. 56.4. 52.0. 4.5. 3.9. \nJapanese yen. 2.1. 4.7. 0.3. 0.6. Deutsche mark. 13.6. 13.2. 1.4. 1.4. French franc. \n6.2. 5.5.",
+            "htmlSnippet": "rate <b>peg</b>. It serves (i) as <b>a</b> store of <b>value</b> if govern- ments and/or central banks <br>\nhold foreign <b>exchange</b>. 1. Although the national <b>currencies</b> will continue to exist <br>\nuntil .... <b>Currency</b>. 1980. 1995. 1980. 1995. <b>U.S. dollar</b>. 56.4. 52.0. 4.5. 3.9. <br>\nJapanese yen. 2.1. 4.7. 0.3. 0.6. Deutsche mark. 13.6. 13.2. 1.4. 1.4. <b>French franc</b>. <br>\n6.2. 5.5.",
+            "cacheId": "Y1mu78U1leQJ",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://files.stlouisfed.org/research/publications/review/.../0109pp.pdf",
+            "htmlFormattedUrl": "https://files.stlouisfed.org/research/publications/review/.../0109pp.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "creationdate": "D:20010906110615Z",
+                        "producer": "Acrobat Distiller 4.05 for Macintosh",
+                        "moddate": "D:20030903111545-05'00'",
+                        "title": "The Creation of the Euro and the Role of the Dollar in International Markets",
+                        "author": "Patricia S. Pollard",
+                        "subject": "Review, Vol. 83, No. 5",
+                        "creator": "St. Louis Fed Research Publications"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "FRF | French Franc | OANDA",
+            "htmlTitle": "FRF | <b>French Franc</b> | OANDA",
+            "link": "https://www.oanda.com/currency/iso-currency-codes/FRF",
+            "displayLink": "www.oanda.com",
+            "snippet": "The French Franc was the national currency of France until the introduction of the \nEuro in 1999 (in full circulation in 2002). Because France is one of the biggest \nand most stable economies in the world, other currencies were pegged to the \nFranc (especially currencies in protectorate territories of France). The currency ...",
+            "htmlSnippet": "The <b>French Franc</b> was the national <b>currency</b> of France until the introduction <b>of the</b> <br>\nEuro <b>in</b> 1999 (<b>in</b> full circulation <b>in</b> 2002). Because France is one <b>of the</b> biggest <br>\nand most stable economies <b>in</b> the world, other <b>currencies</b> were <b>pegged</b> to the <br>\nFranc (especially <b>currencies in</b> protectorate territories of France). The <b>currency</b>&nbsp;...",
+            "cacheId": "GGRY-4MKixoJ",
+            "formattedUrl": "https://www.oanda.com/currency/iso-currency-codes/FRF",
+            "htmlFormattedUrl": "https://www.oanda.com/<b>currency</b>/iso-<b>currency</b>-codes/FRF",
+            "pagemap": {
+                "document": [
+                    {
+                        "www_oanda_com": "1"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The CFA Franc Zone: common currency, uncommon challenges ...",
+            "htmlTitle": "The CFA <b>Franc</b> Zone: common <b>currency</b>, uncommon challenges ...",
+            "link": "https://www.imf.org/~/media/Websites/IMF/imported-publications/external/pubs/nft/books/2008/cfazone/_chap1.ashx",
+            "displayLink": "www.imf.org",
+            "snippet": "the U.S. dollar). Finally in the rand monetary area in Southern Africa several \ncountries peg their currencies to the South African rand and also accept it within \ntheir ... The exchange rate of the Comorian franc to the French franc (now euro) \nhas also since 1994 differed from that for the CFA franc. The Comoros are \ntherefore not ...",
+            "htmlSnippet": "the <b>U.S. dollar</b>). Finally <b>in</b> the rand monetary area <b>in</b> Southern Africa several <br>\ncountries <b>peg their currencies</b> to the South African rand and also accept it within <br>\n<b>their</b> ... The <b>exchange</b> rate of the Comorian franc to the <b>French franc</b> (now euro) <br>\nhas also since 1994 differed from that for the CFA franc. The Comoros are <br>\ntherefore not&nbsp;...",
+            "cacheId": "tJJcnpHM0dwJ",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://www.imf.org/~/media/Websites/IMF/.../nft/.../_chap1.ashx",
+            "htmlFormattedUrl": "https://www.imf.org/~/media/Websites/IMF/.../nft/.../_chap1.ashx",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "creationdate": "D:20080417145847-04'00'",
+                        "producer": "Acrobat Distiller 7.0.5 for Macintosh",
+                        "moddate": "D:20080422160227-04'00'",
+                        "title": "The CFA Franc Zone: common currency, uncommon challenges -- Overview. IMF 2008."
+                    }
+                ]
+            }
+        }
+    ]
+}

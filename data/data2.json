@@ -1,0 +1,426 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
+                "totalResults": "643000",
+                "searchTerms": "When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
+                "totalResults": "643000",
+                "searchTerms": "When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ]
+    },
+    "context": {
+        "title": "second"
+    },
+    "searchInformation": {
+        "searchTime": 0.315191,
+        "formattedSearchTime": "0.32",
+        "totalResults": "643000",
+        "formattedTotalResults": "643,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "History of the United States dollar - Wikipedia",
+            "htmlTitle": "History of the <b>United States dollar</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The word dollar is derived from Low Saxon cognate of the High German Thaler. \nThe most commonly circulated and readily available currency, used by common \nAmericans, at this time, was the Spanish Peso, also known as the \"Spanish \nmilled dollar\", which was valued for its high silver content. In the early 19th \ncentury, gold ...",
+            "htmlSnippet": "The word <b>dollar</b> is derived from Low Saxon cognate <b>of the</b> High German Thaler. <br>\nThe most commonly circulated and readily available <b>currency</b>, used by common <br>\nAmericans, at this time, was the <b>Spanish</b> Peso, also known as the &quot;<b>Spanish</b> <br>\nmilled <b>dollar</b>&quot;, which was <b>valued</b> for <b>its</b> high <b>silver</b> content. <b>In</b> the early 19th <br>\ncentury, gold&nbsp;...",
+            "cacheId": "lDNiIkA6GgwJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>His</b>tory_<b>of_the</b>_<b>United_States</b>_<b>dollar</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220",
+                        "height": "172",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvWIEkrweMnHGcVmo2wqIU1Q0bVI5edcrJUEa5JIDfBBGvcsLElTYDa54"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Continental_%2450_note_1778.jpg/220px-Continental_%2450_note_1778.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "USD - US Dollar rates, news, and tools",
+            "htmlTitle": "<b>USD</b> - <b>US Dollar</b> rates, news, and tools",
+            "link": "https://www.xe.com/currency/usd-us-dollar",
+            "displayLink": "www.xe.com",
+            "snippet": "4 days ago ... Also available are United States Dollar services like cheap money tranfers, a \nUSD currency data, and more. ... The Coinage Act of 1792 created the first U.S. \nMint and established the federal monetary system, as well as set denominations \nfor coins specified by their value in gold, silver, and copper. In 1861 ...",
+            "htmlSnippet": "4 days ago <b>...</b> Also available are <b>United States Dollar</b> services like cheap <b>money</b> tranfers, <b>a</b> <br>\n<b>USD currency</b> data, and more. ... The Coinage Act of 1792 <b>created</b> the first U.S. <br>\nMint and <b>established</b> the federal monetary system, as well as set denominations <br>\nfor coins specified by <b>their value in</b> gold, <b>silver</b>, and copper. <b>In</b> 1861&nbsp;...",
+            "cacheId": "R9a9lf7PsH0J",
+            "formattedUrl": "https://www.xe.com/currency/usd-us-dollar",
+            "htmlFormattedUrl": "https://www.xe.com/<b>currency</b>/<b>usd</b>-<b>us</b>-<b>dollar</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "version": "3.43",
+                        "twitter:card": "summary",
+                        "twitter:site": "@xe",
+                        "twitter:title": "USD - US Dollar rates, news, and tools",
+                        "twitter:description": "The US Dollar is the currency of United States. Our currency rankings show that the most popular United States Dollar exchange rate is the USD to EUR rate. The currency code for Dollars is...",
+                        "twitter:image:src": "https://s.xe.com/themes/xe/images/flags/square/USD.png",
+                        "twitter:app:name:iphone": "XE Currency",
+                        "twitter:app:name:ipad": "XE Currency",
+                        "twitter:app:name:googleplay": "XE Currency",
+                        "twitter:app:id:googleplay": "com.xe.currency",
+                        "twitter:app:id:iphone": "id315241195",
+                        "twitter:app:id:ipad": "id315241195"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "United States dollar - Wikipedia",
+            "htmlTitle": "<b>United States dollar</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/United_States_dollar",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In other words, this act designated the United States dollar as the unit of currency \nof the United States. Unlike the Spanish milled dollar, the U.S. dollar is based \nupon a decimal system of values. In addition to the dollar the coinage act officially \nestablished monetary units of mill or one-thousandth of a dollar (symbol ₥), cent\n ...",
+            "htmlSnippet": "<b>In</b> other words, this act designated the <b>United States dollar</b> as the unit of <b>currency</b> <br>\nof the United States. Unlike the <b>Spanish</b> milled <b>dollar</b>, the <b>U.S. dollar</b> is based <br>\nupon <b>a</b> decimal system of <b>values</b>. <b>In</b> addition to the <b>dollar</b> the coinage act officially <br>\n<b>established</b> monetary units of mill or one-thousandth of <b>a dollar</b> (symbol ₥), cent<br>\n&nbsp;...",
+            "cacheId": "Z9AK-tlbUdkJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/United_States_dollar",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>United_States</b>_<b>dollar</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "210",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1JM7kBW940zrNIebYalOmaDx3HaS2vF-1C9R6M40QPYe3cMrhZVTUZTev"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/1200px-USDnotes.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/1200px-USDnotes.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "US Dollar To Japanese Yen - Latest Exchange rates",
+            "htmlTitle": "<b>US Dollar</b> To Japanese Yen - Latest Exchange rates",
+            "link": "https://www.travelex.com/currency/currency-pairs/usd-to-jpy",
+            "displayLink": "www.travelex.com",
+            "snippet": "It's one of the biggest currencies in the world, it's time to find out all about the \nJapanese yen vs. the US dollar. Click here to learn more at ... made in a likeness \nof the Spanish coins. The Chinese didn't really trust the silver value of the new \ncoins and preferred to carry on using the more familiar Spanish and Mexican \ndollars.",
+            "htmlSnippet": "It&#39;s one of the biggest <b>currencies in</b> the world, it&#39;s time to find out all about the <br>\nJapanese yen vs. the <b>US dollar</b>. Click here to learn more at ... <b>made in a</b> likeness <br>\nof the <b>Spanish</b> coins. The Chinese didn&#39;t really trust the <b>silver value</b> of the new <br>\ncoins and preferred to carry on using the more familiar <b>Spanish</b> and Mexican <br>\n<b>dollars</b>.",
+            "cacheId": "SEYRjRBhYf4J",
+            "formattedUrl": "https://www.travelex.com/currency/currency-pairs/usd-to-jpy",
+            "htmlFormattedUrl": "https://www.travelex.com/<b>currency</b>/<b>currency</b>-pairs/<b>usd</b>-to-jpy",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "215",
+                        "height": "234",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-WsHUK1ccc4fnFHCoQMuKC2QU6rP6VJ-WhSzoELrk3O6MaqfWRkqwZ1U"
+                    }
+                ],
+                "website": [
+                    {
+                        "name": "US Dollar To Japanese Yen - Latest Exchange rates",
+                        "url": "https://www.travelex.com/currency/currency-pairs/usd-to-jpy"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                        "apple-itunes-app": "app-id=1008842996",
+                        "google-play-app": "app-id=com.travelex.money"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "position": "1"
+                    },
+                    {
+                        "name": "USD to JPY"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.travelex.com/media/2671/exchange-with-confidence-bg.jpg"
+                    }
+                ],
+                "thing": [
+                    {
+                        "name": "Currency"
+                    },
+                    {
+                        "name": "Currency pairs"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "MYR | Malaysian Ringgit | OANDA",
+            "htmlTitle": "MYR | Malaysian Ringgit | OANDA",
+            "link": "https://www.oanda.com/currency/iso-currency-codes/MYR",
+            "displayLink": "www.oanda.com",
+            "snippet": "Malaysia replaced the Spanish silver dollar with the Indian Rupee in 1837. After \n30 years ... Within the first 5 months, the Malaysian Dollar had decreased in value \nby 14.3%. ... The currency value fluctuated from 3.80 to 4.40 to the dollar before \nBank Negara Malaysia pegged the Ringgit to the US Dollar in September 1998.",
+            "htmlSnippet": "Malaysia replaced the <b>Spanish silver dollar</b> with the Indian Rupee <b>in</b> 1837. After <br>\n30 years ... Within the first 5 months, the Malaysian Dollar had decreased <b>in value</b> <br>\nby 14.3%. ... The <b>currency value</b> fluctuated from 3.80 to 4.40 to the dollar before <br>\nBank Negara Malaysia <b>pegged</b> the Ringgit to the <b>US Dollar in</b> September 1998.",
+            "cacheId": "drC-3_u28dsJ",
+            "formattedUrl": "https://www.oanda.com/currency/iso-currency-codes/MYR",
+            "htmlFormattedUrl": "https://www.oanda.com/<b>currency</b>/iso-<b>currency</b>-codes/MYR",
+            "pagemap": {
+                "document": [
+                    {
+                        "www_oanda_com": "1"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Gold and the Greenback: A Forgotten History Part I | FINRA.org",
+            "htmlTitle": "Gold and the Greenback: <b>A</b> Forgotten History Part I | FINRA.org",
+            "link": "https://www.finra.org/investors/gold-and-greenback-forgotten-history-part-i",
+            "displayLink": "www.finra.org",
+            "snippet": "Apr 20, 2015 ... It seems like a simple question, but a shift in the value of a U.S. dollar compared \nto other currencies can be driven by a number of factors, including the ... A few \nyears later, the Coinage Act established a U.S. Mint in Philadelphia and set the \nworth of each U.S. coin denomination in ounces of gold, silver, ...",
+            "htmlSnippet": "Apr 20, 2015 <b>...</b> It seems like <b>a</b> simple question, but <b>a</b> shift <b>in</b> the <b>value</b> of <b>a U.S. dollar</b> compared <br>\nto other <b>currencies</b> can be driven by <b>a</b> number of factors, including the ... <b>A</b> few <br>\nyears later, the Coinage Act <b>established a</b> U.S. Mint <b>in</b> Philadelphia and set the <br>\nworth of each U.S. coin denomination <b>in</b> ounces of gold, <b>silver</b>,&nbsp;...",
+            "cacheId": "_AQWxZ70dRwJ",
+            "formattedUrl": "https://www.finra.org/.../gold-and-greenback-forgotten-history-part-i",
+            "htmlFormattedUrl": "https://www.finra.org/.../gold-and-greenback-forgotten-<b>his</b>tory-part-i",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "329",
+                        "height": "153",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVINteFpjPQBMsOebg48s82Z10P7_-BdGWQehRi5ZyQQVuACAofzdv9Pg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "mobileoptimized": "width",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width"
+                    }
+                ],
+                "Item": [
+                    {
+                        "date": "2018-03-29T00:00:00-04:00"
+                    },
+                    {
+                        "date": "2018-03-07T00:00:00-05:00"
+                    },
+                    {
+                        "date": "2018-02-16T00:00:00-05:00"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.finra.org/sites/default/files/wp-content/uploads/2015/03/finra-gold-dollar-part-1-1440x670.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Gold Standard History and Facts",
+            "htmlTitle": "Gold Standard History and Facts",
+            "link": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
+            "displayLink": "www.thebalance.com",
+            "snippet": "By 560 B.C., the Lydians had figured out how to separate the gold from the silver, \nand so created the first truly gold coin. ... That's why Spain, Portugal, and England \nsent Columbus and other explorers to the New World. ... As a result, most \ncountries simply pegged the value of their currency to the dollar instead of to gold\n.",
+            "htmlSnippet": "By 560 B.C., the Lydians had figured out how to separate the gold from the <b>silver</b>, <br>\nand so <b>created</b> the first truly gold coin. ... That&#39;s why <b>Spain</b>, Portugal, and England <br>\nsent Columbus and other explorers to the New World. ... As <b>a</b> result, most <br>\ncountries simply <b>pegged</b> the <b>value</b> of <b>their currency</b> to the <b>dollar</b> instead of to gold<br>\n.",
+            "cacheId": "__ymDYIry3cJ",
+            "formattedUrl": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard- 3306136",
+            "htmlFormattedUrl": "https://www.thebalance.com/what-is-the-<b>his</b>tory-<b>of-the</b>-gold-standard- 3306136",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLBNZ2_GtVbP2UIX0d07qStuHDE9Fu9Knr_k_bpbTzqdrGC-oHtVgzt48"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "msapplication-tileimage": "/static/3.0.3/icons/favicons/mstile-144x144.png",
+                        "msapplication-square70x70logo": "/static/3.0.3/icons/favicons/mstile-70x70.png",
+                        "msapplication-square150x150logo": "/static/3.0.3/icons/favicons/mstile-150x150.png",
+                        "msapplication-square310x310logo": "/static/3.0.3/icons/favicons/mstile-310x310.png",
+                        "msapplication-wide310x150logo": "/static/3.0.3/icons/favicons/mstile-310x150.png",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "sailthru.tags": "thebalance,us-economy",
+                        "article:section": "The Balance",
+                        "fb:app_id": "1204021896297075",
+                        "og:type": "article",
+                        "og:site_name": "The Balance",
+                        "og:url": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
+                        "og:title": "When the Dollar Was Backed By Gold",
+                        "og:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
+                        "og:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
+                        "article:author": "https://www.facebook.com/thebalancecom",
+                        "twitter:card": "summary",
+                        "twitter:site": "@thebalance",
+                        "twitter:title": "When the Dollar Was Backed By Gold",
+                        "twitter:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
+                        "twitter:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
+                        "lotame:tax4": "bal_commodities-market",
+                        "lotame:tax3": "bal_us-markets",
+                        "lotame:tax2": "bal_us-economy",
+                        "lotame:tax1": "bal_investing",
+                        "lotame:tax0": "bal"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "A History of the CANADIAN DOLLAR",
+            "htmlTitle": "<b>A</b> History <b>of the</b> CANADIAN <b>DOLLAR</b>",
+            "link": "https://www.bankofcanada.ca/wp-content/uploads/2010/07/dollar_book.pdf",
+            "displayLink": "www.bankofcanada.ca",
+            "snippet": "Return to a Floating Rate. (June 1970–present). Concluding Remarks. Appendix \nA: Purchasing Power of the Canadian Dollar. Appendix B: Alternative Money ...... \nother silver and gold coins of this period, its value was officially inflated to keep it \nfrom being sent out of the country. Spain, 2 reals, 1760. Called the pistareen, this\n ...",
+            "htmlSnippet": "Return to <b>a</b> Floating Rate. (June 1970–present). Concluding Remarks. Appendix <br>\n<b>A</b>: Purchasing Power of the Canadian <b>Dollar</b>. Appendix B: Alternative <b>Money</b> ...... <br>\nother <b>silver</b> and gold coins of this period, <b>its value</b> was officially inflated to keep it <br>\nfrom being sent out <b>of the</b> country. <b>Spain</b>, 2 reals, 1760. Called the pistareen, this<br>\n&nbsp;...",
+            "cacheId": "JsH5ZBZTuNwJ",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://www.bankofcanada.ca/wp-content/uploads/.../dollar_book.pdf",
+            "htmlFormattedUrl": "https://www.bankofcanada.ca/wp-content/uploads/.../<b>dollar</b>_book.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "creationdate": "D:20060207191536Z",
+                        "moddate": "D:20060214120950-05'00'",
+                        "producer": "Acrobat Distiller 5.0 (Windows)",
+                        "author": "levo",
+                        "creator": "PScript5.dll Version 5.2",
+                        "title": "A History of the CANADIAN DOLLAR"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "China Is Laying The Foundation For The Next World Gold Standard ...",
+            "htmlTitle": "China Is Laying The Foundation For The Next World Gold Standard ...",
+            "link": "https://www.forbes.com/sites/nathanlewis/2016/05/05/china-is-laying-the-foundation-for-the-next-world-gold-standard-system/",
+            "displayLink": "www.forbes.com",
+            "snippet": "May 5, 2016 ... On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is \nintended to be a replacement for the London Gold Fix, the primary price-\ndiscovery mechanism for gold bullion today. The London “bullion” market is not a \nmarket in bullion. Rather, it is a market in “unallocated” gold, defined [...]",
+            "htmlSnippet": "May 5, 2016 <b>...</b> On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is <br>\nintended to be <b>a</b> replacement for the London Gold Fix, the primary <b>price</b>-<br>\ndiscovery mechanism for gold bullion today. The London “bullion” market is not <b>a</b> <br>\nmarket <b>in</b> bullion. Rather, it is <b>a</b> market <b>in</b> “unallocated” gold, defined [...]",
+            "cacheId": "RfNlYd_UpPsJ",
+            "formattedUrl": "https://www.forbes.com/.../china-is-laying-the-foundation-for-the-next-world -gold-standard-system/",
+            "htmlFormattedUrl": "https://www.forbes.com/.../ch<b>ina</b>-is-laying-the-foundation-for-the-next-world -gold-standard-system/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJNDhHzXRyH7EfYHCVDxYnE0TJkhTBJRgs7e6LvjGwkBw-uASefBVHevw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1",
+                        "apple-itunes-app": "app-id=588647136",
+                        "fb:app_id": "123694841080850",
+                        "og:site_name": "Forbes",
+                        "twitter:site": "@forbes",
+                        "author": "Nathan Lewis",
+                        "og:title": "China Is Laying The Foundation For The Next World Gold Standard System",
+                        "og:image": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Fassets%2Fforbes_1200x1200.jpg",
+                        "og:updated_time": "2016-05-06T10:12:11-04:00",
+                        "og:url": "https://www.forbes.com/sites/nathanlewis/2016/05/05/china-is-laying-the-foundation-for-the-next-world-gold-standard-system/",
+                        "og:description": "On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is intended to be a replacement for the London Gold Fix, the primary price-discovery mechanism for gold bullion today. The London “bullion” market is not a market in bullion. Rather, it is a market in “unallocated” gold, defined [...]",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "China Is Laying The Foundation For The Next World Gold Standard System",
+                        "twitter:description": "On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is intended to be a replacement for the London Gold Fix, the primary price-discovery mechanism for gold bullion today. The London “bullion” market is not a market in bullion. Rather, it is a market in “unallocated” gold, defined [...]",
+                        "twitter:image": "https://thumbor.forbes.com/thumbor/600x300/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Fassets%2Fforbes_1200x1200.jpg",
+                        "twitter:creator": "@nathanlewis",
+                        "news_keywords": "Economics, OpEd, Economics &amp; Finance, Op/Ed",
+                        "article:publisher": "https://www.facebook.com/forbes",
+                        "article:author": "Nathan Lewis",
+                        "article:section": "Opinion",
+                        "article:section_url": "https://www.forbes.com/opinion/",
+                        "article:id": "blogAndPostId/blog/post/1645-1683",
+                        "article:published": "2016-05-05",
+                        "article:modified": "2016-05-06"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Fassets%2Fforbes_1200x1200.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "United States dollar",
+            "htmlTitle": "<b>United States dollar</b>",
+            "link": "http://cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/u/United_States_dollar.htm",
+            "displayLink": "cs.mcgill.ca",
+            "snippet": "In the second half of the 19th century there were occasional discussions of \ncreating a $50 gold coin, which was referred to as a \"Half Union,\" thus implying a \n... These currencies were denominated in pounds, shillings and pence ( £sd) and \nthe Spanish dollar was \"rated\" at a particular value in the currency of each colony\n.",
+            "htmlSnippet": "<b>In</b> the second half <b>of the</b> 19th century there were occasional discussions of <br>\n<b>creating a</b> $50 gold coin, which was referred to as <b>a</b> &quot;Half Union,&quot; thus implying <b>a</b> <br>\n... These <b>currencies</b> were denominated <b>in</b> pounds, shillings and pence ( £sd) and <br>\nthe <b>Spanish dollar</b> was &quot;rated&quot; at <b>a</b> particular <b>value in</b> the <b>currency</b> of each colony<br>\n.",
+            "cacheId": "r28uv0mT41UJ",
+            "formattedUrl": "cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/.../United_States_dollar.htm",
+            "htmlFormattedUrl": "cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/.../<b>United_States</b>_<b>dollar</b>.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "131",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRck51GdJYl_Y2rWuAJ2G3G56pMWdnsISOGSW0NIlneMrkZnZcEMDCC9bLr"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://cs.mcgill.ca/~rwest/wikispeedia/wpcd/images/140/14024.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

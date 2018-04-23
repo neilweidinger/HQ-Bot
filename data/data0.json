@@ -1,0 +1,579 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? Price of gold",
+                "totalResults": "1290000",
+                "searchTerms": "When the US dollar currency was created, what was its value pegged to? Price of gold",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? Price of gold",
+                "totalResults": "1290000",
+                "searchTerms": "When the US dollar currency was created, what was its value pegged to? Price of gold",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:ynpo3pdphmg"
+            }
+        ]
+    },
+    "context": {
+        "title": "second"
+    },
+    "searchInformation": {
+        "searchTime": 0.534079,
+        "formattedSearchTime": "0.53",
+        "totalResults": "1290000",
+        "formattedTotalResults": "1,290,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Fixed exchange-rate system - Wikipedia",
+            "htmlTitle": "Fixed <b>exchange</b>-<b>rate</b> system - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Fixed_exchange-rate_system",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "A fixed exchange rate, sometimes called a pegged exchange rate, is a type of \nexchange rate regime where a currency's value is fixed against either the value \nof another single currency, to a basket of other currencies, or to another measure \nof value, such as gold. There are benefits and risks to using a fixed exchange \nrate.",
+            "htmlSnippet": "<b>A</b> fixed <b>exchange rate</b>, sometimes called <b>a pegged exchange rate</b>, is <b>a</b> type of <br>\n<b>exchange rate</b> regime where <b>a currency</b>&#39;s <b>value</b> is fixed against either the <b>value</b> <br>\nof another single <b>currency</b>, to <b>a</b> basket of other <b>currencies</b>, or to another measure <br>\nof <b>value</b>, such as <b>gold</b>. There are benefits and risks to using <b>a</b> fixed <b>exchange</b> <br>\n<b>rate</b>.",
+            "cacheId": "MaAPPVHEFRoJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fixed_exchange-rate_system",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fixed_<b>exchange</b>-<b>rate</b>_system",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcyXA2jvImqH4rz1P-S7bhnH1HK6AjLUtEVl-xELCepYJSUTDdj052HWgZ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mechanism_of_Fixed_Exchange_Rate_System.png/500px-Mechanism_of_Fixed_Exchange_Rate_System.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Gold Standard History and Facts",
+            "htmlTitle": "<b>Gold</b> Standard History and Facts",
+            "link": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
+            "displayLink": "www.thebalance.com",
+            "snippet": "It obligated member countries to convert foreign official holdings of their \ncurrencies into gold at these par values. Gold was set at $35 per ounce. For more\n, see Gold Price History. The United States held most of the world's gold. As a \nresult, most countries simply pegged the value of their currency to the dollar \ninstead of to ...",
+            "htmlSnippet": "It obligated member countries to convert foreign official holdings of <b>their</b> <br>\n<b>currencies</b> into <b>gold</b> at these par <b>values</b>. <b>Gold</b> was set at $35 per ounce. For more<br>\n, see <b>Gold Price</b> History. The <b>United States</b> held most <b>of the</b> world&#39;s <b>gold</b>. As <b>a</b> <br>\nresult, most countries simply <b>pegged</b> the <b>value</b> of <b>their currency</b> to the <b>dollar</b> <br>\ninstead of to&nbsp;...",
+            "cacheId": "__ymDYIry3cJ",
+            "formattedUrl": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard- 3306136",
+            "htmlFormattedUrl": "https://www.thebalance.com/what-is-the-<b>his</b>tory-<b>of-the</b>-<b>gold</b>-standard- 3306136",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLBNZ2_GtVbP2UIX0d07qStuHDE9Fu9Knr_k_bpbTzqdrGC-oHtVgzt48"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "msapplication-tileimage": "/static/3.0.3/icons/favicons/mstile-144x144.png",
+                        "msapplication-square70x70logo": "/static/3.0.3/icons/favicons/mstile-70x70.png",
+                        "msapplication-square150x150logo": "/static/3.0.3/icons/favicons/mstile-150x150.png",
+                        "msapplication-square310x310logo": "/static/3.0.3/icons/favicons/mstile-310x310.png",
+                        "msapplication-wide310x150logo": "/static/3.0.3/icons/favicons/mstile-310x150.png",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "sailthru.tags": "thebalance,us-economy",
+                        "article:section": "The Balance",
+                        "fb:app_id": "1204021896297075",
+                        "og:type": "article",
+                        "og:site_name": "The Balance",
+                        "og:url": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
+                        "og:title": "When the Dollar Was Backed By Gold",
+                        "og:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
+                        "og:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
+                        "article:author": "https://www.facebook.com/thebalancecom",
+                        "twitter:card": "summary",
+                        "twitter:site": "@thebalance",
+                        "twitter:title": "When the Dollar Was Backed By Gold",
+                        "twitter:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
+                        "twitter:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
+                        "lotame:tax4": "bal_commodities-market",
+                        "lotame:tax3": "bal_us-markets",
+                        "lotame:tax2": "bal_us-economy",
+                        "lotame:tax1": "bal_investing",
+                        "lotame:tax0": "bal"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "History of the United States dollar - Wikipedia",
+            "htmlTitle": "History of the <b>United States dollar</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "It created the International Monetary Fund (IMF), the predecessor of the World \nBank, and an international monetary system based on fixed exchange rates. It \nvalued the dollar at $35 per ounce of gold and the remaining signatories pegged \ntheir respective currency relative to the dollar, leading some economists to argue \nthat ...",
+            "htmlSnippet": "It <b>created</b> the International Monetary Fund (IMF), the predecessor <b>of the</b> World <br>\nBank, and an international monetary system based on fixed <b>exchange</b> rates. It <br>\n<b>valued</b> the <b>dollar</b> at $35 per ounce of <b>gold</b> and the remaining signatories <b>pegged</b> <br>\n<b>their</b> respective <b>currency</b> relative to the <b>dollar</b>, leading some economists to argue <br>\nthat&nbsp;...",
+            "cacheId": "lDNiIkA6GgwJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>His</b>tory_<b>of_the</b>_<b>United_States</b>_<b>dollar</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220",
+                        "height": "172",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvWIEkrweMnHGcVmo2wqIU1Q0bVI5edcrJUEa5JIDfBBGvcsLElTYDa54"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Continental_%2450_note_1778.jpg/220px-Continental_%2450_note_1778.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "USD - US Dollar rates, news, and tools",
+            "htmlTitle": "<b>USD</b> - <b>US Dollar</b> rates, news, and tools",
+            "link": "https://www.xe.com/currency/usd-us-dollar",
+            "displayLink": "www.xe.com",
+            "snippet": "4 days ago ... Also available are United States Dollar services like cheap money tranfers, a \nUSD currency data, and more. ... The Coinage Act of 1792 created the first U.S. \nMint and established the federal monetary system, as well as set denominations \nfor coins specified by their value in gold, silver, and copper. In 1861 ...",
+            "htmlSnippet": "4 days ago <b>...</b> Also available are <b>United States Dollar</b> services like cheap <b>money</b> tranfers, <b>a</b> <br>\n<b>USD currency</b> data, and more. ... The Coinage Act of 1792 <b>created</b> the first U.S. <br>\nMint and <b>established</b> the federal monetary system, as well as set denominations <br>\nfor coins specified by <b>their value in gold</b>, silver, and copper. <b>In</b> 1861&nbsp;...",
+            "cacheId": "R9a9lf7PsH0J",
+            "formattedUrl": "https://www.xe.com/currency/usd-us-dollar",
+            "htmlFormattedUrl": "https://www.xe.com/<b>currency</b>/<b>usd</b>-<b>us</b>-<b>dollar</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "version": "3.43",
+                        "twitter:card": "summary",
+                        "twitter:site": "@xe",
+                        "twitter:title": "USD - US Dollar rates, news, and tools",
+                        "twitter:description": "The US Dollar is the currency of United States. Our currency rankings show that the most popular United States Dollar exchange rate is the USD to EUR rate. The currency code for Dollars is...",
+                        "twitter:image:src": "https://s.xe.com/themes/xe/images/flags/square/USD.png",
+                        "twitter:app:name:iphone": "XE Currency",
+                        "twitter:app:name:ipad": "XE Currency",
+                        "twitter:app:name:googleplay": "XE Currency",
+                        "twitter:app:id:googleplay": "com.xe.currency",
+                        "twitter:app:id:iphone": "id315241195",
+                        "twitter:app:id:ipad": "id315241195"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Currency Exchange: Floating Rate Vs. Fixed Rate",
+            "htmlTitle": "<b>Currency Exchange</b>: Floating <b>Rate</b> Vs. Fixed <b>Rate</b>",
+            "link": "https://www.investopedia.com/articles/03/020603.asp",
+            "displayLink": "www.investopedia.com",
+            "snippet": "Apr 6, 2018 ... It was agreed that currencies would once again be fixed, or pegged, but this time \nto the U.S. dollar, which in turn was pegged to gold at US$35 per ounce. What \nthis meant, was that the value of a currency was directly linked with the value of \nthe U.S. dollar. So, if you needed to buy Japanese yen, the value of ...",
+            "htmlSnippet": "Apr 6, 2018 <b>...</b> It was agreed that <b>currencies</b> would once again be fixed, or <b>pegged</b>, but this time <br>\nto the <b>U.S. dollar</b>, which <b>in</b> turn was <b>pegged</b> to <b>gold</b> at US$35 per ounce. What <br>\nthis meant, was that the <b>value</b> of <b>a currency</b> was directly linked with the <b>value</b> of <br>\nthe <b>U.S. dollar</b>. So, if you needed to <b>buy</b> Japanese yen, the <b>value</b> of&nbsp;...",
+            "cacheId": "FMfkmOX-nt0J",
+            "formattedUrl": "https://www.investopedia.com/articles/03/020603.asp",
+            "htmlFormattedUrl": "https://www.investopedia.com/articles/03/020603.asp",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "235",
+                        "height": "214",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRafdXup-oPf6Y5BotT2wIe1qz3JEc-ZXaVvm3CL03UDMZqNO-o4JdoNnh"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Investopedia",
+                        "fb:pages": "105109162854142, 925483520864421",
+                        "fb:app_id": "371867692868423",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:title": "Currency Exchange: Floating Rate Vs. Fixed Rate",
+                        "og:description": "Baffled by exchange rates? Wonder why some currencies fluctuate while others are pegged? This article has the answers.",
+                        "og:url": "https://www.investopedia.com/articles/03/020603.asp",
+                        "og:site_name": "Investopedia",
+                        "og:type": "article",
+                        "og:image": "https://i.investopedia.com/inv/topics/images/forex-lrg.jpg",
+                        "article:content_type": "Article",
+                        "article:assigned_editor": "root",
+                        "article:company": "Investopedia.com",
+                        "article:published_time": "2003-11-26T10:00:00-07:00",
+                        "article:modified_time": "2018-04-06T16:07:57-06:00",
+                        "article:tag": "financial crisis,forex fundamentals,forex theory,international markets,beginning investor,exchange rate regime,forex history,international monetary fund",
+                        "emailprimarychannel": "trading",
+                        "emailprimarysubchannel": "forex & currencies",
+                        "emailcontenttype": "article",
+                        "author": "Reem Heakal",
+                        "fb:admins": "100003532063336",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@Investopedia",
+                        "twitter:title": "Currency Exchange: Floating Rate Vs. Fixed Rate",
+                        "twitter:description": "Baffled by exchange rates? Wonder why some currencies fluctuate while others are pegged? This article has the answers.",
+                        "twitter:image:src": "https://i.investopedia.com/inv/topics/images/forex-lrg.jpg",
+                        "parsely-title": "Currency Exchange: Floating Rate Vs. Fixed Rate",
+                        "parsely-link": "https://www.investopedia.com/articles/03/020603.asp",
+                        "parsely-type": "post",
+                        "parsely-image-url": "https://i.investopedia.com/inv/topics/images/forex-lrg.jpg",
+                        "parsely-pub-date": "2018-04-06T22:07:57Z",
+                        "parsely-section": "Forex & Currencies",
+                        "parsely-author": "Reem Heakal",
+                        "parsely-tags": "exchange rates,central bank,foreign exchange market,U.S. dollars,fixed exchange rate,floating exchange rate,International Monetary Fund,primer,Egyptian pounds,yen,Bretton Woods,black market,Foreign reserves,gold standard,FX,Thailand,inflation,Mexican,peso,World War I,Egypt,devaluation,World War II,capital markets,money supply,deflation,euro,Asian,con-Article,ed-root,time-Timeless,luc-Moat,proj-Moat,tk-,rp-Y",
+                        "sailthru.tags": "exchange rates,central bank,foreign exchange market,u.s. dollars,fixed exchange rate,forex & currencies",
+                        "sailthru.author": "Reem Heakal",
+                        "sailthru.date": "2018-04-06T20:05:35+00:00",
+                        "sailthru.image.full": "https://i.investopedia.com/inv/topics/images/forex-lrg.jpg?quality=80&width=680&height=680",
+                        "sailthru.image.thumb": "https://i.investopedia.com/inv/topics/images/forex-lrg.jpg?quality=60&width=200&height=200",
+                        "sailthru.title": "Currency Exchange: Floating Rate Vs. Fixed Rate"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.investopedia.com/inv/topics/images/forex-lrg.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Preparing for the Collapse of the Petrodollar System ...",
+            "htmlTitle": "Preparing for the Collapse <b>of the</b> Petrodollar System ...",
+            "link": "https://followthemoney.com/preparing-for-the-collapse-of-the-petrodollar-system-part-1/",
+            "displayLink": "followthemoney.com",
+            "snippet": "This made the U.S. dollar completely convertible into gold at a fixed rate of $35 \nper ounce within the global economic community. This international convertibility \ninto gold allayed concerns about the fixed rate regime and created a sense of \nfinancial security among nations in pegging their currency's value to the dollar.",
+            "htmlSnippet": "This <b>made</b> the <b>U.S. dollar</b> completely convertible into <b>gold</b> at <b>a</b> fixed <b>rate</b> of $35 <br>\nper ounce within the global economic community. This international convertibility <br>\ninto <b>gold</b> allayed concerns about the fixed <b>rate</b> regime and <b>created a</b> sense of <br>\nfinancial security among nations <b>in pegging their currency&#39;s value</b> to the dollar.",
+            "cacheId": "fbl3wdKX0fsJ",
+            "formattedUrl": "https://followthemoney.com/preparing-for-the-collapse-of-the-petrodollar- system-part-1/",
+            "htmlFormattedUrl": "https://followthe<b>money</b>.com/preparing-for-the-collapse-<b>of-the</b>-petro<b>dollar</b>- system-part-1/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "479",
+                        "height": "105",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShmAvfi58VJ7miEd0dFHaz-LihX1e_fWJwyEzUJhEV6nkerwEmvuMkWjA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:type": "article",
+                        "og:url": "https://followthemoney.com/preparing-for-the-collapse-of-the-petrodollar-system-part-1/",
+                        "og:title": "Preparing for the Collapse of the Petrodollar System Followthemoney.com",
+                        "og:locale": "en_US",
+                        "og:site_name": "Followthemoney.com",
+                        "article:publisher": "http://facebook.com/ftmdaily",
+                        "article:author": "http://facebook.com/ftmdaily",
+                        "og:image": "https://ftmdaily.com/wp-content/uploads/2017/01/HORIZONTAL-FOLLOW-THE-MONEY-WITH-TAGLINE.png",
+                        "og:image:secure_url": "https://followthemoney.com/wp-content/uploads/2016/07/petrodollar-collapse-header.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Preparing for the Collapse of the Petrodollar System Followthemoney.com",
+                        "twitter:site": "@ftmdaily",
+                        "twitter:image": "http://images/wpspin_light.gif",
+                        "twitter:creator": "@ftmdaily",
+                        "msapplication-tileimage": "https://followthemoney.com/wp-content/uploads/2016/12/cropped-ftm-train-512px-270x270.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ftmdaily.com/wp-content/uploads/2017/01/HORIZONTAL-FOLLOW-THE-MONEY-WITH-TAGLINE.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bretton Woods Agreement",
+            "htmlTitle": "Bretton Woods Agreement",
+            "link": "https://www.investopedia.com/terms/b/brettonwoodsagreement.asp",
+            "displayLink": "www.investopedia.com",
+            "snippet": "The Bretton Woods Agreement was developed at the United Nations Monetary \nand Financial Conference held in Bretton Woods, New Hampshire, from July 1 to \nJuly 22, 1944. ... Under the agreement, currencies were pegged to the price of \ngold, and the U.S. dollar was seen as a reserve currency linked to the price of \ngold.",
+            "htmlSnippet": "The Bretton Woods Agreement was <b>developed</b> at the United Nations Monetary <br>\nand Financial Conference held <b>in</b> Bretton Woods, New Hampshire, from July 1 to <br>\nJuly 22, 1944. ... Under the agreement, <b>currencies</b> were <b>pegged</b> to the <b>price</b> of <br>\n<b>gold</b>, and the <b>U.S. dollar</b> was seen as <b>a</b> reserve <b>currency</b> linked to the <b>price</b> of <br>\n<b>gold</b>.",
+            "cacheId": "YmlqL3BZv3EJ",
+            "formattedUrl": "https://www.investopedia.com/terms/b/brettonwoodsagreement.asp",
+            "htmlFormattedUrl": "https://www.investopedia.com/terms/b/brettonwoodsagreement.asp",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "180",
+                        "height": "116",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfv7s9tWn1LocRKN5ChYxW4-GmgFnydOey_1gLZth1c5SP3lTxFbS34Q"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Investopedia",
+                        "fb:pages": "105109162854142, 925483520864421",
+                        "fb:app_id": "371867692868423",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:title": "Bretton Woods Agreement",
+                        "og:description": "A landmark system for monetary and exchange rate management established in 1944. The Bretton Woods Agreement was developed at the United Nations Monetary and Financial Conference held in Bretton Woods, New Hampshire, from July 1 to July 22, 1944. Even as World War II raged on, 730 delegates from the 44 Allied nations attended the conference.",
+                        "og:url": "https://www.investopedia.com/terms/b/brettonwoodsagreement.asp",
+                        "og:site_name": "Investopedia",
+                        "og:type": "article",
+                        "og:image": "https://i.investopedia.com/inv/genericcontentimages/forex/forex2.jpg",
+                        "article:content_type": "Term",
+                        "article:assigned_editor": "Michael Macklon",
+                        "article:company": "Investopedia.com",
+                        "article:published_time": "2003-11-25T10:00:00-07:00",
+                        "article:modified_time": "2015-09-04T15:48:44-06:00",
+                        "article:tag": "forex fundamentals,exchange rate regime,forex history,bretton woods agreement,international bank for reconstruction and development,international monetary fund,united nations",
+                        "emailprimarychannel": "trading",
+                        "emailprimarysubchannel": "forex & currencies",
+                        "emailcontenttype": "term",
+                        "author": "Investopedia Staff",
+                        "fb:admins": "100003532063336",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@Investopedia",
+                        "twitter:title": "Bretton Woods Agreement",
+                        "twitter:description": "A landmark system for monetary and exchange rate management established in 1944. The Bretton Woods Agreement was developed at the United Nations Monetary and Financial Conference held in Bretton Woods, New Hampshire, from July 1 to July 22, 1944. Even as World War II raged on, 730 delegates from the 44 Allied nations attended the conference.",
+                        "twitter:image:src": "https://i.investopedia.com/inv/genericcontentimages/forex/forex2.jpg",
+                        "parsely-title": "Bretton Woods Agreement",
+                        "parsely-link": "https://www.investopedia.com/terms/b/brettonwoodsagreement.asp",
+                        "parsely-type": "post",
+                        "parsely-image-url": "https://i.investopedia.com/inv/genericcontentimages/forex/forex2.jpg",
+                        "parsely-pub-date": "2015-09-04T21:48:44Z",
+                        "parsely-section": "Forex & Currencies",
+                        "parsely-author": "Investopedia Staff",
+                        "parsely-tags": "Bretton Woods Agreement,International Monetary Fund,reserve currency,Bretton Woods, New Hampshire,Bretton Woods,exchange rate,convertible,John Maynard Keynes,U.S. dollar,United Nations,Harry Dexter White,World Bank Group,Richard Nixon,World War I,Union,current account,Treasury Department,central bank,con-Term,ed-Michael Macklon,time-Timeless,luc-,proj-,tk-,rp-Y",
+                        "sailthru.tags": "bretton woods agreement,international monetary fund,reserve currency,bretton woods,exchange rate,forex & currencies",
+                        "sailthru.author": "Investopedia Staff",
+                        "sailthru.date": "2015-09-04T21:48:19+00:00",
+                        "sailthru.image.full": "https://i.investopedia.com/inv/genericcontentimages/forex/forex2.jpg?quality=80&width=680&height=680",
+                        "sailthru.image.thumb": "https://i.investopedia.com/inv/genericcontentimages/forex/forex2.jpg?quality=60&width=200&height=200",
+                        "sailthru.title": "Bretton Woods Agreement",
+                        "contenttype": "term"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.investopedia.com/dimages/graphics/shutterstock_86187946.jpg?quality=60&width=180&height=120"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why gold and the US dollar have an inverse relationship",
+            "htmlTitle": "Why <b>gold</b> and the <b>US dollar</b> have an inverse relationship",
+            "link": "https://finance.yahoo.com/news/why-gold-us-dollar-inverse-170016117.html",
+            "displayLink": "finance.yahoo.com",
+            "snippet": "Sep 23, 2014 ... Must-know: Understanding gold price drivers (Part 4 of 12). (Continued from Part \n3). Inverse relationship between gold and the U.S. dollar. Gold and the U.S. \ndollar were associated when the gold standard was being used. During this time, \nthe value of a unit of currency was tied to the specific amount of ...",
+            "htmlSnippet": "Sep 23, 2014 <b>...</b> Must-know: Understanding <b>gold price</b> drivers (Part 4 of 12). (Continued from Part <br>\n3). Inverse relationship between <b>gold</b> and the <b>U.S. dollar</b>. <b>Gold</b> and the <b>U.S.</b> <br>\n<b>dollar</b> were associated when the <b>gold</b> standard was being used. During this time, <br>\nthe <b>value</b> of <b>a</b> unit of <b>currency</b> was <b>tied</b> to the specific amount of&nbsp;...",
+            "cacheId": "hNVbXyXhk24J",
+            "formattedUrl": "https://finance.yahoo.com/.../why-gold-us-dollar-inverse-170016117.html",
+            "htmlFormattedUrl": "https://f<b>ina</b>nce.yahoo.com/.../why-<b>gold</b>-<b>us</b>-<b>dollar</b>-inverse-170016117.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267",
+                        "height": "188",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7VUeINrqpd6hTuKOk72p88k5geOr713I-XviXUQG_ssy0MB-tJM7jfg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#6e329d",
+                        "msapplication-tileimage": "https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+                        "referrer": "origin",
+                        "theme-color": "#400090",
+                        "twitter:dnt": "on",
+                        "twitter:site": "@YahooFinance",
+                        "news_keywords": "gold price, Inverse relationship, the gold standard",
+                        "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=29eca0da-af82-3962-8a51-20591063a1a4&src=web",
+                        "twitter:card": "summary",
+                        "twitter:description": "Gold and the U.S. dollar were associated when the gold standard was being used. During this time, the value of a unit of currency was tied to the specific amount of gold. The gold standard was used from ...",
+                        "twitter:title": "Why gold and the US dollar have an inverse relationship",
+                        "og:type": "article",
+                        "al:android:app_name": "Yahoo",
+                        "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                        "al:android:url": "yahoo://article/view?uuid=29eca0da-af82-3962-8a51-20591063a1a4&src=web",
+                        "al:ios:app_name": "Yahoo",
+                        "al:ios:app_store_id": "304158842",
+                        "al:ios:url": "yahoo://article/view?uuid=29eca0da-af82-3962-8a51-20591063a1a4&src=web",
+                        "og:description": "Gold and the U.S. dollar were associated when the gold standard was being used. During this time, the value of a unit of currency was tied to the specific amount of gold. The gold standard was used from ...",
+                        "og:title": "Why gold and the US dollar have an inverse relationship",
+                        "og:url": "https://finance.yahoo.com/news/why-gold-us-dollar-inverse-170016117.html"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "headline": "Why gold and the US dollar have an inverse relationship",
+                        "datepublished": "2014-09-23T17:00:16.000Z",
+                        "description": "Gold and the U.S. dollar were associated when the gold standard was being used. During this time, the value of a unit of currency was tied to the specific amount of gold. The gold standard...",
+                        "articlesection": "finance",
+                        "genre": "finance",
+                        "keywords": "gold price, Inverse relationship, the gold standard",
+                        "url": "https://finance.yahoo.com/news/why-gold-us-dollar-inverse-170016117.html",
+                        "articlebody": "Must-know: Understanding gold price drivers (Part 4 of 12)(Continued from Part 3)Inverse relationship between gold and the U.S. dollar Gold and the U.S. dollar were associated when the gold..."
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "height": "436",
+                        "width": "620",
+                        "url": "https://s.yimg.com/ny/api/res/1.2/qioSNUP2cAq981CIrR.zXQ--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjIwO2g9NDM2/https://marketrealist.imgix.net/uploads/2014/09/USD-vs.-gold-price1.png?w=620&amp;h=436&amp;fit=max&amp;auto=format"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Annie Gilroy"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Market Realist",
+                        "url": "Market Realist",
+                        "logo": "https://s.yimg.com/ny/api/res/1.2/ghSj.0AYxgmO0vwqO9MSfA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODQ7aD04NDtpbD1wbGFuZQ--/http://l.yimg.com/os/284/2013/07/08/MR-green-sml-png_192450.png.cf.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/ny/api/res/1.2/qioSNUP2cAq981CIrR.zXQ--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjIwO2g9NDM2/https://marketrealist.imgix.net/uploads/2014/09/USD-vs.-gold-price1.png?w=620&amp;h=436&amp;fit=max&amp;auto=format"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What is the gold standard? | Investopedia",
+            "htmlTitle": "What is the <b>gold</b> standard? | Investopedia",
+            "link": "https://www.investopedia.com/ask/answers/09/gold-standard.asp",
+            "displayLink": "www.investopedia.com",
+            "snippet": "Feb 26, 2018 ... A country that uses the gold standard sets a fixed price for gold and buys and \nsells gold at that price. That fixed price is used to determine the value of the \ncurrency. For example, if the U.S. sets the price of gold at $500 an ounce, the \nvalue of the dollar would be 1/500th of an ounce of gold. The gold standard ...",
+            "htmlSnippet": "Feb 26, 2018 <b>...</b> <b>A</b> country that uses the <b>gold</b> standard sets <b>a</b> fixed <b>price</b> for <b>gold</b> and buys and <br>\nsells <b>gold</b> at that <b>price</b>. That fixed <b>price</b> is used to determine the <b>value</b> of the <br>\n<b>currency</b>. For example, if the U.S. sets the <b>price</b> of <b>gold</b> at $500 an ounce, the <br>\n<b>value of the dollar</b> would be 1/500th of an ounce of <b>gold</b>. The <b>gold</b> standard&nbsp;...",
+            "cacheId": "7T3muWfvKaEJ",
+            "formattedUrl": "https://www.investopedia.com/ask/answers/09/gold-standard.asp",
+            "htmlFormattedUrl": "https://www.investopedia.com/ask/answers/09/<b>gold</b>-standard.asp",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "230",
+                        "height": "219",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSpYUSWO7D7DTKcNVshZEHPmmLE-NPQeA5dUzTP6vrZmXaI3fe6JwjKiV"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "Investopedia",
+                        "fb:pages": "105109162854142, 925483520864421",
+                        "fb:app_id": "371867692868423",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:title": "What is the gold standard?",
+                        "og:description": "Learn more about the gold standard, including its complicated global history and its connection to the fiat system and the U.S. dollar today.",
+                        "og:url": "https://www.investopedia.com/ask/answers/09/gold-standard.asp",
+                        "og:site_name": "Investopedia",
+                        "og:type": "article",
+                        "og:image": "https://i.investopedia.com/inv/genericcontentimages/optionsfutures/122574802.jpg",
+                        "article:content_type": "FAQ",
+                        "article:assigned_editor": "root",
+                        "article:company": "Investopedia.com",
+                        "article:published_time": "2008-09-14T11:00:00-06:00",
+                        "article:modified_time": "2018-03-02T13:07:17-07:00",
+                        "emailprimarychannel": "investing",
+                        "emailprimarysubchannel": "commodities",
+                        "emailcontenttype": "faq",
+                        "emailsubchannel": "forex & currencies",
+                        "author": "Nickolas Lioudis",
+                        "fb:admins": "100003532063336",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@Investopedia",
+                        "twitter:title": "What is the gold standard?",
+                        "twitter:description": "Learn more about the gold standard, including its complicated global history and its connection to the fiat system and the U.S. dollar today.",
+                        "twitter:image:src": "https://i.investopedia.com/inv/genericcontentimages/optionsfutures/122574802.jpg",
+                        "parsely-title": "What is the gold standard?",
+                        "parsely-link": "https://www.investopedia.com/ask/answers/09/gold-standard.asp",
+                        "parsely-type": "post",
+                        "parsely-image-url": "https://i.investopedia.com/inv/genericcontentimages/optionsfutures/122574802.jpg",
+                        "parsely-pub-date": "2018-03-02T20:07:17Z",
+                        "parsely-section": "Commodities",
+                        "parsely-author": "Nickolas Lioudis",
+                        "parsely-tags": "gold standard,paper money,fiat money,convertible,gold reserves,U.S. dollars,bullion,bugs,reserve currencies,international indebtedness,naira,monetary standard,Great Depression,Emergency Banking Act,Peter Bernstein,classical,Spain,Herbert Hoover,Obsession,New World,interest rates,The Fall,French Franc,clipping,central banks,Fiat,global financial system,Bretton Woods Agreement,legal tender,physical gold,Latin,Nigeria,devaluation,international trade,World War II,pound sterling,deflation,Australia,trust,asset class,currency markets,hedge,United States,Great War,physical quantity,Europe,bimetallic standard,inflation,South Africa,Vietnam War,Constitution,Atlantic,thinkorswim,full employment,Belgium,TD Ameritrade,free-market,Versus,yen,monetary policy,euro,Congress,con-FAQ,ed-root,time-Timeless,luc-superpage,Superpage,Moat,proj-Superpage,Moat,tk-,rp-Y",
+                        "sailthru.tags": "gold standard,paper money,fiat money,convertible,gold reserves,commodities",
+                        "sailthru.author": "Nickolas Lioudis",
+                        "sailthru.date": "2018-03-02T20:03:28+00:00",
+                        "sailthru.image.full": "https://i.investopedia.com/inv/genericcontentimages/optionsfutures/122574802.jpg?quality=80&width=680&height=680",
+                        "sailthru.image.thumb": "https://i.investopedia.com/inv/genericcontentimages/optionsfutures/122574802.jpg?quality=60&width=200&height=200",
+                        "sailthru.title": "What is the gold standard?"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.investopedia.com/u52849/dollar_vs_gold_0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "gold standard | Definition & History | Britannica.com",
+            "htmlTitle": "<b>gold</b> standard | Definition &amp; History | Britannica.com",
+            "link": "https://www.britannica.com/topic/gold-standard",
+            "displayLink": "www.britannica.com",
+            "snippet": "This action, known as “pegging” the price of gold, provided the basis for the \nrestoration of an international gold standard after World War II; in this postwar \nsystem most exchange rates were pegged either to the U.S. dollar or to gold. In \n1958 a type of gold standard was reestablished in which the major European \ncountries ...",
+            "htmlSnippet": "This action, known as “<b>pegging</b>” the <b>price</b> of <b>gold</b>, provided the basis for the <br>\nrestoration of an international <b>gold</b> standard after World War II; <b>in</b> this postwar <br>\nsystem most <b>exchange</b> rates were <b>pegged</b> either to the <b>U.S. dollar</b> or to <b>gold</b>. <b>In</b> <br>\n1958 <b>a</b> type of <b>gold</b> standard was reestablished <b>in</b> which the major European <br>\ncountries&nbsp;...",
+            "cacheId": "fNhXBtJXo9AJ",
+            "formattedUrl": "https://www.britannica.com/topic/gold-standard",
+            "htmlFormattedUrl": "https://www.britannica.com/topic/<b>gold</b>-standard",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "206",
+                        "height": "244",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvNl5vKc2X-pIFPzniSwAgu-QKV0R3qDED2G8DiB9GVGu1MwAqKrJRIs8"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "fb:pages": "74442380906",
+                        "fb:app_id": "1887621861548296",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@britannica",
+                        "og:type": "ARTICLE",
+                        "og:title": "gold standard | Definition & History",
+                        "og:description": "Gold standard: Gold standard, monetary system in which the standard unit of currency is kept at the value of a fixed quantity of gold.",
+                        "og:site_name": "Encyclopedia Britannica",
+                        "og:url": "https://www.britannica.com/topic/gold-standard",
+                        "og:image": "https://cdn.britannica.com/22/101122-004-87A8A663.jpg",
+                        "og:image:type": "image/jpeg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.britannica.com/22/101122-004-87A8A663.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
