@@ -7,357 +7,711 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
-                "totalResults": "643000",
-                "searchTerms": "When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
+                "title": "Google Custom Search - what is not a skin care brand? Drunk Elephant",
+                "totalResults": "187000",
+                "searchTerms": "what is not a skin care brand? Drunk Elephant",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
-                "cx": "007453928249679215123:ynpo3pdphmg"
+                "cx": "007453928249679215123:dhdhqg4tpxi"
             }
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
-                "totalResults": "643000",
-                "searchTerms": "When the US dollar currency was created, what was its value pegged to? Spanish silver dollar",
+                "title": "Google Custom Search - what is not a skin care brand? Drunk Elephant",
+                "totalResults": "187000",
+                "searchTerms": "what is not a skin care brand? Drunk Elephant",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
-                "cx": "007453928249679215123:ynpo3pdphmg"
+                "cx": "007453928249679215123:dhdhqg4tpxi"
             }
         ]
     },
     "context": {
-        "title": "second"
+        "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.315191,
-        "formattedSearchTime": "0.32",
-        "totalResults": "643000",
-        "formattedTotalResults": "643,000"
+        "searchTime": 0.460047,
+        "formattedSearchTime": "0.46",
+        "totalResults": "187000",
+        "formattedTotalResults": "187,000"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "History of the United States dollar - Wikipedia",
-            "htmlTitle": "History of the <b>United States dollar</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "The word dollar is derived from Low Saxon cognate of the High German Thaler. \nThe most commonly circulated and readily available currency, used by common \nAmericans, at this time, was the Spanish Peso, also known as the \"Spanish \nmilled dollar\", which was valued for its high silver content. In the early 19th \ncentury, gold ...",
-            "htmlSnippet": "The word <b>dollar</b> is derived from Low Saxon cognate <b>of the</b> High German Thaler. <br>\nThe most commonly circulated and readily available <b>currency</b>, used by common <br>\nAmericans, at this time, was the <b>Spanish</b> Peso, also known as the &quot;<b>Spanish</b> <br>\nmilled <b>dollar</b>&quot;, which was <b>valued</b> for <b>its</b> high <b>silver</b> content. <b>In</b> the early 19th <br>\ncentury, gold&nbsp;...",
-            "cacheId": "lDNiIkA6GgwJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>His</b>tory_<b>of_the</b>_<b>United_States</b>_<b>dollar</b>",
+            "title": "DRUNK ELEPHANT BRAND REVIEW! - YouTube",
+            "htmlTitle": "<b>DRUNK ELEPHANT BRAND</b> REVIEW! - YouTube",
+            "link": "https://www.youtube.com/watch?v=pcZyHsVqTtE",
+            "displayLink": "www.youtube.com",
+            "snippet": "Feb 6, 2018 ... Thanks for watching! Visit my blog for more reviews and content: www.alittlebitetc\n.com Follow me on Instagram @alittlebitetc The products mentioned in the vi...",
+            "htmlSnippet": "Feb 6, 2018 <b>...</b> Thanks for watching! Visit my blog for more reviews and content: www.alittlebitetc<br>\n.com Follow me on Instagram @alittlebitetc The <b>products</b> mentioned in the vi...",
+            "cacheId": "-ZRMULu05QMJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=pcZyHsVqTtE",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=pcZyHsVqTtE",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "220",
-                        "height": "172",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvWIEkrweMnHGcVmo2wqIU1Q0bVI5edcrJUEa5JIDfBBGvcsLElTYDa54"
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2mLyWT5V67uo5VsNKPr7OwyBWpxIwHw3fukYz6PCAUfPUyFv-1RATvAP"
                     }
                 ],
                 "metatags": [
                     {
-                        "referrer": "origin"
+                        "title": "DRUNK ELEPHANT BRAND REVIEW!",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=pcZyHsVqTtE",
+                        "og:title": "DRUNK ELEPHANT BRAND REVIEW!",
+                        "og:image": "https://i.ytimg.com/vi/pcZyHsVqTtE/hqdefault.jpg",
+                        "og:description": "Thanks for watching! Visit my blog for more reviews and content: www.alittlebitetc.com Follow me on Instagram @alittlebitetc The products mentioned in the vi...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=pcZyHsVqTtE&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=pcZyHsVqTtE&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=pcZyHsVqTtE&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/pcZyHsVqTtE",
+                        "og:video:secure_url": "https://www.youtube.com/embed/pcZyHsVqTtE",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "skincare",
+                        "fb:app_id": "87741124305",
+                        "twitter:card": "player",
+                        "twitter:site": "@youtube",
+                        "twitter:url": "https://www.youtube.com/watch?v=pcZyHsVqTtE",
+                        "twitter:title": "DRUNK ELEPHANT BRAND REVIEW!",
+                        "twitter:description": "Thanks for watching! Visit my blog for more reviews and content: www.alittlebitetc.com Follow me on Instagram @alittlebitetc The products mentioned in the vi...",
+                        "twitter:image": "https://i.ytimg.com/vi/pcZyHsVqTtE/hqdefault.jpg",
+                        "twitter:app:name:iphone": "YouTube",
+                        "twitter:app:id:iphone": "544007664",
+                        "twitter:app:name:ipad": "YouTube",
+                        "twitter:app:id:ipad": "544007664",
+                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=pcZyHsVqTtE&feature=applinks",
+                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=pcZyHsVqTtE&feature=applinks",
+                        "twitter:app:name:googleplay": "YouTube",
+                        "twitter:app:id:googleplay": "com.google.android.youtube",
+                        "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=pcZyHsVqTtE",
+                        "twitter:player": "https://www.youtube.com/embed/pcZyHsVqTtE",
+                        "twitter:player:width": "1280",
+                        "twitter:player:height": "720"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=pcZyHsVqTtE",
+                        "name": "DRUNK ELEPHANT BRAND REVIEW!",
+                        "description": "Thanks for watching! Visit my blog for more reviews and content: www.alittlebitetc.com Follow me on Instagram @alittlebitetc The products mentioned in the vi...",
+                        "paid": "False",
+                        "channelid": "UCZr_hP-z_q9aRUQR5RfseFg",
+                        "videoid": "pcZyHsVqTtE",
+                        "duration": "PT23M28S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/pcZyHsVqTtE/hqdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/pcZyHsVqTtE",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "14387",
+                        "datepublished": "2018-02-06",
+                        "genre": "People & Blogs"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/pcZyHsVqTtE/hqdefault.jpg",
+                        "width": "480",
+                        "height": "360"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/alittlebitetc"
+                    },
+                    {
+                        "url": "https://plus.google.com/104205860611356699024"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Continental_%2450_note_1778.jpg/220px-Continental_%2450_note_1778.jpg"
+                        "src": "https://i.ytimg.com/vi/pcZyHsVqTtE/hqdefault.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "USD - US Dollar rates, news, and tools",
-            "htmlTitle": "<b>USD</b> - <b>US Dollar</b> rates, news, and tools",
-            "link": "https://www.xe.com/currency/usd-us-dollar",
-            "displayLink": "www.xe.com",
-            "snippet": "4 days ago ... Also available are United States Dollar services like cheap money tranfers, a \nUSD currency data, and more. ... The Coinage Act of 1792 created the first U.S. \nMint and established the federal monetary system, as well as set denominations \nfor coins specified by their value in gold, silver, and copper. In 1861 ...",
-            "htmlSnippet": "4 days ago <b>...</b> Also available are <b>United States Dollar</b> services like cheap <b>money</b> tranfers, <b>a</b> <br>\n<b>USD currency</b> data, and more. ... The Coinage Act of 1792 <b>created</b> the first U.S. <br>\nMint and <b>established</b> the federal monetary system, as well as set denominations <br>\nfor coins specified by <b>their value in</b> gold, <b>silver</b>, and copper. <b>In</b> 1861&nbsp;...",
-            "cacheId": "R9a9lf7PsH0J",
-            "formattedUrl": "https://www.xe.com/currency/usd-us-dollar",
-            "htmlFormattedUrl": "https://www.xe.com/<b>currency</b>/<b>usd</b>-<b>us</b>-<b>dollar</b>",
+            "title": "Drunk Elephant",
+            "htmlTitle": "<b>Drunk Elephant</b>",
+            "link": "https://www.drunkelephant.com/",
+            "displayLink": "www.drunkelephant.com",
+            "snippet": "Shop our non-toxic, clinically efficacious skincare system infused with Virgin \nMarula Oil, clean actives, healthy superfruit extracts - all \"clean-clinical\"",
+            "htmlSnippet": "Shop our <b>non</b>-toxic, clinically efficacious <b>skincare</b> system infused with Virgin <br>\nMarula Oil, clean actives, healthy superfruit extracts - all &quot;clean-clinical&quot;",
+            "cacheId": "SRyZAgNndKgJ",
+            "formattedUrl": "https://www.drunkelephant.com/",
+            "htmlFormattedUrl": "https://www.<b>drunkelephant</b>.com/",
             "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "336",
+                        "height": "150",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkLY7dx4ZE0WGNxSmcOPFNXMaFyHbhVZXhj4DhApVXei4gVzQcwsmXWyib"
+                    }
+                ],
                 "metatags": [
                     {
-                        "version": "3.43",
+                        "p:domain_verify": "bec78053d04fc21802ba3f7c49b040d7",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-tileimage": "//cdn.shopify.com/s/files/1/0209/8446/t/97/assets/ms-icon-144x144.png?13466412947293764800",
+                        "theme-color": "#ffffff",
                         "twitter:card": "summary",
-                        "twitter:site": "@xe",
-                        "twitter:title": "USD - US Dollar rates, news, and tools",
-                        "twitter:description": "The US Dollar is the currency of United States. Our currency rankings show that the most popular United States Dollar exchange rate is the USD to EUR rate. The currency code for Dollars is...",
-                        "twitter:image:src": "https://s.xe.com/themes/xe/images/flags/square/USD.png",
-                        "twitter:app:name:iphone": "XE Currency",
-                        "twitter:app:name:ipad": "XE Currency",
-                        "twitter:app:name:googleplay": "XE Currency",
-                        "twitter:app:id:googleplay": "com.xe.currency",
-                        "twitter:app:id:iphone": "id315241195",
-                        "twitter:app:id:ipad": "id315241195"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "United States dollar - Wikipedia",
-            "htmlTitle": "<b>United States dollar</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/United_States_dollar",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "In other words, this act designated the United States dollar as the unit of currency \nof the United States. Unlike the Spanish milled dollar, the U.S. dollar is based \nupon a decimal system of values. In addition to the dollar the coinage act officially \nestablished monetary units of mill or one-thousandth of a dollar (symbol ₥), cent\n ...",
-            "htmlSnippet": "<b>In</b> other words, this act designated the <b>United States dollar</b> as the unit of <b>currency</b> <br>\nof the United States. Unlike the <b>Spanish</b> milled <b>dollar</b>, the <b>U.S. dollar</b> is based <br>\nupon <b>a</b> decimal system of <b>values</b>. <b>In</b> addition to the <b>dollar</b> the coinage act officially <br>\n<b>established</b> monetary units of mill or one-thousandth of <b>a dollar</b> (symbol ₥), cent<br>\n&nbsp;...",
-            "cacheId": "Z9AK-tlbUdkJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/United_States_dollar",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>United_States</b>_<b>dollar</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "240",
-                        "height": "210",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1JM7kBW940zrNIebYalOmaDx3HaS2vF-1C9R6M40QPYe3cMrhZVTUZTev"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/1200px-USDnotes.png"
+                        "twitter:site": "@mydrunkelephant",
+                        "twitter:creator": "@mydrunkelephant",
+                        "og:image": "//cdn.shopify.com/s/files/1/0209/8446/t/97/assets/logo.png?13466412947293764800",
+                        "og:url": "https://www.drunkelephant.com/",
+                        "og:title": "Drunk Elephant Skincare",
+                        "og:description": "Shop our non-toxic, clinically efficacious skincare system infused with Virgin Marula Oil, clean actives, healthy superfruit extracts - all \"clean-clinical\"",
+                        "handheldfriendly": "True",
+                        "mobileoptimized": "320",
+                        "shopify-digital-wallet": "/2098446/digital_wallets/dialog",
+                        "shopify-checkout-api-token": "d371caf7c04e434287df5f49f6f32c6e"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USDnotes.png/1200px-USDnotes.png"
+                        "src": "https://cdn.shopify.com/s/files/1/0209/8446/files/DE_Product_Awards_HP_banner.jpg?v=1524182180"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "US Dollar To Japanese Yen - Latest Exchange rates",
-            "htmlTitle": "<b>US Dollar</b> To Japanese Yen - Latest Exchange rates",
-            "link": "https://www.travelex.com/currency/currency-pairs/usd-to-jpy",
-            "displayLink": "www.travelex.com",
-            "snippet": "It's one of the biggest currencies in the world, it's time to find out all about the \nJapanese yen vs. the US dollar. Click here to learn more at ... made in a likeness \nof the Spanish coins. The Chinese didn't really trust the silver value of the new \ncoins and preferred to carry on using the more familiar Spanish and Mexican \ndollars.",
-            "htmlSnippet": "It&#39;s one of the biggest <b>currencies in</b> the world, it&#39;s time to find out all about the <br>\nJapanese yen vs. the <b>US dollar</b>. Click here to learn more at ... <b>made in a</b> likeness <br>\nof the <b>Spanish</b> coins. The Chinese didn&#39;t really trust the <b>silver value</b> of the new <br>\ncoins and preferred to carry on using the more familiar <b>Spanish</b> and Mexican <br>\n<b>dollars</b>.",
-            "cacheId": "SEYRjRBhYf4J",
-            "formattedUrl": "https://www.travelex.com/currency/currency-pairs/usd-to-jpy",
-            "htmlFormattedUrl": "https://www.travelex.com/<b>currency</b>/<b>currency</b>-pairs/<b>usd</b>-to-jpy",
+            "title": "DRUNK ELEPHANT SKINCARE: FULL REVIEW! - YouTube",
+            "htmlTitle": "<b>DRUNK ELEPHANT SKINCARE</b>: FULL REVIEW! - YouTube",
+            "link": "https://www.youtube.com/watch?v=ivIXAZYk2Ak",
+            "displayLink": "www.youtube.com",
+            "snippet": "Jan 14, 2018 ... I looove drunk elephant stuff, it's the first highend brand that I ever checked out & \nit actually has treated my acne beautifully!﻿ ... Usually it is true that \"you get what \nyou pay for\" with professional skincare, but I use a Korean knockoff of \nSkinceuticals that cost 1/4 of the price and has the same formulation and ...",
+            "htmlSnippet": "Jan 14, 2018 <b>...</b> I looove <b>drunk elephant</b> stuff, it&#39;s the first highend <b>brand</b> that I ever checked out &amp; <br>\nit actually has treated my acne beautifully!﻿ ... Usually it is true that &quot;you get what <br>\nyou pay for&quot; with professional <b>skincare</b>, but I use a Korean knockoff of <br>\nSkinceuticals that cost 1/4 of the price and has the same formulation and&nbsp;...",
+            "cacheId": "EpJtJsNfHIsJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=ivIXAZYk2Ak",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=ivIXAZYk2Ak",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "215",
-                        "height": "234",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-WsHUK1ccc4fnFHCoQMuKC2QU6rP6VJ-WhSzoELrk3O6MaqfWRkqwZ1U"
-                    }
-                ],
-                "website": [
-                    {
-                        "name": "US Dollar To Japanese Yen - Latest Exchange rates",
-                        "url": "https://www.travelex.com/currency/currency-pairs/usd-to-jpy"
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgptEoFjntlunwLH9UXm6wwp5QM58eu8Y0YegsbbsoTzOsNmWPK0CSlU"
                     }
                 ],
                 "metatags": [
                     {
-                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
-                        "apple-itunes-app": "app-id=1008842996",
-                        "google-play-app": "app-id=com.travelex.money"
+                        "title": "DRUNK ELEPHANT SKINCARE: FULL REVIEW!",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=ivIXAZYk2Ak",
+                        "og:title": "DRUNK ELEPHANT SKINCARE: FULL REVIEW!",
+                        "og:image": "https://i.ytimg.com/vi/ivIXAZYk2Ak/maxresdefault.jpg",
+                        "og:description": "WATCH MY Get Un-Ready with Me! — https://youtu.be/NagLz91NbPI WATCH ME Antihaul the C-Firma Day Serum! — https://youtu.be/aB5jponXG-w Stephanie Nicole's Vide...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=ivIXAZYk2Ak&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=ivIXAZYk2Ak&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=ivIXAZYk2Ak&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/ivIXAZYk2Ak",
+                        "og:video:secure_url": "https://www.youtube.com/embed/ivIXAZYk2Ak",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "kimberly clark"
                     }
                 ],
-                "listitem": [
+                "videoobject": [
                     {
-                        "position": "1"
+                        "url": "https://www.youtube.com/watch?v=ivIXAZYk2Ak",
+                        "name": "DRUNK ELEPHANT SKINCARE: FULL REVIEW!",
+                        "description": "WATCH MY Get Un-Ready with Me! — https://youtu.be/NagLz91NbPI WATCH ME Antihaul the C-Firma Day Serum! — https://youtu.be/aB5jponXG-w Stephanie Nicole's Vide...",
+                        "paid": "False",
+                        "channelid": "UCBrIGlQcnHsb6KfwcyYPhKA",
+                        "videoid": "ivIXAZYk2Ak",
+                        "duration": "PT35M28S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/ivIXAZYk2Ak/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/ivIXAZYk2Ak",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "40042",
+                        "datepublished": "2018-01-14",
+                        "genre": "Entertainment"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/ivIXAZYk2Ak/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/kimclarkqueen"
                     },
                     {
-                        "name": "USD to JPY"
+                        "url": "https://plus.google.com/107638736638172763168"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://www.travelex.com/media/2671/exchange-with-confidence-bg.jpg"
-                    }
-                ],
-                "thing": [
-                    {
-                        "name": "Currency"
-                    },
-                    {
-                        "name": "Currency pairs"
+                        "src": "https://i.ytimg.com/vi/ivIXAZYk2Ak/maxresdefault.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "MYR | Malaysian Ringgit | OANDA",
-            "htmlTitle": "MYR | Malaysian Ringgit | OANDA",
-            "link": "https://www.oanda.com/currency/iso-currency-codes/MYR",
-            "displayLink": "www.oanda.com",
-            "snippet": "Malaysia replaced the Spanish silver dollar with the Indian Rupee in 1837. After \n30 years ... Within the first 5 months, the Malaysian Dollar had decreased in value \nby 14.3%. ... The currency value fluctuated from 3.80 to 4.40 to the dollar before \nBank Negara Malaysia pegged the Ringgit to the US Dollar in September 1998.",
-            "htmlSnippet": "Malaysia replaced the <b>Spanish silver dollar</b> with the Indian Rupee <b>in</b> 1837. After <br>\n30 years ... Within the first 5 months, the Malaysian Dollar had decreased <b>in value</b> <br>\nby 14.3%. ... The <b>currency value</b> fluctuated from 3.80 to 4.40 to the dollar before <br>\nBank Negara Malaysia <b>pegged</b> the Ringgit to the <b>US Dollar in</b> September 1998.",
-            "cacheId": "drC-3_u28dsJ",
-            "formattedUrl": "https://www.oanda.com/currency/iso-currency-codes/MYR",
-            "htmlFormattedUrl": "https://www.oanda.com/<b>currency</b>/iso-<b>currency</b>-codes/MYR",
-            "pagemap": {
-                "document": [
-                    {
-                        "www_oanda_com": "1"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Gold and the Greenback: A Forgotten History Part I | FINRA.org",
-            "htmlTitle": "Gold and the Greenback: <b>A</b> Forgotten History Part I | FINRA.org",
-            "link": "https://www.finra.org/investors/gold-and-greenback-forgotten-history-part-i",
-            "displayLink": "www.finra.org",
-            "snippet": "Apr 20, 2015 ... It seems like a simple question, but a shift in the value of a U.S. dollar compared \nto other currencies can be driven by a number of factors, including the ... A few \nyears later, the Coinage Act established a U.S. Mint in Philadelphia and set the \nworth of each U.S. coin denomination in ounces of gold, silver, ...",
-            "htmlSnippet": "Apr 20, 2015 <b>...</b> It seems like <b>a</b> simple question, but <b>a</b> shift <b>in</b> the <b>value</b> of <b>a U.S. dollar</b> compared <br>\nto other <b>currencies</b> can be driven by <b>a</b> number of factors, including the ... <b>A</b> few <br>\nyears later, the Coinage Act <b>established a</b> U.S. Mint <b>in</b> Philadelphia and set the <br>\nworth of each U.S. coin denomination <b>in</b> ounces of gold, <b>silver</b>,&nbsp;...",
-            "cacheId": "_AQWxZ70dRwJ",
-            "formattedUrl": "https://www.finra.org/.../gold-and-greenback-forgotten-history-part-i",
-            "htmlFormattedUrl": "https://www.finra.org/.../gold-and-greenback-forgotten-<b>his</b>tory-part-i",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "329",
-                        "height": "153",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVINteFpjPQBMsOebg48s82Z10P7_-BdGWQehRi5ZyQQVuACAofzdv9Pg"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "mobileoptimized": "width",
-                        "handheldfriendly": "true",
-                        "viewport": "width=device-width"
-                    }
-                ],
-                "Item": [
-                    {
-                        "date": "2018-03-29T00:00:00-04:00"
-                    },
-                    {
-                        "date": "2018-03-07T00:00:00-05:00"
-                    },
-                    {
-                        "date": "2018-02-16T00:00:00-05:00"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.finra.org/sites/default/files/wp-content/uploads/2015/03/finra-gold-dollar-part-1-1440x670.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Gold Standard History and Facts",
-            "htmlTitle": "Gold Standard History and Facts",
-            "link": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
-            "displayLink": "www.thebalance.com",
-            "snippet": "By 560 B.C., the Lydians had figured out how to separate the gold from the silver, \nand so created the first truly gold coin. ... That's why Spain, Portugal, and England \nsent Columbus and other explorers to the New World. ... As a result, most \ncountries simply pegged the value of their currency to the dollar instead of to gold\n.",
-            "htmlSnippet": "By 560 B.C., the Lydians had figured out how to separate the gold from the <b>silver</b>, <br>\nand so <b>created</b> the first truly gold coin. ... That&#39;s why <b>Spain</b>, Portugal, and England <br>\nsent Columbus and other explorers to the New World. ... As <b>a</b> result, most <br>\ncountries simply <b>pegged</b> the <b>value</b> of <b>their currency</b> to the <b>dollar</b> instead of to gold<br>\n.",
-            "cacheId": "__ymDYIry3cJ",
-            "formattedUrl": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard- 3306136",
-            "htmlFormattedUrl": "https://www.thebalance.com/what-is-the-<b>his</b>tory-<b>of-the</b>-gold-standard- 3306136",
+            "title": "How The Founder Of Cult Skincare Brand Drunk Elephant Learned ...",
+            "htmlTitle": "How The Founder Of Cult <b>Skincare Brand Drunk Elephant</b> Learned ...",
+            "link": "https://www.girlboss.com/girlboss/2018/1/4/drunk-elephant-founder-interview",
+            "displayLink": "www.girlboss.com",
+            "snippet": "Jan 4, 2018 ... Chances are, if you're not obsessed with Drunk Elephant, it's only because you \nhaven't tried it yet—that'd be a logical conclusion to draw, anyway, based off the \nnearly 23,000 photos of the skin care products on Instagram. Not to mention the \naccompanying commentary from brand evangelists (all of whom ...",
+            "htmlSnippet": "Jan 4, 2018 <b>...</b> Chances are, if you&#39;re <b>not</b> obsessed with <b>Drunk Elephant</b>, it&#39;s only because you <br>\nhaven&#39;t tried it yet—that&#39;d be a logical conclusion to draw, anyway, based off the <br>\nnearly 23,000 photos of the <b>skin care products</b> on Instagram. <b>Not</b> to mention the <br>\naccompanying commentary from <b>brand</b> evangelists (all of whom&nbsp;...",
+            "cacheId": "0jrAY8RnZ6oJ",
+            "formattedUrl": "https://www.girlboss.com/.../1/4/drunk-elephant-founder-interview",
+            "htmlFormattedUrl": "https://www.girlboss.com/.../1/4/<b>drunk</b>-<b>elephant</b>-founder-interview",
             "pagemap": {
                 "cse_thumbnail": [
                     {
                         "width": "276",
                         "height": "183",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLBNZ2_GtVbP2UIX0d07qStuHDE9Fu9Knr_k_bpbTzqdrGC-oHtVgzt48"
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToe17ZQ8AGKGB7iu8q6dXQh40pFBkKM2ArYfnkIMe7_YEoBGWDz0Rr0sBN"
                     }
                 ],
                 "metatags": [
                     {
-                        "msapplication-tilecolor": "#F4F4F4",
-                        "msapplication-tileimage": "/static/3.0.3/icons/favicons/mstile-144x144.png",
-                        "msapplication-square70x70logo": "/static/3.0.3/icons/favicons/mstile-70x70.png",
-                        "msapplication-square150x150logo": "/static/3.0.3/icons/favicons/mstile-150x150.png",
-                        "msapplication-square310x310logo": "/static/3.0.3/icons/favicons/mstile-310x310.png",
-                        "msapplication-wide310x150logo": "/static/3.0.3/icons/favicons/mstile-310x150.png",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "sailthru.tags": "thebalance,us-economy",
-                        "article:section": "The Balance",
-                        "fb:app_id": "1204021896297075",
+                        "viewport": "initial-scale=1",
+                        "og:site_name": "Girlboss Media: Redefining success for ourselves.",
+                        "og:title": "How The Founder Of Cult Skincare Brand Drunk Elephant Learned To Love Her Trolls",
+                        "og:latitude": "40.7207559",
+                        "og:longitude": "-74.00076130000002",
+                        "og:url": "https://www.girlboss.com/girlboss/2018/1/4/drunk-elephant-founder-interview",
                         "og:type": "article",
-                        "og:site_name": "The Balance",
-                        "og:url": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
-                        "og:title": "When the Dollar Was Backed By Gold",
-                        "og:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
-                        "og:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
-                        "article:author": "https://www.facebook.com/thebalancecom",
+                        "og:description": "\"Let’s be honest: I kinda came out of left field.”",
+                        "og:image": "http://static1.squarespace.com/static/57922a859de4bbae635e3436/57cef565414fb53d268ccb05/5a4eb61f652dea1f60080f2e/1515118037210/180103_Girlboss_VanessaDrunkElephant.jpg?format=1000w",
+                        "og:image:width": "860",
+                        "og:image:height": "570",
+                        "twitter:title": "How The Founder Of Cult Skincare Brand Drunk Elephant Learned To Love Her Trolls",
+                        "twitter:image": "http://static1.squarespace.com/static/57922a859de4bbae635e3436/57cef565414fb53d268ccb05/5a4eb61f652dea1f60080f2e/1515118037210/180103_Girlboss_VanessaDrunkElephant.jpg?format=1000w",
+                        "twitter:url": "https://www.girlboss.com/girlboss/2018/1/4/drunk-elephant-founder-interview",
                         "twitter:card": "summary",
-                        "twitter:site": "@thebalance",
-                        "twitter:title": "When the Dollar Was Backed By Gold",
-                        "twitter:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
-                        "twitter:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
-                        "lotame:tax4": "bal_commodities-market",
-                        "lotame:tax3": "bal_us-markets",
-                        "lotame:tax2": "bal_us-economy",
-                        "lotame:tax1": "bal_investing",
-                        "lotame:tax0": "bal"
+                        "twitter:description": "\"Let’s be honest: I kinda came out of left field.”",
+                        "twitter:creator": "@girlboss",
+                        "twitter:domain": "girlboss.com",
+                        "twitter:site": "@girlboss"
+                    }
+                ],
+                "article": [
+                    {
+                        "name": "How The Founder Of Cult Skincare Brand Drunk Elephant Learned To Love Her Trolls",
+                        "url": "https://www.girlboss.com/girlboss/2018/1/4/drunk-elephant-founder-interview",
+                        "description": "\"Let’s be honest: I kinda came out of left field.”",
+                        "thumbnailurl": "http://static1.squarespace.com/static/57922a859de4bbae635e3436/57cef565414fb53d268ccb05/5a4eb61f652dea1f60080f2e/1515118037210/180103_Girlboss_VanessaDrunkElephant.jpg?format=1000w",
+                        "image": "http://static1.squarespace.com/static/57922a859de4bbae635e3436/57cef565414fb53d268ccb05/5a4eb61f652dea1f60080f2e/1515118037210/180103_Girlboss_VanessaDrunkElephant.jpg?format=1000w"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg"
+                        "src": "http://static1.squarespace.com/static/57922a859de4bbae635e3436/57cef565414fb53d268ccb05/5a4eb61f652dea1f60080f2e/1515118037210/180103_Girlboss_VanessaDrunkElephant.jpg?format=1000w"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "A History of the CANADIAN DOLLAR",
-            "htmlTitle": "<b>A</b> History <b>of the</b> CANADIAN <b>DOLLAR</b>",
-            "link": "https://www.bankofcanada.ca/wp-content/uploads/2010/07/dollar_book.pdf",
-            "displayLink": "www.bankofcanada.ca",
-            "snippet": "Return to a Floating Rate. (June 1970–present). Concluding Remarks. Appendix \nA: Purchasing Power of the Canadian Dollar. Appendix B: Alternative Money ...... \nother silver and gold coins of this period, its value was officially inflated to keep it \nfrom being sent out of the country. Spain, 2 reals, 1760. Called the pistareen, this\n ...",
-            "htmlSnippet": "Return to <b>a</b> Floating Rate. (June 1970–present). Concluding Remarks. Appendix <br>\n<b>A</b>: Purchasing Power of the Canadian <b>Dollar</b>. Appendix B: Alternative <b>Money</b> ...... <br>\nother <b>silver</b> and gold coins of this period, <b>its value</b> was officially inflated to keep it <br>\nfrom being sent out <b>of the</b> country. <b>Spain</b>, 2 reals, 1760. Called the pistareen, this<br>\n&nbsp;...",
-            "cacheId": "JsH5ZBZTuNwJ",
-            "mime": "application/pdf",
-            "fileFormat": "PDF/Adobe Acrobat",
-            "formattedUrl": "https://www.bankofcanada.ca/wp-content/uploads/.../dollar_book.pdf",
-            "htmlFormattedUrl": "https://www.bankofcanada.ca/wp-content/uploads/.../<b>dollar</b>_book.pdf",
+            "title": "Drunk Elephant Skincare: Is It Any Good?? Brand Review + Current ...",
+            "htmlTitle": "<b>Drunk Elephant Skincare</b>: Is It Any Good?? <b>Brand</b> Review + Current ...",
+            "link": "https://www.youtube.com/watch?v=xVc0QtpHMgo",
+            "displayLink": "www.youtube.com",
+            "snippet": "Mar 19, 2018 ... Love the Drunk Elephant products. I have very dry skin and I have tried so many \nproducts that did not hydrate my skin. I use the B-hydra gel, it is so cooling on the \nface , the LaLa Whipped Cream is very moisturizing and like you said just a small \namount goes along way and my favorite is the Marula Oil.",
+            "htmlSnippet": "Mar 19, 2018 <b>...</b> Love the <b>Drunk Elephant products</b>. I have very dry <b>skin</b> and I have tried so many <br>\n<b>products</b> that did <b>not</b> hydrate my <b>skin</b>. I use the B-hydra gel, it is so cooling on the <br>\n<b>face</b> , the LaLa Whipped <b>Cream</b> is very moisturizing and like you said just a small <br>\namount goes along way and my favorite is the Marula Oil.",
+            "cacheId": "PlnZAD5Nr1sJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=xVc0QtpHMgo",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=xVc0QtpHMgo",
             "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy1_U9stjjtdvPij3bGz588lcp0Vjae8X6JKTluRQs4JP-9sst2xNlwS0t"
+                    }
+                ],
                 "metatags": [
                     {
-                        "creationdate": "D:20060207191536Z",
-                        "moddate": "D:20060214120950-05'00'",
-                        "producer": "Acrobat Distiller 5.0 (Windows)",
-                        "author": "levo",
-                        "creator": "PScript5.dll Version 5.2",
-                        "title": "A History of the CANADIAN DOLLAR"
+                        "title": "Drunk Elephant Skincare: Is It Any Good?? Brand Review + Current Skincare Routine AM & PM",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=xVc0QtpHMgo",
+                        "og:title": "Drunk Elephant Skincare: Is It Any Good?? Brand Review + Current Skincare Routine AM & PM",
+                        "og:image": "https://i.ytimg.com/vi/xVc0QtpHMgo/maxresdefault.jpg",
+                        "og:description": "Hey Loves, today's video is a long one: I share all my thoughts on the Drunk Elephant Skincare Brand and talk you through my current skincare routine for mor...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=xVc0QtpHMgo&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=xVc0QtpHMgo&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=xVc0QtpHMgo&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/xVc0QtpHMgo",
+                        "og:video:secure_url": "https://www.youtube.com/embed/xVc0QtpHMgo",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "Drunk elephant",
+                        "fb:app_id": "87741124305",
+                        "twitter:card": "player",
+                        "twitter:site": "@youtube",
+                        "twitter:url": "https://www.youtube.com/watch?v=xVc0QtpHMgo",
+                        "twitter:title": "Drunk Elephant Skincare: Is It Any Good?? Brand Review + Current Skincare Routine AM & PM",
+                        "twitter:description": "Hey Loves, today's video is a long one: I share all my thoughts on the Drunk Elephant Skincare Brand and talk you through my current skincare routine for mor..."
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=xVc0QtpHMgo",
+                        "name": "Drunk Elephant Skincare: Is It Any Good?? Brand Review + Current Skincare Routine AM & PM",
+                        "description": "Hey Loves, today's video is a long one: I share all my thoughts on the Drunk Elephant Skincare Brand and talk you through my current skincare routine for mor...",
+                        "paid": "False",
+                        "channelid": "UCLnlVsFXX-rnwqJR_tTjcNw",
+                        "videoid": "xVc0QtpHMgo",
+                        "duration": "PT26M20S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/xVc0QtpHMgo/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/xVc0QtpHMgo",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "15107",
+                        "datepublished": "2018-03-19",
+                        "genre": "Howto & Style"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/xVc0QtpHMgo/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/NZBrunetteBarbie"
+                    },
+                    {
+                        "url": "https://plus.google.com/110192222314506718698"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/xVc0QtpHMgo/maxresdefault.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "China Is Laying The Foundation For The Next World Gold Standard ...",
-            "htmlTitle": "China Is Laying The Foundation For The Next World Gold Standard ...",
-            "link": "https://www.forbes.com/sites/nathanlewis/2016/05/05/china-is-laying-the-foundation-for-the-next-world-gold-standard-system/",
-            "displayLink": "www.forbes.com",
-            "snippet": "May 5, 2016 ... On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is \nintended to be a replacement for the London Gold Fix, the primary price-\ndiscovery mechanism for gold bullion today. The London “bullion” market is not a \nmarket in bullion. Rather, it is a market in “unallocated” gold, defined [...]",
-            "htmlSnippet": "May 5, 2016 <b>...</b> On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is <br>\nintended to be <b>a</b> replacement for the London Gold Fix, the primary <b>price</b>-<br>\ndiscovery mechanism for gold bullion today. The London “bullion” market is not <b>a</b> <br>\nmarket <b>in</b> bullion. Rather, it is <b>a</b> market <b>in</b> “unallocated” gold, defined [...]",
-            "cacheId": "RfNlYd_UpPsJ",
-            "formattedUrl": "https://www.forbes.com/.../china-is-laying-the-foundation-for-the-next-world -gold-standard-system/",
-            "htmlFormattedUrl": "https://www.forbes.com/.../ch<b>ina</b>-is-laying-the-foundation-for-the-next-world -gold-standard-system/",
+            "title": "Drunk Elephant Is Doing Everything Right - Racked",
+            "htmlTitle": "<b>Drunk Elephant</b> Is Doing Everything Right - Racked",
+            "link": "https://www.racked.com/beauty/2017/8/8/16106272/drunk-elephant-sephora-best-selling-skincare-face-mask-serum",
+            "displayLink": "www.racked.com",
+            "snippet": "Aug 8, 2017 ... Photo: Drunk Elephant Racked has affiliate partnerships, which do not influence \neditorial content, though we may earn commissions for products ... In May of this \nyear, Forbes reported that relatively young skincare brand Drunk Elephant has \nalready raked in about $25 million for its founder, Tiffany ...",
+            "htmlSnippet": "Aug 8, 2017 <b>...</b> Photo: <b>Drunk Elephant</b> Racked has affiliate partnerships, which do <b>not</b> influence <br>\neditorial content, though we may earn commissions for <b>products</b> ... In May of this <br>\nyear, Forbes reported that relatively young <b>skincare brand Drunk Elephant</b> has <br>\nalready raked in about $25 million for its founder, Tiffany&nbsp;...",
+            "cacheId": "rDZrKsY3Oc0J",
+            "formattedUrl": "https://www.racked.com/.../drunk-elephant-sephora-best-selling-skincare-face -mask-serum",
+            "htmlFormattedUrl": "https://www.racked.com/.../<b>drunk</b>-<b>elephant</b>-sephora-best-selling-<b>skincare</b>-<b>face</b> -mask-serum",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0HxwSQHUMAScLEV1IUoDCY81UeYlb71Lgs69816jILK38VOm1quLbWlgw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "apple-mobile-web-app-title": "Racked",
+                        "article:publisher": "https://www.facebook.com/rackednational",
+                        "author": "Tanisha Pina",
+                        "article:published_time": "2017-08-08T12:31:42-04:00",
+                        "style-tools": "https://www.racked.com/style/community/522/7908d81b3123bbbe8e60bed9403fb104/tools.css",
+                        "og:description": "There’s a reason Sephora can’t keep this natural-meets-clinical skincare line in stock.",
+                        "fb:app_id": "549923288395304",
+                        "og:image": "https://cdn.vox-cdn.com/thumbor/SQeTFHjZo0KNplO9M0ifS3GkNGE=/0x684:6207x4175/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/56105487/drunkelephant_image.0.jpg",
+                        "og:image:height": "900",
+                        "og:image:width": "1600",
+                        "og:site_name": "Racked",
+                        "og:title": "Drunk Elephant Is Doing Everything Right",
+                        "og:type": "article",
+                        "og:url": "https://www.racked.com/beauty/2017/8/8/16106272/drunk-elephant-sephora-best-selling-skincare-face-mask-serum",
+                        "twitter:card": "summary_large_image",
+                        "twitter:url": "https://www.racked.com/beauty/2017/8/8/16106272/drunk-elephant-sephora-best-selling-skincare-face-mask-serum",
+                        "twitter:title": "Drunk Elephant Is Doing Everything Right",
+                        "twitter:description": "There’s a reason Sephora can’t keep this natural-meets-clinical skincare line in stock.",
+                        "twitter:image": "https://cdn.vox-cdn.com/thumbor/SQeTFHjZo0KNplO9M0ifS3GkNGE=/0x684:6207x4175/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/56105487/drunkelephant_image.0.jpg",
+                        "twitter:site": "Racked",
+                        "sailthru.title": "Drunk Elephant Is Doing Everything Right",
+                        "sailthru.tags": "general,racked",
+                        "sailthru.date": "2017-08-08",
+                        "sailthru.description": "There’s a reason Sephora can’t keep this natural-meets-clinical skincare line in stock.",
+                        "msvalidate.01": "D385D0326A3AE144205C298DB34B4E94",
+                        "msapplication-tileimage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/10131605/144x144.0.png",
+                        "msapplication-tilecolor": "#FF0080",
+                        "outbrainsection": "shopping",
+                        "og:video:width": "640",
+                        "og:video:height": "360",
+                        "twitter:player:stream": "https://volume.vox-cdn.com/proxy/asset/5e2155b2-19d6-43a7-a320-68e859858c5b/108397"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.vox-cdn.com/thumbor/SQeTFHjZo0KNplO9M0ifS3GkNGE=/0x684:6207x4175/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/56105487/drunkelephant_image.0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What's Up in Makeup NEWS! Dermstore vs Drunk Elephant? Revlon ...",
+            "htmlTitle": "What&#39;s Up in Makeup NEWS! Dermstore vs <b>Drunk Elephant</b>? Revlon ...",
+            "link": "https://www.youtube.com/watch?v=dlIdczlZ1WQ",
+            "displayLink": "www.youtube.com",
+            "snippet": "Jan 28, 2018 ... Welcome to What's Up in Makeup, our full length weekly news show all about \nmakeup and beauty! We'll talk top makeup industry news, plus the latest makeup \nrel...",
+            "htmlSnippet": "Jan 28, 2018 <b>...</b> Welcome to What&#39;s Up in Makeup, our full length weekly news show all about <br>\nmakeup and beauty! We&#39;ll talk top makeup industry news, plus the latest makeup <br>\nrel...",
+            "cacheId": "EUzihgRBMNsJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=dlIdczlZ1WQ",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=dlIdczlZ1WQ",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEo_RNRsWL2toMGiTvLpAFh9on65IREg2HBdmIq089YyMQGArwe-4vyIq4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "What's Up in Makeup NEWS! Dermstore vs Drunk Elephant? Revlon Celebrates Diversity! Alexa's Makeup!",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=dlIdczlZ1WQ",
+                        "og:title": "What's Up in Makeup NEWS! Dermstore vs Drunk Elephant? Revlon Celebrates Diversity! Alexa's Makeup!",
+                        "og:image": "https://i.ytimg.com/vi/dlIdczlZ1WQ/maxresdefault.jpg",
+                        "og:description": "Welcome to What's Up in Makeup, our full length weekly news show all about makeup and beauty! We’ll talk top makeup industry news, plus the latest makeup rel...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=dlIdczlZ1WQ&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=dlIdczlZ1WQ&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=dlIdczlZ1WQ&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/dlIdczlZ1WQ",
+                        "og:video:secure_url": "https://www.youtube.com/embed/dlIdczlZ1WQ",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "makeup news"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=dlIdczlZ1WQ",
+                        "name": "What's Up in Makeup NEWS! Dermstore vs Drunk Elephant? Revlon Celebrates Diversity! Alexa's Makeup!",
+                        "description": "Welcome to What's Up in Makeup, our full length weekly news show all about makeup and beauty! We’ll talk top makeup industry news, plus the latest makeup rel...",
+                        "paid": "False",
+                        "channelid": "UCR96_hHJu3HE6vmu39_bRAw",
+                        "videoid": "dlIdczlZ1WQ",
+                        "duration": "PT22M54S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/dlIdczlZ1WQ/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/dlIdczlZ1WQ",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "16679",
+                        "datepublished": "2018-01-28",
+                        "genre": "Howto & Style"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/dlIdczlZ1WQ/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/jenluvsreviews"
+                    },
+                    {
+                        "url": "https://plus.google.com/115014302064474010606"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/dlIdczlZ1WQ/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Glossier and Drunk Elephant are fighting in Instagram post ...",
+            "htmlTitle": "Glossier and <b>Drunk Elephant</b> are fighting in Instagram post ...",
+            "link": "https://babe.net/2018/02/13/glossier-drunk-elephant-instagram-34888",
+            "displayLink": "babe.net",
+            "snippet": "Feb 13, 2018 ... But then, the unthinkable happened: the official Instagram for Drunk Elephant \nSkincare responded to a comment meant for user @stephgrey3434 (an account \nwhich has since been deleted). \"Fragrance doesn't belong in skincare products,\" \nDrunk Elephant said. \"Its not good for you so why do companies ...",
+            "htmlSnippet": "Feb 13, 2018 <b>...</b> But then, the unthinkable happened: the official Instagram for <b>Drunk Elephant</b> <br>\n<b>Skincare</b> responded to a comment meant for user @stephgrey3434 (an account <br>\nwhich has since been deleted). &quot;Fragrance doesn&#39;t belong in <b>skincare products</b>,&quot; <br>\n<b>Drunk Elephant</b> said. &quot;Its <b>not</b> good for you so why do companies&nbsp;...",
+            "cacheId": "5n_FtYOUVK0J",
+            "formattedUrl": "https://babe.net/2018/02/.../glossier-drunk-elephant-instagram-34888",
+            "htmlFormattedUrl": "https://babe.net/2018/02/.../glossier-<b>drunk</b>-<b>elephant</b>-instagram-34888",
             "pagemap": {
                 "cse_thumbnail": [
                     {
                         "width": "310",
                         "height": "163",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJNDhHzXRyH7EfYHCVDxYnE0TJkhTBJRgs7e6LvjGwkBw-uASefBVHevw"
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxt39_SaGj8whNR7lwk5KKQa_tI00zT8oAZLxjLpBVo-2E_RIvaFOnq5We"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "format-detection": "telephone=no",
+                        "theme-color": "#ff959c",
+                        "original-source": "https://babe.net/2018/02/13/glossier-drunk-elephant-instagram-34888",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Glossier and Drunk Elephant are fighting in Instagram post comments, and I’m LIVING for this drama",
+                        "og:description": "#TeamWhoeverWillSponsorUs",
+                        "og:url": "https://babe.net/2018/02/13/glossier-drunk-elephant-instagram-34888",
+                        "og:site_name": "babe",
+                        "article:publisher": "https://www.facebook.com/babedotnet",
+                        "article:author": "https://www.facebook.com/katie.way.52",
+                        "article:section": "looks",
+                        "article:published_time": "2018-02-13T17:05:44+01:00",
+                        "article:modified_time": "2018-02-13T17:34:19+01:00",
+                        "og:updated_time": "2018-02-13T17:34:19+01:00",
+                        "fb:app_id": "1311368035583282",
+                        "og:image": "https://media.thetab.com/blogs.dir/279/files/2018/02/shampoo-lotion-bottle-cosmetics.jpeg",
+                        "og:image:secure_url": "https://media.thetab.com/blogs.dir/279/files/2018/02/shampoo-lotion-bottle-cosmetics.jpeg",
+                        "og:image:width": "1240",
+                        "og:image:height": "651",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "#TeamWhoeverWillSponsorUs",
+                        "twitter:title": "Glossier and Drunk Elephant are fighting in Instagram post comments, and I’m LIVING for this drama",
+                        "twitter:site": "@babedotnet",
+                        "twitter:image": "https://media.thetab.com/blogs.dir/279/files/2018/02/shampoo-lotion-bottle-cosmetics.jpeg",
+                        "twitter:creator": "@k80way",
+                        "webgains-site-verification": "yjqf6g83",
+                        "p:domain_verify": "1c7a608ce79e445293a16b0f3a167c5b",
+                        "fb:pages": "178946012253116"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.thetab.com/blogs.dir/279/files/2018/02/shampoo-lotion-bottle-cosmetics.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Drunk Elephant Founder Tiffany Masterson Takes Skincare by Storm ...",
+            "htmlTitle": "<b>Drunk Elephant</b> Founder Tiffany Masterson Takes <b>Skincare</b> by Storm ...",
+            "link": "https://www.vanityfair.com/style/2018/01/drunk-elephant-founder-tiffany-masterson-takes-skincare-by-storm",
+            "displayLink": "www.vanityfair.com",
+            "snippet": "Jan 10, 2018 ... Luckily for us, Tiffany Masterson, founder of runaway hit skincare brand Drunk \nElephant, didn't stop at pretty packaging. Drunk Elephant officially launched in .... \nas does everything with the brand. I felt weird naming it after myself because I'm \nnot a doctor and I'm actually really shy and don't love attention.",
+            "htmlSnippet": "Jan 10, 2018 <b>...</b> Luckily for us, Tiffany Masterson, founder of runaway hit <b>skincare brand Drunk</b> <br>\n<b>Elephant</b>, didn&#39;t stop at pretty packaging. <b>Drunk Elephant</b> officially launched in .... <br>\nas does everything with the <b>brand</b>. I felt weird naming it after myself because I&#39;m <br>\n<b>not</b> a doctor and I&#39;m actually really shy and don&#39;t love attention.",
+            "cacheId": "Px9Ocn3_pQsJ",
+            "formattedUrl": "https://www.vanityfair.com/.../drunk-elephant-founder-tiffany-masterson- takes-skincare-by-storm",
+            "htmlFormattedUrl": "https://www.vanityfair.com/.../<b>drunk</b>-<b>elephant</b>-founder-tiffany-masterson- takes-<b>skincare</b>-by-storm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5fZSKwJKHHsiV9kkGyXUyHCNTMhNP14yLWlBe2nxxLneu8WwyMGjkcEo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tap-highlight": "no",
+                        "viewport": "user-scalable=no,width=device-width,initial-scale=1,maximum-scale=1",
+                        "parsely-metadata": "{\"rubric\":\"Beauty Maker\"}",
+                        "author": "Nora Maloney",
+                        "pubdate": "2018-01-10T12:33:00Z",
+                        "copyright": "Copyright (c) Condé Nast 2018",
+                        "fb:pages": "8810407571",
+                        "fb:app_id": "563877870484589",
+                        "og:site_name": "Vanities",
+                        "og:image": "https://media.vanityfair.com/photos/5a53f8c2673a1d1d660fa057/16:9/w_1200,h_630,c_limit/4699_161103_Tiffany.jpg",
+                        "og:title": "Drunk Elephant Founder Tiffany Masterson Takes Skincare by Storm",
+                        "og:description": "Results speak louder than words.",
+                        "og:url": "https://www.vanityfair.com/style/2018/01/drunk-elephant-founder-tiffany-masterson-takes-skincare-by-storm",
+                        "og:type": "article",
+                        "twitter:site": "@VanityFair",
+                        "twitter:domain": "https://www.vanityfair.com",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Drunk Elephant Founder Tiffany Masterson Takes Skincare by Storm",
+                        "twitter:description": "Results speak louder than words.",
+                        "twitter:image:src": "https://media.vanityfair.com/photos/5a53f8c2673a1d1d660fa057/16:9/pass/4699_161103_Tiffany.jpg?mbid=social_retweet"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.vanityfair.com/photos/5a53f8c2673a1d1d660fa057/16:9/w_1200,h_630,c_limit/4699_161103_Tiffany.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nontoxic Skincare Startup Drunk Elephant Minted A $25 Million ...",
+            "htmlTitle": "Nontoxic <b>Skincare</b> Startup <b>Drunk Elephant</b> Minted A $25 Million ...",
+            "link": "https://www.forbes.com/sites/chloesorvino/2017/05/30/nontoxic-skincare-startup-drunk-elephant-minted-a-25-million-and-growing-fortune-for-its-founder/",
+            "displayLink": "www.forbes.com",
+            "snippet": "May 30, 2017 ... \"We're not smarter than skin. No one says you have a sensitive liver. You either \ndrink too much or you don't.\" With research and help from a chemist, she began \ndeveloping a small line of nontoxic skincare in 2012, called Drunk Elephant. (She \nnamed it that after one of her first products, a hydrating marula ...",
+            "htmlSnippet": "May 30, 2017 <b>...</b> &quot;We&#39;re <b>not</b> smarter than skin. No one says you have a sensitive liver. You either <br>\ndrink too much or you don&#39;t.&quot; With research and help from a chemist, she began <br>\ndeveloping a small line of nontoxic <b>skincare</b> in 2012, called <b>Drunk Elephant</b>. (She <br>\nnamed it that after one of her first <b>products</b>, a hydrating marula&nbsp;...",
+            "cacheId": "l4cAGUkvpfAJ",
+            "formattedUrl": "https://www.forbes.com/.../nontoxic-skincare-startup-drunk-elephant-minted- a-25-million-and-growing-fortune-for-its-founder/",
+            "htmlFormattedUrl": "https://www.forbes.com/.../<b>non</b>toxic-<b>skincare</b>-startup-<b>drunk</b>-<b>elephant</b>-minted- a-25-million-and-growing-fortune-for-its-founder/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStbbzgX-irzgotauMbogT1f1s1YgaB1YlAUcj-Emvg6kuxG9OjNZpIKKJo"
                     }
                 ],
                 "metatags": [
@@ -367,57 +721,30 @@
                         "fb:app_id": "123694841080850",
                         "og:site_name": "Forbes",
                         "twitter:site": "@forbes",
-                        "author": "Nathan Lewis",
-                        "og:title": "China Is Laying The Foundation For The Next World Gold Standard System",
-                        "og:image": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Fassets%2Fforbes_1200x1200.jpg",
-                        "og:updated_time": "2016-05-06T10:12:11-04:00",
-                        "og:url": "https://www.forbes.com/sites/nathanlewis/2016/05/05/china-is-laying-the-foundation-for-the-next-world-gold-standard-system/",
-                        "og:description": "On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is intended to be a replacement for the London Gold Fix, the primary price-discovery mechanism for gold bullion today. The London “bullion” market is not a market in bullion. Rather, it is a market in “unallocated” gold, defined [...]",
+                        "author": "Chloe Sorvino",
+                        "og:title": "Nontoxic Skincare Startup Drunk Elephant Minted A $25 Million (And Growing) Fortune For Its Founder",
+                        "og:image": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fchloesorvino%2Ffiles%2F2017%2F05%2FTM_New-1200x555.jpg",
+                        "og:updated_time": "2017-05-30T16:52:36-04:00",
+                        "og:url": "https://www.forbes.com/sites/chloesorvino/2017/05/30/nontoxic-skincare-startup-drunk-elephant-minted-a-25-million-and-growing-fortune-for-its-founder/",
+                        "og:description": "Look out for Drunk Elephant's Tiffany Masterson. She could be the next beauty entrepreneur to strike it rich if her nontoxic skincare startup gets acquired.",
                         "og:type": "article",
                         "twitter:card": "summary_large_image",
-                        "twitter:title": "China Is Laying The Foundation For The Next World Gold Standard System",
-                        "twitter:description": "On April 19, the Shanghai Gold Fix officially began. The pricing mechanism is intended to be a replacement for the London Gold Fix, the primary price-discovery mechanism for gold bullion today. The London “bullion” market is not a market in bullion. Rather, it is a market in “unallocated” gold, defined [...]",
-                        "twitter:image": "https://thumbor.forbes.com/thumbor/600x300/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Fassets%2Fforbes_1200x1200.jpg",
-                        "twitter:creator": "@nathanlewis",
-                        "news_keywords": "Economics, OpEd, Economics &amp; Finance, Op/Ed",
+                        "twitter:title": "Nontoxic Skincare Startup Drunk Elephant Minted A $25 Million (And Growing) Fortune For Its Founder",
+                        "twitter:description": "Look out for Drunk Elephant's Tiffany Masterson. She could be the next beauty entrepreneur to strike it rich if her nontoxic skincare startup gets acquired.",
+                        "twitter:image": "https://thumbor.forbes.com/thumbor/600x300/https%3A%2F%2Fblogs-images.forbes.com%2Fchloesorvino%2Ffiles%2F2017%2F05%2FTM_New-1200x555.jpg",
+                        "twitter:creator": "@chloesorvino",
                         "article:publisher": "https://www.facebook.com/forbes",
-                        "article:author": "Nathan Lewis",
-                        "article:section": "Opinion",
-                        "article:section_url": "https://www.forbes.com/opinion/",
-                        "article:id": "blogAndPostId/blog/post/1645-1683",
-                        "article:published": "2016-05-05",
-                        "article:modified": "2016-05-06"
+                        "article:author": "Chloe Sorvino",
+                        "article:section": "Business",
+                        "article:section_url": "https://www.forbes.com/business/",
+                        "article:id": "blogAndPostId/blog/post/3235-2919",
+                        "article:published": "2017-05-30",
+                        "article:modified": "2017-05-30"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Fassets%2Fforbes_1200x1200.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "United States dollar",
-            "htmlTitle": "<b>United States dollar</b>",
-            "link": "http://cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/u/United_States_dollar.htm",
-            "displayLink": "cs.mcgill.ca",
-            "snippet": "In the second half of the 19th century there were occasional discussions of \ncreating a $50 gold coin, which was referred to as a \"Half Union,\" thus implying a \n... These currencies were denominated in pounds, shillings and pence ( £sd) and \nthe Spanish dollar was \"rated\" at a particular value in the currency of each colony\n.",
-            "htmlSnippet": "<b>In</b> the second half <b>of the</b> 19th century there were occasional discussions of <br>\n<b>creating a</b> $50 gold coin, which was referred to as <b>a</b> &quot;Half Union,&quot; thus implying <b>a</b> <br>\n... These <b>currencies</b> were denominated <b>in</b> pounds, shillings and pence ( £sd) and <br>\nthe <b>Spanish dollar</b> was &quot;rated&quot; at <b>a</b> particular <b>value in</b> the <b>currency</b> of each colony<br>\n.",
-            "cacheId": "r28uv0mT41UJ",
-            "formattedUrl": "cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/.../United_States_dollar.htm",
-            "htmlFormattedUrl": "cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/.../<b>United_States</b>_<b>dollar</b>.htm",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "300",
-                        "height": "131",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRck51GdJYl_Y2rWuAJ2G3G56pMWdnsISOGSW0NIlneMrkZnZcEMDCC9bLr"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "http://cs.mcgill.ca/~rwest/wikispeedia/wpcd/images/140/14024.jpg"
+                        "src": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fchloesorvino%2Ffiles%2F2017%2F05%2FTM_New-1200x555.jpg"
                     }
                 ]
             }

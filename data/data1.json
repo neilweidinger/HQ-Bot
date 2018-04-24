@@ -7,400 +7,813 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? French franc",
-                "totalResults": "110000",
-                "searchTerms": "When the US dollar currency was created, what was its value pegged to? French franc",
+                "title": "Google Custom Search - what is not a skin care brand? Kristin Ess",
+                "totalResults": "22300",
+                "searchTerms": "what is not a skin care brand? Kristin Ess",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
-                "cx": "007453928249679215123:ynpo3pdphmg"
+                "cx": "007453928249679215123:dhdhqg4tpxi"
             }
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - When the US dollar currency was created, what was its value pegged to? French franc",
-                "totalResults": "110000",
-                "searchTerms": "When the US dollar currency was created, what was its value pegged to? French franc",
+                "title": "Google Custom Search - what is not a skin care brand? Kristin Ess",
+                "totalResults": "22300",
+                "searchTerms": "what is not a skin care brand? Kristin Ess",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
-                "cx": "007453928249679215123:ynpo3pdphmg"
+                "cx": "007453928249679215123:dhdhqg4tpxi"
             }
         ]
     },
     "context": {
-        "title": "second"
+        "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.664077,
-        "formattedSearchTime": "0.66",
-        "totalResults": "110000",
-        "formattedTotalResults": "110,000"
+        "searchTime": 0.408445,
+        "formattedSearchTime": "0.41",
+        "totalResults": "22300",
+        "formattedTotalResults": "22,300"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "CFA franc - Wikipedia",
-            "htmlTitle": "CFA <b>franc</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/CFA_franc",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "The reason for their creation was the weakness of the French franc immediately \nafter World War II. When France ratified the Bretton Woods Agreement in \nDecember 1945, the French franc was devalued in order to set a fixed exchange \nrate with the US dollar. New currencies were created in the French colonies to \nspare them ...",
-            "htmlSnippet": "The reason for <b>their creation</b> was the weakness of the <b>French franc</b> immediately <br>\nafter World War II. When France ratified the Bretton Woods Agreement <b>in</b> <br>\nDecember 1945, the <b>French franc</b> was devalued <b>in</b> order to set <b>a</b> fixed <b>exchange</b> <br>\nrate with the <b>US dollar</b>. New <b>currencies</b> were <b>created in</b> the French colonies to <br>\nspare them&nbsp;...",
-            "cacheId": "rLOna4a65FkJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/CFA_franc",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CFA_<b>franc</b>",
+            "title": "Kristin Ess to Launch 11 New Hair-Care Products for Spring 2018 ...",
+            "htmlTitle": "<b>Kristin Ess</b> to Launch 11 New Hair-<b>Care Products</b> for Spring 2018 ...",
+            "link": "https://www.allure.com/story/kristin-ess-spring-2018-new-hair-care-launches",
+            "displayLink": "www.allure.com",
+            "snippet": "Jan 19, 2018 ... And by mad, I mean, you will thank me later, so you're welcome in advance. \nHairstylist Kristin Ess is launching some additions to her eponymous hair-care \nline, and it's maje. For Spring 2018, the brand is rolling out not one, not three, but \n11 brand-spanking-new products exclusively onto Target shelves, ...",
+            "htmlSnippet": "Jan 19, 2018 <b>...</b> And by mad, I mean, you will thank me later, so you&#39;re welcome in advance. <br>\nHairstylist <b>Kristin Ess</b> is launching some additions to her eponymous hair-<b>care</b> <br>\nline, and it&#39;s maje. For Spring 2018, the <b>brand</b> is rolling out <b>not</b> one, <b>not</b> three, but <br>\n11 <b>brand</b>-spanking-new <b>products</b> exclusively onto Target shelves,&nbsp;...",
+            "cacheId": "FTaTPvfUcLkJ",
+            "formattedUrl": "https://www.allure.com/.../kristin-ess-spring-2018-new-hair-care-launches",
+            "htmlFormattedUrl": "https://www.allure.com/.../<b>kristin</b>-<b>ess</b>-spring-2018-new-hair-<b>care</b>-launches",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "253",
-                        "height": "199",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFPD4OiKpjUsk1gljKhwDtPy5BCCQpP7HvLGY5bFujnEH5vLH1wdnEL15T"
+                        "width": "317",
+                        "height": "159",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwTq9BJkGxhCpr7kL6jUK8MN6RyX-6M2kpVC3gFz7T12Ym8IoNk7s5fRPf"
                     }
                 ],
                 "metatags": [
                     {
-                        "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CFA_Franc_map.svg/1200px-CFA_Franc_map.svg.png"
+                        "msapplication-tap-highlight": "no",
+                        "viewport": "user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1",
+                        "author": "Jihan Forbes",
+                        "copyright": "Copyright (c) Cond&#233; Nast 2018",
+                        "og:description": "Prepare to obsess over each and every one.",
+                        "og:image": "https://media.allure.com/photos/5a5f8902ac75c72ad7987589/master/pass/Kristin_Ess_lede.jpg",
+                        "og:site_name": "Allure",
+                        "og:title": "Kristin Ess Is About to Launch the Most Exciting Hair-Care Collection of 2018",
+                        "og:type": "article",
+                        "og:url": "https://www.allure.com/story/kristin-ess-spring-2018-new-hair-care-launches",
+                        "twitter:card": "summary_large_image",
+                        "twitter:creator": "@Allure_magazine",
+                        "twitter:description": "Prepare to obsess over each and every one.",
+                        "twitter:domain": "www.allure.com",
+                        "twitter:image:src": "https://media.allure.com/photos/5a5f8902ac75c72ad7987589/master/pass/Kristin_Ess_lede.jpg?mbid=social_retweet",
+                        "twitter:site": "Allure_magazine",
+                        "twitter:title": "Kristin Ess Is About to Launch the Most Exciting Hair-Care Collection of 2018",
+                        "fb:pages": "24810773606",
+                        "fb:page_id": "24810773606",
+                        "fb:admins": "648235154,789168297,688620285",
+                        "news_keywords": "Hair,Kristin Ess"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CFA_Franc_map.svg/1200px-CFA_Franc_map.svg.png"
+                        "src": "https://media.allure.com/photos/5a5f8902ac75c72ad7987589/master/pass/Kristin_Ess_lede.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Understanding the CFA Franc and its Foreign Exchange Rate Impact",
-            "htmlTitle": "Understanding the CFA <b>Franc</b> and <b>its</b> Foreign <b>Exchange</b> Rate Impact",
-            "link": "https://www.americanexpress.com/us/content/foreign-exchange/articles/cfa-franc-and-its-foreign-exchange-rate-impact/",
-            "displayLink": "www.americanexpress.com",
-            "snippet": "To help support its recovery, the French franc was substantially devalued before \nbeing fixed to the US dollar under the Bretton Woods system. ... exactly the same \nin euro terms, and the hard peg to the euro means that their external value is also \nidentical, since their foreign exchange rates float up and down with the euro.",
-            "htmlSnippet": "To help support <b>its</b> recovery, the <b>French franc</b> was substantially devalued before <br>\nbeing fixed to the <b>US dollar</b> under the Bretton Woods system. ... exactly the same <br>\n<b>in</b> euro terms, and the hard <b>peg</b> to the euro means that <b>their</b> external <b>value</b> is also <br>\nidentical, since <b>their</b> foreign <b>exchange</b> rates float up and down with the euro.",
-            "cacheId": "QPf2gqLfoh8J",
-            "formattedUrl": "https://www.americanexpress.com/us/...exchange/.../cfa-franc-and-its-foreign- exchange-rate-impact/",
-            "htmlFormattedUrl": "https://www.<b>american</b>express.com/<b>us</b>/...<b>exchange</b>/.../cfa-<b>franc</b>-and-<b>its</b>-foreign- <b>exchange</b>-rate-impact/",
+            "title": "Kristin Ess",
+            "htmlTitle": "<b>Kristin Ess</b>",
+            "link": "https://www.kristinesshair.com/",
+            "displayLink": "www.kristinesshair.com",
+            "snippet": "Shop All Products 2018 Collection Cleanse + Condition Restore Wet Styling Dry \nStyling + Finishing AboutTutorials#HairGoalsWhere To BuyGiveawaysContact · \nCLICK HERE TO VIEW THE 2018 COLLECTION. 1FB6BE54-945E-4DF3-B374-\n6F70DFDF3A51.JPG. VIDEO TUTORIALS. Tutorials Homepage Features.",
+            "htmlSnippet": "Shop All <b>Products</b> 2018 Collection Cleanse + Condition Restore Wet Styling Dry <br>\nStyling + Finishing AboutTutorials#HairGoalsWhere To BuyGiveawaysContact &middot; <br>\nCLICK HERE TO VIEW THE 2018 COLLECTION. 1FB6BE54-945E-4DF3-B374-<br>\n6F70DFDF3A51.JPG. VIDEO TUTORIALS. Tutorials Homepage Features.",
+            "cacheId": "js25_wzXjEsJ",
+            "formattedUrl": "https://www.kristinesshair.com/",
+            "htmlFormattedUrl": "https://www.<b>kristiness</b>hair.com/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "55",
-                        "height": "54",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTxj2sOEoBiUfOyb5oymjt2mz7Po0VpWWkHrsmvtj5qO8XSeu0FFNzAg"
+                        "width": "600",
+                        "height": "57",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTid8OMtV_nJzL7mEwRatvHtrC-ybw2u0S1E00j3PbFFTevRLiIZO3vHg"
                     }
                 ],
                 "metatags": [
                     {
-                        "viewport": "width=device-width,minimum-scale=1,maximum-scale=1",
-                        "content-language": "EN",
-                        "title": "Understanding the CFA Franc and its Foreign Exchange Rate Impact | American Express FX International Payments",
-                        "og:type": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
-                        "og:description": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
-                        "og:title": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
-                        "og:site_name": "In Africa: Understanding the CFA Franc and its Foreign Exchange Rate Impact",
-                        "og:image": "https://www.aexp-static.com/nav/ngn/img/logo_bluebox.gif",
-                        "og:url": "/us/content/foreign-exchange/articles/cfa-franc-and-its-foreign-exchange-rate-impact/"
+                        "viewport": "initial-scale=1",
+                        "og:site_name": "Kristin Ess",
+                        "og:title": "2018 Homepage",
+                        "og:url": "https://www.kristinesshair.com/",
+                        "og:type": "website",
+                        "og:image": "http://static1.squarespace.com/static/58547beee3df28499695bf42/t/585485568419c253fc530b88/1481934166702/kristin-ess-logo%404x.png?format=1000w",
+                        "og:image:width": "1000",
+                        "og:image:height": "95",
+                        "twitter:title": "2018 Homepage",
+                        "twitter:image": "http://static1.squarespace.com/static/58547beee3df28499695bf42/t/585485568419c253fc530b88/1481934166702/kristin-ess-logo%404x.png?format=1000w",
+                        "twitter:url": "https://www.kristinesshair.com/",
+                        "twitter:card": "summary"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "name": "2018 Homepage",
+                        "url": "https://www.kristinesshair.com/",
+                        "thumbnailurl": "http://static1.squarespace.com/static/58547beee3df28499695bf42/t/585485568419c253fc530b88/1481934166702/kristin-ess-logo%404x.png?format=1000w",
+                        "image": "http://static1.squarespace.com/static/58547beee3df28499695bf42/t/585485568419c253fc530b88/1481934166702/kristin-ess-logo%404x.png?format=1000w"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://www.aexp-static.com/nav/ngn/img/logo_bluebox.gif"
+                        "src": "http://static1.squarespace.com/static/58547beee3df28499695bf42/t/585485568419c253fc530b88/1481934166702/kristin-ess-logo%404x.png?format=1000w"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "French franc - Wikipedia",
-            "htmlTitle": "<b>French franc</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/French_franc",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "Charles V pursued a policy of reform, including stable coinage. An edict dated 20 \nApril 1365 established the centerpiece of this policy, a gold coin officially called \nthe denier d'or aux fleurs de lis which had a standing figure of the king on its \nobverse. Its value in money of account was one livre tournois, just like the franc à\n ...",
-            "htmlSnippet": "Charles V pursued <b>a</b> policy of reform, including stable coinage. An edict dated 20 <br>\nApril 1365 <b>established</b> the centerpiece of this policy, <b>a</b> gold coin officially called <br>\nthe denier d&#39;or aux fleurs de lis which had <b>a</b> standing figure <b>of the</b> king on <b>its</b> <br>\nobverse. <b>Its value in money</b> of account was one livre tournois, just like the <b>franc</b> à<br>\n&nbsp;...",
-            "cacheId": "jbbNV_w8yZgJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/French_franc",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>French</b>_<b>franc</b>",
+            "title": "Our Favorite New Beauty Products of November 2017 | Allure",
+            "htmlTitle": "Our Favorite New Beauty <b>Products</b> of November 2017 | Allure",
+            "link": "https://www.allure.com/gallery/best-new-beauty-products-november-2017",
+            "displayLink": "www.allure.com",
+            "snippet": "Dec 1, 2017 ... Check out the best new beauty products from November 2017, including skin-\ncare, hair-care, makeup, bath, body, and fragrance finds. ... Courtesy of brand. \nKristin Ess Hydrating Curl-Defining Cream. Says one digital editor of this hair \nproduct: \"I keep it at my desk because yes, I need a curl cream to tame ...",
+            "htmlSnippet": "Dec 1, 2017 <b>...</b> Check out the best new beauty <b>products</b> from November 2017, including <b>skin</b>-<br>\n<b>care</b>, hair-care, makeup, bath, body, and fragrance finds. ... Courtesy of <b>brand</b>. <br>\n<b>Kristin Ess</b> Hydrating Curl-Defining Cream. Says one digital editor of this hair <br>\nproduct: &quot;I keep it at my desk because yes, I need a curl cream to tame&nbsp;...",
+            "cacheId": "1VUeK7a8qwQJ",
+            "formattedUrl": "https://www.allure.com/.../best-new-beauty-products-november-2017",
+            "htmlFormattedUrl": "https://www.allure.com/.../best-new-beauty-<b>products</b>-november-2017",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "326",
-                        "height": "154",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVQUJAMTFbig5lyHnymuJ5Q5aexzztGMpAbE7Ag17IUEuXIPOzPtwRkUj"
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGJA8HWHtbsA8JOphz5zCFu_in1yRXab6CcwG1S2JWu0fNC1OkhyuLJg"
                     }
                 ],
                 "metatags": [
                     {
-                        "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/50_ve_100_fransiz_frangi.PNG/1200px-50_ve_100_fransiz_frangi.PNG"
+                        "msapplication-tap-highlight": "no",
+                        "viewport": "user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1",
+                        "author": "Allure Editors",
+                        "copyright": "Copyright (c) Cond&#233; Nast 2018",
+                        "og:description": "Plus, an acne mask you can sleep in, and press-on nails that are actually good.",
+                        "og:image": "https://media.allure.com/photos/5a14953fabf59c102a799265/master/pass/edsfaves-112117-social.jpg",
+                        "og:site_name": "Allure",
+                        "og:title": "Our Favorite New Beauty Products of November 2017",
+                        "og:type": "article",
+                        "og:url": "https://www.allure.com/gallery/best-new-beauty-products-november-2017",
+                        "twitter:card": "summary_large_image",
+                        "twitter:creator": "@Allure_magazine",
+                        "twitter:description": "Plus, an acne mask you can sleep in, and press-on nails that are actually good.",
+                        "twitter:domain": "www.allure.com",
+                        "twitter:image:src": "https://media.allure.com/photos/5a14953fabf59c102a799265/master/pass/edsfaves-112117-social.jpg?mbid=social_retweet",
+                        "twitter:site": "Allure_magazine",
+                        "twitter:title": "Our Favorite New Beauty Products of November 2017",
+                        "fb:pages": "24810773606",
+                        "fb:page_id": "24810773606",
+                        "fb:admins": "648235154,789168297,688620285",
+                        "news_keywords": "Beauty Products,Editors' Favorites,editors favorites"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/50_ve_100_fransiz_frangi.PNG/1200px-50_ve_100_fransiz_frangi.PNG"
+                        "src": "https://media.allure.com/photos/5a14953fabf59c102a799265/master/pass/edsfaves-112117-social.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "CFA Franc",
-            "htmlTitle": "CFA <b>Franc</b>",
-            "link": "https://www.investopedia.com/terms/c/cfa-franc.asp",
-            "displayLink": "www.investopedia.com",
-            "snippet": "The CFA franc was created in 1945 following the end of the Second World War. \nPreviously, French colonies had their currencies pegged to the French franc, but \nthe Bretton Woods Agreement ratified in 1945 had the French franc pegged to the \ndollar, devaluing the French Franc. By creating a new currency, the CFA Franc, ...",
-            "htmlSnippet": "The CFA franc was <b>created in</b> 1945 following the end <b>of the</b> Second World War. <br>\nPreviously, French colonies had <b>their currencies pegged</b> to the <b>French franc</b>, but <br>\nthe Bretton Woods Agreement ratified <b>in</b> 1945 had the <b>French franc pegged</b> to the <br>\n<b>dollar</b>, devaluing the <b>French Franc</b>. By <b>creating a</b> new <b>currency</b>, the CFA Franc,&nbsp;...",
-            "cacheId": "eTZDap06ZwoJ",
-            "formattedUrl": "https://www.investopedia.com/terms/c/cfa-franc.asp",
-            "htmlFormattedUrl": "https://www.investopedia.com/terms/c/cfa-<b>franc</b>.asp",
+            "title": "Kristin Ess' Hair Products for Target Review + Try On - YouTube",
+            "htmlTitle": "<b>Kristin Ess</b>&#39; Hair <b>Products</b> for Target Review + Try On - YouTube",
+            "link": "https://www.youtube.com/watch?v=rV6a1AmZ-fk",
+            "displayLink": "www.youtube.com",
+            "snippet": "Jan 25, 2017 ... Today I'm doing a haul / review all 15 of the new Kristen Ess Hair products / \ncollection at Target. I'm also doing a \"try on\" on my hair so you can see them ...",
+            "htmlSnippet": "Jan 25, 2017 <b>...</b> Today I&#39;m doing a haul / review all 15 of the new Kristen <b>Ess</b> Hair <b>products</b> / <br>\ncollection at Target. I&#39;m also doing a &quot;try on&quot; on my hair so you can see them ...",
+            "cacheId": "aCkMjHs9yDUJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=rV6a1AmZ-fk",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=rV6a1AmZ-fk",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "180",
-                        "height": "116",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDivPwl0kSo06lX86U8orkg8y_xx5eUKmfmuC_Q7ZiUSGp7dPr0WJtLQw"
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSj8LD6E5hPB9fvB9UF8s_iHdBp5MjZkT4dhl6bc2vywwNsepgWNg13P1W"
                     }
                 ],
                 "metatags": [
                     {
-                        "application-name": "Investopedia",
-                        "fb:pages": "105109162854142, 925483520864421",
-                        "fb:app_id": "371867692868423",
+                        "title": "Kristin Ess' Hair Products for Target Review + Try On",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=rV6a1AmZ-fk",
+                        "og:title": "Kristin Ess' Hair Products for Target Review + Try On",
+                        "og:image": "https://i.ytimg.com/vi/rV6a1AmZ-fk/maxresdefault.jpg",
+                        "og:description": "Today I'm doing a haul / review all 15 of the new Kristen Ess Hair products / collection at Target. I'm also doing a \"try on\" on my hair so you can see them ...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=rV6a1AmZ-fk&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=rV6a1AmZ-fk&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=rV6a1AmZ-fk&feature=applinks",
+                        "og:type": "video.other",
+                        "og:video:url": "https://www.youtube.com/embed/rV6a1AmZ-fk",
+                        "og:video:secure_url": "https://www.youtube.com/embed/rV6a1AmZ-fk",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "kayleymelissa",
+                        "fb:app_id": "87741124305"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=rV6a1AmZ-fk",
+                        "name": "Kristin Ess' Hair Products for Target Review + Try On",
+                        "description": "Today I'm doing a haul / review all 15 of the new Kristen Ess Hair products / collection at Target. I'm also doing a \"try on\" on my hair so you can see them ...",
+                        "paid": "False",
+                        "channelid": "UCctjAAIUSW3DRS-5Phh_hgQ",
+                        "videoid": "rV6a1AmZ-fk",
+                        "duration": "PT17M20S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/rV6a1AmZ-fk/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/rV6a1AmZ-fk",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "83385",
+                        "datepublished": "2017-01-25",
+                        "genre": "Howto & Style"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/rV6a1AmZ-fk/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/LetsMakeitUp1"
+                    },
+                    {
+                        "url": "https://plus.google.com/108471626167567018726"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/rV6a1AmZ-fk/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Celebrity hairstylist Kristin Ess shares 2018 biggest hair trends ...",
+            "htmlTitle": "Celebrity hairstylist <b>Kristin Ess</b> shares 2018 biggest hair trends ...",
+            "link": "https://hellogiggles.com/news/celebrity-hairstylist-kristin-ess-tells-us-what-she-thinks-will-be-the-hottest-hair-trends-of-2018/",
+            "displayLink": "hellogiggles.com",
+            "snippet": "Jan 24, 2018 ... WE'VE ESSPANDED. (sorry, had to.) Today on @allure you can peep the 11 new \nproducts that will make their debut at Target & Target.com starting this Sunday. \nCould not be more excited for what's about to come and I have so many people to \nthank on my team for making all of this happen. 🥂   time ...",
+            "htmlSnippet": "Jan 24, 2018 <b>...</b> WE&#39;VE <b>ESSPANDED</b>. (sorry, had to.) Today on @allure you can peep the 11 new <br>\n<b>products</b> that will make their debut at Target &amp; Target.com starting this Sunday. <br>\nCould <b>not</b> be more excited for what&#39;s about to come and I have so many people to <br>\nthank on my team for making all of this happen. 🥂   time&nbsp;...",
+            "cacheId": "8y4cZ9TEYusJ",
+            "formattedUrl": "https://hellogiggles.com/.../celebrity-hairstylist-kristin-ess-tells-us-what-she- thinks-will-be-the-hottest-hair-trends-of-2018/",
+            "htmlFormattedUrl": "https://hellogiggles.com/.../celebrity-hairstylist-<b>kristin</b>-<b>ess</b>-tells-us-what-she- thinks-will-be-the-hottest-hair-trends-of-2018/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "235",
+                        "height": "215",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDuC-dV2kd1isPTew2J9-29Azws0XUuICttF0n2M3DS5Z82NCB15TxUbWO"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no",
+                        "news_keywords": "afro,celebrity hairstylist,hair,hair care,jenna dewan-tatum,kristin ess,Lucy Hale,target,Celeb,Hair",
+                        "og:title": "Celebrity hairstylist Kristin Ess tells us the four hair trends that will be hot for 2018",
+                        "og:type": "article",
+                        "og:site_name": "HelloGiggles",
+                        "og:url": "https://hellogiggles.com/news/celebrity-hairstylist-kristin-ess-tells-us-what-she-thinks-will-be-the-hottest-hair-trends-of-2018/",
+                        "og:description": "Did somebody say the words baby and bangs?",
+                        "pinterest:url": "https://hellogiggles.com/news/celebrity-hairstylist-kristin-ess-tells-us-what-she-thinks-will-be-the-hottest-hair-trends-of-2018/",
+                        "twitter:card": "summary_large_image",
+                        "twitter:url": "https://hellogiggles.com/news/celebrity-hairstylist-kristin-ess-tells-us-what-she-thinks-will-be-the-hottest-hair-trends-of-2018/",
+                        "twitter:title": "Celebrity hairstylist Kristin Ess tells us the four hair trends that will be hot for 2018",
+                        "twitter:description": "Did somebody say the words baby and bangs?",
+                        "pinterest:description": "Kristin Ess, celebrity hairstylist for Lucy Hale and Jenna Dewan Tatum, talks to us about the four hair trends she thinks will be popular for 2018.",
+                        "pinterest:media": "https://images.hellogiggles.com/uploads/2018/01/23103528/kristiness.png",
+                        "twitter:image": "https://images.hellogiggles.com/uploads/2018/01/23103528/kristiness.png",
+                        "og:image": "https://images.hellogiggles.com/uploads/2018/01/23103528/kristiness.png",
+                        "og:image:width": "595",
+                        "og:image:height": "650",
+                        "fb:pages": "209123339112078",
+                        "pinterest-rich-pin": "false"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.hellogiggles.com/uploads/2018/01/23103528/kristiness.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Kristin Ess Chats About Why Her Brand Resonates With Target ...",
+            "htmlTitle": "<b>Kristin Ess</b> Chats About Why Her <b>Brand</b> Resonates With Target ...",
+            "link": "http://wwd.com/beauty-industry-news/hair/influence-peddler-kristin-ess-answered-1202654143/",
+            "displayLink": "wwd.com",
+            "snippet": "4 days ago ... Last year when Target wanted a celebrity hairstylist to launch its first media \ninfluencer hair-care brand, the company was introduced to Kristin Ess. Despite \nhers not being a household name, the brand has been so successful that industry \nsources estimate it has blown past original estimates of $10 million in ...",
+            "htmlSnippet": "4 days ago <b>...</b> Last year when Target wanted a celebrity hairstylist to launch its first media <br>\ninfluencer hair-<b>care brand</b>, the company was introduced to <b>Kristin Ess</b>. Despite <br>\nhers <b>not</b> being a household name, the <b>brand</b> has been so successful that industry <br>\nsources estimate it has blown past original estimates of $10 million in&nbsp;...",
+            "cacheId": "5CUceB6s8oYJ",
+            "formattedUrl": "wwd.com/.../influence-peddler-kristin-ess-answered-1202654143/",
+            "htmlFormattedUrl": "wwd.com/.../influence-peddler-<b>kristin</b>-<b>ess</b>-answered-1202654143/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "279",
+                        "height": "181",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE4zCbLWEUn2ephMC53QwEyulcooswW51R_Bm_BiserrAL6E2V5KN7iyI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width",
+                        "fb:pages": "19457049254",
+                        "news_keywords": "hair, Target",
+                        "og:type": "article",
+                        "og:title": "Influence Peddler: When Target Called, Kristin Ess Answered",
+                        "og:url": "http://wwd.com/beauty-industry-news/hair/influence-peddler-kristin-ess-answered-1202654143/",
+                        "og:description": "Kristin Ess was tapped by Target as its first influencer to create a brand. The line is so successful it was recently expanded.",
+                        "article:published_time": "2018-04-19T15:30:55+00:00",
+                        "article:modified_time": "2018-04-19T20:38:20+00:00",
+                        "og:site_name": "WWD",
+                        "og:image": "http://pmcwwd.files.wordpress.com/2018/04/kristin-ess-headshot-1.jpg?crop=0px%2C21px%2C2035px%2C1358px&resize=640%2C415",
+                        "og:image:width": "924",
+                        "og:image:height": "1200",
+                        "og:locale": "en_US",
+                        "twitter:site": "@wwd",
+                        "twitter:text:title": "Influence Peddler: When Target Called, Kristin Ess Answered",
+                        "twitter:image:src": "https://pmcwwd.files.wordpress.com/2018/04/kristin-ess-headshot-1.jpg?w=640",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Influence Peddler: When Target Called, Kristin Ess Answered",
+                        "twitter:description": "Launched last year, the Kristin Ess hair collection is a standout on Target's shelves.",
+                        "twitter:image": "https://pmcwwd.files.wordpress.com/2018/04/kristin-ess-headshot-1.jpg",
+                        "author": "Faye Brookman",
+                        "content_type": "Article",
+                        "title": "Influence Peddler: When Target Called, Kristin Ess Answered",
+                        "published_at": "2018-04-19 11:30:55",
+                        "image": "http://pmcwwd.files.wordpress.com/2018/04/kristin-ess-headshot-1.jpg?crop=0px%2C21px%2C2035px%2C1358px&resize=300%2C200",
+                        "tags": "hair",
+                        "topics": "Hair",
+                        "verticals": "Beauty",
+                        "body": "Last year when Target wanted a celebrity hairstylist to launch its first media influencer hair-care brand, the company was introduced to Kristin Ess. Despite hers not being a household name, the brand has been so successful that industry sources estimate it has blown past original estimates of $10 million in sales to at least double that mark.    Just recently, Target extended the original 15 items with 11 more. The retailer's Christina Hennington, senior vice president of beauty and essentials, said shoppers have “fallen in love with the collection,” prompting more items. Hitting the shelves now are formulas for tinting, cleansing, conditioning, styling and restoring hair. There is even a Purple Shampoo and Conditioner to help balance out unwanted brassiness for those with light or color-treated tresses that brings this salon trend to the masses. Another key item is Signature Hair Water, which is dispersed as a fine mist to add moisture, volume and remove creases.  instead?    The first hair color prod",
+                        "application-name": "WWD",
+                        "msapplication-window": "width=device-width;height=device-height",
+                        "msapplication-tooltip": "Women's Wear Daily brings you breaking news about the fashion industry, designers, celebrity trend setters, and extensive coverage of fashion week.",
+                        "msapplication-task": "name=Subscribe;action-uri=http://wwd.com/feed/;icon-uri=http://0.gravatar.com/blavatar/a9597fffaf6885dd6f870d1269ef3b72?s=16"
+                    }
+                ],
+                "article": [
+                    {
+                        "headline": "Influence Peddler: When Target Called, Kristin Ess Answered",
+                        "description": "Kristin Ess was tapped by Target as its first influencer to create a brand. The line is so successful it was recently expanded."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://pmcwwd.files.wordpress.com/2018/04/kristin-ess-headshot-1.jpg?crop=0px%2C21px%2C2035px%2C1358px&resize=640%2C415"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "On Trial: Kristin Ess, Hourglass Vanish Flash Highlight, & Farmacy",
+            "htmlTitle": "On Trial: <b>Kristin Ess</b>, Hourglass Vanish Flash Highlight, &amp; Farmacy",
+            "link": "https://thecriticalbabe.com/trial-kristin-ess-hourglass-farmacy/",
+            "displayLink": "thecriticalbabe.com",
+            "snippet": "Jan 24, 2018 ... January has brought new beauty launches from some of my favorite brands \nincluding Kristin Ess, Hourglass, and Farmacy Skincare... ... cleansers is that they'\nre not all created equally–some can actually be quite drying and some require \ntoo much scrubbing to remove, which ends up irritating my skin.",
+            "htmlSnippet": "Jan 24, 2018 <b>...</b> January has brought new beauty launches from some of my favorite <b>brands</b> <br>\nincluding <b>Kristin Ess</b>, Hourglass, and Farmacy <b>Skincare</b>... ... cleansers is that they&#39;<br>\nre <b>not</b> all created equally–some can actually be quite drying and some require <br>\ntoo much scrubbing to remove, which ends up irritating my skin.",
+            "cacheId": "p2JOfwY64iEJ",
+            "formattedUrl": "https://thecriticalbabe.com/trial-kristin-ess-hourglass-farmacy/",
+            "htmlFormattedUrl": "https://thecriticalbabe.com/trial-<b>kristin</b>-<b>ess</b>-hourglass-farmacy/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183",
+                        "height": "275",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTWKXcKbq8VdJrB-ikE3WPSPQka7XysJsLtwTyjp4QGR8N7B5_twuU0NY"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "On Trial: Kristin Ess, Hourglass Vanish Flash Highlight, & Farmacy",
+                        "og:description": "January has brought new beauty launches from some of my favorite brands including Kristin Ess, Hourglass, and Farmacy Skincare...",
+                        "og:url": "https://thecriticalbabe.com/trial-kristin-ess-hourglass-farmacy/",
+                        "og:site_name": "The Critical Babe",
+                        "article:tag": "asian beauty",
+                        "article:section": "Beauty",
+                        "article:published_time": "2018-01-24T23:43:47-05:00",
+                        "og:image": "https://thecriticalbabe.com/wp-content/uploads/On-Trial-Main-Image.jpg",
+                        "og:image:secure_url": "https://thecriticalbabe.com/wp-content/uploads/On-Trial-Main-Image.jpg",
+                        "og:image:width": "1440",
+                        "og:image:height": "2160",
+                        "twitter:card": "summary",
+                        "twitter:description": "January has brought new beauty launches from some of my favorite brands including Kristin Ess, Hourglass, and Farmacy Skincare...",
+                        "twitter:title": "On Trial: Kristin Ess, Hourglass Vanish Flash Highlight, & Farmacy",
+                        "twitter:site": "@thecriticalbabe",
+                        "twitter:image": "https://thecriticalbabe.com/wp-content/uploads/On-Trial-Main-Image.jpg",
+                        "twitter:creator": "@thecriticalbabe",
+                        "msapplication-tileimage": "https://thecriticalbabe.com/wp-content/uploads/cropped-favicon-270x270.jpg"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "thecriticalbabe@gmail.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thecriticalbabe.com/wp-content/uploads/On-Trial-Main-Image.jpg"
+                    }
+                ],
+                "blogposting": [
+                    {
+                        "datepublished": "2018-01",
+                        "headline": "On Trial: Kristin Ess, Farmacy Skincare, Root Science, Hourglass, & Missha",
+                        "articlebody": "On Trial: Hair, Skin, & Glow Look at me you guys, I’m actually keeping up with my promised three posts a week! I have to say, planning them out in advance has really helped me get it together..."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Kristin Ess Target Hair Products | StyleCaster",
+            "htmlTitle": "<b>Kristin Ess</b> Target Hair <b>Products</b> | StyleCaster",
+            "link": "http://stylecaster.com/beauty/kristin-ess-target-hair-products/",
+            "displayLink": "stylecaster.com",
+            "snippet": "Braid wizard and pro hairstylist Kristin Ess just announced she created a line of \nhaircare products that will be available at Target in January 2017. See her most \nfamous hairstyles.",
+            "htmlSnippet": "Braid wizard and pro hairstylist <b>Kristin Ess</b> just announced she created a line of <br>\nhaircare <b>products</b> that will be available at Target in January 2017. See her most <br>\nfamous hairstyles.",
+            "cacheId": "4fsU8bs7bZEJ",
+            "formattedUrl": "stylecaster.com/beauty/kristin-ess-target-hair-products/",
+            "htmlFormattedUrl": "stylecaster.com/beauty/<b>kristin</b>-<b>ess</b>-target-hair-<b>products</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiQ4CJMjg_uLwDX5LCJcsWn_nAXzICrWVsSZv_2yH7kN0C3tQenjfOjcOl"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "7A34A1C1904BAFB83691E8B3718CA9A2",
+                        "article:publisher": "http://www.facebook.com/stylecaster",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "application-name": "StyleCaster",
+                        "msapplication-window": "width=device-width;height=device-height",
+                        "msapplication-tooltip": "Style News and Trends",
+                        "msapplication-task": "name=Subscribe;action-uri=http://stylecaster.com/feed/;icon-uri=http://1.gravatar.com/blavatar/f95e80beb275448b98a924f84cc3473a?s=16",
+                        "og:site_name": "StyleCaster",
+                        "og:type": "article",
+                        "og:locale": "en_US",
+                        "fb:app_id": "134683123322801",
+                        "og:url": "http://stylecaster.com/beauty/kristin-ess-target-hair-products/",
+                        "og:title": "Kristin Ess Is Launching a Line of Hair Products at Target",
+                        "og:description": "And it doesn't even involve a haircut.",
+                        "article:published_time": "2017-01-11T19:45:01+00:00",
+                        "article:modified_time": "2017-02-10T18:51:06+00:00",
+                        "article:author": "Lauren Caruso",
+                        "article:section": "Beauty",
+                        "article:tag": "Hair + Nails",
+                        "og:image": "https://scstylecaster.files.wordpress.com/2017/01/kristin-ess-target-hair-products.jpg",
+                        "og:image:width": "960",
+                        "og:image:height": "540",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@stylecaster",
+                        "twitter:creator": "@stylecaster",
+                        "twitter:title": "Kristin Ess Is Launching a Line of Hair Products at Target",
+                        "twitter:description": "And it doesn't even involve a haircut.",
+                        "twitter:image": "https://scstylecaster.files.wordpress.com/2017/01/kristin-ess-target-hair-products.jpg",
+                        "twitter:account_id": "55678606",
+                        "fb:pages": "48566051011",
+                        "fb:article_style": "scdefault"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "http://stylecaster.com/fashion/",
+                        "name": "Fashion"
+                    },
+                    {
+                        "url": "http://stylecaster.com/beauty/",
+                        "name": "Beauty"
+                    },
+                    {
+                        "url": "http://stylecaster.com/lifestyle/",
+                        "name": "Lifestyle"
+                    },
+                    {
+                        "url": "http://stylecaster.com/entertainment/",
+                        "name": "Entertainment"
+                    },
+                    {
+                        "url": "http://stylecaster.com/sctv/",
+                        "name": "SCTV"
+                    },
+                    {
+                        "url": "http://stylecaster.com/fashion/",
+                        "name": "Fashion"
+                    },
+                    {
+                        "url": "http://stylecaster.com/beauty/",
+                        "name": "Beauty"
+                    },
+                    {
+                        "url": "http://stylecaster.com/lifestyle/",
+                        "name": "Lifestyle"
+                    },
+                    {
+                        "url": "http://stylecaster.com/entertainment/",
+                        "name": "Entertainment"
+                    },
+                    {
+                        "url": "http://stylecaster.com/sctv/",
+                        "name": "SCTV"
+                    }
+                ],
+                "article": [
+                    {
+                        "mainentityofpage": "http://stylecaster.com/beauty/kristin-ess-target-hair-products/",
+                        "name": "Kristin Ess Is Launching a Line of Hair Products at Target",
+                        "headline": "Kristin Ess Is Launching a Line of Hair Products at Target",
+                        "author": "Lauren Caruso",
+                        "datepublished": "2017-01-11T14:45:01+00:00",
+                        "datemodified": "2017-02-10T13:51:06+00:00",
+                        "articlebody": "You know Kristin Ess—or, at least, you’ve definitely seen her insanely gorgeous, intricate braids all over Instagram, Pinterest, and, oh, just every red carpet ever. The pro hairstylist,..."
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://s2.wp.com/wp-content/themes/vip/sc-stylecaster-2016/public/assets/images/base64/Stylecaster-logo.png",
+                        "width": "600",
+                        "height": "60"
+                    },
+                    {
+                        "url": "https://scstylecaster.files.wordpress.com/2017/01/kristin-ess-target-hair-products1.jpg",
+                        "width": "712",
+                        "height": "400"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "StyleCaster"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://scstylecaster.files.wordpress.com/2017/01/kristin-ess-target-hair-products.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Kristin Ess brand allergy free rated skin products and ingredients",
+            "htmlTitle": "<b>Kristin Ess brand</b> allergy free rated <b>skin products</b> and ingredients",
+            "link": "https://www.skinsafeproducts.com/kristin-ess",
+            "displayLink": "www.skinsafeproducts.com",
+            "snippet": "All products from Kristin Ess brand with ingredients rated for skin health and \nsafety.",
+            "htmlSnippet": "All <b>products</b> from <b>Kristin Ess brand</b> with ingredients rated for <b>skin</b> health and <br>\nsafety.",
+            "cacheId": "IPuga9LoAKUJ",
+            "formattedUrl": "https://www.skinsafeproducts.com/kristin-ess",
+            "htmlFormattedUrl": "https://www.<b>skin</b>safe<b>products</b>.com/<b>kristin</b>-<b>ess</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKPHqIE9SbNsLl202KJANRUUVk79pgqFNaVGV4YNZXTg4sYMOoDlXAprE"
+                    }
+                ],
+                "website": [
+                    {
+                        "name": "SkinSAFE",
+                        "url": "https://www.skinsafeproducts.com/kristin-ess"
+                    }
+                ],
+                "product": [
+                    {
+                        "brand": "Kristin Ess",
+                        "name": "Kristin Ess Weightless Shine Working Serum, 1.7 fl oz"
+                    },
+                    {
+                        "brand": "Kristin Ess",
+                        "name": "Kristin Ess Instant Lift Thickening Spray, 8.45 fl oz"
+                    },
+                    {
+                        "brand": "Kristin Ess",
+                        "name": "Kristin Ess Instant Lift Volumizing Mousse, 8.1 oz"
+                    },
+                    {
+                        "brand": "Kristin Ess",
+                        "name": "Kristin Ess Hydrating Curl Defining Creme, 6.7 fl oz"
+                    },
+                    {
+                        "brand": "Kristin Ess",
+                        "name": "Kristin Ess The One Signature Conditioner, 10 oz"
+                    },
+                    {
+                        "brand": "Kristin Ess",
+                        "name": "Kristin Ess The One Signature Shampoo, 10 oz"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:title": "Kristin Ess brand allergy free rated skin products and ingredients",
+                        "og:description": "All products from Kristin Ess brand with ingredients rated for skin health and safety.",
+                        "og:type": "website",
+                        "og:image": "http://www.skinsafeproducts.com/images/SkinSAFE-Logo-1200.png",
+                        "og:site_name": "SkinSAFE",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@Skin_SAFE",
+                        "msvalidate.01": "578D9AED892E8639E59F7F4F0C061B59",
+                        "og:url": "https://www.skinsafeproducts.com/kristin-ess",
                         "viewport": "width=device-width, initial-scale=1",
-                        "og:locale": "en_US",
-                        "og:title": "CFA Franc",
-                        "og:description": "One of two African regional currencies backed by the French treasury, and pegged to the euro. CFA franc can refer to two either the Central African CFA franc or the West African CFA franc. Although they are separate currencies, the two are effectively interchangeable as they have the same monetary value against other currencies.",
-                        "og:url": "https://www.investopedia.com/terms/c/cfa-franc.asp",
-                        "og:site_name": "Investopedia",
-                        "og:type": "article",
-                        "og:image": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg",
-                        "article:content_type": "Term",
-                        "article:assigned_editor": "root",
-                        "article:company": "Investopedia.com",
-                        "article:published_time": "2011-06-09T11:00:00-06:00",
-                        "article:modified_time": "2011-06-09T11:00:00-06:00",
-                        "article:tag": "bretton woods agreement,currency",
-                        "emailprimarychannel": "trading",
-                        "emailprimarysubchannel": "forex & currencies",
-                        "emailcontenttype": "term",
-                        "author": "Investopedia Staff",
-                        "fb:admins": "100003532063336",
-                        "twitter:card": "summary_large_image",
-                        "twitter:site": "@Investopedia",
-                        "twitter:title": "CFA Franc",
-                        "twitter:description": "One of two African regional currencies backed by the French treasury, and pegged to the euro. CFA franc can refer to two either the Central African CFA franc or the West African CFA franc. Although they are separate currencies, the two are effectively interchangeable as they have the same monetary value against other currencies.",
-                        "twitter:image:src": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg",
-                        "parsely-title": "CFA Franc",
-                        "parsely-link": "https://www.investopedia.com/terms/c/cfa-franc.asp",
-                        "parsely-type": "post",
-                        "parsely-image-url": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg",
-                        "parsely-pub-date": "2011-06-09T17:00:00Z",
-                        "parsely-section": "Forex & Currencies",
-                        "parsely-author": "Investopedia Staff",
-                        "parsely-tags": "CFA franc,French Franc,Central African CFA Franc,West African CFA franc,France,French Community,euro,Bretton Woods Agreement,Second World War,Africa,con-Term,ed-root,time-Timeless,luc-,proj-,tk-,rp-Y",
-                        "sailthru.tags": "french franc,france,euro,bretton woods agreement,second world war,forex & currencies",
-                        "sailthru.author": "Investopedia Staff",
-                        "sailthru.date": "2014-05-12T06:17:39+00:00",
-                        "sailthru.image.full": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg?quality=80&width=680&height=680",
-                        "sailthru.image.thumb": "https://i.investopedia.com/inv/genericcontentimages/forex/139908295.jpg?quality=60&width=200&height=200",
-                        "sailthru.title": "CFA Franc",
-                        "contenttype": "term"
+                        "msapplication-tilecolor": "#FFFFFF",
+                        "msapplication-tileimage": "/favicon-144.png",
+                        "msapplication-config": "/browserconfig.xml",
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "7M5bzvQe/OGGQHKE2IFejfDgrwoSTeM7G/XbZnlyjHM="
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Kristin Ess Weightless Shine Working Serum, 1.7 fl oz"
+                    },
+                    {
+                        "fn": "Kristin Ess Instant Lift Thickening Spray, 8.45 fl oz"
+                    },
+                    {
+                        "fn": "Kristin Ess Instant Lift Volumizing Mousse, 8.1 oz"
+                    },
+                    {
+                        "fn": "Kristin Ess Hydrating Curl Defining Creme, 6.7 fl oz"
+                    },
+                    {
+                        "fn": "Kristin Ess The One Signature Conditioner, 10 oz"
+                    },
+                    {
+                        "fn": "Kristin Ess The One Signature Shampoo, 10 oz"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "https://www.skinsafeproducts.com/",
+                        "position": "1",
+                        "name": "Home"
+                    },
+                    {
+                        "item": "Brands",
+                        "name": "Brands",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Kristin Ess",
+                        "name": "Kristin Ess",
+                        "position": "3"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://i.investopedia.com/dimages/graphics/158677240.jpg?quality=60&width=180&height=120"
+                        "src": "http://www.skinsafeproducts.com/images/SkinSAFE-Logo-1200.png"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Swiss franc - Wikipedia",
-            "htmlTitle": "Swiss <b>franc</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Swiss_franc",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "The franc is the currency and legal tender of Switzerland and Liechtenstein; it is \nalso legal tender in the Italian exclave Campione d'Italia. The Swiss National \nBank (SNB) issues banknotes and the federal mint Swissmint issues coins. The \nsmaller ...",
-            "htmlSnippet": "The <b>franc</b> is the <b>currency</b> and legal tender of Switzerland and Liechtenstein; it is <br>\nalso legal tender <b>in</b> the Italian exclave Campione d&#39;Italia. The Swiss National <br>\nBank (SNB) issues banknotes and the federal mint Swissmint issues coins. The <br>\nsmaller&nbsp;...",
-            "cacheId": "N_h9YpBFmWoJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Swiss_franc",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swiss_<b>franc</b>",
+            "title": "Crushing On: Kristin Ess - Wit & Delight",
+            "htmlTitle": "Crushing On: <b>Kristin Ess</b> - Wit &amp; Delight",
+            "link": "http://witanddelight.com/2017/05/crushing-kristin-ess/",
+            "displayLink": "witanddelight.com",
+            "snippet": "May 18, 2017 ... That stylist was Kristin Ess. Kristen and I connected when I came to find out she \nliked W&D, and through the years we've been following each other's careers \nonline. When she asked if I would try out her new line of haircare products, I didn't \nhesitate to say yes. I had secretly hoped it would make my hair look ...",
+            "htmlSnippet": "May 18, 2017 <b>...</b> That stylist was <b>Kristin Ess</b>. Kristen and I connected when I came to find out she <br>\nliked W&amp;D, and through the years we&#39;ve been following each other&#39;s careers <br>\nonline. When she asked if I would try out her new line of haircare <b>products</b>, I didn&#39;t <br>\nhesitate to say yes. I had secretly hoped it would make my hair look&nbsp;...",
+            "cacheId": "GBwjWy-yccoJ",
+            "formattedUrl": "witanddelight.com/2017/05/crushing-kristin-ess/",
+            "htmlFormattedUrl": "witanddelight.com/2017/05/crushing-<b>kristin</b>-<b>ess</b>/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "205",
-                        "height": "246",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUxTTP5xoUGlZildMzOi6LWkNUTKd860K6u13O3O5tx8TbrT24EOoIDmD4"
+                        "width": "183",
+                        "height": "275",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgNeTtVDCa3dxUjtEUIOXzxaLZ0vSYaSxP2zsYzGnB21m3GQfXfITZUq5"
                     }
                 ],
                 "metatags": [
                     {
-                        "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/CHF_Banknotes.jpg"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/CHF_Banknotes.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Here are all the countries that don't have a currency of their own ...",
-            "htmlTitle": "Here are all the countries that don&#39;t have <b>a currency</b> of <b>their</b> own ...",
-            "link": "https://qz.com/260980/meet-the-countries-that-dont-use-their-own-currency/",
-            "displayLink": "qz.com",
-            "snippet": "Sep 15, 2014 ... The US dollar is the most widely used currency in the world, with many countries \nemploying it as an accepted alternative to their own currency. .... The CFA franc \nwas created in 1945 to spare France's colonies the pain that the post-World War \nII revaluation in the French franc would do to their much smaller ...",
-            "htmlSnippet": "Sep 15, 2014 <b>...</b> The <b>US dollar</b> is the most widely used <b>currency in</b> the world, with many countries <br>\nemploying it as an accepted alternative to <b>their</b> own <b>currency</b>. .... The CFA franc <br>\nwas <b>created in</b> 1945 to spare France&#39;s colonies the pain that the post-World War <br>\nII revaluation <b>in</b> the <b>French franc</b> would do to <b>their</b> much smaller&nbsp;...",
-            "cacheId": "MXq5hxyKQJEJ",
-            "formattedUrl": "https://qz.com/.../meet-the-countries-that-dont-use-their-own-currency/",
-            "htmlFormattedUrl": "https://qz.com/.../meet-the-countries-that-dont-use-<b>their</b>-own-<b>currency</b>/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "298",
-                        "height": "169",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn9zqJQ1oDJWWkQLOKJwrDCJo11GCyr1i0DYkfz6aEJLa0yZ4VGAEZdLvl"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
-                        "apple-mobile-web-app-title": "Quartz",
-                        "apple-mobile-web-app-status-bar-style": "black",
-                        "bitly-verification": "3cc1017cee1d",
-                        "theme-color": "#000000",
-                        "fb:pages": "444654488901592",
-                        "msvalidate.01": "4B2AFFFDBF9736993D778515CB307FAF",
-                        "author": "Kabir Chibber",
-                        "news_keywords": "Currency, currency union, dollar, dollarization, euro, fiat money, maps, monetary policy, pegging, pound sterling",
-                        "og:title": "Here are all the countries that don’t have a currency of their own",
-                        "og:type": "article",
-                        "og:image": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=1600",
-                        "og:image:width": "1600",
-                        "og:image:height": "900",
-                        "og:url": "https://qz.com/260980/meet-the-countries-that-dont-use-their-own-currency/",
-                        "og:description": "As Scotland prepares to vote on independence on Sept. 18, the future of its currency has taken center stage. For the moment, Scotland prints its own notes and uses the British pound, which is controlled by the Bank of England. (Follow?) In the event of independence, Scotland wants to continue to use the pound as part of a negotiated...",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "p:domain_verify": "e740b63c6f2564ee691ea154942daaea",
                         "og:locale": "en_US",
-                        "og:site_name": "Quartz",
-                        "article:publisher": "https://www.facebook.com/quartznews",
-                        "twitter:card": "summary_large_image",
-                        "twitter:title": "Here are all the countries that don’t have a currency of their own",
-                        "twitter:image": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=800&h=400&crop=1",
-                        "twitter:url": "https://qz.com/260980/meet-the-countries-that-dont-use-their-own-currency/",
-                        "twitter:description": "As Scotland prepares to vote on independence on Sept. 18, the future of its currency has taken center stage. For the moment, Scotland prints its own notes and uses the British pound, which is controlled by the Bank of England. (Follow?) In the event of independence, Scotland wants to continue to use the pound as part of a negotiated...",
-                        "twitter:site": "@qz",
-                        "twitter:creator": "@quinto_quarto",
-                        "article:published_time": "2014-09-15T10:00:54+00:00",
-                        "article:modified_time": "2014-09-15T16:48:09+00:00",
-                        "twitter:text:title": "Here are all the countries that don’t have a currency of their own",
-                        "msapplication-tileimage": "https://qz.com/wp-content/uploads/2018/03/qz_og_img1.png?w=270"
+                        "og:type": "article",
+                        "og:title": "Crushing On: Kristin Ess - Wit & Delight",
+                        "og:description": "This whole blogger/social media thing has been around long enough, some of us have been following each other for the better part of a decade. For me, photo sharing apps were my drug of choice, and when I was deep in the rabbit hole of building my + Beauty + board on Pinterest I found manyyyyyy ...",
+                        "og:url": "http://witanddelight.com/2017/05/crushing-kristin-ess/",
+                        "og:site_name": "Wit & Delight",
+                        "article:publisher": "https://www.facebook.com/witanddelight/",
+                        "article:tag": "celeb hair stylist",
+                        "article:section": "Beauty",
+                        "article:published_time": "2017-05-18T15:13:39-05:00",
+                        "article:modified_time": "2017-05-23T17:05:51-05:00",
+                        "og:updated_time": "2017-05-23T17:05:51-05:00",
+                        "og:image": "http://witanddelight.com/content/uploads//2017/05/unspecified-4-1.jpg"
                     }
                 ],
-                "newsarticle": [
+                "hcard": [
                     {
-                        "headline": "Here are all the countries that don’t have a currency of their own",
-                        "author": "Kabir Chibber",
-                        "datepublished": "September 15, 2014",
-                        "image": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=320",
-                        "articlebody": "As Scotland prepares to vote on independence on Sept. 18, the future of its currency has taken center stage. For the moment, Scotland prints its own notes and uses the British pound, which..."
+                        "fn": "Charmaine Ng | Architecture & Lifestyle Blog",
+                        "url": "http://charmainenyw.com/",
+                        "url_text": "Charmaine Ng | Architecture & Lifestyle Blog",
+                        "photo": "http://1.gravatar.com/avatar/1b969c84ced6520cb12a511d1be7bb7d?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "Lisa D.",
+                        "photo": "http://0.gravatar.com/avatar/c42b1635b76c61eec2edfdad24df0399?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "http://kahootloginit.com",
+                        "url": "http://kahootloginit.com/",
+                        "url_text": "http://kahootloginit.com",
+                        "photo": "http://2.gravatar.com/avatar/28239c07ef83a856e32a7fd759faf800?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "TestDPC",
+                        "nickname": "TestDPC",
+                        "url": "http://www.testdpc.com/",
+                        "url_text": "TestDPC",
+                        "photo": "http://1.gravatar.com/avatar/d801505911ce502bb128f21934c8c20e?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "Dai ly Chevrolet",
+                        "url": "http://www.chevrolethathanh.org/",
+                        "url_text": "Dai ly Chevrolet",
+                        "photo": "http://1.gravatar.com/avatar/4eaaebd3a056acfe6d636f87d7347f21?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "ioperamini",
+                        "nickname": "ioperamini",
+                        "url": "http://ioperamini.com/",
+                        "url_text": "ioperamini",
+                        "photo": "http://0.gravatar.com/avatar/0fbcb8fa2a5d1c4ed22babb7d0cc89da?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "Mua Chevrolet Tra Gop",
+                        "url": "http://www.chevrolethathanh.org/mua-tra-gop-xe-chevrolet/",
+                        "url_text": "Mua Chevrolet Tra Gop",
+                        "photo": "http://1.gravatar.com/avatar/4eaaebd3a056acfe6d636f87d7347f21?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "Mercedes HCM",
+                        "url": "http://dailyfordhcm.net/",
+                        "url_text": "Mercedes HCM",
+                        "photo": "http://0.gravatar.com/avatar/c968b2c5b70c97bc9168b3e0d257652f?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "Nissan Viet Nam",
+                        "url": "http://www.nissanvietnam.net/",
+                        "url_text": "Nissan Viet Nam",
+                        "photo": "http://0.gravatar.com/avatar/0484e5d7006f8b3600f1193a562a45f3?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
+                    },
+                    {
+                        "fn": "daily ford hcm",
+                        "url": "http://dailyfordhcm.net/bang-gia/",
+                        "url_text": "daily ford hcm",
+                        "photo": "http://2.gravatar.com/avatar/8e4fbe70d15cf2b640124c7006c8a65a?s=60&d=http%3A%2F%2Fwitanddelight.com%2Fwp-content%2Fthemes%2Fwd-theme%2Fassets%2Fimages%2Fcomment-avatar.png&r=g"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://qz.com/wp-content/uploads/2014/09/notes.jpg?quality=80&strip=all&w=1600"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "History of Franc CFA",
-            "htmlTitle": "History of <b>Franc</b> CFA",
-            "link": "https://www.cameroonweb.com/CameroonHomePage/economy/history-of-franc-cfa.php",
-            "displayLink": "www.cameroonweb.com",
-            "snippet": "This currency was created because of the weakness of the French franc \nimmediately after World War II. When France ratified the Bretton Woods \nAgreement in December 1945, the French franc was devalued in order to set a \nfixed exchange rate with the US dollar. New currencies were created in the \nFrench colonies to spare ...",
-            "htmlSnippet": "This <b>currency was created</b> because of the weakness of the <b>French franc</b> <br>\nimmediately after World War II. When France ratified the Bretton Woods <br>\nAgreement <b>in</b> December 1945, the <b>French franc</b> was devalued <b>in</b> order to set <b>a</b> <br>\nfixed <b>exchange</b> rate with the <b>US dollar</b>. New <b>currencies</b> were <b>created in</b> the <br>\nFrench colonies to spare&nbsp;...",
-            "cacheId": "olxtJtqCAQUJ",
-            "formattedUrl": "https://www.cameroonweb.com/.../economy/history-of-franc-cfa.php",
-            "htmlFormattedUrl": "https://www.cameroonweb.com/.../economy/<b>his</b>tory-of-<b>franc</b>-cfa.php"
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "The Creation of the Euro and the Role of the Dollar in International ...",
-            "htmlTitle": "The <b>Creation</b> of the Euro and the Role <b>of the Dollar in</b> International ...",
-            "link": "https://files.stlouisfed.org/research/publications/review/01/09/0109pp.pdf",
-            "displayLink": "files.stlouisfed.org",
-            "snippet": "rate peg. It serves (i) as a store of value if govern- ments and/or central banks \nhold foreign exchange. 1. Although the national currencies will continue to exist \nuntil .... Currency. 1980. 1995. 1980. 1995. U.S. dollar. 56.4. 52.0. 4.5. 3.9. \nJapanese yen. 2.1. 4.7. 0.3. 0.6. Deutsche mark. 13.6. 13.2. 1.4. 1.4. French franc. \n6.2. 5.5.",
-            "htmlSnippet": "rate <b>peg</b>. It serves (i) as <b>a</b> store of <b>value</b> if govern- ments and/or central banks <br>\nhold foreign <b>exchange</b>. 1. Although the national <b>currencies</b> will continue to exist <br>\nuntil .... <b>Currency</b>. 1980. 1995. 1980. 1995. <b>U.S. dollar</b>. 56.4. 52.0. 4.5. 3.9. <br>\nJapanese yen. 2.1. 4.7. 0.3. 0.6. Deutsche mark. 13.6. 13.2. 1.4. 1.4. <b>French franc</b>. <br>\n6.2. 5.5.",
-            "cacheId": "Y1mu78U1leQJ",
-            "mime": "application/pdf",
-            "fileFormat": "PDF/Adobe Acrobat",
-            "formattedUrl": "https://files.stlouisfed.org/research/publications/review/.../0109pp.pdf",
-            "htmlFormattedUrl": "https://files.stlouisfed.org/research/publications/review/.../0109pp.pdf",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "creationdate": "D:20010906110615Z",
-                        "producer": "Acrobat Distiller 4.05 for Macintosh",
-                        "moddate": "D:20030903111545-05'00'",
-                        "title": "The Creation of the Euro and the Role of the Dollar in International Markets",
-                        "author": "Patricia S. Pollard",
-                        "subject": "Review, Vol. 83, No. 5",
-                        "creator": "St. Louis Fed Research Publications"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "FRF | French Franc | OANDA",
-            "htmlTitle": "FRF | <b>French Franc</b> | OANDA",
-            "link": "https://www.oanda.com/currency/iso-currency-codes/FRF",
-            "displayLink": "www.oanda.com",
-            "snippet": "The French Franc was the national currency of France until the introduction of the \nEuro in 1999 (in full circulation in 2002). Because France is one of the biggest \nand most stable economies in the world, other currencies were pegged to the \nFranc (especially currencies in protectorate territories of France). The currency ...",
-            "htmlSnippet": "The <b>French Franc</b> was the national <b>currency</b> of France until the introduction <b>of the</b> <br>\nEuro <b>in</b> 1999 (<b>in</b> full circulation <b>in</b> 2002). Because France is one <b>of the</b> biggest <br>\nand most stable economies <b>in</b> the world, other <b>currencies</b> were <b>pegged</b> to the <br>\nFranc (especially <b>currencies in</b> protectorate territories of France). The <b>currency</b>&nbsp;...",
-            "cacheId": "GGRY-4MKixoJ",
-            "formattedUrl": "https://www.oanda.com/currency/iso-currency-codes/FRF",
-            "htmlFormattedUrl": "https://www.oanda.com/<b>currency</b>/iso-<b>currency</b>-codes/FRF",
-            "pagemap": {
-                "document": [
-                    {
-                        "www_oanda_com": "1"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "The CFA Franc Zone: common currency, uncommon challenges ...",
-            "htmlTitle": "The CFA <b>Franc</b> Zone: common <b>currency</b>, uncommon challenges ...",
-            "link": "https://www.imf.org/~/media/Websites/IMF/imported-publications/external/pubs/nft/books/2008/cfazone/_chap1.ashx",
-            "displayLink": "www.imf.org",
-            "snippet": "the U.S. dollar). Finally in the rand monetary area in Southern Africa several \ncountries peg their currencies to the South African rand and also accept it within \ntheir ... The exchange rate of the Comorian franc to the French franc (now euro) \nhas also since 1994 differed from that for the CFA franc. The Comoros are \ntherefore not ...",
-            "htmlSnippet": "the <b>U.S. dollar</b>). Finally <b>in</b> the rand monetary area <b>in</b> Southern Africa several <br>\ncountries <b>peg their currencies</b> to the South African rand and also accept it within <br>\n<b>their</b> ... The <b>exchange</b> rate of the Comorian franc to the <b>French franc</b> (now euro) <br>\nhas also since 1994 differed from that for the CFA franc. The Comoros are <br>\ntherefore not&nbsp;...",
-            "cacheId": "tJJcnpHM0dwJ",
-            "mime": "application/pdf",
-            "fileFormat": "PDF/Adobe Acrobat",
-            "formattedUrl": "https://www.imf.org/~/media/Websites/IMF/.../nft/.../_chap1.ashx",
-            "htmlFormattedUrl": "https://www.imf.org/~/media/Websites/IMF/.../nft/.../_chap1.ashx",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "creationdate": "D:20080417145847-04'00'",
-                        "producer": "Acrobat Distiller 7.0.5 for Macintosh",
-                        "moddate": "D:20080422160227-04'00'",
-                        "title": "The CFA Franc Zone: common currency, uncommon challenges -- Overview. IMF 2008."
+                        "src": "http://witanddelight.com/content/uploads//2017/05/unspecified-4-1.jpg"
                     }
                 ]
             }
