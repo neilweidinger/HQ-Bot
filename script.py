@@ -44,8 +44,8 @@ def writefiles(num, data):
 
 # take screenshot and extract text
 def read_image():
-    # im = ImageGrab.grab(bbox=(31,182,470,620))
-    im = Image.open("tests/3.jpg")
+    im = ImageGrab.grab(bbox=(31,182,470,620))
+    # im = Image.open("tests/3.jpg")
     return pytesseract.image_to_string(im)
 
 
@@ -79,7 +79,7 @@ def search_up():
     service = build("customsearch", "v1", developerKey=g_cse_api_key)
     results = {}
 
-    # # Manually override and edit answers and question
+    # Manually override and edit answers and question
     # global question
     # question = "What kind of tax does apply in the regular edition of monopoly "
     # answers[0] = "Ireland"
@@ -88,7 +88,7 @@ def search_up():
 
     for i in range(3):
         # pull data from Google cse 
-        res = service.cse().list(q=question + answers[i], cx=g_cse_id).execute()
+        res = service.cse().list(q=question, cx=g_cse_id).execute()
         # json_file = open("data/data" + str(i) + ".json", "r", encoding="utf-8")
         # res = json.load(json_file)
 
