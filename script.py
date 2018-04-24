@@ -53,13 +53,13 @@ def read_image():
 def output_answers():
 
     # find total number of results and total number of occurrences for all answers
-    total_num_results = sum(results_dict[k][0] for k in results_dict)
-    total_num_occurrences = sum(results_dict[k][1] for k in results_dict)
+    total_num_results = sum(results[k][0] for k in results)
+    total_num_occurrences = sum(results[k][1] for k in results)
 
     print(question)
 
     # loops through main data dictionary (dict value aka nums is a tuple)
-    for answer, nums in results_dict.items():
+    for answer, nums in results.items():
         results_percentage = 0
         occurrences_percentage = 0
 
@@ -76,7 +76,11 @@ def output_answers():
 
 # receive data from Google cse and return data in form of dictionary
 def search_up():
+
+    # build service object to interact with Google api
     service = build("customsearch", "v1", developerKey=g_cse_api_key)
+
+    # store results in this dictionary
     results = {}
 
     # Manually override and edit answers and question
@@ -87,13 +91,16 @@ def search_up():
     # answers[2] = "Scotland"
 
     for i in range(3):
+
         # pull data from Google cse 
-        res = service.cse().list(q=question, cx=g_cse_id).execute()
+        google_data = service.cse().list(q=question, cx=g_cse_id).execute()
+
+        # or alternatively use sample/already saved data (doens't count against api quota)
         # json_file = open("data/data" + str(i) + ".json", "r", encoding="utf-8")
-        # res = json.load(json_file)
+        # google_data = json.load(json_file)
 
         # save data to disk in json format
-        writefiles(str(i), res)
+        writefiles(str(i), google_data)
         
         # find number of occurrences of answer in retrieved data
         num_occurrences = 0
@@ -103,14 +110,15 @@ def search_up():
                          "formattedUrl", "htmlFormattedUrl"]
 
         try:
-            for item in res["items"]:
+            for item in google_data["items"]:
                 # if "wikipedia" not in item["link"]:
                 for property in property_list:
                     num_occurrences += item[property].lower().count(answers[i].lower())
+        # just in case we try to access a nonexistent "item" above bc search didn't return anything
         except KeyError:
             print("search for {} returned no results".format(answers[i]))
 
-        results[answers[i]] = (int(res["searchInformation"]["totalResults"]), num_occurrences)
+        results[answers[i]] = (int(google_data["searchInformation"]["totalResults"]), num_occurrences)
 
     return results
 
@@ -123,7 +131,7 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # get data from Google
-    results_dict = search_up()
+    results = search_up()
 
     # print results
     output_answers()

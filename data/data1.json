@@ -7,9 +7,9 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - when the us dollar currency was created, what was its value pegged to? ",
-                "totalResults": "99600",
-                "searchTerms": "when the us dollar currency was created, what was its value pegged to? ",
+                "title": "Google Custom Search - the longest side of a right triangle is called the what? ",
+                "totalResults": "280000",
+                "searchTerms": "the longest side of a right triangle is called the what? ",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - when the us dollar currency was created, what was its value pegged to? ",
-                "totalResults": "99600",
-                "searchTerms": "when the us dollar currency was created, what was its value pegged to? ",
+                "title": "Google Custom Search - the longest side of a right triangle is called the what? ",
+                "totalResults": "280000",
+                "searchTerms": "the longest side of a right triangle is called the what? ",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
@@ -36,508 +36,558 @@
         "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.817265,
-        "formattedSearchTime": "0.82",
-        "totalResults": "99600",
-        "formattedTotalResults": "99,600"
+        "searchTime": 0.45999,
+        "formattedSearchTime": "0.46",
+        "totalResults": "280000",
+        "formattedTotalResults": "280,000"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "History of the United States dollar - Wikipedia",
-            "htmlTitle": "History of the <b>United States dollar</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "In order to defend the exchange value of the dollar, the US Treasury Department \nauthorized state and nationally chartered banks to issue emergency currency \nunder the Aldrich-Vreeland Act, and the newly created Federal Reserve \norganized a fund to assure debts to foreign creditors. These efforts were largely \nsuccessful, ...",
-            "htmlSnippet": "<b>In</b> order to defend the <b>exchange value of the dollar</b>, the US Treasury Department <br>\nauthorized state and nationally chartered banks to issue emergency <b>currency</b> <br>\nunder the Aldrich-Vreeland Act, and the newly <b>created</b> Federal Reserve <br>\norganized <b>a</b> fund to assure debts to foreign creditors. These efforts were largely <br>\nsuccessful,&nbsp;...",
-            "cacheId": "lDNiIkA6GgwJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/History_of_the_United_States_dollar",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>His</b>tory_<b>of_the</b>_<b>United_States</b>_<b>dollar</b>",
+            "title": "Right triangle",
+            "htmlTitle": "<b>Right triangle</b>",
+            "link": "https://artofproblemsolving.com/wiki/index.php?title=Right_triangle",
+            "displayLink": "artofproblemsolving.com",
+            "snippet": "In the image above, you see that in triangle $\\triangle ABC$ , angle C has a \nmeasure of 90 degrees, so $\\triangle ABC$ is a right triangle. The sides of a right \ntriangle have different names: The longest side, opposite the right angle, is called \nthe hypotenuse. In the diagram, the hypotenuse is labelled c. The other two sides\n ...",
+            "htmlSnippet": "In the image above, you see that in triangle $\\triangle ABC$ , angle C has a <br>\nmeasure of 90 degrees, so $\\triangle ABC$ is a <b>right triangle</b>. The <b>sides of a right</b> <br>\n<b>triangle</b> have different names: <b>The longest side</b>, opposite the right angle, is <b>called</b> <br>\nthe hypotenuse. In the diagram, the hypotenuse is labelled c. The other two sides<br>\n&nbsp;...",
+            "cacheId": "Rt4bKFrHig4J",
+            "formattedUrl": "https://artofproblemsolving.com/wiki/index.php?title=Right_triangle",
+            "htmlFormattedUrl": "https://artofproblemsolving.com/wiki/index.php?title=<b>Right</b>_<b>triangle</b>",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "220",
-                        "height": "172",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvWIEkrweMnHGcVmo2wqIU1Q0bVI5edcrJUEa5JIDfBBGvcsLElTYDa54"
+                        "width": "159",
+                        "height": "113",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRngUpf8fkrwd2gXmg6chna59xeNYFX3gxpSjFbssd36DiIgu8IsFudBg"
                     }
                 ],
                 "metatags": [
                     {
-                        "referrer": "origin"
+                        "viewport": "initial-scale=1"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Continental_%2450_note_1778.jpg/220px-Continental_%2450_note_1778.jpg"
+                        "src": "https://wiki-images.artofproblemsolving.com/0/00/Righttriangle.png"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "USD - US Dollar rates, news, and tools",
-            "htmlTitle": "<b>USD</b> - <b>US Dollar</b> rates, news, and tools",
-            "link": "https://www.xe.com/currency/usd-us-dollar",
-            "displayLink": "www.xe.com",
-            "snippet": "4 days ago ... In 1785, the Dollar was officially adopted as the money unit of the United States. \nThe Coinage Act of 1792 created the first U.S. Mint and established the federal \nmonetary system, as well as set denominations for coins specified by their value \nin gold, silver, and copper. In 1861, the U.S. Treasury issued ...",
-            "htmlSnippet": "4 days ago <b>...</b> <b>In</b> 1785, the <b>Dollar</b> was officially adopted as the <b>money</b> unit <b>of the United States</b>. <br>\nThe Coinage Act of 1792 <b>created</b> the first <b>U.S.</b> Mint and <b>established</b> the federal <br>\nmonetary system, as well as set denominations for coins specified by <b>their value</b> <br>\n<b>in</b> gold, silver, and copper. <b>In</b> 1861, the <b>U.S.</b> Treasury issued&nbsp;...",
-            "cacheId": "R9a9lf7PsH0J",
-            "formattedUrl": "https://www.xe.com/currency/usd-us-dollar",
-            "htmlFormattedUrl": "https://www.xe.com/<b>currency</b>/<b>usd</b>-<b>us</b>-<b>dollar</b>",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "version": "3.43",
-                        "twitter:card": "summary",
-                        "twitter:site": "@xe",
-                        "twitter:title": "USD - US Dollar rates, news, and tools",
-                        "twitter:description": "The US Dollar is the currency of United States. Our currency rankings show that the most popular United States Dollar exchange rate is the USD to EUR rate. The currency code for Dollars is...",
-                        "twitter:image:src": "https://s.xe.com/themes/xe/images/flags/square/USD.png",
-                        "twitter:app:name:iphone": "XE Currency",
-                        "twitter:app:name:ipad": "XE Currency",
-                        "twitter:app:name:googleplay": "XE Currency",
-                        "twitter:app:id:googleplay": "com.xe.currency",
-                        "twitter:app:id:iphone": "id315241195",
-                        "twitter:app:id:ipad": "id315241195"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Fixed exchange-rate system - Wikipedia",
-            "htmlTitle": "Fixed <b>exchange</b>-rate system - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Fixed_exchange-rate_system",
+            "title": "Right triangle - Wikipedia",
+            "htmlTitle": "<b>Right triangle</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Right_triangle",
             "displayLink": "en.wikipedia.org",
-            "snippet": "A fixed exchange rate, sometimes called a pegged exchange rate, is a type of \nexchange rate regime where a currency's value is fixed against either the value \nof another single currency, to a basket of other currencies, or to another measure \nof value, such as gold. There are benefits and risks to using a fixed exchange \nrate.",
-            "htmlSnippet": "<b>A</b> fixed <b>exchange</b> rate, sometimes called <b>a pegged exchange</b> rate, is <b>a</b> type of <br>\n<b>exchange</b> rate regime where <b>a currency</b>&#39;s <b>value</b> is fixed against either the <b>value</b> <br>\nof another single <b>currency</b>, to <b>a</b> basket of other <b>currencies</b>, or to another measure <br>\nof <b>value</b>, such as gold. There are benefits and risks to using <b>a</b> fixed <b>exchange</b> <br>\nrate.",
-            "cacheId": "MaAPPVHEFRoJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Fixed_exchange-rate_system",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fixed_<b>exchange</b>-rate_system",
+            "snippet": "A right triangle (American English) or right-angled triangle (British English) is a \ntriangle in which one angle is a right angle The relation between the sides and \nangles of a right triangle is the basis for trigonometry. The side opposite the right \nangle is called the hypotenuse (side c in the figure). The sides adjacent to the \nright ...",
+            "htmlSnippet": "A <b>right triangle</b> (American English) or right-angled triangle (British English) is a <br>\ntriangle in which one angle is a right angle The relation between the <b>sides</b> and <br>\nangles of a <b>right triangle</b> is the basis for trigonometry. The <b>side</b> opposite the right <br>\nangle is <b>called</b> the hypotenuse (<b>side</b> c in the figure). The <b>sides</b> adjacent to the <br>\nright&nbsp;...",
+            "cacheId": "HQqDAwGtqdQJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Right_triangle",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Right</b>_<b>triangle</b>",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "275",
-                        "height": "183",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcyXA2jvImqH4rz1P-S7bhnH1HK6AjLUtEVl-xELCepYJSUTDdj052HWgZ"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "referrer": "origin"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mechanism_of_Fixed_Exchange_Rate_System.png/500px-Mechanism_of_Fixed_Exchange_Rate_System.png"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Currency Peg",
-            "htmlTitle": "<b>Currency Peg</b>",
-            "link": "https://www.investopedia.com/terms/c/currency-peg.asp",
-            "displayLink": "www.investopedia.com",
-            "snippet": "Countries commonly peg their currencies to the currencies of others, typically, the \nU.S. dollar or the euro. Currency ... One disadvantage of a pegged currency is \nthat the currency is kept artificially low creating an anti-competitive trading \nenvironment compared to a floating exchange rate. ... Price/Earnings To Growth - \nPEG .",
-            "htmlSnippet": "Countries commonly <b>peg their currencies</b> to the <b>currencies</b> of others, typically, the <br>\n<b>U.S. dollar</b> or the euro. <b>Currency</b> ... One disadvantage of <b>a pegged currency</b> is <br>\nthat the <b>currency</b> is kept artificially low <b>creating</b> an anti-competitive trading <br>\nenvironment compared to <b>a</b> floating <b>exchange</b> rate. ... <b>Price</b>/Earnings To Growth - <br>\n<b>PEG</b> .",
-            "cacheId": "MIfOY-mRuIsJ",
-            "formattedUrl": "https://www.investopedia.com/terms/c/currency-peg.asp",
-            "htmlFormattedUrl": "https://www.investopedia.com/terms/c/<b>currency</b>-<b>peg</b>.asp",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "205",
-                        "height": "136",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSeZ0ZPtJqHat3Nk7abVcJ91R5lUoN1eP6aEwgPfV6GKwK9a7T3A549DQ"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "application-name": "Investopedia",
-                        "fb:pages": "105109162854142, 925483520864421",
-                        "fb:app_id": "371867692868423",
-                        "viewport": "width=device-width, initial-scale=1",
-                        "og:locale": "en_US",
-                        "og:title": "Currency Peg",
-                        "og:description": "A currency peg is an exchange rate policy that \"pegs\" a country's central bank rate of exchange to another country's currency.",
-                        "og:url": "https://www.investopedia.com/terms/c/currency-peg.asp",
-                        "og:site_name": "Investopedia",
-                        "og:type": "article",
-                        "og:image": "https://i.investopedia.com/inv/genericcontentimages/forex/forex15.jpg",
-                        "article:content_type": "Term",
-                        "article:assigned_editor": "Michael Macklon",
-                        "article:company": "Investopedia.com",
-                        "article:published_time": "2010-07-30T11:00:00-06:00",
-                        "article:modified_time": "2018-02-12T11:59:48-07:00",
-                        "article:tag": "exchange rate regime",
-                        "emailprimarychannel": "insights",
-                        "emailprimarysubchannel": "markets & economy",
-                        "emailcontenttype": "term",
-                        "author": "Investopedia Staff",
-                        "fb:admins": "100003532063336",
-                        "twitter:card": "summary_large_image",
-                        "twitter:site": "@Investopedia",
-                        "twitter:title": "Currency Peg",
-                        "twitter:description": "A currency peg is an exchange rate policy that \"pegs\" a country's central bank rate of exchange to another country's currency.",
-                        "twitter:image:src": "https://i.investopedia.com/inv/genericcontentimages/forex/forex15.jpg",
-                        "parsely-title": "Currency Peg",
-                        "parsely-link": "https://www.investopedia.com/terms/c/currency-peg.asp",
-                        "parsely-type": "post",
-                        "parsely-image-url": "https://i.investopedia.com/inv/genericcontentimages/forex/forex15.jpg",
-                        "parsely-pub-date": "2018-02-12T18:59:48Z",
-                        "parsely-section": "Markets & Economy",
-                        "parsely-author": "Investopedia Staff",
-                        "parsely-tags": "pegged exchange rate,currency peg,exchange rate,U.S. dollar,euro,Hong Kong dollar,central bank,Russian ruble,target corporation,Denmark,corralito,British pound,Walmart Stores, Inc.,Chinese,floating exchange rate,con-Term,ed-Michael Macklon,time-Timeless,luc-Moat,proj-Moat,tk-,rp-Y",
-                        "sailthru.tags": "currency peg,exchange rate,u.s. dollar,euro,hong kong dollar,markets & economy",
-                        "sailthru.author": "Investopedia Staff",
-                        "sailthru.date": "2018-02-12T16:59:04+00:00",
-                        "sailthru.image.full": "https://i.investopedia.com/inv/genericcontentimages/forex/forex15.jpg?quality=80&width=680&height=680",
-                        "sailthru.image.thumb": "https://i.investopedia.com/inv/genericcontentimages/forex/forex15.jpg?quality=60&width=200&height=200",
-                        "sailthru.title": "Currency Peg",
-                        "contenttype": "term"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://i.investopedia.com/inv/genericcontentimages/forex/forex15.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Australian dollar - Wikipedia",
-            "htmlTitle": "Australian <b>dollar</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Australian_dollar",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "The highest valuation of the Australian dollar relative to the U.S. dollar was \nduring the period of the peg to the U.S. dollar. On 9 September ... On 12 \nDecember 1983, the dollar was floated, allowing its value to fluctuate dependent \non supply and demand on international money markets. The decision ...",
-            "htmlSnippet": "The highest valuation of the Australian dollar relative to the <b>U.S. dollar</b> was <br>\nduring the period of the <b>peg to</b> the <b>U.S. dollar</b>. On 9 September ... On 12 <br>\nDecember 1983, the dollar was floated, allowing <b>its value</b> to fluctuate dependent <br>\non supply and demand on international <b>money</b> markets. The decision&nbsp;...",
-            "cacheId": "lavHwejWXdgJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Australian_dollar",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Aus</b>tralian_<b>dollar</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "125",
-                        "height": "125",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgdOwDNECaemeXHVJrQRFm8XihSIA81K16A99HwtaPtmX8T0lwXMHa9Q"
+                        "width": "244",
+                        "height": "207",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcPgV7cRMB1cPoUr_7FzOO1ujoCF0LewZ77Otvr9VQGJW665-CA0tsW-s3"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Australian_%241_Coin.png"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rtriangle.svg/1200px-Rtriangle.svg.png"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/en/9/9b/Australian_%241_Coin.png"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rtriangle.svg/1200px-Rtriangle.svg.png"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Kazakhstan's currency plunges after central bank abandons USD peg",
-            "htmlTitle": "Kazakhstan&#39;s <b>currency</b> plunges after central bank abandons <b>USD peg</b>",
-            "link": "https://www.youtube.com/watch?v=h90a71fwK3I",
+            "title": "Which is the Longest Side in a Right Triangle? - YouTube",
+            "htmlTitle": "Which is <b>the Longest Side</b> in a <b>Right Triangle</b>? - YouTube",
+            "link": "https://www.youtube.com/watch?v=wLvEhvZ9KnE",
             "displayLink": "www.youtube.com",
-            "snippet": "Aug 20, 2015 ... The Kazakh currency, the tenge, has lost a quarter of its value against the US \ndollar after abandoning a peg to the Greenback. The country's national bank sa...",
-            "htmlSnippet": "Aug 20, 2015 <b>...</b> The Kazakh <b>currency</b>, the tenge, has lost <b>a</b> quarter of <b>its value</b> against the <b>US</b> <br>\n<b>dollar</b> after abandoning <b>a peg to</b> the Greenback. The country&#39;s national bank sa...",
-            "cacheId": "ReLtb-PzMQkJ",
-            "formattedUrl": "https://www.youtube.com/watch?v=h90a71fwK3I",
-            "htmlFormattedUrl": "https://www.youtube.com/watch?v=h90a71fwK3I",
+            "snippet": "Dec 18, 2014 ... A massive topic, and by far, the most important in Geometry. To view all videos, \nplease visit https://DontMemorise.com . Don't Memorise brings learning to li...",
+            "htmlSnippet": "Dec 18, 2014 <b>...</b> A massive topic, and by far, the most important in Geometry. To view all videos, <br>\nplease visit https://DontMemorise.com . Don&#39;t Memorise brings learning to li...",
+            "cacheId": "aENknsisgd8J",
+            "formattedUrl": "https://www.youtube.com/watch?v=wLvEhvZ9KnE",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=wLvEhvZ9KnE",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "259",
-                        "height": "194",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqi6E61OV3DarKqud2vuuoNexOrGGDFzwWrG5jPYKTg_7p_PQDGikGoN4r"
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRteKr2HE9P33PR0BdNS-fnIdQ-cVQt1_oNJ4g2hLE97GdB3KoRVQxpoaUz"
                     }
                 ],
                 "metatags": [
                     {
-                        "title": "Kazakhstan's currency plunges after central bank abandons USD peg",
+                        "title": "Which is the Longest Side in a Right Triangle?",
                         "theme-color": "#ff0000",
                         "og:site_name": "YouTube",
-                        "og:url": "https://www.youtube.com/watch?v=h90a71fwK3I",
-                        "og:title": "Kazakhstan's currency plunges after central bank abandons USD peg",
-                        "og:image": "https://i.ytimg.com/vi/h90a71fwK3I/hqdefault.jpg",
-                        "og:description": "The Kazakh currency, the tenge, has lost a quarter of its value against the US dollar after abandoning a peg to the Greenback. The country's national bank sa...",
+                        "og:url": "https://www.youtube.com/watch?v=wLvEhvZ9KnE",
+                        "og:title": "Which is the Longest Side in a Right Triangle?",
+                        "og:image": "https://i.ytimg.com/vi/wLvEhvZ9KnE/maxresdefault.jpg",
+                        "og:description": "A massive topic, and by far, the most important in Geometry. To view all videos, please visit https://DontMemorise.com . Don’t Memorise brings learning to li...",
                         "al:ios:app_store_id": "544007664",
                         "al:ios:app_name": "YouTube",
-                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=h90a71fwK3I&feature=applinks",
-                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=h90a71fwK3I&feature=applinks",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=wLvEhvZ9KnE&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=wLvEhvZ9KnE&feature=applinks",
                         "al:android:app_name": "YouTube",
                         "al:android:package": "com.google.android.youtube",
-                        "al:web:url": "https://www.youtube.com/watch?v=h90a71fwK3I&feature=applinks",
+                        "al:web:url": "https://www.youtube.com/watch?v=wLvEhvZ9KnE&feature=applinks",
                         "og:type": "video.other",
-                        "og:video:url": "https://www.youtube.com/embed/h90a71fwK3I",
-                        "og:video:secure_url": "https://www.youtube.com/embed/h90a71fwK3I",
+                        "og:video:url": "https://www.youtube.com/embed/wLvEhvZ9KnE",
+                        "og:video:secure_url": "https://www.youtube.com/embed/wLvEhvZ9KnE",
                         "og:video:type": "text/html",
-                        "og:video:width": "640",
-                        "og:video:height": "360",
-                        "og:video:tag": "euronews",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "triangles",
                         "fb:app_id": "87741124305",
                         "twitter:card": "player",
                         "twitter:site": "@youtube",
-                        "twitter:url": "https://www.youtube.com/watch?v=h90a71fwK3I",
-                        "twitter:title": "Kazakhstan's currency plunges after central bank abandons USD peg",
-                        "twitter:description": "The Kazakh currency, the tenge, has lost a quarter of its value against the US dollar after abandoning a peg to the Greenback. The country's national bank sa...",
-                        "twitter:image": "https://i.ytimg.com/vi/h90a71fwK3I/hqdefault.jpg",
+                        "twitter:url": "https://www.youtube.com/watch?v=wLvEhvZ9KnE",
+                        "twitter:title": "Which is the Longest Side in a Right Triangle?",
+                        "twitter:description": "A massive topic, and by far, the most important in Geometry. To view all videos, please visit https://DontMemorise.com . Don’t Memorise brings learning to li...",
+                        "twitter:image": "https://i.ytimg.com/vi/wLvEhvZ9KnE/maxresdefault.jpg",
                         "twitter:app:name:iphone": "YouTube",
                         "twitter:app:id:iphone": "544007664",
                         "twitter:app:name:ipad": "YouTube",
                         "twitter:app:id:ipad": "544007664",
-                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=h90a71fwK3I&feature=applinks",
-                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=h90a71fwK3I&feature=applinks",
+                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=wLvEhvZ9KnE&feature=applinks",
+                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=wLvEhvZ9KnE&feature=applinks",
                         "twitter:app:name:googleplay": "YouTube",
                         "twitter:app:id:googleplay": "com.google.android.youtube",
-                        "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=h90a71fwK3I"
+                        "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=wLvEhvZ9KnE",
+                        "twitter:player": "https://www.youtube.com/embed/wLvEhvZ9KnE",
+                        "twitter:player:width": "1280",
+                        "twitter:player:height": "720"
                     }
                 ],
                 "videoobject": [
                     {
-                        "url": "https://www.youtube.com/watch?v=h90a71fwK3I",
-                        "name": "Kazakhstan's currency plunges after central bank abandons USD peg",
-                        "description": "The Kazakh currency, the tenge, has lost a quarter of its value against the US dollar after abandoning a peg to the Greenback. The country's national bank sa...",
+                        "url": "https://www.youtube.com/watch?v=wLvEhvZ9KnE",
+                        "name": "Which is the Longest Side in a Right Triangle?",
+                        "description": "A massive topic, and by far, the most important in Geometry. To view all videos, please visit https://DontMemorise.com . Don’t Memorise brings learning to li...",
                         "paid": "False",
-                        "channelid": "UCSrZ3UV4jOidv8ppoVuvW9Q",
-                        "videoid": "h90a71fwK3I",
-                        "duration": "PT0M44S",
+                        "channelid": "UCiTjCIT_9EXV1Wp1cY0zaUA",
+                        "videoid": "wLvEhvZ9KnE",
+                        "duration": "PT2M38S",
                         "unlisted": "False",
-                        "thumbnailurl": "https://i.ytimg.com/vi/h90a71fwK3I/hqdefault.jpg",
-                        "embedurl": "https://www.youtube.com/embed/h90a71fwK3I",
+                        "thumbnailurl": "https://i.ytimg.com/vi/wLvEhvZ9KnE/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/wLvEhvZ9KnE",
                         "playertype": "HTML5 Flash",
-                        "width": "640",
-                        "height": "360",
+                        "width": "1280",
+                        "height": "720",
                         "isfamilyfriendly": "True",
                         "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
-                        "interactioncount": "5482",
-                        "datepublished": "2015-08-20",
-                        "genre": "News & Politics"
+                        "interactioncount": "2861",
+                        "datepublished": "2014-12-18",
+                        "genre": "Education"
                     }
                 ],
                 "imageobject": [
                     {
-                        "url": "https://i.ytimg.com/vi/h90a71fwK3I/hqdefault.jpg",
-                        "width": "480",
-                        "height": "360"
+                        "url": "https://i.ytimg.com/vi/wLvEhvZ9KnE/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
                     }
                 ],
                 "person": [
                     {
-                        "url": "http://www.youtube.com/user/Euronews"
+                        "url": "http://www.youtube.com/channel/UCiTjCIT_9EXV1Wp1cY0zaUA"
                     },
                     {
-                        "url": "https://plus.google.com/101036888397116664208"
+                        "url": "https://plus.google.com/115286461945455966044"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://i.ytimg.com/vi/h90a71fwK3I/hqdefault.jpg"
+                        "src": "https://i.ytimg.com/vi/wLvEhvZ9KnE/maxresdefault.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Canadian dollar - Wikipedia",
-            "htmlTitle": "Canadian <b>dollar</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Canadian_dollar",
+            "title": "Hypotenuse - Wikipedia",
+            "htmlTitle": "Hypotenuse - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Hypotenuse",
             "displayLink": "en.wikipedia.org",
-            "snippet": "But the Canadian dollar fell sharply after 1960 before it was again pegged in \n1962 at C$1.00 = US$0.925. This was sometimes pejoratively referred to as the \"\nDiefenbuck\" or the \"Diefendollar\", after the then Prime Minister, John Diefenbaker\n. This peg lasted until 1970, after which the currency's value has floated.",
-            "htmlSnippet": "But the Canadian <b>dollar</b> fell sharply after 1960 before it was again <b>pegged in</b> <br>\n1962 at C$1.00 = <b>US</b>$0.925. This was sometimes pejoratively referred to as the &quot;<br>\nDiefenbuck&quot; or the &quot;Diefendollar&quot;, after the then Prime Minister, John Diefenbaker<br>\n. This <b>peg</b> lasted until 1970, after which the <b>currency&#39;s value</b> has floated.",
-            "cacheId": "R02RP89pINsJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Canadian_dollar",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Canadian_<b>dollar</b>",
+            "snippet": "In geometry, a hypotenuse (rarely: hypothenuse) is the longest side of a right-\nangled triangle, the side opposite of the right angle. The length of the hypotenuse \nof a right triangle can be found using the Pythagorean theorem, which states that \nthe square of the length of the hypotenuse equals the sum of the squares of the ...",
+            "htmlSnippet": "In geometry, a hypotenuse (rarely: hypothenuse) is <b>the longest side of a right</b>-<br>\nangled triangle, the side opposite of the right angle. The length of the hypotenuse <br>\nof a <b>right triangle</b> can be found using the Pythagorean theorem, which states that <br>\nthe square of the length of the hypotenuse equals the sum of the squares of the&nbsp;...",
+            "cacheId": "Up2Z1HAPvdcJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hypotenuse",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hypotenuse",
             "pagemap": {
                 "cse_thumbnail": [
                     {
                         "width": "264",
                         "height": "191",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZcUSMoIe21bVt29EBTVVm5bhoj3Tdvo7DlSzTMAlBEOIvyFsGX1iKvZU"
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFPBRjpYBmrSGeTbyCH2wdj2M_kO753n2Ct0PQ1cEXujxUWjlSclsbFL4"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/en/9/92/Canadian_Frontier_Banknotes_faces.png"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hypotenuse.svg/1200px-Hypotenuse.svg.png"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/en/9/92/Canadian_Frontier_Banknotes_faces.png"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hypotenuse.svg/1200px-Hypotenuse.svg.png"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "History of the Gold Standard",
-            "htmlTitle": "History <b>of the</b> Gold Standard",
-            "link": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
-            "displayLink": "www.thebalance.com",
-            "snippet": "For more on how this works, see Peg to the Dollar. As a result, most countries no \nlonger needed to exchange their currency for gold. The dollar had replaced it. As \na result, the value of the dollar increased even though its worth in gold remained \nthe same. This made the U.S. dollar the de facto world currency. (Source: ...",
-            "htmlSnippet": "For more on how this works, see <b>Peg to</b> the Dollar. As <b>a</b> result, most countries no <br>\nlonger needed to <b>exchange their currency</b> for gold. The dollar had replaced it. As <br>\n<b>a</b> result, the <b>value of the dollar</b> increased even though <b>its</b> worth <b>in</b> gold remained <br>\nthe same. This <b>made</b> the <b>U.S. dollar</b> the de facto world <b>currency</b>. (Source:&nbsp;...",
-            "cacheId": "__ymDYIry3cJ",
-            "formattedUrl": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard- 3306136",
-            "htmlFormattedUrl": "https://www.thebalance.com/what-is-the-<b>his</b>tory-<b>of-the</b>-gold-standard- 3306136",
+            "title": "Which is the longest side in a right-angled triangle? - Quora",
+            "htmlTitle": "Which is <b>the longest side</b> in a <b>right</b>-angled <b>triangle</b>? - Quora",
+            "link": "https://www.quora.com/Which-is-the-longest-side-in-a-right-angled-triangle",
+            "displayLink": "www.quora.com",
+            "snippet": "As you can see this side opposite to the right angle is always the longest in any \nand every right angled triangle possible to be drawn by hand; but if a right .... The \nlongest side of a right-angled triangle or a right triangle is called the \"hypotenuse\" \nwhich is the side opposite the 90 degree angle, which is the largest angle of a ...",
+            "htmlSnippet": "As you can see this side opposite to the right angle is always the longest in any <br>\nand every right angled triangle possible to be drawn by hand; but if a right .... <b>The</b> <br>\n<b>longest side of a right</b>-angled triangle or a <b>right triangle is called</b> the &quot;hypotenuse&quot; <br>\nwhich is the side opposite the 90 degree angle, which is the largest angle of a&nbsp;...",
+            "formattedUrl": "https://www.quora.com/Which-is-the-longest-side-in-a-right-angled-triangle",
+            "htmlFormattedUrl": "https://www.quora.com/Which-is-<b>the-longest</b>-<b>side</b>-in-a-<b>right</b>-angled-<b>triangle</b>",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "276",
-                        "height": "183",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLBNZ2_GtVbP2UIX0d07qStuHDE9Fu9Knr_k_bpbTzqdrGC-oHtVgzt48"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "msapplication-tilecolor": "#F4F4F4",
-                        "msapplication-tileimage": "/static/3.0.3/icons/favicons/mstile-144x144.png",
-                        "msapplication-square70x70logo": "/static/3.0.3/icons/favicons/mstile-70x70.png",
-                        "msapplication-square150x150logo": "/static/3.0.3/icons/favicons/mstile-150x150.png",
-                        "msapplication-square310x310logo": "/static/3.0.3/icons/favicons/mstile-310x310.png",
-                        "msapplication-wide310x150logo": "/static/3.0.3/icons/favicons/mstile-310x150.png",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "sailthru.tags": "thebalance,us-economy",
-                        "article:section": "The Balance",
-                        "fb:app_id": "1204021896297075",
-                        "og:type": "article",
-                        "og:site_name": "The Balance",
-                        "og:url": "https://www.thebalance.com/what-is-the-history-of-the-gold-standard-3306136",
-                        "og:title": "When the Dollar Was Backed By Gold",
-                        "og:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
-                        "og:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
-                        "article:author": "https://www.facebook.com/thebalancecom",
-                        "twitter:card": "summary",
-                        "twitter:site": "@thebalance",
-                        "twitter:title": "When the Dollar Was Backed By Gold",
-                        "twitter:description": "Understand gold standard history, including when the U.S. went off the gold standard, and why. Here&#39;s why it&#39;s still an asset of real value.",
-                        "twitter:image": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg",
-                        "lotame:tax4": "bal_commodities-market",
-                        "lotame:tax3": "bal_us-markets",
-                        "lotame:tax2": "bal_us-economy",
-                        "lotame:tax1": "bal_investing",
-                        "lotame:tax0": "bal"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://fthmb.tqn.com/ppFvhE2NZvDCDrmBn7SdQ4vxgqw=/3880x2569/filters:fill(auto,1)/GettyImages-88295359-57a63eeb3df78cf4591ac369.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Zimbabwe's US dollar bond notes have lost value and encouraged ...",
-            "htmlTitle": "Zimbabwe&#39;s <b>US dollar</b> bond notes have lost <b>value</b> and encouraged ...",
-            "link": "https://qz.com/1071547/zimbabwes-us-dollar-bond-notes-have-lost-value-and-encouraged-value-arbitrage/",
-            "displayLink": "qz.com",
-            "snippet": "Sep 7, 2017 ... This is because the scarcity of the US dollar in circulation has necessitated the \nunofficial transaction of the bond to US dollar on the parallel market. Now with the \nUS dollar, bond notes and plastic money in circulation, unscrupulous business \npeople have developed a black market of sorts to start pegging ...",
-            "htmlSnippet": "Sep 7, 2017 <b>...</b> This is because the scarcity of the <b>US dollar in</b> circulation has necessitated the <br>\nunofficial transaction of the bond to <b>US dollar</b> on the parallel market. Now with the <br>\n<b>US dollar</b>, bond notes and plastic <b>money in</b> circulation, unscrupulous business <br>\npeople have <b>developed a</b> black market of sorts to start <b>pegging</b>&nbsp;...",
-            "cacheId": "DtavSJSPhdoJ",
-            "formattedUrl": "https://qz.com/.../zimbabwes-us-dollar-bond-notes-have-lost-value-and- encouraged-value-arbitrage/",
-            "htmlFormattedUrl": "https://qz.com/.../zimbabwes-<b>us</b>-<b>dollar</b>-bond-notes-have-lost-<b>value</b>-and- encouraged-<b>value</b>-arbitrage/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "299",
+                        "width": "300",
                         "height": "168",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0-K6q889b238Sknrj8RiUAnT9GnQLTrmzyY_5HBqkQNAbJtOo4mfIy9Lg"
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsPMJUSEZFQur_WOTXMIxb3irLuq7LybFZYZt9S01sX8TlBNOx1T96yRAD"
                     }
                 ],
                 "metatags": [
                     {
-                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
-                        "apple-mobile-web-app-title": "Quartz",
-                        "apple-mobile-web-app-status-bar-style": "black",
-                        "bitly-verification": "3cc1017cee1d",
-                        "theme-color": "#000000",
-                        "fb:pages": "444654488901592",
-                        "msvalidate.01": "4B2AFFFDBF9736993D778515CB307FAF",
-                        "news_keywords": "Africa, Reserve Bank of Zimbabwe, Zimbabwe, Zimbabwe Bond Notes, Zimbabwe economic crisis, Zimbabwe economy",
-                        "og:title": "Thanks to a cash crisis, one US dollar in Zimbabwe now has three different values",
+                        "fb:app_id": "136609459636",
+                        "og:title": "Which is the longest side in a right-angled triangle?",
                         "og:type": "article",
-                        "og:image": "https://qz.com/wp-content/uploads/2017/09/rtx32dqj-e1504775764184.jpg?quality=80&strip=all&w=1600",
-                        "og:image:width": "1600",
-                        "og:image:height": "900",
-                        "og:url": "https://qz.com/1071547/zimbabwes-us-dollar-bond-notes-have-lost-value-and-encouraged-value-arbitrage/",
-                        "og:description": "The same item can have three different retail prices, costing $80 when using cash, $100 using bond notes and $120 when one is uses a bank card.",
-                        "og:locale": "en_US",
-                        "og:site_name": "Quartz",
-                        "article:publisher": "https://www.facebook.com/quartznews",
-                        "twitter:card": "summary_large_image",
-                        "twitter:title": "Thanks to a cash crisis, one US dollar in Zimbabwe now has three different values",
-                        "twitter:image": "https://qz.com/wp-content/uploads/2017/09/rtx32dqj-e1504775764184.jpg?quality=80&strip=all&w=800&h=400&crop=1",
-                        "twitter:url": "https://qz.com/1071547/zimbabwes-us-dollar-bond-notes-have-lost-value-and-encouraged-value-arbitrage/",
-                        "twitter:description": "The same item can have three different retail prices, costing $80 when using cash, $100 using bond notes and $120 when one is uses a bank card.",
-                        "twitter:site": "@qz",
-                        "article:published_time": "2017-09-07T10:06:24+00:00",
-                        "article:modified_time": "2017-09-07T10:17:03+00:00",
-                        "twitter:text:title": "Thanks to a cash crisis, one US dollar in Zimbabwe now has three different values",
-                        "msapplication-tileimage": "https://qz.com/wp-content/uploads/2018/03/qz_og_img1.png?w=270"
-                    }
-                ],
-                "newsarticle": [
-                    {
-                        "headline": "Thanks to a cash crisis, one US dollar in Zimbabwe now has three different values",
-                        "author": "Problem Masau",
-                        "datepublished": "September 07, 2017",
-                        "image": "https://qz.com/wp-content/uploads/2017/09/rtx32dqj-e1504775764184.jpg?quality=80&strip=all&w=320",
-                        "articlebody": "Harare, Zimbabwe Faced by a runaway hyperinflation in 2008 which left every citizen a poor billionaire, the Zimbabwe government discarded the Zimbabwean dollar and instead opted for the US..."
+                        "og:site_name": "Quora",
+                        "og:image": "https://qsf.fs.quoracdn.net/-3-images.Illustration_fb_share_default_1280x720.png-26-b9513ebe3b7bfd7b.png",
+                        "og:url": "https://www.quora.com/Which-is-the-longest-side-in-a-right-angled-triangle",
+                        "og:description": "Answer (1 of 24): The longest side in a right angled triangle is the hypotenuse.  PROOF:  According to property the longest side of a triangle lies opposite to the largest angle.  In a right angled triangle, one of the angle is 90 and the sum of the other two angles is equal to 90, thus the other...",
+                        "twitter:card": "summary",
+                        "twitter:site": "@Quora",
+                        "twitter:url": "https://www.quora.com/Which-is-the-longest-side-in-a-right-angled-triangle",
+                        "twitter:title": "Which is the longest side in a right-angled triangle?",
+                        "twitter:description": "Answer (1 of 24): The longest side in a right angled triangle is the hypotenuse.  PROOF:  According to property the longest side of a triangle lies opposite to the largest angle.  In a right angled triangle, one of the angle is 90 and the sum of the other two angles is equal to 90, thus the other...",
+                        "twitter:image": "https://qsf.fs.quoracdn.net/-3-images.Illustration_fb_share_default_1280x720.png-26-b9513ebe3b7bfd7b.png",
+                        "fb:pages": "255232486973"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://qz.com/wp-content/uploads/2017/09/rtx32dqj-e1504775764184.jpg?quality=80&strip=all&w=1600"
+                        "src": "https://qsf.fs.quoracdn.net/-3-images.Illustration_fb_share_default_1280x720.png-26-b9513ebe3b7bfd7b.png"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Dai did a pretty good job maintaining its peg to the US dollar in spite of",
-            "htmlTitle": "Dai did <b>a</b> pretty good job maintaining <b>its peg to</b> the <b>US dollar in</b> spite of",
-            "link": "https://www.reddit.com/r/MakerDAO/comments/7qyc64/dai_did_a_pretty_good_job_maintaining_its_peg_to/",
-            "displayLink": "www.reddit.com",
-            "snippet": "https://coinmarketcap.com/currencies/dai/#charts. This was the largest market dip \nsince the currency came online in late December. Dai certainly hasn't proven \nitself yet - it will need to weather a deeper \"black swan\" market crash to do that, \npreferably while keeping closer to its $1USD target value than it did ...",
-            "htmlSnippet": "https://coinmarketcap.com/<b>currencies</b>/dai/#charts. This was the largest market dip <br>\nsince the <b>currency</b> came online <b>in</b> late December. Dai certainly hasn&#39;t proven <br>\nitself yet - it will need to weather <b>a</b> deeper &quot;black swan&quot; market crash to do that, <br>\npreferably while keeping closer to <b>its</b> $1<b>USD</b> target <b>value</b> than it did&nbsp;...",
-            "cacheId": "B63XAGeaXuYJ",
-            "formattedUrl": "https://www.reddit.com/.../dai_did_a_pretty_good_job_maintaining_its_peg_ to/",
-            "htmlFormattedUrl": "https://www.reddit.com/.../dai_did_<b>a</b>_pretty_good_job_m<b>ain</b>t<b>ainin</b>g_<b>its</b>_<b>peg_ to</b>/",
+            "title": "What is name of the longest side of a triangle?",
+            "htmlTitle": "What is name of <b>the longest side</b> of a <b>triangle</b>?",
+            "link": "http://www.funtrivia.com/askft/Question35724.html",
+            "displayLink": "www.funtrivia.com",
+            "snippet": "What is name of the longest side of a triangle - trivia question /questions answer / \nanswers. ... I don't know if there is a word for the longest side of any triangle. ... \nThe answer is \"the longest side\" UNLESS it is a RIGHT ANGLED triangle (which \ncan be an isosceles or scalene) in which case it is called the ...",
+            "htmlSnippet": "What is name of <b>the longest side</b> of a <b>triangle</b> - trivia question /questions answer / <br>\nanswers. ... I don&#39;t know if there is a word for <b>the longest side</b> of any <b>triangle</b>. ... <br>\nThe answer is &quot;<b>the longest side</b>&quot; UNLESS it is a <b>RIGHT</b> ANGLED <b>triangle</b> (which <br>\ncan be an isosceles or scalene) in which case it is <b>called</b> the&nbsp;...",
+            "cacheId": "XB3LKkXSdCIJ",
+            "formattedUrl": "www.funtrivia.com/askft/Question35724.html",
+            "htmlFormattedUrl": "www.funtrivia.com/askft/Question35724.html",
             "pagemap": {
-                "cse_thumbnail": [
+                "question": [
                     {
-                        "width": "216",
-                        "height": "216",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYU_e5Fcnneif4Y-9dIzJsh7F09Ao5jBfn-2yMiIrOUT0XXKi1eES4RKw"
+                        "name": "What is name of the longest side of a triangle?",
+                        "answercount": "9",
+                        "image": "http://www.funtrivia.com/img/home/s_logo.gif",
+                        "url": "http://www.funtrivia.com/askft/Question35724.html",
+                        "author": "freddy_krueger"
                     }
                 ],
                 "metatags": [
                     {
-                        "referrer": "always",
-                        "viewport": "width=1024",
-                        "og:site_name": "reddit",
-                        "og:description": "49 points and 10 comments so far on reddit",
-                        "og:title": "Dai did a pretty good job maintaining its peg to the US dollar in spite of today's volatile bear market! • r/MakerDAO",
-                        "og:image": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?w=216&s=2b93b2bba7126deaf4c5799d7fca65f7",
-                        "og:ttl": "600",
-                        "og:image:width": "216",
-                        "twitter:site": "reddit",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+                    }
+                ],
+                "answer": [
+                    {
+                        "upvotecount": "10",
+                        "text": "HYPOTENUSE",
+                        "datecreated": "Jul 01 03 12:17 PM",
+                        "author": "mochyn"
+                    },
+                    {
+                        "upvotecount": "2",
+                        "text": "Hypotenuse refers to the longest side of a right-angled triangle. I don't know if there is a word for the longest side of any triangle.",
+                        "datecreated": "Jul 01 03 12:34 PM",
+                        "author": "Roget"
+                    },
+                    {
+                        "upvotecount": "1",
+                        "text": "yes sorry, didn't realised i missed out 'right angled'",
+                        "datecreated": "Jul 01 03 12:39 PM",
+                        "author": "freddy_krueger"
+                    },
+                    {
+                        "upvotecount": "4",
+                        "text": "Roget: They are called that on all of them... although there isn't a hypotenuse on a equilateral triangle, only on scalene and issosceles",
+                        "datecreated": "Jul 01 03 12:41 PM",
+                        "author": "elizabethmc"
+                    },
+                    {
+                        "upvotecount": "3",
+                        "text": "I checked two dictionaries and an encyclopedia and they all stated that the the term only applies to a right-angled triangle.",
+                        "datecreated": "Jul 01 03 12:49 PM",
+                        "author": "Roget"
+                    },
+                    {
+                        "upvotecount": "3",
+                        "text": "hypotenuse",
+                        "datecreated": "Jul 06 03 5:00 AM",
+                        "author": "WFRS"
+                    },
+                    {
+                        "upvotecount": "2",
+                        "text": "The answer is \"the longest side\" UNLESS it is a RIGHT ANGLED triangle (which can be an isosceles or scalene) in which case it is called the HYPOTENUSE !",
+                        "datecreated": "Jul 06 03 6:29 AM",
+                        "author": "sequoianoir"
+                    },
+                    {
+                        "upvotecount": "2",
+                        "text": "This was posted 5 days ago, and I think we've already settled this haven't we? I just missed out the word 'right-angled'.",
+                        "datecreated": "Jul 06 03 6:42 AM",
+                        "author": "freddy_krueger"
+                    },
+                    {
+                        "upvotecount": "2",
+                        "text": "Yes freddy I was aware it just seemed that the \"entire correct\" answer needed posting.",
+                        "datecreated": "Jul 06 03 6:45 AM",
+                        "author": "sequoianoir"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Why is the longest side in a right-angled triangle called the ...",
+            "htmlTitle": "Why is <b>the longest side</b> in a <b>right</b>-angled <b>triangle called</b> the ...",
+            "link": "https://www.quora.com/Why-is-the-longest-side-in-a-right-angled-triangle-called-the-hypotenuse",
+            "displayLink": "www.quora.com",
+            "snippet": "Check Online Etymology Dictionary (Online Etymology Dictionary) — the term \ncomes from Greek “hypoteinousa” signifying a line stretching under a right angle \nwhich is what a hypotenuse is.",
+            "htmlSnippet": "Check Online Etymology Dictionary (Online Etymology Dictionary) — the term <br>\ncomes from Greek “hypoteinousa” signifying a line stretching under a <b>right</b> angle <br>\nwhich is what a hypotenuse is.",
+            "formattedUrl": "https://www.quora.com/Why-is-the-longest-side-in-a-right-angled-triangle- called-the-hypotenuse",
+            "htmlFormattedUrl": "https://www.quora.com/Why-is-<b>the-longest</b>-<b>side</b>-in-a-<b>right</b>-angled-<b>triangle</b>- <b>called</b>-the-hypotenuse",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsPMJUSEZFQur_WOTXMIxb3irLuq7LybFZYZt9S01sX8TlBNOx1T96yRAD"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "fb:app_id": "136609459636",
+                        "og:title": "Why is the longest side in a right-angled triangle called the hypotenuse?",
+                        "og:type": "article",
+                        "og:site_name": "Quora",
+                        "og:image": "https://qsf.fs.quoracdn.net/-3-images.Illustration_fb_share_default_1280x720.png-26-b9513ebe3b7bfd7b.png",
+                        "og:url": "https://www.quora.com/Why-is-the-longest-side-in-a-right-angled-triangle-called-the-hypotenuse",
+                        "og:description": "Answer (1 of 2): Check Online Etymology Dictionary (Online Etymology Dictionary) — the term comes from Greek “hypoteinousa” signifying a line stretching under a right angle which is what a hypotenuse is.",
                         "twitter:card": "summary",
-                        "twitter:title": "Dai did a pretty good job maintaining its peg to the... • r/MakerDAO",
-                        "msapplication-tilecolor": "#ffffff",
-                        "msapplication-tileimage": "//www.redditstatic.com/desktop2x/img/favicon/ms-icon-144x144.png",
-                        "theme-color": "#ffffff"
+                        "twitter:site": "@Quora",
+                        "twitter:url": "https://www.quora.com/Why-is-the-longest-side-in-a-right-angled-triangle-called-the-hypotenuse",
+                        "twitter:title": "Why is the longest side in a right-angled triangle called the hypotenuse?",
+                        "twitter:description": "Answer (1 of 2): Check Online Etymology Dictionary (Online Etymology Dictionary) — the term comes from Greek “hypoteinousa” signifying a line stretching under a right angle which is what a hypotenuse is.",
+                        "twitter:image": "https://qsf.fs.quoracdn.net/-3-images.Illustration_fb_share_default_1280x720.png-26-b9513ebe3b7bfd7b.png",
+                        "fb:pages": "255232486973"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://i.redditmedia.com/4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg?w=216&s=2b93b2bba7126deaf4c5799d7fca65f7"
+                        "src": "https://qsf.fs.quoracdn.net/-3-images.Illustration_fb_share_default_1280x720.png-26-b9513ebe3b7bfd7b.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "BBC - GCSE Bitesize: Finding one side of a right-angled triangle ...",
+            "htmlTitle": "BBC - GCSE Bitesize: Finding one <b>side of a right</b>-angled <b>triangle</b> ...",
+            "link": "http://www.bbc.co.uk/schools/gcsebitesize/maths/geometry/pythagorastheoremrev1.shtml",
+            "displayLink": "www.bbc.co.uk",
+            "snippet": "A secondary school revision resource for GCSE Maths about foundation level \nlength, area and angle calculation and Pythagoras.",
+            "htmlSnippet": "A secondary school revision resource for GCSE Maths about foundation level <br>\nlength, area and angle calculation and Pythagoras.",
+            "cacheId": "0pa-BnIC42MJ",
+            "formattedUrl": "www.bbc.co.uk/schools/gcsebitesize/.../pythagorastheoremrev1.shtml",
+            "htmlFormattedUrl": "www.bbc.co.uk/schools/gcsebitesize/.../pythagorastheoremrev1.shtml",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "343",
+                        "height": "147",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0FghdR-8KHYS2J9R5rTsp0AF45p_F--Fq02JnnzUSRwUo9ntMKp2U9w"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "dcterms.created": "2006-09-15T12:00:00Z",
+                        "dcterms.modified": "2006-09-15T12:35:00Z",
+                        "viewport": "width = 974"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.bbc.co.uk/staticarchive/e3bc94f3be984e1abdd0da7f009979801e340090.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Circumcenter of a right triangle (video) | Khan Academy",
+            "htmlTitle": "Circumcenter of a <b>right triangle</b> (video) | Khan Academy",
+            "link": "https://www.khanacademy.org/math/geometry-home/triangle-properties/perpendicular-bisectors/v/circumcenter-of-a-right-triangle",
+            "displayLink": "www.khanacademy.org",
+            "snippet": "Showing that the midpoint of the hypotenuse is the circumcenter.",
+            "htmlSnippet": "Showing that the midpoint of the hypotenuse is the circumcenter.",
+            "cacheId": "oqz8VjE7JIQJ",
+            "formattedUrl": "https://www.khanacademy.org/.../triangle.../circumcenter-of-a-right-triangle",
+            "htmlFormattedUrl": "https://www.khanacademy.org/.../<b>triangle</b>.../circumcenter-of-a-<b>right</b>-<b>triangle</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOszoW10_MVq0a5l-doF_IKHxNSfJt6al1k51XLq9nL8D51fPPkDkndRCq"
+                    }
+                ],
+                "document": [
+                    {
+                        "title": "Circumcenter of a right triangle",
+                        "description": "Showing that the midpoint of the hypotenuse is the circumcenter",
+                        "author": "Sal Khan",
+                        "type": "video",
+                        "tag": "geometry"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+                        "sailthru.tags": "perpendicular-bisectors, geometry-home, geometry, triangle-properties, math",
+                        "fb:app_id": "160249463991765",
+                        "fb:admins": "100000121497109,1305017,100001572496923",
+                        "og:site_name": "Khan Academy",
+                        "og:type": "video.other",
+                        "og:title": "Circumcenter of a right triangle",
+                        "og:description": "Showing that the midpoint of the hypotenuse is the circumcenter",
+                        "og:url": "https://www.khanacademy.org/math/geometry-home/triangle-properties/perpendicular-bisectors/v/circumcenter-of-a-right-triangle",
+                        "og:image": "http://img.youtube.com/vi/VejCw2NlE60/0.jpg",
+                        "og:video": "http://www.youtube.com/v/VejCw2NlE60",
+                        "og:video:type": "application/x-shockwave-flash",
+                        "title": "Circumcenter of a right triangle",
+                        "video_type": "application/x-shockwave-flash",
+                        "twitter:site": "@khanacademy",
+                        "twitter:title": "Circumcenter of a right triangle",
+                        "twitter:description": "Showing that the midpoint of the hypotenuse is the circumcenter",
+                        "twitter:image": "http://img.youtube.com/vi/VejCw2NlE60/0.jpg",
+                        "apple-itunes-app": "app-id=469863705, app-argument=https://www.khanacademy.org/math/geometry-home/triangle-properties/perpendicular-bisectors/v/circumcenter-of-a-right-triangle"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Circumcenter of a right triangle",
+                        "image": "http://img.youtube.com/vi/VejCw2NlE60/0.jpg",
+                        "description": "Showing that the midpoint of the hypotenuse is the circumcenter"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://img.youtube.com/vi/VejCw2NlE60/0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How is the hypotenuse the longest side of any right triangle ...",
+            "htmlTitle": "How is the hypotenuse <b>the longest side</b> of any <b>right triangle</b> ...",
+            "link": "https://math.stackexchange.com/questions/991156/how-is-the-hypotenuse-the-longest-side-of-any-right-triangle",
+            "displayLink": "math.stackexchange.com",
+            "snippet": "All of this together shows that the side opposite the 90 degree angle is the \nlongest side in the triangle. In a similar fashion, you can show that even for \ntriangles which are not right triangles, the side opposite the biggest angle will be \nthe biggest side. share|cite|improve this answer. answered Oct 26 '14 at 2: ...",
+            "htmlSnippet": "All of this together shows that the side opposite the 90 degree angle is <b>the</b> <br>\n<b>longest side</b> in the triangle. In a similar fashion, you can show that even for <br>\ntriangles which are not <b>right triangles</b>, the side opposite the biggest angle will be <br>\nthe biggest side. share|cite|improve this answer. answered Oct 26 &#39;14 at 2:&nbsp;...",
+            "cacheId": "6RB_uXUmGpAJ",
+            "formattedUrl": "https://math.stackexchange.com/.../how-is-the-hypotenuse-the-longest-side-of -any-right-triangle",
+            "htmlFormattedUrl": "https://math.stackexchange.com/.../how-is-the-hypotenuse-<b>the-longest</b>-<b>side</b>-of -any-<b>right</b>-<b>triangle</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEO2ySuFcM_KsymmQ67tOHszgGFBjkC-zk0MtyEQTfI61X4QC-LNzV04w"
+                    }
+                ],
+                "qapage": [
+                    {
+                        "image": "https://cdn.sstatic.net/Sites/math/img/apple-touch-icon@2.png?v=4ec1df2e49b1",
+                        "primaryimageofpage": "https://cdn.sstatic.net/Sites/math/img/apple-touch-icon@2.png?v=4ec1df2e49b1",
+                        "title": "How is the hypotenuse the longest side of any right triangle?",
+                        "name": "How is the hypotenuse the longest side of any right triangle?",
+                        "description": "I see that the hypotenuse of a right triangle is opposite the right angle, but how is it always the longest side? I also know that it connects to endpoints of other sides. Please help me out with..."
+                    }
+                ],
+                "question": [
+                    {
+                        "image": "https://cdn.sstatic.net/Sites/math/img/apple-touch-icon.png?v=0ae50baa40ed",
+                        "name": "How is the hypotenuse the longest side of any right triangle?",
+                        "upvotecount": "4",
+                        "text": "I see that the hypotenuse of a right triangle is opposite the right angle, but how is it always the longest side? I also know that it connects to endpoints of other sides. Please help me out...",
+                        "answercount": "3"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "og:url": "https://math.stackexchange.com/questions/991156/how-is-the-hypotenuse-the-longest-side-of-any-right-triangle",
+                        "og:image": "https://cdn.sstatic.net/Sites/math/img/apple-touch-icon@2.png?v=4ec1df2e49b1",
+                        "twitter:card": "summary",
+                        "twitter:domain": "math.stackexchange.com",
+                        "twitter:site": "@StackMath",
+                        "twitter:title": "How is the hypotenuse the longest side of any right triangle?",
+                        "twitter:description": "I see that the hypotenuse of a right triangle is opposite the right angle, but how is it always the longest side?  I also know that it connects to endpoints of other sides.  Please help me out with...",
+                        "twitter:app:country": "US",
+                        "twitter:app:name:iphone": "Stack Exchange iOS",
+                        "twitter:app:id:iphone": "871299723",
+                        "twitter:app:url:iphone": "se-zaphod://math.stackexchange.com/questions/991156/how-is-the-hypotenuse-the-longest-side-of-any-right-triangle",
+                        "twitter:app:name:ipad": "Stack Exchange iOS",
+                        "twitter:app:id:ipad": "871299723",
+                        "twitter:app:url:ipad": "se-zaphod://math.stackexchange.com/questions/991156/how-is-the-hypotenuse-the-longest-side-of-any-right-triangle",
+                        "twitter:app:name:googleplay": "Stack Exchange Android",
+                        "twitter:app:url:googleplay": "http://math.stackexchange.com/questions/991156/how-is-the-hypotenuse-the-longest-side-of-any-right-triangle",
+                        "twitter:app:id:googleplay": "com.stackexchange.marvin"
+                    }
+                ],
+                "answer": [
+                    {
+                        "upvotecount": "2",
+                        "text": "Let a be the hypotenuse and b,c the others sides, then by Pythagorean Theorem a2=b2+c2. Then a2>b2,a2>c2. Therefore a>ba>c."
+                    },
+                    {
+                        "upvotecount": "1",
+                        "text": "Alternatively, you have the law of sines: For any triangle with sides, A,B,C and corresponding angles a,b,c with angle a opposite side A et cetera, you have the following: sin⁡aA=sin⁡bB=sin⁡c..."
+                    },
+                    {
+                        "upvotecount": "0",
+                        "text": "If the angles are ∠A≤∠B<∠C, then the sides are a≤b<c. On a right triangle, two angles are acute and the third is a right angle. Hence the side opposite the right angle is the longest side."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/math/img/apple-touch-icon@2.png?v=4ec1df2e49b1"
                     }
                 ]
             }
