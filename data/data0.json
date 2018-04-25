@@ -7,9 +7,9 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - what is not a skin care brand? Dr. Dennis Gross",
-                "totalResults": "258000",
-                "searchTerms": "what is not a skin care brand? Dr. Dennis Gross",
+                "title": "Google Custom Search - you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
+                "totalResults": "10100",
+                "searchTerms": "you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - what is not a skin care brand? Dr. Dennis Gross",
-                "totalResults": "258000",
-                "searchTerms": "what is not a skin care brand? Dr. Dennis Gross",
+                "title": "Google Custom Search - you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
+                "totalResults": "10100",
+                "searchTerms": "you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
@@ -36,1342 +36,357 @@
         "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.474316,
-        "formattedSearchTime": "0.47",
-        "totalResults": "258000",
-        "formattedTotalResults": "258,000"
+        "searchTime": 0.265632,
+        "formattedSearchTime": "0.27",
+        "totalResults": "10100",
+        "formattedTotalResults": "10,100"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "In The Bathroom with Carrie Gross of Dr Dennis Gross Skincare ...",
-            "htmlTitle": "In The Bathroom with Carrie Gross of <b>Dr Dennis Gross Skincare</b> ...",
-            "link": "https://www.youtube.com/watch?v=LkP3gtinCjM",
+            "title": "Cloaca - Wikipedia",
+            "htmlTitle": "<b>Cloaca</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Cloaca",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In animal anatomy, a cloaca /kloʊˈeɪkə/ kloh-AY-kə (plural cloacae /kloʊˈeɪsi/ \nkloh-AY-see or /kloʊˈeɪki/ kloh-AY-kee) is the posterior orifice that serves as the \nonly opening for the digestive, reproductive, and urinary tracts (if present) of \nmany vertebrate animals, opening at the vent. All amphibians, birds, reptiles, and \na ...",
+            "htmlSnippet": "In <b>animal anatomy</b>, a <b>cloaca</b> /kloʊˈeɪkə/ kloh-AY-kə (plural cloacae /kloʊˈeɪsi/ <br>\nkloh-AY-<b>see</b> or /kloʊˈeɪki/ kloh-AY-kee) is the posterior orifice that serves as the <br>\nonly opening for the digestive, <b>reproductive</b>, <b>and urinary tracts</b> (if present) of <br>\nmany vertebrate <b>animals</b>, opening at the vent. All amphibians, birds, reptiles, and <br>\na&nbsp;...",
+            "cacheId": "Eevz_-jDYO0J",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cloaca",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cloaca</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "415",
+                        "height": "121",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnXlXGkyHxXq-NxpfwF_vZgSg_CXpLDmp6ayhHbCOw0TPF72BixkwklPo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/A_laboratory_manual_for_comparative_vertebrate_anatomy_%281922%29_%2820754316592%29.jpg/600px-A_laboratory_manual_for_comparative_vertebrate_anatomy_%281922%29_%2820754316592%29.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Body cavities and the digestive system",
+            "htmlTitle": "Body cavities and the <b>digestive system</b>",
+            "link": "http://www.shsu.edu/~bio_mlt/Chap13.html",
+            "displayLink": "www.shsu.edu",
+            "snippet": "the buccal cavity - teeth, tongue, and palate; the pharynx and esophagus; \nstomach, small intestine, large intestine and external opening - cloaca (vent) or \nanal opening ... Acrodont - simplest teeth that have no roots and may break off \neasily from jaw (fish and amphibians); Pleurodont - teeth attached by one side to \nthe inner ...",
+            "htmlSnippet": "the buccal cavity - teeth, tongue, and palate; the pharynx and esophagus; <br>\n<b>stomach</b>, small intestine, large intestine and external opening - <b>cloaca</b> (vent) or <br>\nanal opening ... Acrodont - simplest teeth that have no roots and <b>may</b> break off <br>\neasily from jaw (fish and amphibians); Pleurodont - teeth attached by <b>one</b> side to <br>\nthe inner&nbsp;...",
+            "cacheId": "g1e5f97AnLQJ",
+            "formattedUrl": "www.shsu.edu/~bio_mlt/Chap13.html",
+            "htmlFormattedUrl": "www.shsu.edu/~bio_mlt/Chap13.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sea cucumber - Wikipedia",
+            "htmlTitle": "Sea cucumber - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Sea_cucumber",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In most sea cucumbers, this is the only substantial part of the skeleton, and it \nforms the point of attachment for muscles that can retract the tentacles into the \nbody for safety as for the main muscles of the body wall. Many species possess \nan oesophagus and stomach, but in some the pharynx opens directly into the \nintestine.",
+            "htmlSnippet": "In most sea cucumbers, this is the only substantial part of the skeleton, and it <br>\nforms the point of attachment for muscles that <b>can</b> retract the tentacles into the <br>\nbody for safety as for the main muscles of the body wall. Many <b>species</b> possess <br>\nan oesophagus and <b>stomach</b>, but in some the pharynx opens directly into the <br>\nintestine.",
+            "cacheId": "QfngR5H16iQJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sea_cucumber",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sea_cucumber",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwEiOWqg0itfAd9MtDi2ub_NsWUCaxEHju95PZkSz0XYxXNNeoNXGnZm_"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Actinopyga_echinites1.jpg/1200px-Actinopyga_echinites1.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Actinopyga_echinites1.jpg/1200px-Actinopyga_echinites1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "THE DIGESTIVE AND UROGENITAL SYSTEMS",
+            "htmlTitle": "THE <b>DIGESTIVE AND</b> UROGENITAL SYSTEMS",
+            "link": "http://www.zoology.ubc.ca/courses/bio204/Bio204_Labs/Lab7__Digestive_Urogenital.html",
+            "displayLink": "www.zoology.ubc.ca",
+            "snippet": "Once you have studied the reproductive structures of your animal, you must trade \nanimals with a group that has an animal of the opposite sex. It is the therefore \nessential that you do not destroy any of the reproductive features. DOGFISH. \nDogfish digestive tract. Dissection: Use scissors to cut through the body wall, from \nthe ...",
+            "htmlSnippet": "Once <b>you</b> have studied the reproductive structures of your <b>animal</b>, <b>you</b> must trade <br>\n<b>animals</b> with a group that has an <b>animal</b> of the opposite sex. It is the therefore <br>\nessential that <b>you do</b> not destroy any of the reproductive features. DOGFISH. <br>\nDogfish <b>digestive tract</b>. Dissection: Use scissors to cut through the body wall, from <br>\nthe&nbsp;...",
+            "cacheId": "1Dfl-d9k35sJ",
+            "formattedUrl": "www.zoology.ubc.ca/courses/.../Lab7__Digestive_Urogenital.html",
+            "htmlFormattedUrl": "www.zoology.ubc.ca/courses/.../Lab7__<b>Digestive</b>_Urogenital.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183",
+                        "height": "275",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSniIyRV5svgzYNr9ZQQh9XZegLDWxNgsN0w6uNavMe4iW6ot9UbWejhWRq"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "iweb-build": "local-build-20101214",
+                        "viewport": "width=700"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.zoology.ubc.ca/courses/bio204/Bio204_Labs/Lab7__Digestive_Urogenital_files/dogfish%20digest.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Lepidoptera - Wikipedia",
+            "htmlTitle": "Lepidoptera - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Lepidoptera",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In many species, the female may produce from 200 to 600 eggs, while in others, \nthe number may approach 30,000 eggs in one day. The caterpillars hatching \nfrom these eggs can cause damage to large quantities of crops. Many moth and \nbutterfly species are of economic interest by virtue of their role as pollinators, the \nsilk ...",
+            "htmlSnippet": "In many <b>species</b>, the female <b>may</b> produce from 200 to 600 eggs, while in others, <br>\nthe number <b>may</b> approach 30,000 eggs in <b>one</b> day. The <b>caterpillars</b> hatching <br>\nfrom these eggs <b>can</b> cause damage to large quantities of crops. Many moth <b>and</b> <br>\nbutterfly <b>species</b> are of economic interest by virtue of their role as pollinators, the <br>\nsilk&nbsp;...",
+            "cacheId": "VMzQ81F6qzUJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lepidoptera",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lepidoptera",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "177",
+                        "height": "284",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVMwSlPtNGiOdbFnegPyevJzM_-FdKLHG6JsKdtgJtI3XdbOk-TmlWBh4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Danaus_plexippus_%26_Actias_luna.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Danaus_plexippus_%26_Actias_luna.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dogfish Shark Dissection",
+            "htmlTitle": "Dogfish Shark Dissection",
+            "link": "https://sharkresearch.rsmas.miami.edu/assets/pdfs/learning-tools/high-school/MODULE%202%20Ichthyology%20-%20SECTION%205%20Shark%20Anatomy%20and%20Dogfish%20Dissection.pdf",
+            "displayLink": "sharkresearch.rsmas.miami.edu",
+            "snippet": "The spiny dogfish, spurdog, mud shark, or piked dogfish, Squalus acanthias, is \none of ... Cloaca- the digestive tracts exit and opening for the sex organs ... \ndigestive tract. We will be looking at the variations and similarities in the digestive \ntracts of the dogfish, salamander and mammal in this lab. Dogfish Digestive Tract.",
+            "htmlSnippet": "The spiny dogfish, spurdog, mud shark, or piked dogfish, Squalus acanthias, is <br>\n<b>one</b> of ... <b>Cloaca</b>- the <b>digestive tracts</b> exit and opening for the sex organs ... <br>\n<b>digestive tract</b>. We <b>will</b> be looking at the variations and similarities in the <b>digestive</b> <br>\n<b>tracts</b> of the dogfish, salamander and mammal in this lab. Dogfish <b>Digestive Tract</b>.",
+            "cacheId": "im2_RtaEVAkJ",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://sharkresearch.rsmas.miami.edu/.../ MODULE%202%20Ichthyology%20- ...",
+            "htmlFormattedUrl": "https://sharkresearch.rsmas.miami.edu/.../ MODULE%202%20Ichthyology%20- ...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "title": "Dogfish Shark Dissection",
+                        "author": "yburgos",
+                        "creator": "Microsoft® Office Word 2007",
+                        "creationdate": "D:20110805105205",
+                        "moddate": "D:20110805105205",
+                        "producer": "Microsoft® Office Word 2007"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Reproductive system - Wikipedia",
+            "htmlTitle": "<b>Reproductive system</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Reproductive_system",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Vertebrate animals all share key elements of their reproductive systems. They all \nhave gamete-producing organs or gonads. In females, these gonads are then \nconnected by oviducts to an opening to the outside of the body, typically the \ncloaca, but sometimes to a unique pore such as a vagina or intromittent organ.",
+            "htmlSnippet": "Vertebrate <b>animals</b> all share key elements of their <b>reproductive systems</b>. They all <br>\nhave gamete-producing organs or gonads. In females, these gonads are then <br>\nconnected by oviducts to an opening to the outside of the body, typically the <br>\n<b>cloaca</b>, but sometimes to a unique pore such as a vagina or intromittent organ.",
+            "cacheId": "XCQAA2GCZIoJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reproductive_system",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Reproductive</b>_<b>system</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Cloaca 'Poop Machine' at MONA - YouTube",
+            "htmlTitle": "<b>Cloaca</b> &#39;Poop Machine&#39; at MONA - YouTube",
+            "link": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
             "displayLink": "www.youtube.com",
-            "snippet": "Mar 24, 2018 ... Sali looks through the bathroom pantry of Carrie Gross. Color Wow Root Cover \nUp, ... In The Bathroom with Carrie Gross of Dr Dennis Gross Skincare. \nsalihughesbeauty ... I know people might think she's not letting him talk, but she's \nbridging the excitement she has for their products. You can tell they ...",
-            "htmlSnippet": "Mar 24, 2018 <b>...</b> Sali looks through the bathroom pantry of Carrie Gross. Color Wow Root Cover <br>\nUp, ... In The Bathroom with Carrie Gross of <b>Dr Dennis Gross Skincare</b>. <br>\nsalihughesbeauty ... I know people might think she&#39;s <b>not</b> letting him talk, but she&#39;s <br>\nbridging the excitement she has for their <b>products</b>. You can tell they&nbsp;...",
-            "cacheId": "WpU5QEQIlN8J",
-            "formattedUrl": "https://www.youtube.com/watch?v=LkP3gtinCjM",
-            "htmlFormattedUrl": "https://www.youtube.com/watch?v=LkP3gtinCjM",
+            "snippet": "Oct 4, 2013 ... At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there \nis an installation that is essentially a 'poop machine'. It is vile. I could no... ... It's \nYouTube. Uninterrupted. Loading... Want music and videos with zero ads? Get \nYouTube Red. Working... Not now. Try it free · Find out why. Close ...",
+            "htmlSnippet": "Oct 4, 2013 <b>...</b> At the Museum of Old <b>and</b> New Art (MONA) in Hobart, Tasmania, Australia, there <br>\nis an installation that is essentially a &#39;poop machine&#39;. It is vile. I <b>could</b> no... ... It&#39;s <br>\nYouTube. Uninterrupted. Loading... Want music <b>and</b> videos with zero ads? Get <br>\nYouTube Red. Working... Not now. Try it free &middot; <b>Find</b> out why. Close&nbsp;...",
+            "cacheId": "YokXHAqz1x4J",
+            "formattedUrl": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
+            "htmlFormattedUrl": "https://www.<b>you</b>tube.com/watch?v=rVyhGNMMgvo",
             "pagemap": {
                 "cse_thumbnail": [
                     {
                         "width": "259",
                         "height": "194",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmd9-uvJi2jawZVmaGc351p4iMozRrDLCoNRCvHgNlV_GywL9bbgrq7s"
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThFr87T-0b2GtNLWFyMW9qTQUFcEpzKOrppD9LM6ue6PlWD_-IyHgl0ARg"
                     }
                 ],
                 "metatags": [
                     {
-                        "title": "In The Bathroom with Carrie Gross of Dr Dennis Gross Skincare.",
+                        "title": "Cloaca 'Poop Machine' at MONA",
                         "theme-color": "#ff0000",
                         "og:site_name": "YouTube",
-                        "og:url": "https://www.youtube.com/watch?v=LkP3gtinCjM",
-                        "og:title": "In The Bathroom with Carrie Gross of Dr Dennis Gross Skincare.",
-                        "og:image": "https://i.ytimg.com/vi/LkP3gtinCjM/hqdefault.jpg",
-                        "og:description": "Sali looks through the bathroom pantry of Carrie Gross. Color Wow Root Cover Up, £28.50 ByTerry Light Expert Click Brush, £48 Hourglass Illusion Hyaluronic S...",
+                        "og:url": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
+                        "og:title": "Cloaca 'Poop Machine' at MONA",
+                        "og:image": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
+                        "og:description": "At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there is an installation that is essentially a 'poop machine'. It is vile. I could no...",
                         "al:ios:app_store_id": "544007664",
                         "al:ios:app_name": "YouTube",
-                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=LkP3gtinCjM&feature=applinks",
-                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=LkP3gtinCjM&feature=applinks",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
                         "al:android:app_name": "YouTube",
                         "al:android:package": "com.google.android.youtube",
-                        "al:web:url": "https://www.youtube.com/watch?v=LkP3gtinCjM&feature=applinks",
+                        "al:web:url": "https://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
                         "og:type": "video.other",
-                        "og:video:url": "https://www.youtube.com/embed/LkP3gtinCjM",
-                        "og:video:secure_url": "https://www.youtube.com/embed/LkP3gtinCjM",
+                        "og:video:url": "https://www.youtube.com/embed/rVyhGNMMgvo",
+                        "og:video:secure_url": "https://www.youtube.com/embed/rVyhGNMMgvo",
                         "og:video:type": "text/html",
-                        "og:video:width": "1280",
-                        "og:video:height": "720",
-                        "og:video:tag": "In the Bathroom",
+                        "og:video:width": "480",
+                        "og:video:height": "360",
+                        "og:video:tag": "Australia",
                         "fb:app_id": "87741124305",
                         "twitter:card": "player",
                         "twitter:site": "@youtube",
-                        "twitter:url": "https://www.youtube.com/watch?v=LkP3gtinCjM",
-                        "twitter:title": "In The Bathroom with Carrie Gross of Dr Dennis Gross Skincare.",
-                        "twitter:description": "Sali looks through the bathroom pantry of Carrie Gross. Color Wow Root Cover Up, £28.50 ByTerry Light Expert Click Brush, £48 Hourglass Illusion Hyaluronic S...",
-                        "twitter:image": "https://i.ytimg.com/vi/LkP3gtinCjM/hqdefault.jpg",
+                        "twitter:url": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
+                        "twitter:title": "Cloaca 'Poop Machine' at MONA",
+                        "twitter:description": "At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there is an installation that is essentially a 'poop machine'. It is vile. I could no...",
+                        "twitter:image": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
                         "twitter:app:name:iphone": "YouTube",
                         "twitter:app:id:iphone": "544007664",
                         "twitter:app:name:ipad": "YouTube",
                         "twitter:app:id:ipad": "544007664",
-                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=LkP3gtinCjM&feature=applinks",
-                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=LkP3gtinCjM&feature=applinks",
-                        "twitter:app:name:googleplay": "YouTube",
-                        "twitter:app:id:googleplay": "com.google.android.youtube",
-                        "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=LkP3gtinCjM",
-                        "twitter:player": "https://www.youtube.com/embed/LkP3gtinCjM",
-                        "twitter:player:width": "1280",
-                        "twitter:player:height": "720"
+                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
+                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks"
                     }
                 ],
                 "videoobject": [
                     {
-                        "url": "https://www.youtube.com/watch?v=LkP3gtinCjM",
-                        "name": "In The Bathroom with Carrie Gross of Dr Dennis Gross Skincare.",
-                        "description": "Sali looks through the bathroom pantry of Carrie Gross. Color Wow Root Cover Up, £28.50 ByTerry Light Expert Click Brush, £48 Hourglass Illusion Hyaluronic S...",
+                        "url": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
+                        "name": "Cloaca 'Poop Machine' at MONA",
+                        "description": "At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there is an installation that is essentially a 'poop machine'. It is vile. I could no...",
                         "paid": "False",
-                        "channelid": "UCCE_AM7yEVQtJRjImY8bcRg",
-                        "videoid": "LkP3gtinCjM",
-                        "duration": "PT44M35S",
+                        "channelid": "UCdY5-POSszV0dgCaWJr9l2w",
+                        "videoid": "rVyhGNMMgvo",
+                        "duration": "PT1M41S",
                         "unlisted": "False",
-                        "thumbnailurl": "https://i.ytimg.com/vi/LkP3gtinCjM/hqdefault.jpg",
-                        "embedurl": "https://www.youtube.com/embed/LkP3gtinCjM",
+                        "thumbnailurl": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/rVyhGNMMgvo",
                         "playertype": "HTML5 Flash",
-                        "width": "1280",
-                        "height": "720",
+                        "width": "480",
+                        "height": "360",
                         "isfamilyfriendly": "True",
                         "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
-                        "interactioncount": "13176",
-                        "datepublished": "2018-03-24",
-                        "genre": "Howto & Style"
+                        "interactioncount": "63344",
+                        "datepublished": "2013-10-04",
+                        "genre": "Travel & Events"
                     }
                 ],
                 "imageobject": [
                     {
-                        "url": "https://i.ytimg.com/vi/LkP3gtinCjM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
                         "width": "480",
                         "height": "360"
                     }
                 ],
                 "person": [
                     {
-                        "url": "http://www.youtube.com/user/salihughesbeauty"
+                        "url": "http://www.youtube.com/user/CricketsAunty"
                     },
                     {
-                        "url": "https://plus.google.com/109664064402141336903"
+                        "url": "https://plus.google.com/114842861206314542212"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://i.ytimg.com/vi/LkP3gtinCjM/hqdefault.jpg"
+                        "src": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Dr. Dennis Gross Skincare",
-            "htmlTitle": "<b>Dr</b>. <b>Dennis Gross Skincare</b>",
-            "link": "https://drdennisgross.com/",
-            "displayLink": "drdennisgross.com",
-            "snippet": "Dr. Dennis Gross personally formulates cruelty-free products using science & \nnature for clear, glowing skin, targeting lines, wrinkles, firmness, dry skin, & acne.",
-            "htmlSnippet": "<b>Dr</b>. <b>Dennis Gross</b> personally formulates cruelty-free <b>products</b> using science &amp; <br>\nnature for clear, glowing <b>skin</b>, targeting lines, wrinkles, firmness, dry <b>skin</b>, &amp; acne.",
-            "cacheId": "SY8kUmVlVsEJ",
-            "formattedUrl": "https://drdennisgross.com/",
-            "htmlFormattedUrl": "https://<b>drdennisgross</b>.com/",
+            "title": "Cloaca (embryology) - an overview | ScienceDirect Topics",
+            "htmlTitle": "<b>Cloaca</b> (embryology) - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cloaca-embryology",
+            "displayLink": "www.sciencedirect.com",
+            "snippet": "The cloaca consists of three compartments and collects the excretion of the \ndigestive tract, the urinary tract, and the genital tract. The proximal coprodeum is \n... Along with neoplasia in many species, large psittacines also commonly \npresent with cloacal papillomas with a cauliflower-like appearance (see Fig. 13-\n52). For more ...",
+            "htmlSnippet": "The <b>cloaca</b> consists of three compartments and collects the excretion of the <br>\n<b>digestive tract</b>, the <b>urinary tract</b>, and the genital tract. The proximal coprodeum is <br>\n... Along with neoplasia in many <b>species</b>, large psittacines also commonly <br>\npresent with <b>cloacal</b> papillomas with a cauliflower-like appearance (<b>see</b> Fig. 13-<br>\n52). For more&nbsp;...",
+            "formattedUrl": "https://www.sciencedirect.com/topics/agricultural-and.../cloaca-embryology",
+            "htmlFormattedUrl": "https://www.sciencedirect.com/topics/agricultural-<b>and</b>.../<b>cloaca</b>-embryology",
             "pagemap": {
                 "metatags": [
                     {
-                        "theme-color": "#fc6719",
-                        "viewport": "initial-scale=1.0, width=device-width"
+                        "viewport": "width=device-width, initial-scale=1",
+                        "sdtech": "Proudly brought to you by the SD Technology team in London, Dayton, and Amsterdam"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Best of the Brand: Dr. Dennis Gross Skincare | TophCam - YouTube",
-            "htmlTitle": "Best of the <b>Brand</b>: <b>Dr</b>. <b>Dennis Gross Skincare</b> | TophCam - YouTube",
-            "link": "https://www.youtube.com/watch?v=hvhaLmJzuzU",
-            "displayLink": "www.youtube.com",
-            "snippet": "Apr 13, 2016 ... Products Mentioned: •Dr. Dennis Gross Alpha Beta Universal Peel (https://goo.gl/\nJqnJPv) •Dr. Dennis Gross Alpha Beta Medi Spa Peel (https://goo.gl/3xQPMv) •D.\n..",
-            "htmlSnippet": "Apr 13, 2016 <b>...</b> <b>Products</b> Mentioned: •<b>Dr</b>. <b>Dennis Gross</b> Alpha Beta Universal Peel (https://goo.gl/<br>\nJqnJPv) •<b>Dr</b>. <b>Dennis Gross</b> Alpha Beta Medi Spa Peel (https://goo.gl/3xQPMv) •D.<br>\n..",
-            "cacheId": "TWn3a1HLNfUJ",
-            "formattedUrl": "https://www.youtube.com/watch?v=hvhaLmJzuzU",
-            "htmlFormattedUrl": "https://www.youtube.com/watch?v=hvhaLmJzuzU",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "259",
-                        "height": "194",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC0i55qi2P9epiVCtIB2MLGOJi0Q0FEoc56zinREy7qQTd0LsAQcc0fo1D"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "title": "Best of the Brand: Dr. Dennis Gross Skincare | TophCam",
-                        "theme-color": "#ff0000",
-                        "og:site_name": "YouTube",
-                        "og:url": "https://www.youtube.com/watch?v=hvhaLmJzuzU",
-                        "og:title": "Best of the Brand: Dr. Dennis Gross Skincare | TophCam",
-                        "og:image": "https://i.ytimg.com/vi/hvhaLmJzuzU/maxresdefault.jpg",
-                        "og:description": "Products Mentioned: •Dr. Dennis Gross Alpha Beta Universal Peel (https://goo.gl/JqnJPv) •Dr. Dennis Gross Alpha Beta Medi Spa Peel (https://goo.gl/3xQPMv) •D...",
-                        "al:ios:app_store_id": "544007664",
-                        "al:ios:app_name": "YouTube",
-                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=hvhaLmJzuzU&feature=applinks",
-                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=hvhaLmJzuzU&feature=applinks",
-                        "al:android:app_name": "YouTube",
-                        "al:android:package": "com.google.android.youtube",
-                        "al:web:url": "https://www.youtube.com/watch?v=hvhaLmJzuzU&feature=applinks",
-                        "og:type": "video.other",
-                        "og:video:url": "https://www.youtube.com/embed/hvhaLmJzuzU",
-                        "og:video:secure_url": "https://www.youtube.com/embed/hvhaLmJzuzU",
-                        "og:video:type": "text/html",
-                        "og:video:width": "1280",
-                        "og:video:height": "720",
-                        "og:video:tag": "yochristophercameron",
-                        "fb:app_id": "87741124305",
-                        "twitter:card": "player",
-                        "twitter:site": "@youtube",
-                        "twitter:url": "https://www.youtube.com/watch?v=hvhaLmJzuzU",
-                        "twitter:title": "Best of the Brand: Dr. Dennis Gross Skincare | TophCam",
-                        "twitter:description": "Products Mentioned: •Dr. Dennis Gross Alpha Beta Universal Peel (https://goo.gl/JqnJPv) •Dr. Dennis Gross Alpha Beta Medi Spa Peel (https://goo.gl/3xQPMv) •D...",
-                        "twitter:image": "https://i.ytimg.com/vi/hvhaLmJzuzU/maxresdefault.jpg",
-                        "twitter:app:name:iphone": "YouTube",
-                        "twitter:app:id:iphone": "544007664",
-                        "twitter:app:name:ipad": "YouTube"
-                    }
-                ],
-                "videoobject": [
-                    {
-                        "url": "https://www.youtube.com/watch?v=hvhaLmJzuzU",
-                        "name": "Best of the Brand: Dr. Dennis Gross Skincare | TophCam",
-                        "description": "Products Mentioned: •Dr. Dennis Gross Alpha Beta Universal Peel (https://goo.gl/JqnJPv) •Dr. Dennis Gross Alpha Beta Medi Spa Peel (https://goo.gl/3xQPMv) •D...",
-                        "paid": "False",
-                        "channelid": "UCzT5DJji2ySBZmA3xfsd3Wg",
-                        "videoid": "hvhaLmJzuzU",
-                        "duration": "PT14M56S",
-                        "unlisted": "False",
-                        "thumbnailurl": "https://i.ytimg.com/vi/hvhaLmJzuzU/maxresdefault.jpg",
-                        "embedurl": "https://www.youtube.com/embed/hvhaLmJzuzU",
-                        "playertype": "HTML5 Flash",
-                        "width": "1280",
-                        "height": "720",
-                        "isfamilyfriendly": "True",
-                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
-                        "interactioncount": "16443",
-                        "datepublished": "2016-04-13",
-                        "genre": "Howto & Style"
-                    }
-                ],
-                "imageobject": [
-                    {
-                        "url": "https://i.ytimg.com/vi/hvhaLmJzuzU/maxresdefault.jpg",
-                        "width": "1280",
-                        "height": "720"
-                    }
-                ],
-                "person": [
-                    {
-                        "url": "http://www.youtube.com/user/yochristophercameron"
-                    },
-                    {
-                        "url": "https://plus.google.com/117451414470881186726"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://i.ytimg.com/vi/hvhaLmJzuzU/maxresdefault.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "About Dr. Dennis Gross",
-            "htmlTitle": "About <b>Dr</b>. <b>Dennis Gross</b>",
-            "link": "https://drdennisgross.com/about-us/",
-            "displayLink": "drdennisgross.com",
-            "snippet": "\"I evaluate scientific data to find the most effective ingredients. Every formulation \nis unique. My goal is to use cutting-edge technology in all of my products and to \nprovide patients and consumers innovative skincare options that offer visible \nresults. You may not be able to visit a dermatologist every day, but you can use \nthe ...",
-            "htmlSnippet": "&quot;I evaluate scientific data to find the most effective ingredients. Every formulation <br>\nis unique. My goal is to use cutting-edge technology in all of my <b>products</b> and to <br>\nprovide patients and consumers innovative <b>skincare</b> options that offer visible <br>\nresults. You may <b>not</b> be able to visit a dermatologist every day, but you can use <br>\nthe&nbsp;...",
-            "cacheId": "WiN7MWX08hsJ",
-            "formattedUrl": "https://drdennisgross.com/about-us/",
-            "htmlFormattedUrl": "https://<b>drdennisgross</b>.com/about-us/",
+            "title": "Cloaca: Bird Term of the Day - Petcha",
+            "htmlTitle": "<b>Cloaca</b>: Bird Term of the Day - Petcha",
+            "link": "https://www.petcha.com/cloaca-bird-term-of-the-day/",
+            "displayLink": "www.petcha.com",
+            "snippet": "Whereas mammals have separate openings for each of these systems, birds, \nreptiles and amphibians only have one: the cloaca. ... In addition, pet birds can \nexperience a cloacal prolapse, which means that the muscles in the bird's \ndigestive, reproductive or urinary tract loose strength to the point where internal \norgans are ...",
+            "htmlSnippet": "Whereas mammals have separate openings for each of these systems, birds, <br>\nreptiles and amphibians only have <b>one</b>: the <b>cloaca</b>. ... In addition, pet birds <b>can</b> <br>\nexperience a <b>cloacal</b> prolapse, which means that the muscles in the bird&#39;s <br>\ndigestive, reproductive or <b>urinary tract</b> loose strength to the point where internal <br>\norgans are&nbsp;...",
+            "cacheId": "Zfxd-0AFtXQJ",
+            "formattedUrl": "https://www.petcha.com/cloaca-bird-term-of-the-day/",
+            "htmlFormattedUrl": "https://www.petcha.com/<b>cloaca</b>-bird-term-of-the-day/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "204",
-                        "height": "247",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0wBfeKdPQnddbLzLP_culi1-YEMA_ZkfdULohxdPYaMzl1Wn3A8Xq-uQp"
+                        "width": "256",
+                        "height": "197",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeitCfKVpa7DfC_nmi1UTVAOF_rvW50qK67xp895HG7AKQ8rJZnh6oTa3"
                     }
                 ],
                 "metatags": [
                     {
-                        "theme-color": "#fc6719",
-                        "viewport": "initial-scale=1.0, width=device-width"
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Cloaca: Bird Term of the Day - Petcha",
+                        "og:description": "Definitions of words used by pet bird enthusiasts with the pet bird slant.",
+                        "og:url": "https://www.petcha.com/cloaca-bird-term-of-the-day/",
+                        "og:site_name": "Petcha",
+                        "article:tag": "bird channel",
+                        "article:section": "Birds",
+                        "article:published_time": "2013-02-06T00:00:00-07:00",
+                        "article:modified_time": "2016-10-05T11:30:49-07:00",
+                        "og:updated_time": "2016-10-05T11:30:49-07:00",
+                        "twitter:card": "summary",
+                        "twitter:description": "Definitions of words used by pet bird enthusiasts with the pet bird slant.",
+                        "twitter:title": "Cloaca: Bird Term of the Day - Petcha"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://drdennisgross.com/media/wysiwyg/dg-dennis-gross.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Alpha Beta® Extra Strength Daily Peel - Dr. Dennis Gross Skincare ...",
-            "htmlTitle": "Alpha Beta® Extra Strength Daily Peel - <b>Dr</b>. <b>Dennis Gross Skincare</b> ...",
-            "link": "https://www.sephora.com/product/alpha-beta-peel-extra-strength-daily-peel-P269122",
-            "displayLink": "www.sephora.com",
-            "snippet": "Suggested Usage: -Once a day, apply step one pad to clean, dry skin, using \ncircular motions. -Continue application until pad feels dry. -Wait two minutes. -\nFollow with pad in step two using the same technique as step one. -Suitable for \nmorning or night use. Precautions: -Do not rinse after either step or use products\n ...",
-            "htmlSnippet": "Suggested Usage: -Once a day, apply step one pad to clean, dry <b>skin</b>, using <br>\ncircular motions. -Continue application until pad feels dry. -Wait two minutes. -<br>\nFollow with pad in step two using the same technique as step one. -Suitable for <br>\nmorning or night use. Precautions: -Do <b>not</b> rinse after either step or use <b>products</b><br>\n&nbsp;...",
-            "cacheId": "lAuahBjernEJ",
-            "formattedUrl": "https://www.sephora.com/.../alpha-beta-peel-extra-strength-daily-peel- P269122",
-            "htmlFormattedUrl": "https://www.sephora.com/.../alpha-beta-peel-extra-strength-daily-peel- P269122",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "225",
-                        "height": "225",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRujN-mhP8YusvQS-scx6sZKyoPE_RbgYDR_3nVwshpwGIX-1OZXMV-PoY"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=1024",
-                        "og:description": "Shop Dr. Dennis Gross' Alpha Beta® Extra Strength Daily Peel at Sephora. A daily anti-aging AHA/BHA extra strength peel that combats common signs of aging.",
-                        "og:title": "Alpha Beta® Extra Strength Daily Peel - Dr. Dennis Gross Skincare | Sephora",
-                        "og:type": "website",
-                        "og:url": "https://www.sephora.com/product/alpha-beta-peel-extra-strength-daily-peel-P269122",
-                        "og:image": "/productimages/sku/s1499482-main-hero-300.jpg",
-                        "og:site_name": "Sephora",
-                        "fb:app_id": "124755580884988",
-                        "fb:admins": "1314428622,676965799",
-                        "apple-mobile-web-app-capable": "yes",
-                        "format-detection": "telephone=no"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.sephora.com/productimages/sku/s1352194-main-hero.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Extra Strength Alpha Beta® Daily Peel - Packettes | Dr. Dennis ...",
-            "htmlTitle": "Extra Strength Alpha Beta® Daily Peel - Packettes | <b>Dr</b>. <b>Dennis</b> ...",
-            "link": "https://drdennisgross.com/extra-strength-alpha-beta-daily-peel.html",
-            "displayLink": "drdennisgross.com",
-            "snippet": "I still get emotional talking about the amazing things this product did for my skin. \nAs an esthetician, I have tried multiple, gentle exfoliation products on myself and \non my clients to no avail. This one ACTUALLY works, is incredibly gentle, but \nmiraculously effective. No redness, no dryness, and not a single bit of irritation. It \nis a ...",
-            "htmlSnippet": "I still get emotional talking about the amazing things this product did for my <b>skin</b>. <br>\nAs an esthetician, I have tried multiple, gentle exfoliation <b>products</b> on myself and <br>\non my clients to no avail. This one ACTUALLY works, is incredibly gentle, but <br>\nmiraculously effective. No redness, no dryness, and <b>not</b> a single bit of irritation. It <br>\nis a&nbsp;...",
-            "cacheId": "UhgynHWNtq8J",
-            "formattedUrl": "https://drdennisgross.com/extra-strength-alpha-beta-daily-peel.html",
-            "htmlFormattedUrl": "https://<b>drdennisgross</b>.com/extra-strength-alpha-beta-daily-peel.html",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "225",
-                        "height": "225",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhbdCQ6X4UDeoJuxc3ZlXrYllB3BSqM2p8yQKkFcu8LoRAZq45e_Ow5dU"
-                    }
-                ],
-                "product": [
-                    {
-                        "name": "Alpha Beta® Extra Strength Daily Peel - Packettes"
-                    }
-                ],
-                "aggregaterating": [
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - Packettes",
-                        "bestrating": "5",
-                        "ratingvalue": "4.9",
-                        "reviewcount": "193"
-                    }
-                ],
-                "rating": [
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "theme-color": "#fc6719",
-                        "og:title": "Alpha Beta® Extra Strength Daily Peel - Packettes",
-                        "og:type": "product",
-                        "og:url": "https://drdennisgross.com/extra-strength-alpha-beta-daily-peel.html",
-                        "og:image": "https://drdennisgross.com/media/catalog/product/cache/1/image/300x300/9df78eab33525d08d6e5fb8d27136e95/a/b/ab_peel_es_pckt_30treat_a_t_s_1.jpg",
-                        "og:description": "Dr. Dennis Gross’ signature daily anti-aging peel combats three common signs of aging: uneven skin tone and texture, fine lines and wrinkles, and enlarged pores, in an extra strength version containing seven acids.",
-                        "og:site_name": "Default Store View",
-                        "viewport": "initial-scale=1.0, width=device-width"
-                    }
-                ],
-                "hproduct": [
-                    {
-                        "fn": "Alpha Beta® Extra Strength Daily Peel - Packettes"
-                    }
-                ],
-                "offer": [
-                    {
-                        "pricecurrency": "USD",
-                        "price": "88",
-                        "availability": "In Stock",
-                        "itemcondition": "http://schema.org/NewCondition"
-                    }
-                ],
-                "imageobject": [
-                    {
-                        "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/f0996ae3-d8db-53e6-8130-c1169328d33c",
-                        "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/79f6aae4-9ff0-5edd-911f-b0588963763e",
-                        "description": "Zero Make-up"
-                    },
-                    {
-                        "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/83832579-32c2-58f4-b110-0078a6c58127",
-                        "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/64429c3b-7bfe-5dd4-88a0-2391502eaae4",
-                        "description": "Review photo 2"
-                    },
-                    {
-                        "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/563ccb3b-7009-5c62-bea3-5e2c7c363acc",
-                        "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/79c43d0e-12e0-5080-b2c1-03f95516b873",
-                        "description": "Before and after—2 week progress"
-                    },
-                    {
-                        "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/5be954d4-e1a0-5aeb-be4c-e7e0c203f6dd",
-                        "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/6b899d71-9ef9-5620-a01a-23d8f11e6603",
-                        "description": "Black and gray—2 week progress"
-                    },
-                    {
-                        "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/1e1f19c8-7220-5875-aa0a-158ad5ca827d",
-                        "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/e9d1146c-d8c0-523f-a052-b7af2a07c117",
-                        "description": "Guess my age? Thanks Dr. Gross!"
-                    }
-                ],
-                "review": [
-                    {
-                        "reviewer": "Kat",
-                        "reviewdate": "2018-01-28",
-                        "ratingstars": "5.0"
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - Packettes",
-                        "author": "Kat",
-                        "datecreated": "2016-05-18",
-                        "datepublished": "2018-01-28",
-                        "headline": "Fountain of Youth!",
-                        "reviewbody": "I noticed a difference within 3 weeks of using the Alpha Beta Peels. My skin was smoother, softer, and more even toned. The fine lines were melting away. As a bonus, it rid me of my mid-life..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - 60 Application Packettes",
-                        "author": "oldlady69",
-                        "datecreated": "2016-11-08",
-                        "datepublished": "2016-11-09",
-                        "headline": "Unbelieveable Product",
-                        "reviewbody": "I was introduced to this product (original formula) when I had a facial about a year ago. Bought a 30 day supply from the spa and have continued to purchase (extra strength formula) directly..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - Packettes",
-                        "author": "Sierra",
-                        "datecreated": "2018-01-09",
-                        "datepublished": "2018-01-10",
-                        "headline": "Unbelievable results",
-                        "reviewbody": "There are not enough words to describe the incredible results I’ve seen from using this product for 2 WEEKS. I received 3 uses for Christmas. After one use, I had to order a month supply..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - 30 Application Packettes",
-                        "author": "Toni",
-                        "datecreated": "2018-04-20",
-                        "datepublished": "2018-04-20",
-                        "headline": "The Real Deal Rescue for Mature Skin ~ Satisfaction Guaranteed!",
-                        "reviewbody": "As an Aesthetician of 23+ yrs. I've used numerous types of peels & skin care, however, Dr. Gross alpha beta peel consistently delivered wonderful results from the most sensitive to the more..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - Packettes",
-                        "author": "Jas",
-                        "datecreated": "2016-04-12",
-                        "datepublished": "2016-04-14",
-                        "headline": "Must have!",
-                        "reviewbody": "I started using this product around month ago and I'm loving it. My skin is clearer and my pores are definitely smaller. I feel that the serum I apply after the peel is more effective also...."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - 60 Application Packettes",
-                        "author": "adh1006",
-                        "datecreated": "2017-06-28",
-                        "datepublished": "2017-06-30",
-                        "headline": "It works!",
-                        "reviewbody": "​ I use this extra strength peel daily after washing my face. I am Black and my skin is super sensitive, but this doesn't irritate me as long as I avoid my eye area. It makes my face smooth,..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - 30 Application Packettes",
-                        "author": "Futureflowerbabe",
-                        "datecreated": "2016-04-20",
-                        "datepublished": "2016-04-22",
-                        "headline": "The only thing that keeps my skin clear",
-                        "reviewbody": "My issues are complex on one hand my skin is very dry on my cheeks and around my eyes and oily in the T zone, then my skin is sensitive, and acneic, and I'm starting to get some creepiness..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Extra Strength Daily Peel - 30 Application Packettes",
-                        "author": "Musetta",
-                        "datecreated": "2016-04-11",
-                        "datepublished": "2016-04-13",
-                        "headline": "It works!!",
-                        "reviewbody": "I have been using Dr. Gross's daily facials since I went for a demonstration in Nordstroms many years ago. I am a true believer and my skin is a testament to how well this amazing product works...."
-                    }
-                ],
-                "hreview": [
-                    {
-                        "dtreviewed": "2018-01-28",
-                        "description": "I noticed a difference within 3 weeks of using the Alpha Beta Peels. My skin was smoother, softer, and more even toned. The fine lines were melting away. As a bonus, it rid me of my mid-life..."
-                    },
-                    {
-                        "dtreviewed": "2016-11-09",
-                        "description": "I was introduced to this product (original formula) when I had a facial about a year ago. Bought a 30 day supply from the spa and have continued to purchase (extra strength formula) directly..."
-                    },
-                    {
-                        "dtreviewed": "2018-01-10",
-                        "description": "There are not enough words to describe the incredible results I’ve seen from using this product for 2 WEEKS. I received 3 uses for Christmas. After one use, I had to order a month supply..."
-                    },
-                    {
-                        "dtreviewed": "2018-04-20",
-                        "description": "As an Aesthetician of 23+ yrs. I've used numerous types of peels & skin care, however, Dr. Gross alpha beta peel consistently delivered wonderful results from the most sensitive to the more..."
-                    },
-                    {
-                        "dtreviewed": "2016-04-14",
-                        "description": "I started using this product around month ago and I'm loving it. My skin is clearer and my pores are definitely smaller. I feel that the serum I apply after the peel is more effective also...."
-                    },
-                    {
-                        "dtreviewed": "2017-06-30",
-                        "description": "​ I use this extra strength peel daily after washing my face. I am Black and my skin is super sensitive, but this doesn't irritate me as long as I avoid my eye area. It makes my face smooth,..."
-                    },
-                    {
-                        "dtreviewed": "2016-04-22",
-                        "description": "My issues are complex on one hand my skin is very dry on my cheeks and around my eyes and oily in the T zone, then my skin is sensitive, and acneic, and I'm starting to get some creepiness..."
-                    },
-                    {
-                        "dtreviewed": "2016-04-13",
-                        "description": "I have been using Dr. Gross's daily facials since I went for a demonstration in Nordstroms many years ago. I am a true believer and my skin is a testament to how well this amazing product works...."
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://drdennisgross.com/media/catalog/product/cache/1/image/300x300/9df78eab33525d08d6e5fb8d27136e95/a/b/ab_peel_es_pckt_30treat_a_t_s_1.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Alpha Beta® Universal Daily Peel - Dr. Dennis Gross Skincare ...",
-            "htmlTitle": "Alpha Beta® Universal Daily Peel - <b>Dr</b>. <b>Dennis Gross Skincare</b> ...",
-            "link": "https://www.sephora.com/product/alpha-beta-universal-daily-peel-P377533",
-            "displayLink": "www.sephora.com",
-            "snippet": "Which skin type is it good for? ✓ Normal ✓ Oily ✓ Combination ✓ Dry What it is: A \ndaily peel in pre-soaked pads that is formulated to resurrect radiance and \ndiminish the appearance of the three most common signs of.",
-            "htmlSnippet": "Which <b>skin</b> type is it good for? ✓ Normal ✓ Oily ✓ Combination ✓ Dry What it is: A <br>\ndaily peel in pre-soaked pads that is formulated to resurrect radiance and <br>\ndiminish the appearance of the three most common signs of.",
-            "cacheId": "jvo_96xdY1AJ",
-            "formattedUrl": "https://www.sephora.com/.../alpha-beta-universal-daily-peel-P377533",
-            "htmlFormattedUrl": "https://www.sephora.com/.../alpha-beta-universal-daily-peel-P377533",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "225",
-                        "height": "225",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNhxxOS1MIm_x7k_FwB9AO9KG0w8oR7VlCuMlZnwc9D8cei3qR1q15j6Lr"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=1024",
-                        "og:description": "Which skin type is it good for?  ✔ Normal  ✔ Oily  ✔ Combination  ✔ Dry    What it is:  A daily peel in pre-soaked pads that is formulated to resurrect radiance and diminish the appearance of the three most common signs of",
-                        "og:title": "Alpha Beta® Universal Daily Peel - Dr. Dennis Gross Skincare | Sephora",
-                        "og:type": "website",
-                        "og:url": "https://www.sephora.com/product/alpha-beta-universal-daily-peel-P377533",
-                        "og:image": "/productimages/sku/s1499474-main-hero-300.jpg",
-                        "og:site_name": "Sephora",
-                        "fb:app_id": "124755580884988",
-                        "fb:admins": "1314428622,676965799",
-                        "apple-mobile-web-app-capable": "yes",
-                        "format-detection": "telephone=no"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.sephora.com/productimages/sku/s1450964-main-zoom.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Alpha Beta® Universal Daily Peel - Packettes | Dr. Dennis Gross ...",
-            "htmlTitle": "Alpha Beta® Universal Daily Peel - Packettes | <b>Dr</b>. <b>Dennis Gross</b> ...",
-            "link": "https://drdennisgross.com/original-alpha-beta-universal-daily-peel.html",
-            "displayLink": "drdennisgross.com",
-            "snippet": "Iconic original formula daily peel, in travel-friendly packettes, treats uneven tone \nand texture, fine lines and wrinkles, and enlarged pores, in two safe, easy steps - \nfor all skin types.",
-            "htmlSnippet": "Iconic original formula daily peel, in travel-friendly packettes, treats uneven tone <br>\nand texture, fine lines and wrinkles, and enlarged pores, in two safe, easy steps - <br>\nfor all <b>skin</b> types.",
-            "cacheId": "6KliYRob5ycJ",
-            "formattedUrl": "https://drdennisgross.com/original-alpha-beta-universal-daily-peel.html",
-            "htmlFormattedUrl": "https://<b>drdennisgross</b>.com/original-alpha-beta-universal-daily-peel.html",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "225",
-                        "height": "225",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQChNDUp91brftvStLmu-5lnlQdM7tk_S06wx_7DTy7N0PMmROSPkjlAn89"
-                    }
-                ],
-                "product": [
-                    {
-                        "name": "Alpha Beta® Universal Daily Peel - Packettes"
-                    }
-                ],
-                "aggregaterating": [
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - Packettes",
-                        "bestrating": "5",
-                        "ratingvalue": "4.8",
-                        "reviewcount": "70"
-                    }
-                ],
-                "rating": [
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "1",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "1",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    },
-                    {
-                        "ratingvalue": "5",
-                        "bestrating": "5"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "theme-color": "#fc6719",
-                        "og:title": "Alpha Beta® Universal Daily Peel - Packettes",
-                        "og:type": "product",
-                        "og:url": "https://drdennisgross.com/original-alpha-beta-universal-daily-peel.html",
-                        "og:image": "https://drdennisgross.com/media/catalog/product/cache/1/image/300x300/9df78eab33525d08d6e5fb8d27136e95/a/b/ab_peel_uni_pckt_30treat_a_t_s_1.jpg",
-                        "og:description": "Dr. Dennis Gross’ iconic original formula, a daily peel formulated to treat three common signs of aging: uneven tone and texture, fine lines and wrinkles, and enlarged pores, with five acids – without causing irritation.",
-                        "og:site_name": "Default Store View",
-                        "viewport": "initial-scale=1.0, width=device-width"
-                    }
-                ],
-                "hproduct": [
-                    {
-                        "fn": "Alpha Beta® Universal Daily Peel - Packettes"
-                    }
-                ],
-                "offer": [
-                    {
-                        "pricecurrency": "USD",
-                        "price": "88",
-                        "availability": "In Stock",
-                        "itemcondition": "http://schema.org/NewCondition"
-                    }
-                ],
-                "imageobject": [
-                    {
-                        "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/1212fe80-7e7c-5255-bcfd-e29ba2dbf177",
-                        "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/93c01c92-e395-512e-a613-2886176d7797",
-                        "description": "Happy in my skin..."
-                    },
-                    {
-                        "image": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/41fb58e5-4e19-53ab-b537-b5eea417abf4",
-                        "thumbnail": "//photos-us.bazaarvoice.com/photo/2/cGhvdG86ZHJkZW5uaXNncm9zcw/2a42673c-785c-5a71-bda7-cda753598698",
-                        "description": "I'm 41..."
-                    }
-                ],
-                "review": [
-                    {
-                        "reviewer": "Jean",
-                        "reviewdate": "2015-10-24",
-                        "ratingstars": "5.0"
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 30 Application Packettes",
-                        "author": "Jean",
-                        "datecreated": "2015-10-22",
-                        "datepublished": "2015-10-24",
-                        "headline": "Review by Jean. Written 3 years ago. 5 out of 5 stars. Significant Results",
-                        "reviewbody": "I am a long-time user of the Daily Peel from Dr. Gross. I have rosacea, but was delighted to find a … Show Full Review This action will open a modal dialog."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 30 Application Packettes",
-                        "author": "Jor",
-                        "datecreated": "2016-11-02",
-                        "datepublished": "2017-09-18",
-                        "headline": "Review by Jor. Written a year ago. 1 out of 5 stars. I did not see one bit of difference in my skin",
-                        "reviewbody": "I am not one to complain and I NEVER write a review unless it has been an extremely GOOD experience,… Show Full Review This action will open a modal dialog."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 30 Application Packettes",
-                        "author": "Jean",
-                        "datecreated": "2015-10-22",
-                        "datepublished": "2015-10-24",
-                        "headline": "Significant Results",
-                        "reviewbody": "I am a long-time user of the Daily Peel from Dr. Gross. I have rosacea, but was delighted to find a peel that not only didn't aggravate but significantly improved the clarity, refinement and..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 30 Application Packettes",
-                        "author": "stepheneyer",
-                        "datecreated": "2017-01-23",
-                        "datepublished": "2017-01-24",
-                        "headline": "My skin has made remarkable changes!!",
-                        "reviewbody": "I am 49 and suffering from hormonal acne and little white bumps under the surface of my skin, especially around my chin. I purchased the daily facial peel wipes approximately 2 weeks ago and..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - Packettes",
-                        "author": "Jipper32",
-                        "datecreated": "2016-05-16",
-                        "datepublished": "2016-05-18",
-                        "headline": "Saved my skin!",
-                        "reviewbody": "I have always struggled with acne and was told to be patient and it would go away when I got to my mid 20's. Well, that didn't even come close to happening. I've been to the dermatologist,..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 30 Application Packettes",
-                        "author": "Maryann",
-                        "datecreated": "2015-08-20",
-                        "datepublished": "2015-08-23",
-                        "headline": "Awesome peel",
-                        "reviewbody": "I have been using the Alpha Beta Perls for over 5 years & I love them! They are an awesome product I've added to my skincare routine. Skin Type Combination # Best Uses - Beauty Easy to Use,..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 30 Application Packettes",
-                        "author": "Sandy123",
-                        "datecreated": "2016-04-19",
-                        "datepublished": "2016-04-21",
-                        "headline": "Amazing peel",
-                        "reviewbody": "Bought this about a month ago I use it daily. I apply at night, its non drying or non-irritating to my skin. It has helped with discoloration and the texture of my skin. My skin has a glow..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 30 Application Packettes",
-                        "author": "Jor",
-                        "datecreated": "2016-11-02",
-                        "datepublished": "2017-09-18",
-                        "headline": "I did not see one bit of difference in my skin",
-                        "reviewbody": "I am not one to complain and I NEVER write a review unless it has been an extremely GOOD experience, but I was completely disappointed in this. I did not see one bit of difference in my skin...."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 60 Application Packettes",
-                        "author": "mel",
-                        "datecreated": "2016-04-11",
-                        "datepublished": "2016-04-13",
-                        "headline": "So happy the bumps gone!",
-                        "reviewbody": "Got at a spa years ago loved it but stopped using for some stupid reason. Starting getting little white bumps which facials couldn't get rid of the things. Started to use the daily peels and..."
-                    },
-                    {
-                        "itemreviewed": "Alpha Beta® Universal Daily Peel - 60 Application Packettes",
-                        "author": "Christie",
-                        "datecreated": "2017-07-22",
-                        "datepublished": "2017-07-23",
-                        "headline": "Daily peels",
-                        "reviewbody": "ok. so, I have been using the daily peels for almost 2 months. my skin HAS NEVER been this good. ever. I had bumps all over my skin. breakouts (I am 30, like really???) I use the 2 in one face..."
-                    }
-                ],
-                "hreview": [
-                    {
-                        "dtreviewed": "2015-10-24",
-                        "description": "I am a long-time user of the Daily Peel from Dr. Gross. I have rosacea, but was delighted to find a … Show Full Review This action will open a modal dialog."
-                    },
-                    {
-                        "dtreviewed": "2017-09-18",
-                        "description": "I am not one to complain and I NEVER write a review unless it has been an extremely GOOD experience,… Show Full Review This action will open a modal dialog."
-                    },
-                    {
-                        "dtreviewed": "2015-10-24",
-                        "description": "I am a long-time user of the Daily Peel from Dr. Gross. I have rosacea, but was delighted to find a peel that not only didn't aggravate but significantly improved the clarity, refinement and..."
-                    },
-                    {
-                        "dtreviewed": "2017-01-24",
-                        "description": "I am 49 and suffering from hormonal acne and little white bumps under the surface of my skin, especially around my chin. I purchased the daily facial peel wipes approximately 2 weeks ago and..."
-                    },
-                    {
-                        "dtreviewed": "2016-05-18",
-                        "description": "I have always struggled with acne and was told to be patient and it would go away when I got to my mid 20's. Well, that didn't even come close to happening. I've been to the dermatologist,..."
-                    },
-                    {
-                        "dtreviewed": "2015-08-23",
-                        "description": "I have been using the Alpha Beta Perls for over 5 years & I love them! They are an awesome product I've added to my skincare routine. Skin Type Combination # Best Uses - Beauty Easy to Use,..."
-                    },
-                    {
-                        "dtreviewed": "2016-04-21",
-                        "description": "Bought this about a month ago I use it daily. I apply at night, its non drying or non-irritating to my skin. It has helped with discoloration and the texture of my skin. My skin has a glow..."
-                    },
-                    {
-                        "dtreviewed": "2017-09-18",
-                        "description": "I am not one to complain and I NEVER write a review unless it has been an extremely GOOD experience, but I was completely disappointed in this. I did not see one bit of difference in my skin...."
-                    },
-                    {
-                        "dtreviewed": "2016-04-13",
-                        "description": "Got at a spa years ago loved it but stopped using for some stupid reason. Starting getting little white bumps which facials couldn't get rid of the things. Started to use the daily peels and..."
-                    },
-                    {
-                        "dtreviewed": "2017-07-23",
-                        "description": "ok. so, I have been using the daily peels for almost 2 months. my skin HAS NEVER been this good. ever. I had bumps all over my skin. breakouts (I am 30, like really???) I use the 2 in one face..."
-                    }
-                ],
-                "comment": [
-                    {
-                        "author": "HeidiB",
-                        "datecreated": "2017-09-22",
-                        "datepublished": "2018-04-04",
-                        "text": "So excited to hear of a refining product for sensitive skin!!"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://drdennisgross.com/media/catalog/product/cache/1/image/300x300/9df78eab33525d08d6e5fb8d27136e95/a/b/ab_peel_uni_pckt_30treat_a_t_s_1.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Dr. Dennis Gross Skin Care | Sephora",
-            "htmlTitle": "<b>Dr</b>. <b>Dennis Gross Skin Care</b> | Sephora",
-            "link": "https://www.sephora.com/dr-dennis-gross-skincare",
-            "displayLink": "www.sephora.com",
-            "snippet": "Shop Dr. Dennis Gross at Sephora. Find skin products that combine the best of \nwhat nature and science have to offer for immediate and incredible results.",
-            "htmlSnippet": "Shop <b>Dr</b>. <b>Dennis Gross</b> at Sephora. Find <b>skin products</b> that combine the best of <br>\nwhat nature and science have to offer for immediate and incredible results.",
-            "cacheId": "Rx9y4JRX84oJ",
-            "formattedUrl": "https://www.sephora.com/dr-dennis-gross-skincare",
-            "htmlFormattedUrl": "https://www.sephora.com/<b>dr</b>-<b>dennis</b>-<b>gross</b>-<b>skincare</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "375",
-                        "height": "65",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHDadYy9HrRpDShqV8aUByYrZiYNrAo4GOfTPydtX8mzp-LWaMsl5evA"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=1024",
-                        "apple-mobile-web-app-capable": "yes",
-                        "apple-mobile-web-app-status-bar-style": "black",
-                        "apple-mobile-web-app-title": "Sephora",
-                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
-                        "format-detection": "telephone=no",
-                        "imagebasepath": "/images/",
-                        "is_olr_myreservations_enabled": "true",
-                        "sitescope": "ok",
-                        "og:type": "brand",
-                        "og:title": "Dr. Dennis Gross Skincare",
-                        "og:description": "As seen on @Sephora’s #TheBeautyBoard on Sephora.com.",
-                        "og:image": "https://www.sephora.com/images/brands/5668_logo.gif",
-                        "og:url": "https://www.sephora.com$/dr-dennis-gross-skincare",
-                        "fb:admins": "1314428622,676965799",
-                        "fb:app_id": "124755580884988",
-                        "og:site_name": "Sephora"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.sephora.com/images/brands/5668_logo.gif"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Dr. Dennis Gross Skincare™ Products | LovelySkin",
-            "htmlTitle": "<b>Dr</b>. <b>Dennis Gross Skincare</b>™ <b>Products</b> | LovelySkin",
-            "link": "https://www.lovelyskin.com/c/dr-dennis-gross-skincare",
-            "displayLink": "www.lovelyskin.com",
-            "snippet": "Dr. Dennis Gross Skincare™ products provide dermatologist results without a \nprescription. Buy from LovelySkin for free shipping and samples with every order.",
-            "htmlSnippet": "<b>Dr</b>. <b>Dennis Gross Skincare</b>™ <b>products</b> provide dermatologist results without a <br>\nprescription. Buy from LovelySkin for free shipping and samples with every order.",
-            "cacheId": "ItsdLAqve6oJ",
-            "formattedUrl": "https://www.lovelyskin.com/c/dr-dennis-gross-skincare",
-            "htmlFormattedUrl": "https://www.lovely<b>skin</b>.com/c/<b>dr</b>-<b>dennis</b>-<b>gross</b>-<b>skincare</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "250",
-                        "height": "150",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmcimPuKZmGSH6wDvXlOeHb0cI9rUqVNmjK-yu2uC12Uax0mFkB06yKQXQ"
-                    }
-                ],
-                "product": [
-                    {
-                        "description": "Dr. Gross can dew the impossible: a smart targeted delivery system that solves clashing under-eye...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/apvnlbgd_201711301403171867.jpg",
-                        "name": "Dr. Dennis Gross Skincare Hyaluronic Marine Dew It All Eye Gel",
-                        "url": "Dr. Dennis Gross Skincare Hyaluronic Marine Dew It All Eye Gel",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "1"
-                    },
-                    {
-                        "description": "Gain a more vibrant complexion with a daily peel from Dr. Dennis Gross skincare. The formula in t...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/5tsnshy5_201708011936118720.jpg",
-                        "name": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (30 Packettes)",
-                        "url": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (30 Packettes)",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "31"
-                    },
-                    {
-                        "description": "Dr. Dennis Gross Skincare Ferulic Acid Eetinol Correction Eye Serum gently but powerfully reduces...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/fovhe04j_201607252111151949.jpg",
-                        "name": "Dr. Dennis Gross Skincare Ferulic + Retinol Triple Correction Eye Serum",
-                        "url": "Dr. Dennis Gross Skincare Ferulic + Retinol Triple Correction Eye Serum",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "37"
-                    },
-                    {
-                        "description": "Achieve immediately brighter skin with Dr. Dennis Gross Doctor's Kit.Your prescription for health...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/nr2fuezm_201803142057416307.jpg",
-                        "name": "Dr. Dennis Gross Doctor's Kit - Limited Edition",
-                        "url": "Dr. Dennis Gross Doctor's Kit - Limited Edition",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "1"
-                    },
-                    {
-                        "description": "Revive dull skin with Dr. Dennis Gross Ferulic Acid Retinol Brightening Solution.A fast-absorbing...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/rsztudkx_201609282022010407.jpg",
-                        "name": "Dr. Dennis Gross Skincare Ferulic Acid + Retinol Brightening Solution",
-                        "url": "Dr. Dennis Gross Skincare Ferulic Acid + Retinol Brightening Solution",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "13"
-                    },
-                    {
-                        "description": "Exfoliate and tan in one easy step with these pads. To produce a natural and healthy tan on ...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/w0ryjnwk_201803302038230430.jpg",
-                        "name": "Dr. Dennis Gross Skincare Alpha Beta® Glow Pad for Face - Intense Glow",
-                        "url": "Dr. Dennis Gross Skincare Alpha Beta® Glow Pad for Face - Intense Glow",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "16"
-                    },
-                    {
-                        "description": "This at home chemical peel is ideal for most complexions and contains a more powerful formula tha...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/13o30cto_201704182220133350.jpg",
-                        "name": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (60 Packettes)",
-                        "url": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (60 Packettes)",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "33"
-                    },
-                    {
-                        "description": "Supercharge your routine with Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Peel. ...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/dbo2052m_201710301817135257.jpg",
-                        "name": "Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Peel",
-                        "url": "Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Peel",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "13"
-                    },
-                    {
-                        "description": "This professional-strength, super serum provides time-released hydration and helps infuse and sea...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/k12ylt3c_201802271757548317.jpg",
-                        "name": "Dr. Dennis Gross Skincare Hyaluronic Marine Hydration Booster",
-                        "url": "Dr. Dennis Gross Skincare Hyaluronic Marine Hydration Booster",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "4"
-                    },
-                    {
-                        "description": "A luxurious cream powered by our proprietary energy complex, 3-O C vitamin C technology, and coll...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/xceqryiv_201707252012200202.jpg",
-                        "name": "Dr. Dennis Gross Skincare C + Collagen Deep Cream",
-                        "url": "Dr. Dennis Gross Skincare C + Collagen Deep Cream",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "3",
-                        "ratingcount": "8"
-                    },
-                    {
-                        "description": "WHAT IT IS: A clinical-grade weekly peel, inspired by the service menu at Dr. Dennis Gross' NYC m...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/n0bymj0p_201709112002389827.jpg",
-                        "name": "Dr. Dennis Gross Skincare Alpha Beta Medi-Spa Peel",
-                        "url": "Dr. Dennis Gross Skincare Alpha Beta Medi-Spa Peel",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "15"
-                    },
-                    {
-                        "description": "Delivered in a unique water-break gel-cream, this enriched formula features Japanese marine algae...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/402zsgkk_201801112238050808.jpg",
-                        "name": "Dr. Dennis Gross Skincare Hyaluronic Marine Oil-Free Moisture Cushion",
-                        "url": "Dr. Dennis Gross Skincare Hyaluronic Marine Oil-Free Moisture Cushion",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "3"
-                    },
-                    {
-                        "description": "Dr. Dennis Gross Skincare C+ Collagen Brighten & Firm Vitamin C Serum is a weightless, fast-a...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/4pswyn5k_201701032246169725.jpg",
-                        "name": "Dr. Dennis Gross Skincare C + Collagen Brighten & Firm Vitamin C Serum",
-                        "url": "Dr. Dennis Gross Skincare C + Collagen Brighten & Firm Vitamin C Serum",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "7"
-                    },
-                    {
-                        "description": "A science-proven eye cream boosted with the anti-aging powers of GABA, Ferulic + Retinol, and an ...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/mmiwje4o_201408281400532085.jpg",
-                        "name": "Dr. Dennis Gross Skincare Ferulic + Retinol Eye Cream with ECG Complex",
-                        "url": "Dr. Dennis Gross Skincare Ferulic + Retinol Eye Cream with ECG Complex",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "7"
-                    },
-                    {
-                        "description": "A triple correction anti-aging moisturizer that contains the breakthrough combination of Ferulic ...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/0ff0p2tq_201706271523127745.jpg",
-                        "name": "Dr. Dennis Gross Skincare Ferulic + Retinol Anti-Aging Moisturizer",
-                        "url": "Dr. Dennis Gross Skincare Ferulic + Retinol Anti-Aging Moisturizer",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "12"
-                    },
-                    {
-                        "description": "This lightweight, paraben-free formula allows you to spray 360° to provide sun protection to ...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/rp12bgjd_201307291414383476.jpg",
-                        "name": "Dr. Dennis Gross Skincare Sheer Mineral Sun Spray SPF 50+",
-                        "url": "Dr. Dennis Gross Skincare Sheer Mineral Sun Spray SPF 50+",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "9"
-                    },
-                    {
-                        "description": "Experience the power of star anti-aging ingredients while you sleep with Dr. Dennis Gross Skincar...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/luvenv2d_201601202221550810.jpg",
-                        "name": "Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Overnight Serum",
-                        "url": "Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Overnight Serum",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "7"
-                    },
-                    {
-                        "description": "Show off the look of rested, revived, youthful eyes in just 3 minutes a day—hands-free. Fea...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/unvov5nm_201706161416443925.jpg",
-                        "name": "Dr. Dennis Gross Skincare DRx SpectraLite EyeCare Pro",
-                        "url": "Dr. Dennis Gross Skincare DRx SpectraLite EyeCare Pro",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "7"
-                    },
-                    {
-                        "description": "Look like you've spent a weekend at the spa in only 9 minutes. This professional device delivers ...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/jz3v5jdj_201609161959151827.jpg",
-                        "name": "Dr. Dennis Gross Skincare Pro Facial Steamer",
-                        "url": "Dr. Dennis Gross Skincare Pro Facial Steamer",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "4"
-                    },
-                    {
-                        "description": "Get the results you see at the doctor’s office in the comfort of your home with the Alpha B...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/oadpr03z_201609011657017657.jpg",
-                        "name": "Dr. Dennis Gross Skincare Alpha Beta® Universal Daily Peel (30 Packettes)",
-                        "url": "Dr. Dennis Gross Skincare Alpha Beta® Universal Daily Peel (30 Packettes)",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "12"
-                    },
-                    {
-                        "description": "Lock in oil-free hydration with Moisture Cushion's unique gel-cream formula—enriched with J...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/d3440uja_201711301359195503.jpg",
-                        "name": "Dr. Dennis Gross Skincare Marine Moisture Rescue Kit",
-                        "url": "Dr. Dennis Gross Skincare Marine Moisture Rescue Kit"
-                    },
-                    {
-                        "description": "Create a gradual tan with this customizable, buildable color towelette. Providing a streak-f...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/bnw05srw_201704032159155925.jpg",
-                        "name": "Dr. Dennis Gross Skincare Alpha Beta® Glow Pad Self-Tanner for Face - Gradual Glow",
-                        "url": "Dr. Dennis Gross Skincare Alpha Beta® Glow Pad Self-Tanner for Face - Gradual Glow"
-                    },
-                    {
-                        "description": "This extra strength version of the popular Dr. Dennis Gross Alpha Beta Daily Face Peel is an effe...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/czja4h5t_201710301703149499.jpg",
-                        "name": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (30 Applications)",
-                        "url": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (30 Applications)",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "4",
-                        "ratingcount": "19"
-                    },
-                    {
-                        "description": "WHAT IT IS:This antioxidant-rich treatment and setting mist works triple duty to boost your natur...",
-                        "image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/ubj4qov0_201608251414163083.jpg",
-                        "name": "Dr. Dennis Gross Skincare C + Collagen Perfect Skin Set & Refresh Mist",
-                        "url": "Dr. Dennis Gross Skincare C + Collagen Perfect Skin Set & Refresh Mist",
-                        "worstrating": "1",
-                        "bestrating": "5",
-                        "ratingvalue": "5",
-                        "ratingcount": "4"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "og:url": "https://www.lovelyskin.com/c/dr-dennis-gross-skincare",
-                        "og:image": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/xxrre5na_201703061510472820.jpg",
-                        "og:title": "Dr. Dennis Gross Skincare",
-                        "og:description": "Dr. Dennis Gross Skincare products form complete skin care regimens for every skin type, using potent and proven ingredients that yield visible results. These medical grade formulas use vitamin C, retinol, hyaluronic acid and more to restore healthy skin and minimize signs of aging like fine lines and wrinkles, uneven skin tone and rough texture. Dr. Dennis Gross Skincare products are dermatologist-developed, cruelty-free and most formulas are vegan.",
-                        "og:type": "product.group"
-                    }
-                ],
-                "hproduct": [
-                    {
-                        "description": "Dr. Gross can dew the impossible: a smart targeted delivery system that solves clashing under-eye...",
-                        "fn": "Dr. Dennis Gross Skincare Hyaluronic Marine Dew It All Eye Gel",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/apvnlbgd_201711301403171867.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-hyaluronic-marine-dew-it-all-eye-gel",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Gain a more vibrant complexion with a daily peel from Dr. Dennis Gross skincare. The formula in t...",
-                        "fn": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (30 Packettes)",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/5tsnshy5_201708011936118720.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-extra-strength-alpha-beta-daily-face-peel-30-packettes",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Dr. Dennis Gross Skincare Ferulic Acid Eetinol Correction Eye Serum gently but powerfully reduces...",
-                        "fn": "Dr. Dennis Gross Skincare Ferulic + Retinol Triple Correction Eye Serum",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/fovhe04j_201607252111151949.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-ferulic-retinol-triple-correction-eye-serum",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Achieve immediately brighter skin with Dr. Dennis Gross Doctor's Kit.Your prescription for health...",
-                        "fn": "Dr. Dennis Gross Doctor's Kit - Limited Edition",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/nr2fuezm_201803142057416307.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-doctors-kit",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Revive dull skin with Dr. Dennis Gross Ferulic Acid Retinol Brightening Solution.A fast-absorbing...",
-                        "fn": "Dr. Dennis Gross Skincare Ferulic Acid + Retinol Brightening Solution",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/rsztudkx_201609282022010407.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-ferulic-acid-and-retinol-brightening-solution",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Exfoliate and tan in one easy step with these pads. To produce a natural and healthy tan on ...",
-                        "fn": "Dr. Dennis Gross Skincare Alpha Beta® Glow Pad for Face - Intense Glow",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/w0ryjnwk_201803302038230430.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-alpha-beta-glow-pad-20-towelettes",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "This at home chemical peel is ideal for most complexions and contains a more powerful formula tha...",
-                        "fn": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (60 Packettes)",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/13o30cto_201704182220133350.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-extra-strength-alpha-beta-daily-face-peel-60-applications",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Supercharge your routine with Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Peel. ...",
-                        "fn": "Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Peel",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/dbo2052m_201710301817135257.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-ferulic-retinol-wrinkle-recovery-peel",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "This professional-strength, super serum provides time-released hydration and helps infuse and sea...",
-                        "fn": "Dr. Dennis Gross Skincare Hyaluronic Marine Hydration Booster",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/k12ylt3c_201802271757548317.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-clinical-concentrate-hydration-booster",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "A luxurious cream powered by our proprietary energy complex, 3-O C vitamin C technology, and coll...",
-                        "fn": "Dr. Dennis Gross Skincare C + Collagen Deep Cream",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/xceqryiv_201707252012200202.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-c-collagen-deep-cream",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "WHAT IT IS: A clinical-grade weekly peel, inspired by the service menu at Dr. Dennis Gross' NYC m...",
-                        "fn": "Dr. Dennis Gross Skincare Alpha Beta Medi-Spa Peel",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/n0bymj0p_201709112002389827.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-alpha-beta-medi-spa-peel",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Delivered in a unique water-break gel-cream, this enriched formula features Japanese marine algae...",
-                        "fn": "Dr. Dennis Gross Skincare Hyaluronic Marine Oil-Free Moisture Cushion",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/402zsgkk_201801112238050808.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-hyaluronic-marine-oil-free-moisture-cushion",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Dr. Dennis Gross Skincare C+ Collagen Brighten & Firm Vitamin C Serum is a weightless, fast-a...",
-                        "fn": "Dr. Dennis Gross Skincare C + Collagen Brighten & Firm Vitamin C Serum",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/4pswyn5k_201701032246169725.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-c-collagen-brighten-and-firm-vitamin-c-serum",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "A science-proven eye cream boosted with the anti-aging powers of GABA, Ferulic + Retinol, and an ...",
-                        "fn": "Dr. Dennis Gross Skincare Ferulic + Retinol Eye Cream with ECG Complex",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/mmiwje4o_201408281400532085.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-ferulic-retinol-eye-cream-with-ecg-complex",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "A triple correction anti-aging moisturizer that contains the breakthrough combination of Ferulic ...",
-                        "fn": "Dr. Dennis Gross Skincare Ferulic + Retinol Anti-Aging Moisturizer",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/0ff0p2tq_201706271523127745.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-ferulic-retinol-fibroblast-anti-aging-moisturizer",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "This lightweight, paraben-free formula allows you to spray 360° to provide sun protection to ...",
-                        "fn": "Dr. Dennis Gross Skincare Sheer Mineral Sun Spray SPF 50+",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/rp12bgjd_201307291414383476.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-sheer-mineral-sun-spray-broad-spectrum-spf-50",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Experience the power of star anti-aging ingredients while you sleep with Dr. Dennis Gross Skincar...",
-                        "fn": "Dr. Dennis Gross Skincare Ferulic + Retinol Wrinkle Recovery Overnight Serum",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/luvenv2d_201601202221550810.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-ferulic-retinol-wrinkle-recovery-overnight-serum",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Show off the look of rested, revived, youthful eyes in just 3 minutes a day—hands-free. Fea...",
-                        "fn": "Dr. Dennis Gross Skincare DRx SpectraLite EyeCare Pro",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/unvov5nm_201706161416443925.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-drx-spectralite-eyecare-pro",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Look like you've spent a weekend at the spa in only 9 minutes. This professional device delivers ...",
-                        "fn": "Dr. Dennis Gross Skincare Pro Facial Steamer",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/jz3v5jdj_201609161959151827.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-pro-facial-steamer",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Get the results you see at the doctor’s office in the comfort of your home with the Alpha B...",
-                        "fn": "Dr. Dennis Gross Skincare Alpha Beta® Universal Daily Peel (30 Packettes)",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/oadpr03z_201609011657017657.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-alpha-beta-daily-face-peel-boxed",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Lock in oil-free hydration with Moisture Cushion's unique gel-cream formula—enriched with J...",
-                        "fn": "Dr. Dennis Gross Skincare Marine Moisture Rescue Kit",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/d3440uja_201711301359195503.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-marine-moisture-rescue-kit",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "Create a gradual tan with this customizable, buildable color towelette. Providing a streak-f...",
-                        "fn": "Dr. Dennis Gross Skincare Alpha Beta® Glow Pad Self-Tanner for Face - Gradual Glow",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/bnw05srw_201704032159155925.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-alpha-beta-self-tanner-for-face-gradual-glow",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "This extra strength version of the popular Dr. Dennis Gross Alpha Beta Daily Face Peel is an effe...",
-                        "fn": "Dr. Dennis Gross Skincare Extra Strength Alpha Beta® Peel (30 Applications)",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/czja4h5t_201710301703149499.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-extra-strength-alpha-beta-daily-face-peel-30-applications",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    },
-                    {
-                        "description": "WHAT IT IS:This antioxidant-rich treatment and setting mist works triple duty to boost your natur...",
-                        "fn": "Dr. Dennis Gross Skincare C + Collagen Perfect Skin Set & Refresh Mist",
-                        "photo": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/ubj4qov0_201608251414163083.jpg",
-                        "url": "https://www.lovelyskin.com/o/dr-dennis-gross-skincare-c-collagen-perfect-skin-set-and-refresh-mist",
-                        "currency": "USD",
-                        "currency_iso4217": "840"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://8c3412d76225d04d7baa-be98b6ea17920953fb931282eff9a681.ssl.cf1.rackcdn.com/xxrre5na_201703061510472820.jpg"
+                        "src": "https://www.petcha.com/wp-content/themes/frog-wp-child/images/stock/birds-bird-lifestyle-1.jpg"
                     }
                 ]
             }

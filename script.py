@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image, ImageEnhance
 import pytesseract
 import pyscreenshot as ImageGrab
 from apiclient.discovery import build
@@ -44,9 +44,20 @@ def writefiles(num, data):
 
 # take screenshot and extract text
 def read_image():
-    # im = ImageGrab.grab(bbox=(31,182,470,620))
-    im = Image.open("tests/3.jpg")
-    return pytesseract.image_to_string(im)
+
+    # Capture image
+    image = ImageGrab.grab(bbox=(31,184,470,620))
+    # image = Image.open("tests/3.jpg")
+
+    # Increase contrast
+    Contraster = ImageEnhance.Contrast(image)
+    image = Contraster.enhance(3)
+
+    # Increase sharpness
+    Sharpener = ImageEnhance.Sharpness(image)
+    image = Sharpener.enhance(2)
+
+    return pytesseract.image_to_string(image)
 
 
 # calculates and prints out final percentages
@@ -85,9 +96,9 @@ def search_up():
 
     # manually override and edit answers and question
     # global question
-    # question = "What kind of tax does apply in the regular edition of monopoly "
+    # question = "according to its inventor, the graphics format spelled g-i-f is pronounced how? "
     # answers[0] = "Ireland"
-    # answers[1] = "Diff'rent Strokes"
+    # answers[1] = "\"jif\""
     # answers[2] = "Scotland"
 
     for i in range(3):
