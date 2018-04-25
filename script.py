@@ -103,13 +103,13 @@ def search_occurences(new_data, ans_num):
                 # search through metatags, try for just in case metatags don't exist
                 try:
                     for key in item["pagemap"]["metatags"][0].keys():
-                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_sum].lower())
+                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_num].lower())
                 except:
                     continue
 
         # just in case we try to access a nonexistent "item" above bc search didn't return anything
         except KeyError:
-            print("search for {} returned no results".format(answers[ans_sum]))
+            print("search for {} returned no results".format(answers[ans_num]))
 
         return num_occurrences
 
@@ -165,11 +165,10 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # manually override and edit answers and question
-    # global question
-    # question = "What kind of tax does apply in the regular edition of monopoly "
-    # answers[0] = "Ireland"
-    # answers[1] = "Diff'rent Strokes"
-    # answers[2] = "Scotland"
+    # question = "\"Walker, Texas Ranger\" was co-created by the director of which Oscar-winning film? "
+    # answers[0] = "Crash"
+    # answers[1] = "Million Dollar Baby"
+    # answers[2] = "Driving Miss Daisy"
 
     # get data from Google
     results = {}
