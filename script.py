@@ -55,18 +55,7 @@ def read_image():
     Contraster = ImageEnhance.Contrast(image)
     image = Contraster.enhance(3)
 
-    # # Increase sharpness
-    # Sharpener = ImageEnhance.Sharpness(image)
-    # image = Sharpener.enhance(2)
-
-
-    cvimage = numpy.array(image)
-    image = cv2.cvtColor(cvimage, cv2.COLOR_BGR2GRAY)
-    image = cv2.threshold(image, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
-
-    cv2.imshow("image", image)
-    cv2.waitKey(0)
-
+    # tesseract recognizes text and outputs it as a string
     return pytesseract.image_to_string(image)
 
 

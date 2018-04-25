@@ -8,7 +8,7 @@
         "request": [
             {
                 "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
-                "totalResults": "1190",
+                "totalResults": "17400",
                 "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
                 "count": 10,
                 "startIndex": 1,
@@ -21,7 +21,7 @@
         "nextPage": [
             {
                 "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
-                "totalResults": "1190",
+                "totalResults": "17400",
                 "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
                 "count": 10,
                 "startIndex": 11,
@@ -36,12 +36,63 @@
         "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.29483,
-        "formattedSearchTime": "0.29",
-        "totalResults": "1190",
-        "formattedTotalResults": "1,190"
+        "searchTime": 0.357045,
+        "formattedSearchTime": "0.36",
+        "totalResults": "17400",
+        "formattedTotalResults": "17,400"
     },
     "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "South Pacific (musical) - Wikipedia",
+            "htmlTitle": "South Pacific (musical) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The original Broadway production enjoyed immense critical and box-office \nsuccess, became the second-longest running Broadway musical to that point (\nbehind Rodgers and Hammerstein's earlier Oklahoma! (1943)), and has \nremained popular ever since. After they signed Ezio Pinza and Mary Martin as \nthe leads, Rodgers ...",
+            "htmlSnippet": "The original Broadway production enjoyed immense <b>critical</b> and box-office <br>\nsuccess, became the second-longest running Broadway musical to that point (<br>\nbehind Rodgers and Hammerstein&#39;s earlier Oklahoma! (1943)), and has <br>\nremained popular ever since. <b>After</b> they signed Ezio Pinza and Mary Martin as <br>\nthe leads, Rodgers&nbsp;...",
+            "cacheId": "_zile8LX03gJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "178",
+                        "height": "282",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRJac_KGi-kWuzx7N-_q6gFRUz6pQAPzmldZeYYatCfe3rBUaqCZ51Bksw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Inside RENT by Scott Miller",
+            "htmlTitle": "Inside RENT by Scott Miller",
+            "link": "http://www.newlinetheatre.com/rentchapter.html",
+            "displayLink": "www.newlinetheatre.com",
+            "snippet": "In December 1995 Larson finished another revision that returned to the earlier \nstructure and he wrote a one-sentence summary of the show: \"Rent is about a \ncommunity celebrating life, in the face of death and AIDS, at the turn of the \ncentury.\" This statement of purpose helped later on. After his death, as previews \nbegan, the ...",
+            "htmlSnippet": "In December 1995 Larson finished another revision that returned to the earlier <br>\nstructure and he wrote a one-sentence summary of the <b>show</b>: &quot;Rent is about a <br>\ncommunity celebrating life, in the <b>face</b> of death and AIDS, at the <b>turn</b> of the <br>\ncentury.&quot; This statement of purpose helped later on. <b>After</b> his death, as previews <br>\nbegan, the&nbsp;...",
+            "cacheId": "49awGBkujNkJ",
+            "formattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "htmlFormattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                    }
+                ]
+            }
+        },
         {
             "kind": "customsearch#result",
             "title": "Sex (book) - Wikipedia",
@@ -76,57 +127,6 @@
                 "cse_image": [
                     {
                         "src": "https://upload.wikimedia.org/wikipedia/en/c/cb/Cover_of_Madonna%27s_Sex_Book.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Inside RENT by Scott Miller",
-            "htmlTitle": "Inside RENT by Scott Miller",
-            "link": "http://www.newlinetheatre.com/rentchapter.html",
-            "displayLink": "www.newlinetheatre.com",
-            "snippet": "In December 1995 Larson finished another revision that returned to the earlier \nstructure and he wrote a one-sentence summary of the show: \"Rent is about a \ncommunity celebrating life, in the face of death and AIDS, at the turn of the \ncentury.\" This statement of purpose helped later on. After his death, as previews \nbegan, the ...",
-            "htmlSnippet": "In December 1995 Larson finished another revision that returned to the earlier <br>\nstructure and he wrote a one-sentence summary of the <b>show</b>: &quot;Rent is about a <br>\ncommunity celebrating life, in the <b>face</b> of death and AIDS, at the <b>turn</b> of the <br>\ncentury.&quot; This statement of purpose helped later on. <b>After</b> his death, as previews <br>\nbegan, the&nbsp;...",
-            "cacheId": "49awGBkujNkJ",
-            "formattedUrl": "www.newlinetheatre.com/rentchapter.html",
-            "htmlFormattedUrl": "www.newlinetheatre.com/rentchapter.html",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "His Dark Materials - Wikipedia",
-            "htmlTitle": "His Dark Materials - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/His_Dark_Materials",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "The series has attracted controversy for its criticism of religion. The London Royal \nNational Theatre staged a two-part adaptation of the series in 2003–2004. New \nLine Cinema released a film adaptation of Northern Lights, The Golden Compass\n, in 2007. Pullman followed the trilogy with two shorter books set in the same ...",
-            "htmlSnippet": "The <b>series</b> has attracted <b>controversy</b> for its criticism of religion. The London Royal <br>\nNational Theatre staged a two-part adaptation of the <b>series</b> in 2003–2004. New <br>\nLine Cinema released a film adaptation of Northern Lights, The Golden Compass<br>\n, in 2007. Pullman followed the trilogy with two shorter books set in the same&nbsp;...",
-            "cacheId": "zWzmPGZuM1YJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/His_Dark_Materials",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/His_Dark_Materials",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "125",
-                        "height": "191",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwGCdTTK3fuUg2XchMi5L6eCvXxoZXV_BoKFjmswSYHH13kz29ZpvNpUY"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/en/a/ac/His_Dark_Materials_%28Scholastic_collected_ed.%29_Front_cover.jpg"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://upload.wikimedia.org/wikipedia/en/a/ac/His_Dark_Materials_%28Scholastic_collected_ed.%29_Front_cover.jpg"
                     }
                 ]
             }
@@ -173,54 +173,31 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Rob Zombie - Wikipedia",
-            "htmlTitle": "Rob Zombie - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "title": "2000s (decade) - Wikipedia",
+            "htmlTitle": "2000s (decade) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/2000s_(decade)",
             "displayLink": "en.wikipedia.org",
-            "snippet": "He released a remix album the following year that contained songs from Hellbilly \nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though \nthe controversial project failed to see a release until 2003. His second studio \nalbum, The Sinister Urge (2001), became his second platinum album in the \nUnited ...",
-            "htmlSnippet": "He released a remix album the <b>following</b> year that contained songs <b>from</b> Hellbilly <br>\nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though <br>\nthe <b>controversial</b> project failed to see a release until 2003. His second studio <br>\nalbum, The Sinister Urge (2001), became his second platinum album in the <br>\nUnited&nbsp;...",
-            "cacheId": "A4fvPsgNVgkJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "snippet": "Cooperative international rescue missions by many countries from around the \nworld helped in efforts by the most affected nations to rebuild and recover from \nthe devastation. An enormous loss of life and property value came in 2005, when \nHurricane Katrina flooded nearly the entire city of New Orleans. The resulting ...",
+            "htmlSnippet": "Cooperative international rescue missions by many countries <b>from</b> around the <br>\nworld helped in efforts by the most affected nations to rebuild and recover <b>from</b> <br>\nthe devastation. An enormous loss of life and property value came in 2005, when <br>\nHurricane Katrina flooded nearly the entire <b>city</b> of New Orleans. The resulting&nbsp;...",
+            "formattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "220",
-                        "height": "229",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oGJbchl5aEl0gdq-CKtKOkN3ROCWz3t0XI4uRs9rGUpWH6klPKCK3Q"
+                        "width": "227",
+                        "height": "222",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIujmn2D6znSYFYGbGURp72KxZxFhpK0OxEjXxVyr1y4OqqfbrTwSmH2I"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
-                    }
-                ],
-                "hcard": [
-                    {
-                        "fn": "Rob Zombie",
-                        "nickname": "Robert Bartleh Cummings",
-                        "url": "robzombie.com",
-                        "url_text": "robzombie.com",
-                        "bday": "1965-01-12",
-                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor",
-                        "note": "Vocals"
-                    },
-                    {
-                        "fn": "Rob Zombie"
-                    },
-                    {
-                        "fn": "White Zombie"
-                    }
-                ],
-                "person": [
-                    {
-                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
                     }
                 ]
             }
@@ -265,32 +242,45 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Female bodybuilding - Wikipedia",
-            "htmlTitle": "Female bodybuilding - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Female_bodybuilding",
+            "title": "The Monkees - Wikipedia",
+            "htmlTitle": "The Monkees - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/The_Monkees",
             "displayLink": "en.wikipedia.org",
-            "snippet": "Female bodybuilding originally developed as an outgrowth of not only the late \nnineteenth-century European vaudeville and circus strongwomen acts, Bernarr \nMacfadden's turn of the century women's physique competitions, and the \nweightlifting of Abbye \"Pudgy\" Stockton, but also as an outgrowth of the men's \nbodybuilding.",
-            "htmlSnippet": "Female bodybuilding originally developed as an outgrowth of not only the late <br>\nnineteenth-century European vaudeville and circus strongwomen acts, Bernarr <br>\nMacfadden&#39;s <b>turn</b> of the century women&#39;s physique competitions, and the <br>\nweightlifting of Abbye &quot;Pudgy&quot; Stockton, but also as an outgrowth of the men&#39;s <br>\nbodybuilding.",
-            "cacheId": "EjbYY9-GtdoJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Female_bodybuilding",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Female_bodybuilding",
+            "snippet": "The Monkees were an American rock and pop band originally active between \n1966 and 1971, with reunion albums and tours in the decades that followed. \nThey were formed in Los Angeles in 1965 by Bob Rafelson and Bert Schneider \nfor the American television series The Monkees which aired from 1966 to 1968.",
+            "htmlSnippet": "The Monkees were an American rock and pop band originally active between <br>\n1966 and 1971, with reunion albums and tours in the decades that followed. <br>\nThey were formed in Los Angeles in 1965 by Bob Rafelson and Bert Schneider <br>\nfor the American <b>television series</b> The Monkees which aired <b>from</b> 1966 to 1968.",
+            "cacheId": "5FTbb0ig21AJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Monkees",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Monkees",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "199",
-                        "height": "253",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnvKJBRs9my4aIAx7QXilB1dd4NRq29mbcpl8PsG0MhPfHQoPRoXZLuTQ"
+                        "width": "208",
+                        "height": "243",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTKt7QFV9APaKCnQB4heXGp71s5V99SMkkxsyak3vldtaRnReAggIlb9XR"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nikki_Fuller.jpg"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Monkees_1966.JPG"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "The Monkees",
+                        "url": "monkees.com",
+                        "url_text": "monkees.com"
+                    },
+                    {
+                        "fn": "The Monkees"
+                    },
+                    {
+                        "fn": "Michael Nesmith"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nikki_Fuller.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Monkees_1966.JPG"
                     }
                 ]
             }
@@ -387,26 +377,26 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "April 4, 2018 | New York Post",
-            "htmlTitle": "April 4, 2018 | New York Post",
-            "link": "https://nypost.com/2018/04/04/",
-            "displayLink": "nypost.com",
-            "snippet": "Apr 4, 2018 ... A 29-year-old man in Illinois faces several charges, including driving under the \ninfluence, after he allegedly crashed a vehicle early Monday morning and \nabandoned the ... New YouTube video shows Alexa, the popular voice of the \nworld's personal assistant, coming from the mouth of the ol' fish on the wall,.",
-            "htmlSnippet": "Apr 4, 2018 <b>...</b> A 29-year-old man in Illinois <b>faces</b> several charges, including driving under the <br>\ninfluence, <b>after</b> he allegedly crashed a vehicle early Monday morning and <br>\nabandoned the ... New YouTube video <b>shows</b> Alexa, the popular voice of the <br>\nworld&#39;s personal assistant, coming <b>from</b> the mouth of the ol&#39; fish on the wall,.",
-            "cacheId": "qYl5KLJ-NDMJ",
-            "formattedUrl": "https://nypost.com/2018/04/04/",
-            "htmlFormattedUrl": "https://nypost.com/2018/04/04/",
+            "title": "Representation and Gender Change in the Sitcom",
+            "htmlTitle": "Representation and Gender <b>Change</b> in the Sitcom",
+            "link": "https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=2598&context=etd_hon_theses",
+            "displayLink": "wesscholar.wesleyan.edu",
+            "snippet": "Apr 12, 2016 ... Sex and the City (1998-2004), Girls (2012—), and Broad City (2014—). \nConclusion. 108 .... women shows—SATC's turn-of-the-millennium \nthirtysomethings versus millennial young adults on Girls and ... One episode from \nseason one “was the first television program to be seen in ten million homes, at a \ntime ...",
+            "htmlSnippet": "Apr 12, 2016 <b>...</b> <b>Sex</b> and the <b>City</b> (1998-2004), Girls (2012—), and Broad <b>City</b> (2014—). <br>\nConclusion. 108 .... women shows—SATC&#39;s <b>turn</b>-of-the-<b>millennium</b> <br>\nthirtysomethings versus millennial young adults on Girls and ... One episode <b>from</b> <br>\nseason one “was the first <b>television program</b> to be seen in ten million homes, at a <br>\ntime&nbsp;...",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=2598...",
+            "htmlFormattedUrl": "https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=2598...",
             "pagemap": {
                 "metatags": [
                     {
-                        "copyright": "Copyright 2018 NYP Holdings. All rights reserved.",
-                        "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
-                        "fb:pages": "134486075205",
-                        "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
-                        "application-name": "New York Post",
-                        "msapplication-window": "width=device-width;height=device-height",
-                        "msapplication-tooltip": "Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
-                        "msapplication-task": "name=Subscribe;action-uri=https://nypost.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"
+                        "appligent": "pdfHarmony 2.0 Linux Kernel 2.6 64bit Mar 13 2012 Library 9.0.1",
+                        "author": "Regen Routman",
+                        "creationdate": "D:20160412044324Z",
+                        "creator": "Appligent pdfHarmony 2.0",
+                        "moddate": "D:20170801074943-07'00'",
+                        "producer": "Mac OS X 10.10.1 Quartz PDFContext",
+                        "title": "Women on the Move: Representation and Gender Change in the Sitcom"
                     }
                 ]
             }

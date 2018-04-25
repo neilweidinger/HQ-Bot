@@ -8,7 +8,7 @@
         "request": [
             {
                 "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
-                "totalResults": "1490",
+                "totalResults": "19400",
                 "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
                 "count": 10,
                 "startIndex": 1,
@@ -21,7 +21,7 @@
         "nextPage": [
             {
                 "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
-                "totalResults": "1490",
+                "totalResults": "19400",
                 "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
                 "count": 10,
                 "startIndex": 11,
@@ -36,10 +36,10 @@
         "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.346676,
-        "formattedSearchTime": "0.35",
-        "totalResults": "1490",
-        "formattedTotalResults": "1,490"
+        "searchTime": 0.31698,
+        "formattedSearchTime": "0.32",
+        "totalResults": "19400",
+        "formattedTotalResults": "19,400"
     },
     "items": [
         {
@@ -166,51 +166,32 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Britney Spears - Wikipedia",
-            "htmlTitle": "Britney Spears - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "title": "South Pacific (musical) - Wikipedia",
+            "htmlTitle": "South Pacific (musical) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
             "displayLink": "en.wikipedia.org",
-            "snippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, \nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, \nshe performed acting roles in stage productions and television shows as a child \nbefore signing with Jive Records in 1997. Spears's first two studio albums, ...Baby \nOne ...",
-            "htmlSnippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, <br>\nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, <br>\nshe performed acting roles in stage productions and <b>television shows</b> as a child <br>\nbefore signing with Jive Records in 1997. Spears&#39;s first two studio albums, ...Baby <br>\nOne&nbsp;...",
-            "cacheId": "iOR-dPynXLgJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "snippet": "The original Broadway production enjoyed immense critical and box-office \nsuccess, became the second-longest running Broadway musical to that point (\nbehind Rodgers and Hammerstein's earlier Oklahoma! (1943)), and has \nremained popular ever since. After they signed Ezio Pinza and Mary Martin as \nthe leads, Rodgers ...",
+            "htmlSnippet": "The original Broadway production enjoyed immense <b>critical</b> and box-office <br>\nsuccess, became the second-longest running Broadway musical to that point (<br>\nbehind Rodgers and Hammerstein&#39;s earlier Oklahoma! (1943)), and has <br>\nremained popular ever since. <b>After</b> they signed Ezio Pinza and Mary Martin as <br>\nthe leads, Rodgers&nbsp;...",
+            "cacheId": "_zile8LX03gJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
             "pagemap": {
                 "cse_thumbnail": [
                     {
                         "width": "178",
-                        "height": "283",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1ZcgEENf47CtU2nzyh0cy3eRD5m9bmVLVXWa-bsFVt2dDQ62j9oDKdVE"
+                        "height": "282",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRJac_KGi-kWuzx7N-_q6gFRUz6pQAPzmldZeYYatCfe3rBUaqCZ51Bksw"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
-                    }
-                ],
-                "hcard": [
-                    {
-                        "fn": "Britney Spears",
-                        "nickname": "Britney Jean Spears",
-                        "url": "britneyspears.com",
-                        "url_text": "britneyspears.com",
-                        "bday": "1981-12-02",
-                        "role": "Singer dancer actress",
-                        "note": "Vocals"
-                    },
-                    {
-                        "fn": "Britney Spears"
-                    }
-                ],
-                "person": [
-                    {
-                        "role": "Singer dancer actress"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
                     }
                 ]
             }
@@ -269,54 +250,51 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Rob Zombie - Wikipedia",
-            "htmlTitle": "Rob Zombie - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "title": "Britney Spears - Wikipedia",
+            "htmlTitle": "Britney Spears - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Britney_Spears",
             "displayLink": "en.wikipedia.org",
-            "snippet": "He released a remix album the following year that contained songs from Hellbilly \nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though \nthe controversial project failed to see a release until 2003. His second studio \nalbum, The Sinister Urge (2001), became his second platinum album in the \nUnited ...",
-            "htmlSnippet": "He released a remix album the <b>following</b> year that contained songs <b>from</b> Hellbilly <br>\nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though <br>\nthe <b>controversial</b> project failed to see a release until 2003. His second studio <br>\nalbum, The Sinister Urge (2001), became his second platinum album in the <br>\nUnited&nbsp;...",
-            "cacheId": "A4fvPsgNVgkJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "snippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, \nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, \nshe performed acting roles in stage productions and television shows as a child \nbefore signing with Jive Records in 1997. Spears's first two studio albums, ...Baby \nOne ...",
+            "htmlSnippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, <br>\nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, <br>\nshe performed acting roles in stage productions and <b>television shows</b> as a child <br>\nbefore signing with Jive Records in 1997. Spears&#39;s first two studio albums, ...Baby <br>\nOne&nbsp;...",
+            "cacheId": "iOR-dPynXLgJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "220",
-                        "height": "229",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oGJbchl5aEl0gdq-CKtKOkN3ROCWz3t0XI4uRs9rGUpWH6klPKCK3Q"
+                        "width": "178",
+                        "height": "283",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1ZcgEENf47CtU2nzyh0cy3eRD5m9bmVLVXWa-bsFVt2dDQ62j9oDKdVE"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
                     }
                 ],
                 "hcard": [
                     {
-                        "fn": "Rob Zombie",
-                        "nickname": "Robert Bartleh Cummings",
-                        "url": "robzombie.com",
-                        "url_text": "robzombie.com",
-                        "bday": "1965-01-12",
-                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor",
+                        "fn": "Britney Spears",
+                        "nickname": "Britney Jean Spears",
+                        "url": "britneyspears.com",
+                        "url_text": "britneyspears.com",
+                        "bday": "1981-12-02",
+                        "role": "Singer dancer actress",
                         "note": "Vocals"
                     },
                     {
-                        "fn": "Rob Zombie"
-                    },
-                    {
-                        "fn": "White Zombie"
+                        "fn": "Britney Spears"
                     }
                 ],
                 "person": [
                     {
-                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor"
+                        "role": "Singer dancer actress"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
                     }
                 ]
             }
@@ -342,46 +320,31 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Peter Jennings - Wikipedia",
-            "htmlTitle": "Peter Jennings - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Peter_Jennings",
+            "title": "2000s (decade) - Wikipedia",
+            "htmlTitle": "2000s (decade) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/2000s_(decade)",
             "displayLink": "en.wikipedia.org",
-            "snippet": "In 1965, ABC News tapped him to anchor its flagship evening news program. His \ninexperience was attacked by critics and others in television news, making for a \ndifficult first stint in the anchor chair. Jennings became a foreign correspondent in \n1968, reporting from the Middle East. He returned as one of World News ...",
-            "htmlSnippet": "In 1965, ABC News tapped him to anchor its flagship evening news <b>program</b>. His <br>\ninexperience was attacked by critics and others in <b>television</b> news, making for a <br>\ndifficult first stint in the anchor chair. Jennings became a foreign correspondent in <br>\n1968, reporting <b>from</b> the Middle East. He returned as one of World News&nbsp;...",
-            "cacheId": "_xgsTtXLisQJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Peter_Jennings",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Peter_Jennings",
+            "snippet": "On June 5, 2004, Ronald Reagan, the 40th President of the United States, died \nafter having suffered from Alzheimer's disease for nearly a decade. His seven-\nday state funeral followed, spanning June 5–11. The general public stood in long \nlines waiting for a turn to view the casket. People passed by the casket at a rate of\n ...",
+            "htmlSnippet": "On June 5, 2004, Ronald Reagan, the 40th President of the United States, died <br>\n<b>after</b> having suffered <b>from</b> Alzheimer&#39;s disease for nearly a decade. His seven-<br>\nday state funeral followed, spanning June 5–11. The general public stood in long <br>\nlines waiting for a <b>turn</b> to view the casket. People passed by the casket at a rate of<br>\n&nbsp;...",
+            "formattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "185",
-                        "height": "273",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTui_xp_Pckt15ne9lmWwgn_j09fBiEJO_Dt_mY4CKO3VWM9r0MDYlJNEs"
+                        "width": "227",
+                        "height": "222",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIujmn2D6znSYFYGbGURp72KxZxFhpK0OxEjXxVyr1y4OqqfbrTwSmH2I"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peter_Jennings_in_2002.jpg"
-                    }
-                ],
-                "hcard": [
-                    {
-                        "fn": "Peter Jennings",
-                        "nickname": "Peter Charles Archibald Ewart Jennings",
-                        "bday": "1938-07-29",
-                        "role": "Television journalist, anchor",
-                        "category": "Canadian, American"
-                    }
-                ],
-                "person": [
-                    {
-                        "role": "Television journalist, anchor"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peter_Jennings_in_2002.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
                     }
                 ]
             }
@@ -634,59 +597,59 @@
                         "headline": "‘Miss Bala,’ Animated Spider-Man Show Sony’s Commitment to Diverse Heroes"
                     },
                     {
-                        "headline": "'Avengers: Infinity War' Heads to Monster $225+ Million Opening Weekend",
+                        "headline": "'A Star Is Born' CinemaCon Trailer Shows Lady Gaga, Bradley Cooper Singing Live",
                         "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
-                        "datepublished": "2018-04-24T15:36:53+00:00"
+                        "datepublished": "2018-04-24T18:22:27+00:00"
                     },
                     {
-                        "headline": "Film News Roundup: Denis O'Hare, John Early Join Mindy Kaling's Comedy 'Late Night'",
+                        "headline": "'Aquaman' Footage Debuts at CinemaCon; 'Wonder Woman 2' Details Revealed",
                         "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
-                        "datepublished": "2018-04-24T15:34:07+00:00"
+                        "datepublished": "2018-04-24T17:24:45+00:00"
                     },
                     {
-                        "headline": "Oscars: Academy Makes Key Changes in Documentary, Music and VFX Categories",
+                        "headline": "'Avengers: Infinity War' Is Atom Tickets' Biggest Pre-Seller Ever",
                         "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
-                        "datepublished": "2018-04-24T15:25:20+00:00"
+                        "datepublished": "2018-04-24T16:55:54+00:00"
                     },
                     {
-                        "headline": "Benicio Del Toro Teases 'Sicario' Sequel, Talks 'Avengers: Infinity War'",
+                        "headline": "Tribeca Film Review: 'No Greater Law'",
                         "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
-                        "datepublished": "2018-04-24T15:23:52+00:00"
+                        "datepublished": "2018-04-24T16:51:18+00:00"
                     },
                     {
-                        "headline": "Film Review: 'Avengers: Infinity War'",
+                        "headline": "Tribeca Film Review: 'State Like Sleep'",
                         "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
-                        "datepublished": "2018-04-24T15:00:27+00:00"
+                        "datepublished": "2018-04-24T16:49:41+00:00"
                     },
                     {
-                        "headline": "'Incredibles 2': Samuel L. Jackson's Frozone Saves the Day in CinemaCon Footage",
+                        "headline": "Marvel's Kevin Feige Teases How 'Captain Marvel' Will Bring Back the '90s",
                         "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
-                        "datepublished": "2018-04-24T13:59:16+00:00"
+                        "datepublished": "2018-04-24T16:42:59+00:00"
                     },
                     {
-                        "headline": "'Solo: A Star Wars Story' CinemaCon Footage Shows Han Meeting Lando",
+                        "headline": "Variety Names 10 Producers to Watch for 2018",
                         "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
-                        "datepublished": "2018-04-24T13:16:54+00:00"
+                        "datepublished": "2018-04-24T16:42:34+00:00"
                     },
                     {
                         "sourceorganization": "Footwear News",
-                        "headline": "Sarah Jessica Parker Reveals the Shoes She Wore to Her Own Wedding",
+                        "headline": "Melania Trump Sparkles in Silver While France’s First Lady Goes for Gold at State Dinner",
                         "datepublished": "7 hours ago"
                     },
                     {
                         "sourceorganization": "Deadline",
-                        "headline": "AMC Boss Adam Aron On Monthly Ticket Sub Programs, Co-Existing With Netflix & ‘Booming Industry’ – CinemaCon",
+                        "headline": "‘Lethal Weapon’: More On The Incidents & On-Set Environment That Led To Fox Series’ Limbo",
                         "datepublished": "7 hours ago"
                     },
                     {
                         "sourceorganization": "TVLine",
                         "headline": "Lethal Weapon's Clayne Crawford Reacts to 'Incredibly Distressing' Reports of Bad On-Set Behavior",
-                        "datepublished": "5 hours ago"
+                        "datepublished": "3 hours ago"
                     },
                     {
                         "sourceorganization": "Indiewire",
-                        "headline": "‘Avengers: Infinity War’ Review: A Decade of Marvel Movies Collide in One Epic Showdown After Another",
-                        "datepublished": "7 hours ago"
+                        "headline": "As the Academy Tweaks Oscar Rules, Campaigners Complain",
+                        "datepublished": "5 hours ago"
                     }
                 ],
                 "imageobject": [
@@ -712,37 +675,37 @@
                         "contenturl": "https://pmcvariety.files.wordpress.com/2018/02/gina-rodriguez1.jpg?w=700&h=393&crop=1"
                     },
                     {
-                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-15.jpg?w=450&h=253&crop=1"
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2015/12/a-star-is-born.jpg?w=450&h=253&crop=1"
                     },
                     {
-                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/denis-ohare.jpg?w=450&h=253&crop=1"
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2017/03/justice-league-teaser-aquaman.jpg?w=450&h=253&crop=1"
                     },
                     {
-                        "contenturl": "https://pmcvariety.files.wordpress.com/2017/02/oscars-placeholder.jpg?w=450&h=253&crop=1"
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-12.jpg?w=450&h=253&crop=1"
                     },
                     {
-                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/rexfeatures_9640546a.jpg?w=700&h=393&crop=1"
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/no-greater-law.jpg?w=700&h=393&crop=1"
                     },
                     {
-                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-7.jpg?w=450&h=253&crop=1"
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/statelikesleep.png?w=450&h=253&crop=1"
                     },
                     {
-                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/incredibles-2-frozone.jpg?w=450&h=253&crop=1"
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/kevin-feige-avengers.jpg?w=450&h=253&crop=1"
                     },
                     {
-                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/solo-a-star-wars-story-20.jpg?w=450&h=253&crop=1"
+                        "contenturl": "http://pmcvariety.files.wordpress.com/2018/04/yomeddine-5-c2a9-desert-highway-pictures-e1524613256670.jpg?crop=0px%2C2215px%2C7200px%2C4050px&resize=450%2C253"
                     },
                     {
-                        "contenturl": "http://pmcfootwearnews.files.wordpress.com/2018/04/sarah-jessica-parker-matthew-broderick-tribeca-film-festival-2018.jpg?resize=230%2C135"
+                        "contenturl": "http://pmcfootwearnews.files.wordpress.com/2018/04/melania-trump-state-dinner-dress.jpg?resize=230%2C135"
                     },
                     {
-                        "contenturl": "http://pmcdeadline2.files.wordpress.com/2018/04/adam-aron.jpg?resize=230%2C135"
+                        "contenturl": "http://pmcdeadline2.files.wordpress.com/2018/04/lethal-weapon-clayne-crawford-damon-wayans.jpg?resize=230%2C135"
                     },
                     {
                         "contenturl": "http://pmctvline2.files.wordpress.com/2018/04/lethal-weapon-fox-clayne-crawford-apology.jpg?w=200&resize=230%2C135"
                     },
                     {
-                        "contenturl": "http://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/04/infinity.jpg?resize=230%2C135"
+                        "contenturl": "http://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/03/148840_gs139951.jpg?resize=230%2C135"
                     }
                 ],
                 "cse_image": [
