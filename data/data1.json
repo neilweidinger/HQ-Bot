@@ -7,9 +7,9 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - you would ﬁnd a cloaca in the digestive system of what animals? Chameleon",
-                "totalResults": "2460",
-                "searchTerms": "you would ﬁnd a cloaca in the digestive system of what animals? Chameleon",
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
+                "totalResults": "1490",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - you would ﬁnd a cloaca in the digestive system of what animals? Chameleon",
-                "totalResults": "2460",
-                "searchTerms": "you would ﬁnd a cloaca in the digestive system of what animals? Chameleon",
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
+                "totalResults": "1490",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
@@ -36,29 +36,29 @@
         "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.243201,
-        "formattedSearchTime": "0.24",
-        "totalResults": "2460",
-        "formattedTotalResults": "2,460"
+        "searchTime": 0.346676,
+        "formattedSearchTime": "0.35",
+        "totalResults": "1490",
+        "formattedTotalResults": "1,490"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "Cloaca - Wikipedia",
-            "htmlTitle": "<b>Cloaca</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Cloaca",
+            "title": "List of Saturday Night Live incidents - Wikipedia",
+            "htmlTitle": "List of Saturday Night Live incidents - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_incidents",
             "displayLink": "en.wikipedia.org",
-            "snippet": "In animal anatomy, a cloaca /kloʊˈeɪkə/ kloh-AY-kə (plural cloacae /kloʊˈeɪsi/ \nkloh-AY-see or /kloʊˈeɪki/ kloh-AY-kee) is the posterior orifice that serves as the \nonly opening for the digestive, reproductive, and urinary tracts (if present) of \nmany vertebrate animals, opening at the vent. All amphibians, birds, reptiles, and \na ...",
-            "htmlSnippet": "In <b>animal anatomy</b>, a <b>cloaca</b> /kloʊˈeɪkə/ kloh-AY-kə (plural cloacae /kloʊˈeɪsi/ <br>\nkloh-AY-<b>see</b> or /kloʊˈeɪki/ kloh-AY-kee) is the posterior orifice that serves as the <br>\nonly opening for the digestive, <b>reproductive</b>, <b>and urinary tracts</b> (if present) of <br>\nmany vertebrate <b>animals</b>, opening at the vent. All amphibians, birds, reptiles, and <br>\na&nbsp;...",
-            "cacheId": "Eevz_-jDYO0J",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Cloaca",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cloaca</b>",
+            "snippet": "As a live sketch comedy show, NBC's Saturday Night Live (officially abbreviated \nSNL) has had a number of technical problems, performer mishaps, and \ncontroversial content. Several hosts and musical guests have received negative \npress due to their appearances on the program, including musician Sinéad O'\nConnor, ...",
+            "htmlSnippet": "As a live sketch comedy <b>show</b>, NBC&#39;s Saturday Night Live (officially abbreviated <br>\nSNL) has had a number of technical problems, performer mishaps, and <br>\n<b>controversial</b> content. Several hosts and musical guests have received negative <br>\npress due to their appearances on the <b>program</b>, including musician Sinéad O&#39;<br>\nConnor,&nbsp;...",
+            "cacheId": "RNZq_rJnBPgJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_incidents",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_incidents",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "415",
-                        "height": "121",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnXlXGkyHxXq-NxpfwF_vZgSg_CXpLDmp6ayhHbCOw0TPF72BixkwklPo"
+                        "width": "170",
+                        "height": "245",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Cl-vNxebb08Ryu_H8m7bIfFU9bKWuaEnAGrklpdYSq7lY4WrJXo3JwZw"
                     }
                 ],
                 "metatags": [
@@ -68,515 +68,686 @@
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/A_laboratory_manual_for_comparative_vertebrate_anatomy_%281922%29_%2820754316592%29.jpg/600px-A_laboratory_manual_for_comparative_vertebrate_anatomy_%281922%29_%2820754316592%29.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ashlee_Simpson_2012.jpg/170px-Ashlee_Simpson_2012.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Reptile - Digestive and urogenital systems | Britannica.com",
-            "htmlTitle": "Reptile - <b>Digestive and</b> urogenital systems | Britannica.com",
-            "link": "https://www.britannica.com/animal/reptile/Digestive-and-urogenital-systems",
-            "displayLink": "www.britannica.com",
-            "snippet": "Digestive and urogenital systems. The digestive system of modern reptiles is \nsimilar in general plan to that of all higher vertebrates. It includes the mouth and \nits salivary glands, the esophagus, the stomach, and the intestine and ends in a \ncloaca. Of the few specializations of the reptilian digestive system, the evolution \nof one ...",
-            "htmlSnippet": "<b>Digestive and</b> urogenital systems. The <b>digestive system</b> of modern reptiles is <br>\nsimilar in general plan to that of all higher vertebrates. It includes the mouth and <br>\nits salivary glands, the esophagus, the <b>stomach</b>, and the intestine and ends in a <br>\n<b>cloaca</b>. Of the few specializations of the reptilian <b>digestive system</b>, the evolution <br>\nof <b>one</b>&nbsp;...",
-            "cacheId": "v4IqS6ZFojIJ",
-            "formattedUrl": "https://www.britannica.com/animal/.../Digestive-and-urogenital-systems",
-            "htmlFormattedUrl": "https://www.britannica.com/<b>animal</b>/.../<b>Digestive</b>-<b>and</b>-urogenital-<b>systems</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "284",
-                        "height": "178",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAd1eo0cdfD6BHuGBvssuUseqwtmkZ_avPRJRaqtILDT-WLdzEGyWvjNI"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "fb:pages": "74442380906",
-                        "fb:app_id": "1887621861548296",
-                        "twitter:card": "summary_large_image",
-                        "twitter:site": "@britannica",
-                        "og:type": "ARTICLE",
-                        "og:title": "Reptile - Digestive and urogenital systems",
-                        "og:description": "Reptile - Digestive and urogenital systems: The digestive system of modern reptiles is similar in general plan to that of all higher vertebrates. It includes the mouth and its salivary glands, the esophagus, the stomach, and the intestine and ends in a cloaca. Of the few specializations of the reptilian digestive system, the evolution of one pair of salivary glands into poison glands in the venomous snakes is the most remarkable.  During development the embryos of higher vertebrates (reptiles, birds, and mammals) consecutively develop three separate sets of kidneys; these are arranged in longitudinal sequence in the body cavity. The first set, the pronephroi, are vestigial",
-                        "og:site_name": "Encyclopedia Britannica",
-                        "og:url": "https://www.britannica.com/animal/reptile",
-                        "og:image": "https://cdn.britannica.com/39/9739-004-EDFEA6E9.jpg",
-                        "og:image:type": "image/jpeg"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://cdn.britannica.com/39/9739-004-EDFEA6E9.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Here's why some animals have two penises",
-            "htmlTitle": "Here&#39;s why some <b>animals</b> have two penises",
-            "link": "https://www.sciencealert.com/here-s-why-some-animals-have-two-penises",
-            "displayLink": "www.sciencealert.com",
-            "snippet": "Nov 6, 2014 ... Scientists have found the origin of the double penis and worked out why humans \nonly have one. ... that in all animals the development of the penis is controlled by \nthe cloaca - a cavity at the end of the digestive tract that serves as the bodily exit \nfor an animal's digestive, urinary, and reproductive systems.",
-            "htmlSnippet": "Nov 6, 2014 <b>...</b> Scientists <b>have found</b> the origin of the double penis and worked out why humans <br>\nonly have <b>one</b>. ... that in all <b>animals</b> the development of the penis is controlled by <br>\nthe <b>cloaca</b> - a cavity at the end of the <b>digestive tract</b> that serves as the bodily exit <br>\nfor an <b>animal&#39;s</b> digestive, <b>urinary</b>, <b>and reproductive systems</b>.",
-            "cacheId": "lbTjy-ELxgoJ",
-            "formattedUrl": "https://www.sciencealert.com/here-s-why-some-animals-have-two-penises",
-            "htmlFormattedUrl": "https://www.sciencealert.com/here-s-why-some-<b>animals</b>-have-two-penises",
+            "title": "Millennials watching 'Friends' on Netflix shocked by storylines ...",
+            "htmlTitle": "Millennials watching &#39;<b>Friends</b>&#39; on Netflix shocked by storylines ...",
+            "link": "https://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+            "displayLink": "www.independent.co.uk",
+            "snippet": "Jan 11, 2018 ... Millennials watching Friends on Netflix have expressed reservations about the \npopular sitcom's storylines, describing it as transphobic, homophobic and sexist. \nWhile the show ran for more than 10 years until 2004, it arrived on Netflix at the \nend of last year in the UK. The series, starring Jennifer Aniston, ...",
+            "htmlSnippet": "Jan 11, 2018 <b>...</b> Millennials watching <b>Friends</b> on Netflix have expressed reservations about the <br>\npopular sitcom&#39;s storylines, describing it as transphobic, homophobic and sexist. <br>\nWhile the <b>show</b> ran for more than 10 years until 2004, it arrived on Netflix at the <br>\nend of last year in the UK. The <b>series</b>, starring Jennifer Aniston,&nbsp;...",
+            "cacheId": "CAfNKoPu-Q4J",
+            "formattedUrl": "https://www.independent.co.uk/.../tv/friends-netflix-sexist-racist-transphobic- problematic-millenials-watch-a8154626.html",
+            "htmlFormattedUrl": "https://www.independent.co.uk/.../<b>tv</b>/<b>friends</b>-netflix-sexist-racist-transphobic- problematic-millenials-watch-a8154626.html",
             "pagemap": {
                 "cse_thumbnail": [
                     {
                         "width": "275",
                         "height": "183",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVdGh8-zER66NJCbVwdKbIsepKyT7Ttw2Y_Bsz1CMqc3-HgbCw841aUnpk"
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHK7lUQm-PjiFDThyv9p0tzBDgptx45tzxRR2JIhkhVgbdly8HNDPu_5RE"
                     }
                 ],
                 "metatags": [
                     {
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "author": "ScienceAlert Staff",
-                        "article:section": "NEWS",
-                        "fb:admins": "594552604",
-                        "og:site_name": "ScienceAlert",
-                        "og:type": "article",
-                        "og:title": "Here's Why Some Animals Have Two Penises",
-                        "og:description": "Scientists in the US have solved one of the biggest mysteries in evolutionary biology - how the penis develops, and why animals such as snakes and lizards have two, while mammals and birds are stuck with one.",
-                        "og:url": "https://www.sciencealert.com/here-s-why-some-animals-have-two-penises",
-                        "og:image": "https://www.sciencealert.com/images/articles/processed/penis_1024.jpg",
-                        "og:image:width": "1024",
-                        "og:image:height": "415",
-                        "twitter:card": "summary_large_image",
-                        "twitter:site": "@ScienceAlert",
-                        "twitter:title": "Here's Why Some Animals Have Two Penises",
-                        "twitter:description": "<p>Scientists have found the origin of the double penis and worked out why humans only have one.&nbsp;</p>",
-                        "twitter:image": "https://www.sciencealert.com/images/articles/processed/penis_1024.jpg",
-                        "fb:pages": "7557552517"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.sciencealert.com/images/articles/processed/penis_1024.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Lizard Gastrointestinal System - WikiVet English",
-            "htmlTitle": "Lizard <b>Gastrointestinal System</b> - WikiVet English",
-            "link": "https://en.wikivet.net/Lizard_Gastrointestinal_System",
-            "displayLink": "en.wikivet.net",
-            "snippet": "Nov 2, 2010 ... If you would like to help with this, please see more information about expert \nreviewing. ... 2 Gastrointestinal Tract; 3 Cloaca; 4 Literature Search; 5 References \n... For agamids and chameleons, special care should be taken to avoid damaging \nthe acrodont teeth when opening a lizard's mouth with a rigid ...",
-            "htmlSnippet": "Nov 2, 2010 <b>...</b> If <b>you would</b> like to help with this, please <b>see</b> more information about expert <br>\nreviewing. ... 2 <b>Gastrointestinal Tract</b>; 3 <b>Cloaca</b>; 4 Literature Search; 5 References <br>\n... For agamids and <b>chameleons</b>, special care should be taken to avoid damaging <br>\nthe acrodont teeth when opening a lizard&#39;s mouth with a rigid&nbsp;...",
-            "cacheId": "ToMie2s_XewJ",
-            "formattedUrl": "https://en.wikivet.net/Lizard_Gastrointestinal_System",
-            "htmlFormattedUrl": "https://en.wikivet.net/Lizard_<b>Gastrointestinal</b>_<b>System</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "241",
-                        "height": "209",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQeHZ8uaRN47npmL-UULq5-kQPyTEsMQy423YZUkuFflVROd0glr7ANvw"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://commons.wikivet.net/images/thumb/0/0e/BlueTonguedLizard.jpg/300px-BlueTonguedLizard.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Digestive system - an overview | ScienceDirect Topics",
-            "htmlTitle": "<b>Digestive system</b> - an overview | ScienceDirect Topics",
-            "link": "https://www.sciencedirect.com/topics/neuroscience/digestive-system",
-            "displayLink": "www.sciencedirect.com",
-            "snippet": "Inflammation of the oral cavity (stomatitis) may involve the buccal mucosa, the \ngingiva, the tongue, and the peridontal tissues. Stomatitis can be induced by \nsystemic administration of high doses of therapeutic agents. Anticonvulsant drugs \nmay also produce changes in the dentition of humans and experimental animals.",
-            "htmlSnippet": "Inflammation of the oral cavity (stomatitis) <b>may</b> involve the buccal mucosa, the <br>\ngingiva, the tongue, <b>and</b> the peridontal tissues. Stomatitis <b>can</b> be induced by <br>\nsystemic administration of high doses of therapeutic agents. Anticonvulsant drugs <br>\n<b>may</b> also produce changes in the dentition of humans <b>and</b> experimental <b>animals</b>.",
-            "formattedUrl": "https://www.sciencedirect.com/topics/neuroscience/digestive-system",
-            "htmlFormattedUrl": "https://www.sciencedirect.com/topics/neuroscience/<b>digestive</b>-<b>system</b>",
-            "pagemap": {
-                "metatags": [
-                    {
+                        "article:content_type": "story",
+                        "og:video": "https://f1.media.brightcove.com/4/624246174001/624246174001_5708466565001_5708464593001.mp4?pubId=624246174001&videoId=5708464593001",
+                        "og:video:type": "application/octet-stream",
+                        "article:section": "TV & Radio",
+                        "article:subsection": "Video",
+                        "article:author_name": "Ilana Kaplan",
+                        "article:word_count": "409",
+                        "article:image_count": "1",
+                        "article:video_count": "0",
+                        "article:embed_count": "0",
+                        "article:internal_link_count": "0",
+                        "article:external_link_count": "3",
                         "viewport": "width=device-width, initial-scale=1",
-                        "sdtech": "Proudly brought to you by the SD Technology team in London, Dayton, and Amsterdam"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Go, Baby! These Animal Babies Grow Up Without Any Help From ...",
-            "htmlTitle": "Go, Baby! These <b>Animal</b> Babies Grow Up Without Any Help From ...",
-            "link": "https://news.nationalgeographic.com/2017/09/go--baby--these-animal-babies-grow-up-without-any-help-from-pare/",
-            "displayLink": "news.nationalgeographic.com",
-            "snippet": "Sep 9, 2017 ... Because they have a cloaca, an opening for their reproductive, digestive, and \nurinary systems, Bouzid says, lizards like the western fence lizards of Yosemite—\nwhich she ... One lizard species goes a step further—not only do the young never \nsee their parents, they never see any adults of their species at all.",
-            "htmlSnippet": "Sep 9, 2017 <b>...</b> Because they have a <b>cloaca</b>, an opening for their reproductive, <b>digestive</b>, <b>and</b> <br>\n<b>urinary systems</b>, Bouzid says, lizards like the western fence lizards of Yosemite—<br>\nwhich she ... <b>One</b> lizard <b>species</b> goes a step further—not only <b>do</b> the young never <br>\n<b>see</b> their parents, they never <b>see</b> any adults of their <b>species</b> at all.",
-            "cacheId": "btU-K5UMQ_oJ",
-            "formattedUrl": "https://news.nationalgeographic.com/.../go--baby--these-animal-babies-grow- up-without-any-help-from-pare/",
-            "htmlFormattedUrl": "https://news.nationalgeographic.com/.../go--baby--these-<b>animal</b>-babies-grow- up-without-any-help-from-pare/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "275",
-                        "height": "183",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_5LvA-bnInBSXC1SoAvmM8Us1SYM8BrUGYQt_Hleyq2UuKmNYHYiaRsuo"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
-                        "theme-color": "#ffffff",
-                        "referrer": "origin",
-                        "fb:pages": "23497828950",
-                        "og:title": "Go, Baby! These Animal Babies Grow Up Without Any Help From Parents",
-                        "guid": "4615c229-ad95-482f-b6f7-f34d778ebf56",
-                        "og:description": "Why some offspring are left to fend for themselves from day one.",
-                        "news_keywords": "babies, culture",
-                        "og:url": "https://news.nationalgeographic.com/2017/09/go--baby--these-animal-babies-grow-up-without-any-help-from-pare/",
+                        "apple-itunes-app": "app-id=473985355, affiliate-data=1l3v95Z",
+                        "og:video:duration": "60",
+                        "fb:admins": "729735830",
+                        "fb:app_id": "235586169789578",
+                        "og:site_name": "The Independent",
                         "og:type": "article",
-                        "og:site_name": "National Geographic News",
-                        "article:publisher": "https://www.facebook.com/natgeo",
-                        "article:published_time": "2017-09-09T00:02:00-0400",
-                        "article:modified_time": "2017-09-12T09:27:00-0400",
-                        "article:section": "News",
+                        "og:title": "Millenials watching Friends on Netflix are shocked at how problematic it is",
+                        "og:url": "http://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+                        "og:description": "Millennials watching Friends on Netflix have expressed reservations about the popular sitcom’s storylines, describing it as transphobic, homophobic and sexist. While the show ran for more than 10 years until 2004, it arrived on Netflix at the end of last year in the UK.  The series, starring Jennifer Aniston, Matthew Perry, Courtney Cox, Lisa Kudrow, Matt LeBlanc and David Schwimmer, remains one of the most popular shows in the US. ",
+                        "og:updated_time": "2018-03-20T15:09:29+00:00",
+                        "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/11/20/6a79dd40-9223-0133-6dce-0e87cd6e10c7.jpg",
                         "twitter:card": "summary_large_image",
-                        "twitter:site": "@NatGeo",
-                        "twitter:creator": "@NatGeo",
-                        "twitter:site:id": "17471979",
-                        "twitter:title": "Go, Baby! These Animal Babies Grow Up Without Any Help From Parents",
-                        "twitter:description": "Why some offspring are left to fend for themselves from day one.",
-                        "twitter:url": "https://news.nationalgeographic.com/2017/09/go--baby--these-animal-babies-grow-up-without-any-help-from-pare/",
-                        "og:image": "https://news.nationalgeographic.com/content/dam/news/2017/09/09/waq-animal-babies/01-waq-animal-babies-NationalGeographic_2175920.ngsversion.1504931442845.adapt.1900.1.jpg",
-                        "og:image:width": "1900",
-                        "og:image:height": "1266",
-                        "twitter:image:src": "https://news.nationalgeographic.com/content/dam/news/2017/09/09/waq-animal-babies/01-waq-animal-babies-NationalGeographic_2175920.ngsversion.1504931442845.adapt.945.1.jpg",
-                        "gsa_publish_date": "2017-09-12",
-                        "gsa_template": "article",
-                        "sponsor_content": "false",
-                        "sponsored_content": "false",
-                        "tax:source": "news",
-                        "tax:firstsubjectancestor": "people_and_culture",
-                        "tax:firstsubject": "babies",
-                        "tax:series": "weird_animal_question_of_the_week editors_picks",
-                        "tax:audiences": "general",
-                        "aem:pagetype": "news-article",
-                        "cq:editmode": "false"
-                    }
-                ],
-                "newsarticle": [
-                    {
-                        "ispartof": "Weird Animal Question of the Week",
-                        "headline": "Go, Baby! These Animal Babies Grow Up Without Any Help From Parents",
-                        "articlebody": "View Images An Australian brush-turkey, Alectura lathami,—one of several types of birds called megapodes—at Sylvan Heights Bird Park in North Carolina. Photograph by Joel Sartore, National...",
-                        "datepublished": "2017-09-09T00:02:00-0400",
-                        "relatedlink": "Five Baby Bird Cams You Don't Want to Miss This Spring",
-                        "url": "Five Baby Bird Cams You Don't Want to Miss This Spring"
-                    }
-                ],
-                "imageobject": [
-                    {
-                        "caption": "An Australian brush-turkey, Alectura lathami,—one of several types of birds called megapodes—at Sylvan Heights Bird Park in North Carolina.",
-                        "author": "Photograph by Joel Sartore, National Geographic Photo Ark"
-                    },
-                    {
-                        "caption": "A Western fence lizard, Sceloporus occidentalis, at Nebraska Wildlife Rehab.",
-                        "author": "Photograph by Joel Sartore, National Geographic Photo Ark"
-                    },
-                    {
-                        "caption": "A juvenile Labord's chameleon, Furcifer labordi, in its native habitat, the dry forest in Madagascar's Kirindy Mitea National Park.",
-                        "author": "Photograph by Christian Ziegler, National Geographic Creative"
-                    }
-                ],
-                "person": [
-                    {
-                        "name": "Liz Langley"
-                    }
-                ],
-                "webpage": [
-                    {
-                        "maincontentofpage": "Weird Animal Question of the Week Go, Baby! These Animal Babies Grow Up Without Any Help From Parents Why some offspring are left to fend for themselves from day one. View Images An Australian...",
-                        "headline": "Enzyme That Eats Plastic Accidentally Found in Lab",
-                        "description": "A surprise find may eventually help scientists clean up the glut of plastic pollution around the..."
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://news.nationalgeographic.com/content/dam/news/2017/09/09/waq-animal-babies/01-waq-animal-babies-NationalGeographic_2175920.ngsversion.1504931442845.adapt.1900.1.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "How to Clear Impaction in Reptiles - YouTube",
-            "htmlTitle": "How to Clear Impaction in Reptiles - YouTube",
-            "link": "https://www.youtube.com/watch?v=LnQvma_OQ8o",
-            "displayLink": "www.youtube.com",
-            "snippet": "Jul 22, 2008 ... TURN ON ANNOTATIONS. PLEASE READ DESCRIPTION. If your dragon is sick, \nplease take it to a vet. Your dragon cannot help itself. You have to take \nresponsibilit...",
-            "htmlSnippet": "Jul 22, 2008 <b>...</b> TURN ON ANNOTATIONS. PLEASE READ DESCRIPTION. If your dragon is sick, <br>\nplease take it to a vet. Your dragon cannot help itself. <b>You</b> have to take <br>\nresponsibilit...",
-            "cacheId": "B4Q8M-GVJNMJ",
-            "formattedUrl": "https://www.youtube.com/watch?v=LnQvma_OQ8o",
-            "htmlFormattedUrl": "https://www.<b>you</b>tube.com/watch?v=LnQvma_OQ8o",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "259",
-                        "height": "194",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77iwhxOKA8SnDHujn2eaHy6BUBcFWjUTRxkfGvqVprp-ZpmxPpFhrQT0"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "title": "How to Clear Impaction in Reptiles",
-                        "theme-color": "#ff0000",
-                        "og:site_name": "YouTube",
-                        "og:url": "https://www.youtube.com/watch?v=LnQvma_OQ8o",
-                        "og:title": "How to Clear Impaction in Reptiles",
-                        "og:image": "https://i.ytimg.com/vi/LnQvma_OQ8o/hqdefault.jpg",
-                        "og:description": "TURN ON ANNOTATIONS. PLEASE READ DESCRIPTION. If your dragon is sick, please take it to a vet. Your dragon cannot help itself. You have to take responsibilit...",
-                        "al:ios:app_store_id": "544007664",
-                        "al:ios:app_name": "YouTube",
-                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=LnQvma_OQ8o&feature=applinks",
-                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=LnQvma_OQ8o&feature=applinks",
-                        "al:android:app_name": "YouTube",
-                        "al:android:package": "com.google.android.youtube",
-                        "al:web:url": "https://www.youtube.com/watch?v=LnQvma_OQ8o&feature=applinks",
-                        "og:type": "video.other",
-                        "og:video:url": "https://www.youtube.com/embed/LnQvma_OQ8o",
-                        "og:video:secure_url": "https://www.youtube.com/embed/LnQvma_OQ8o",
-                        "og:video:type": "text/html",
-                        "og:video:width": "480",
-                        "og:video:height": "360",
-                        "og:video:tag": "bearded",
-                        "fb:app_id": "87741124305",
-                        "twitter:card": "player",
-                        "twitter:site": "@youtube",
-                        "twitter:url": "https://www.youtube.com/watch?v=LnQvma_OQ8o"
+                        "twitter:site": "@independent",
+                        "twitter:title": "Millenials watching Friends on Netflix are shocked at how problematic it is",
+                        "twitter:url": "http://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+                        "twitter:description": "Millennials watching Friends on Netflix have expressed reservations about the popular sitcom’s storylines, describing it as transphobic, homophobic and sexist. While the show ran for more than 10 years until 2004, it arrived on Netflix at the end of last year in the UK.  The series, starring Jennifer Aniston, Matthew Perry, Courtney Cox, Lisa Kudrow, Matt LeBlanc and David Schwimmer, remains one of the most popular shows in the US. ",
+                        "og:locale": "en_GB",
+                        "article:tag": "Friends",
+                        "article:published_time": "2018-01-11T21:20:47+00:00",
+                        "article:modified_time": "2018-03-20T15:09:29+00:00",
+                        "msvalidate.01": "58C7FB6B9237322BB527AA3C68656AE3"
                     }
                 ],
                 "videoobject": [
                     {
-                        "url": "https://www.youtube.com/watch?v=LnQvma_OQ8o",
-                        "name": "How to Clear Impaction in Reptiles",
-                        "description": "TURN ON ANNOTATIONS. PLEASE READ DESCRIPTION. If your dragon is sick, please take it to a vet. Your dragon cannot help itself. You have to take responsibilit...",
-                        "paid": "False",
-                        "channelid": "UCLBCtUFuVWd5TyqJCqglThw",
-                        "videoid": "LnQvma_OQ8o",
-                        "duration": "PT4M22S",
-                        "unlisted": "False",
-                        "thumbnailurl": "https://i.ytimg.com/vi/LnQvma_OQ8o/hqdefault.jpg",
-                        "embedurl": "https://www.youtube.com/embed/LnQvma_OQ8o",
-                        "playertype": "HTML5 Flash",
-                        "width": "480",
-                        "height": "360",
-                        "isfamilyfriendly": "True",
-                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
-                        "interactioncount": "180523",
-                        "datepublished": "2008-07-22",
-                        "genre": "Pets & Animals"
+                        "description": "Courtney Cox, Matthew Perry, David Schwimmer and Jennifer Anison on 'Friends'. Credit: Warner Bros."
                     }
                 ],
-                "imageobject": [
+                "newsarticle": [
                     {
-                        "url": "https://i.ytimg.com/vi/LnQvma_OQ8o/hqdefault.jpg",
-                        "width": "480",
-                        "height": "360"
+                        "mainentityofpage": "http://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+                        "headline": "Millennials watching ‘Friends’ on Netflix shocked by storylines ​",
+                        "articlebody": "Millennials watching Friends on Netflix have expressed reservations about the popular sitcom’s storylines, describing it as transphobic, homophobic and sexist. While the show ran for more...",
+                        "datepublished": "2018-01-11T21:31:00+00:00",
+                        "keywords": "Friends"
                     }
                 ],
                 "person": [
                     {
-                        "url": "http://www.youtube.com/user/NekoNoTsuchi"
-                    },
+                        "name": "Ilana Kaplan",
+                        "sameas": "Ilana Kaplan"
+                    }
+                ],
+                "organization": [
                     {
-                        "url": "https://plus.google.com/104598778496153874295"
+                        "name": "The Independent",
+                        "sameas": "http://www.independent.co.uk/",
+                        "logo": "https://static.independent.co.uk/static-assets/brand-logo.png"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://i.ytimg.com/vi/LnQvma_OQ8o/hqdefault.jpg"
+                        "src": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/11/20/6a79dd40-9223-0133-6dce-0e87cd6e10c7.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Bacterial Diseases of Reptiles - Exotic and Laboratory Animals ...",
-            "htmlTitle": "Bacterial <b>Diseases</b> of Reptiles - Exotic <b>and</b> Laboratory <b>Animals</b> ...",
-            "link": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/bacterial-diseases-of-reptiles",
-            "displayLink": "www.merckvetmanual.com",
-            "snippet": "Learn about the veterinary topic of Bacterial Diseases of Reptiles. Find specific \ndetails on this topic and related topics from the Merck Vet Manual.",
-            "htmlSnippet": "Learn about the veterinary topic of Bacterial <b>Diseases</b> of Reptiles. <b>Find</b> specific <br>\ndetails on this topic <b>and</b> related topics from the Merck Vet Manual.",
-            "cacheId": "7A2ikgseEVcJ",
-            "formattedUrl": "https://www.merckvetmanual.com/...and...animals/.../bacterial-diseases-of- reptiles",
-            "htmlFormattedUrl": "https://www.merckvetmanual.com/...<b>and</b>...<b>animals</b>/.../bacterial-<b>diseases</b>-of- reptiles",
+            "title": "Britney Spears - Wikipedia",
+            "htmlTitle": "Britney Spears - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, \nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, \nshe performed acting roles in stage productions and television shows as a child \nbefore signing with Jive Records in 1997. Spears's first two studio albums, ...Baby \nOne ...",
+            "htmlSnippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, <br>\nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, <br>\nshe performed acting roles in stage productions and <b>television shows</b> as a child <br>\nbefore signing with Jive Records in 1997. Spears&#39;s first two studio albums, ...Baby <br>\nOne&nbsp;...",
+            "cacheId": "iOR-dPynXLgJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "178",
+                        "height": "283",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1ZcgEENf47CtU2nzyh0cy3eRD5m9bmVLVXWa-bsFVt2dDQ62j9oDKdVE"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Britney Spears",
+                        "nickname": "Britney Jean Spears",
+                        "url": "britneyspears.com",
+                        "url_text": "britneyspears.com",
+                        "bday": "1981-12-02",
+                        "role": "Singer dancer actress",
+                        "note": "Vocals"
+                    },
+                    {
+                        "fn": "Britney Spears"
+                    }
+                ],
+                "person": [
+                    {
+                        "role": "Singer dancer actress"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Free speech is so last century. Today's students want the 'right to be ...",
+            "htmlTitle": "Free speech is so last century. Today&#39;s students want the &#39;right to be ...",
+            "link": "https://www.spectator.co.uk/2014/11/free-speech-is-so-last-century-todays-students-want-the-right-to-be-comfortable/",
+            "displayLink": "www.spectator.co.uk",
+            "snippet": "Nov 22, 2014 ... This isn't the first time I've encountered the Stepford students. Last month, at \nBritain's other famously prestigious university, Cambridge, I was circled by \nStepfords after taking part in a debate on faith schools. It wasn't my defence of \nparents' rights to send their children to religious schools they wanted to ...",
+            "htmlSnippet": "Nov 22, 2014 <b>...</b> This isn&#39;t the first time I&#39;ve <b>encountered</b> the Stepford students. Last month, at <br>\nBritain&#39;s other famously prestigious university, Cambridge, I was circled by <br>\nStepfords <b>after</b> taking part in a debate on faith schools. It wasn&#39;t my defence of <br>\nparents&#39; rights to send their children to religious schools they wanted to&nbsp;...",
+            "cacheId": "j31RSm_KK5cJ",
+            "formattedUrl": "https://www.spectator.co.uk/.../free-speech-is-so-last-century-todays-students- want-the-right-to-be-comfortable/",
+            "htmlFormattedUrl": "https://www.spectator.co.uk/.../free-speech-is-so-last-century-todays-students- want-the-right-to-be-comfortable/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
                         "width": "275",
                         "height": "183",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUmUqontshXcakSQA4YYqeNF5yrYs8urzR3O4_LVyFPQYiCLKmTc_eHs"
-                    }
-                ],
-                "medicalcondition": [
-                    {
-                        "name": "Bacterial Diseases of Reptiles"
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS1XoHCKa5oGKp8urzOaaVdoVLw74B0mE0HshThdfVf1TC0-XUaDwJnEQ"
                     }
                 ],
                 "metatags": [
                     {
-                        "viewport": "initial-scale=1",
-                        "edition": "Veterinary",
-                        "og:site_name": "Merck Veterinary Manual",
-                        "og:title": "Bacterial Diseases  of Reptiles - Exotic and Laboratory Animals - Merck Veterinary Manual",
-                        "og:type": "article",
-                        "og:author": "DIVERS.STEPHEN",
-                        "og:url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/bacterial-diseases-of-reptiles",
-                        "og:image": "https://www.merckvetmanual.com//-/media/manual/veterinary/images/scud_turtle_high.jpg?la=en&thn=0",
-                        "apple-itunes-app": "app-id=1289663059",
-                        "google-play-app": "app-id=com.mm.veterinary",
-                        "msapplication-tileimage": "https://lh3.googleusercontent.com/dLDuaoMXIrwZVbJ_PLazRfdPP3qpbqG-KO8k1JsC4gX8Rn49AVRgpJMUzupFrl3s4A=w300-rw"
-                    }
-                ],
-                "Breadcrumb": [
-                    {
-                        "title": "Veterinary",
-                        "url": "Veterinary"
-                    },
-                    {
-                        "title": "Exotic and Laboratory Animals",
-                        "url": "Exotic and Laboratory Animals"
-                    },
-                    {
-                        "title": "Reptiles",
-                        "url": "Reptiles"
-                    }
-                ],
-                "breadcrumb": [
-                    {
-                        "url": "Veterinary",
-                        "title": "Veterinary"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.merckvetmanual.com//-/media/manual/veterinary/images/scud_turtle_high.jpg?la=en&thn=0"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Basic Reptile and Amphibian Anatomy and Physiology | Veterian Key",
-            "htmlTitle": "Basic Reptile and Amphibian <b>Anatomy</b> and Physiology | Veterian Key",
-            "link": "https://veteriankey.com/basic-reptile-and-amphibian-anatomy-and-physiology/",
-            "displayLink": "veteriankey.com",
-            "snippet": "Jan 8, 2017 ... This distinguishes them from species such as the slow worm, which is actually a \nlizard with vestigial limbs. There are some remnants of limbs in one or two of the \nolder evolutionary species of snake such as the boid family (pythons and boa \nconstrictors). These can possess vestigial pelvic remnants, having ...",
-            "htmlSnippet": "Jan 8, 2017 <b>...</b> This distinguishes them from <b>species</b> such as the slow worm, which is actually a <br>\nlizard with vestigial limbs. There are some remnants of limbs in <b>one</b> or two of the <br>\nolder evolutionary <b>species</b> of snake such as the boid family (pythons <b>and</b> boa <br>\nconstrictors). These <b>can</b> possess vestigial pelvic remnants, having&nbsp;...",
-            "cacheId": "wwFqnpAlJk0J",
-            "formattedUrl": "https://veteriankey.com/basic-reptile-and-amphibian-anatomy-and- physiology/",
-            "htmlFormattedUrl": "https://veteriankey.com/basic-reptile-<b>and</b>-amphibian-<b>anatomy</b>-<b>and</b>- physiology/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "329",
-                        "height": "153",
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbNi8R70SjwODfzdVNruf2yJ9FohbzMNpKGHJ7HNRZAdT3kZnFjFeiIYU"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "viewport": "width=device-width",
-                        "author": "UFO Themes",
-                        "og:type": "article",
-                        "og:title": "Basic Reptile and Amphibian Anatomy and Physiology",
-                        "og:url": "https://veteriankey.com/basic-reptile-and-amphibian-anatomy-and-physiology/",
-                        "og:description": "Suborder Serpentes (i.e., the snakes) suborder Lacertilia (i.e., the lizards) suborder Amphisbaenia (the worm-lizards) More recently the order Squamata has been divided into the: Suborder Iguania (…",
-                        "article:published_time": "2017-01-08T03:24:33+00:00",
-                        "article:modified_time": "2017-01-08T03:26:19+00:00",
-                        "og:site_name": "Veterian Key",
-                        "og:image": "https://i0.wp.com/veteriankey.com/wp-content/uploads/2017/01/nc17f014.jpg?fit=550%2C257&ssl=1",
-                        "og:image:width": "550",
-                        "og:image:height": "257",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "msapplication-tileimage": "https://www.spectator.co.uk/content/themes/spectator-new/assets/favicons/mstile-144x144.png",
+                        "msapplication-tilecolor": "#2b5797",
+                        "theme-color": "#d2091e",
+                        "og:image": "https://spectator.imgix.net/content/uploads/2014/11/ste0.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413",
+                        "og:image:width": "620",
+                        "og:image:height": "413",
                         "og:locale": "en_US",
-                        "twitter:text:title": "Basic Reptile and Amphibian Anatomy and Physiology",
-                        "twitter:image": "https://i0.wp.com/veteriankey.com/wp-content/uploads/2017/01/nc17f014.jpg?fit=550%2C257&ssl=1&w=640",
-                        "twitter:card": "summary_large_image"
+                        "og:type": "article",
+                        "og:title": "Free speech is so last century. Today’s students want the ‘right to be comfortable’ | The Spectator",
+                        "og:description": "Don’t be a Stepford student — subscribe to The Spectator’s print and digital bundle for just £22 for 22 weeks.  Have you met the Stepford students? They’re everywhere. On campuses across the land.",
+                        "og:url": "https://www.spectator.co.uk/2014/11/free-speech-is-so-last-century-todays-students-want-the-right-to-be-comfortable/",
+                        "og:site_name": "The Spectator",
+                        "article:published_time": "2014-11-22",
+                        "article:modified_time": "2015-11-30",
+                        "og:updated_time": "2015-11-30",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Free speech is so last century. Today’s students want the ‘right to be comfortable’ | The Spectator",
+                        "twitter:description": "Don’t be a Stepford student — subscribe to The Spectator’s print and digital bundle for just £22 for 22 weeks.  Have you met the Stepford students? They’re everywhere. On campuses across the land.",
+                        "twitter:image": "https://spectator.imgix.net/content/uploads/2014/11/ste0.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413",
+                        "twitter:image:width": "620",
+                        "twitter:image:height": "413"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://i0.wp.com/veteriankey.com/wp-content/uploads/2017/01/nc17f014.jpg?fit=550%2C257&ssl=1"
+                        "src": "https://spectator.imgix.net/content/uploads/2014/11/ste0.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Management of Reptiles - Exotic and Laboratory Animals - Merck ...",
-            "htmlTitle": "Management of Reptiles - Exotic <b>and</b> Laboratory <b>Animals</b> - Merck ...",
-            "link": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/management-of-reptiles",
-            "displayLink": "www.merckvetmanual.com",
-            "snippet": "Veterinarians must not only be familiar with common reptile species and their \nmanagement but also be able to extract clinically relevant husbandry information \nfrom the owner in a timely manner. The use of a history form can greatly facilitate \nthis process and ensure that nothing is overlooked.",
-            "htmlSnippet": "Veterinarians must not only be familiar with common reptile <b>species and</b> their <br>\nmanagement but also be able to extract clinically relevant husbandry information <br>\nfrom the owner in a timely manner. The use of a history form <b>can</b> greatly facilitate <br>\nthis process <b>and</b> ensure that nothing is overlooked.",
-            "cacheId": "EodRZvmWKlkJ",
-            "formattedUrl": "https://www.merckvetmanual.com/...and...animals/.../management-of-reptiles",
-            "htmlFormattedUrl": "https://www.merckvetmanual.com/...<b>and</b>...<b>animals</b>/.../management-of-reptiles",
+            "title": "Rob Zombie - Wikipedia",
+            "htmlTitle": "Rob Zombie - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "He released a remix album the following year that contained songs from Hellbilly \nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though \nthe controversial project failed to see a release until 2003. His second studio \nalbum, The Sinister Urge (2001), became his second platinum album in the \nUnited ...",
+            "htmlSnippet": "He released a remix album the <b>following</b> year that contained songs <b>from</b> Hellbilly <br>\nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though <br>\nthe <b>controversial</b> project failed to see a release until 2003. His second studio <br>\nalbum, The Sinister Urge (2001), became his second platinum album in the <br>\nUnited&nbsp;...",
+            "cacheId": "A4fvPsgNVgkJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "275",
-                        "height": "183",
-                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkc3M1lpJhT53TRMQ0UMLq8cEHbuI-ktv9lUc0Z3pdkh_jr3WvoalExAs"
-                    }
-                ],
-                "medicalcondition": [
-                    {
-                        "name": "Management of Reptiles"
+                        "width": "220",
+                        "height": "229",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oGJbchl5aEl0gdq-CKtKOkN3ROCWz3t0XI4uRs9rGUpWH6klPKCK3Q"
                     }
                 ],
                 "metatags": [
                     {
-                        "viewport": "initial-scale=1",
-                        "edition": "Veterinary",
-                        "og:site_name": "Merck Veterinary Manual",
-                        "og:title": "Management  of Reptiles - Exotic and Laboratory Animals - Merck Veterinary Manual",
-                        "og:type": "article",
-                        "og:author": "DIVERS.STEPHEN",
-                        "og:url": "https://www.merckvetmanual.com/exotic-and-laboratory-animals/reptiles/management-of-reptiles",
-                        "og:image": "https://www.merckvetmanual.com//-/media/manual/veterinary/images/gecko_tail_autotomy_high.jpg?la=en&thn=0",
-                        "apple-itunes-app": "app-id=1289663059",
-                        "google-play-app": "app-id=com.mm.veterinary",
-                        "msapplication-tileimage": "https://lh3.googleusercontent.com/dLDuaoMXIrwZVbJ_PLazRfdPP3qpbqG-KO8k1JsC4gX8Rn49AVRgpJMUzupFrl3s4A=w300-rw"
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
                     }
                 ],
-                "Breadcrumb": [
+                "hcard": [
                     {
-                        "title": "Veterinary",
-                        "url": "Veterinary"
+                        "fn": "Rob Zombie",
+                        "nickname": "Robert Bartleh Cummings",
+                        "url": "robzombie.com",
+                        "url_text": "robzombie.com",
+                        "bday": "1965-01-12",
+                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor",
+                        "note": "Vocals"
                     },
                     {
-                        "title": "Exotic and Laboratory Animals",
-                        "url": "Exotic and Laboratory Animals"
+                        "fn": "Rob Zombie"
                     },
                     {
-                        "title": "Reptiles",
-                        "url": "Reptiles"
+                        "fn": "White Zombie"
                     }
                 ],
-                "breadcrumb": [
+                "person": [
                     {
-                        "url": "Veterinary",
-                        "title": "Veterinary"
+                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://www.merckvetmanual.com//-/media/manual/veterinary/images/gecko_tail_autotomy_high.jpg?la=en&thn=0"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Inside RENT by Scott Miller",
+            "htmlTitle": "Inside RENT by Scott Miller",
+            "link": "http://www.newlinetheatre.com/rentchapter.html",
+            "displayLink": "www.newlinetheatre.com",
+            "snippet": "In December 1995 Larson finished another revision that returned to the earlier \nstructure and he wrote a one-sentence summary of the show: \"Rent is about a \ncommunity celebrating life, in the face of death and AIDS, at the turn of the \ncentury.\" This statement of purpose helped later on. After his death, as previews \nbegan, the ...",
+            "htmlSnippet": "In December 1995 Larson finished another revision that returned to the earlier <br>\nstructure and he wrote a one-sentence summary of the <b>show</b>: &quot;Rent is about a <br>\ncommunity celebrating life, in the <b>face</b> of death and AIDS, at the <b>turn</b> of the <br>\ncentury.&quot; This statement of purpose helped later on. <b>After</b> his death, as previews <br>\nbegan, the&nbsp;...",
+            "cacheId": "49awGBkujNkJ",
+            "formattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "htmlFormattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Peter Jennings - Wikipedia",
+            "htmlTitle": "Peter Jennings - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Peter_Jennings",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In 1965, ABC News tapped him to anchor its flagship evening news program. His \ninexperience was attacked by critics and others in television news, making for a \ndifficult first stint in the anchor chair. Jennings became a foreign correspondent in \n1968, reporting from the Middle East. He returned as one of World News ...",
+            "htmlSnippet": "In 1965, ABC News tapped him to anchor its flagship evening news <b>program</b>. His <br>\ninexperience was attacked by critics and others in <b>television</b> news, making for a <br>\ndifficult first stint in the anchor chair. Jennings became a foreign correspondent in <br>\n1968, reporting <b>from</b> the Middle East. He returned as one of World News&nbsp;...",
+            "cacheId": "_xgsTtXLisQJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Peter_Jennings",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Peter_Jennings",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "185",
+                        "height": "273",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTui_xp_Pckt15ne9lmWwgn_j09fBiEJO_Dt_mY4CKO3VWM9r0MDYlJNEs"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peter_Jennings_in_2002.jpg"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Peter Jennings",
+                        "nickname": "Peter Charles Archibald Ewart Jennings",
+                        "bday": "1938-07-29",
+                        "role": "Television journalist, anchor",
+                        "category": "Canadian, American"
+                    }
+                ],
+                "person": [
+                    {
+                        "role": "Television journalist, anchor"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Peter_Jennings_in_2002.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "11 actually pretty shocking things Friends couldn't get away with today",
+            "htmlTitle": "11 actually pretty shocking things <b>Friends</b> couldn&#39;t get away with today",
+            "link": "https://www.cosmopolitan.com/uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+            "displayLink": "www.cosmopolitan.com",
+            "snippet": "Jan 11, 2017 ... 11 un PC moments in Friends that it wouldn't be able to get away with today. ... In \ncollege, Monica is only known as \"fat Monica\" - but after overhearing Chandler \nmake fun of her size, she loses weight and is suddenly described with a whole \nwealth of other words. Obviously, fat-shaming and size-ism isn't ...",
+            "htmlSnippet": "Jan 11, 2017 <b>...</b> 11 un PC moments in <b>Friends</b> that it wouldn&#39;t be able to get away with today. ... In <br>\ncollege, Monica is only known as &quot;fat Monica&quot; - but <b>after</b> overhearing Chandler <br>\nmake fun of her size, she loses weight and is suddenly described with a whole <br>\nwealth of other words. Obviously, fat-shaming and size-ism isn&#39;t&nbsp;...",
+            "cacheId": "OySJ2cr71moJ",
+            "formattedUrl": "https://www.cosmopolitan.com/.../11-times-friends-sexist-homophobic/",
+            "htmlFormattedUrl": "https://www.cosmopolitan.com/.../11-times-<b>friends</b>-sexist-homophobic/",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*"
+                    }
+                ],
+                "speakablespecification": [
+                    {
+                        "cssselector": ".content-hed"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "x-ua-compatible": "IE=edge,chrome=1",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                        "msapplication-tap-highlight": "no",
+                        "theme-color": "#EC008C",
+                        "og:type": "article",
+                        "fb:app_id": "211620818858710",
+                        "article:publisher": "https://facebook.com/cosmopolitanuk",
+                        "twitter:site": "@CosmopolitanUK",
+                        "og:site_name": "Cosmopolitan",
+                        "title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:description": "Sexism, homophobia and fat-shaming, anyone?",
+                        "news_keywords": "friends, sitcom, sexism, misogyny, programme, watch, racist, sitcom, diversity, stereotypical",
+                        "article:modified_time": "2018-01-11 11:04:00",
+                        "auto-publish": "evergreen",
+                        "twitter:card": "summary_large_image",
+                        "og:url": "http://www.cosmopolitan.co.uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+                        "og:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=1200:*",
+                        "og:image:width": "1200",
+                        "og:image:height": "600",
+                        "twitter:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=640:*",
+                        "thumbnail": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*",
+                        "article:published_time": "2017-01-11 11:02:00",
+                        "article:section": "Entertainment",
+                        "sailthru.contenttype": "standard-article",
+                        "sailthru.tags": "Entertainment",
+                        "sailthru.date": "2017-01-11T11:02:00Z",
+                        "sailthru.image.full": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg",
+                        "sailthru.image.thumb": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg",
+                        "sailthru.socialtitle": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "sailthru.excerpt": "Love it or hate it, there's no denying that EVERYBODY of a certain generation has probably seen an episode of Friends in their time - which makes the obvious sexism, homophobia and all round lack of diversity all the more interesting more than 20 years later. 1. Chandler's transgender father...",
+                        "m1": ".content-hed",
+                        "m2": ".content-dek p"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "https://www.cosmopolitan.com/uk/author/2482/dusty-baxter-wright/"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Dusty Baxter-Wright"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meghan-markle-1524493798.jpg?crop=1xw:1xh;center,top&resize=320:*",
+                        "type": "1",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What's Wrong With Craig Venter? | The New Republic",
+            "htmlTitle": "What&#39;s Wrong With Craig Venter? | The New Republic",
+            "link": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+            "displayLink": "newrepublic.com",
+            "snippet": "Feb 2, 2016 ... At the turn of the millennium, at a ceremony at the White House involving \nPresident Clinton and UK prime minister Tony Blair, Venter had unveiled his first \ndraft of the human genome, a mosaic of DNA from ... 'Maverick' and 'controversial' \nare among the labels that have stuck to Venter from the last century.",
+            "htmlSnippet": "Feb 2, 2016 <b>...</b> At the <b>turn</b> of the <b>millennium</b>, at a ceremony at the White House involving <br>\nPresident Clinton and UK prime minister Tony Blair, Venter had unveiled his first <br>\ndraft of the human genome, a mosaic of DNA <b>from</b> ... &#39;Maverick&#39; and &#39;<b>controversial</b>&#39; <br>\nare among the labels that have stuck to Venter <b>from</b> the last century.",
+            "cacheId": "lQA-9putM8IJ",
+            "formattedUrl": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+            "htmlFormattedUrl": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "311",
+                        "height": "162",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnyhyhH3z3BfsNjlxKsIrTqKaR0Uicxv3vkBoIvlKxpARN9dT4RzvqijcD"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "fb:admins": "4404589",
+                        "fb:app_id": "1675346479369918",
+                        "fb:pages": "161419311535",
+                        "parsely-page": "{\"title\":\"What’s Wrong With Craig Venter?\",\"link\":\"https://newrepublic.com/article/128977/whats-wrong-craig-venter\",\"section\":\"Mosaic\",\"pub_date\":\"2016-02-02T15:10:28.000Z\",\"post_id\":128977,\"authors\":[\"Roger Highfield\"],\"type\":\"post\",\"tags\":[\"Mosaic\",\"Science\",\"Craig Venter\",\"-homepage-bottom1\",\"-type_article\"]}",
+                        "parsely-metadata": "{\"thumb_image\":\"http://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg\"}",
+                        "og:title": "What’s Wrong With Craig Venter?",
+                        "og:description": "Craig Venter, multi-millionaire maverick, says he can help you live a better, longer life.",
+                        "twitter:title": "What’s Wrong With Craig Venter?",
+                        "twitter:description": "Craig Venter, multi-millionaire maverick, says he can help you live a better, longer life.",
+                        "og:type": "article",
+                        "og:url": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+                        "twitter:card": "summary_large_image",
+                        "article:publisher": "https://www.facebook.com/newrepublic",
+                        "article:published_time": "2016-02-02",
+                        "twitter:image": "https://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg?w=1024&h=512&crop=faces&fit=crop&fm=jpg",
+                        "og:image": "https://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                        "og:image:height": "577",
+                        "og:image:width": "1109",
+                        "og:image:type": "image/jpeg",
+                        "article:tag": "Mosaic",
+                        "og:site_name": "The New Republic",
+                        "twitter:site": "@newrepublic",
+                        "og:locale": "en_US",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-tileimage": "//assets.newrepublic.com/assets/favicons/mstile-144x144.png",
+                        "msapplication-config": "//assets.newrepublic.com/assets/favicons/browserconfig.xml",
+                        "theme-color": "#ffffff"
+                    }
+                ],
+                "article": [
+                    {
+                        "headline": "What’s Wrong With Craig Venter?",
+                        "author": "Roger Highfield",
+                        "datepublished": "2016-02-02",
+                        "articlebody": "On the eve of his 69th birthday, Craig Venter looks on, amused, as his digital doppelganger shuffles from foot to foot. Venter’s white-bearded avatar is the star of an iPad app being demonstrated...",
+                        "keywords": "Mosaic,Science,Craig Venter,-homepage-bottom1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "'Star Wars: The Last Jedi' Review: Rian Johnson Steers the Ship ...",
+            "htmlTitle": "&#39;Star Wars: The Last Jedi&#39; Review: Rian Johnson Steers the Ship ...",
+            "link": "http://variety.com/2017/film/reviews/star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+            "displayLink": "variety.com",
+            "snippet": "Dec 12, 2017 ... As the fate of the Jedi religion hangs in the balance, one begins to detect a \ncertain unwillingness to stray too far from the official text. ... It's as if Johnson's \nassignment was to extend the franchise without changing anything fundamental, \nwhich is closer to the way classic television and vintage James Bond ...",
+            "htmlSnippet": "Dec 12, 2017 <b>...</b> As the fate of the Jedi religion hangs in the balance, one begins to detect a <br>\ncertain unwillingness to stray too far <b>from</b> the official text. ... It&#39;s as if Johnson&#39;s <br>\nassignment was to extend the franchise without <b>changing</b> anything fundamental, <br>\nwhich is closer to the way classic <b>television</b> and vintage James Bond&nbsp;...",
+            "cacheId": "09EXnoPrcCkJ",
+            "formattedUrl": "variety.com/.../star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+            "htmlFormattedUrl": "variety.com/.../star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5HKsw5ye2UC7ooeAUHkyAwxItKrAZhfxKEmdSGhOFUEm9GSu_5Ab35Bk"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "alexaverifyid": "4IBqfMBcohHTnitnTLanYijElhs",
+                        "fb:admins": "697514199",
+                        "news_keywords": "Carrie Fisher, Rian Johnson, Star Wars: The Last Jedi",
+                        "og:type": "article",
+                        "og:title": "Film Review: ‘Star Wars: The Last Jedi’",
+                        "og:url": "http://variety.com/2017/film/reviews/star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+                        "og:description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case …",
+                        "article:published_time": "2017-12-12T17:00:57+00:00",
+                        "article:modified_time": "2017-12-13T01:23:22+00:00",
+                        "og:site_name": "Variety",
+                        "og:image": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=700&h=393&crop=1",
+                        "og:image:width": "1000",
+                        "og:image:height": "563",
+                        "og:locale": "en_US",
+                        "twitter:site": "@variety",
+                        "twitter:text:title": "Film Review: ‘Star Wars: The Last Jedi’",
+                        "twitter:image:src": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=640",
+                        "twitter:card": "summary_large_image",
+                        "twitter:creator": "@AskDebruge",
+                        "twitter:title": "Film Review: ‘Star Wars: The Last Jedi’",
+                        "twitter:description": "As the fate of the Jedi religion hangs in the balance, one begins to detect a certain unwillingness to stray too far from the official text.",
+                        "twitter:image": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg",
+                        "author": "Peter Debruge",
+                        "content_type": "Article",
+                        "title": "Film Review: 'Star Wars: The Last Jedi'",
+                        "published_at": "2017-12-12 09:00:57",
+                        "image": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=1000",
+                        "comment_count": "322",
+                        "tags": "Carrie Fisher",
+                        "topics": "Reviews",
+                        "appeared_in_print": "No",
+                        "body": "SPOILER ALERT: The following review contains mild spoilers for \"Star Wars: The Last Jedi.\"    Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case of “Star Wars: The Last Jedi,” that seemed like an actual possibility. Written and directed by Rian Johnson, a Sundance alum who established his serious-filmmaker bona fides with his 2005 indie debut, “Brick,” before graduating to young Christopher Nolan territory via the relatively big-budget sci-fi movie “Looper,” Episode VIII seemed to have everything going for it.    To the extent that “The Force Awakens” was essentially a heightened reboot of “A New Hope,” recycling many of the 1977 original’s thrills in fresh form with a mostly new cast, this latest chapter was positioned as the new trilogy’s “The Empire Strikes Back” — which is to say, a darker, more serious chapter (commonly regarded as the series’ best) that deepens the underlying mythology, shapes its emerging hero (originally L",
+                        "fb:pages": "12616252196",
+                        "ia:markup_url_dev": "http://variety.com/2017/film/reviews/star-wars-the-last-jedi-review-rian-johnson-1202635597/?ia_markup=1",
+                        "application-name": "Variety",
+                        "msapplication-window": "width=device-width;height=device-height",
+                        "msapplication-task": "name=Subscribe;action-uri=http://variety.com/feed/;icon-uri=http://0.gravatar.com/blavatar/8181b523e3c891bc770494a0bbbe8244?s=16",
+                        "fragment": "!",
+                        "og:video:width": "300",
+                        "og:video:height": "400"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "datepublished": "2017-12-12T17:00:57+00:00",
+                        "image": "CREDIT: Courtesy of Disney"
+                    }
+                ],
+                "article": [
+                    {
+                        "headline": "Variety’s Reviews of Every ‘Star Wars’ Film"
+                    },
+                    {
+                        "headline": "‘Star Wars: The Last Jedi’ Honors Late Carrie Fisher at Elaborate Premiere"
+                    },
+                    {
+                        "headline": "‘Star Wars: The Last Jedi’ Rockets Toward $425 Million Global Launch Weekend"
+                    },
+                    {
+                        "headline": "Film Review: 'Avengers: Infinity War'"
+                    },
+                    {
+                        "headline": "Clayne Crawford Explains His 'Lethal Weapon' Reprimands, Apologizes to Cast and Crew"
+                    },
+                    {
+                        "headline": "Disney Debuts Live-Action 'Lion King,' 'Dumbo,' 'Aladdin' Footage at CinemaCon"
+                    },
+                    {
+                        "articlesection": "Film",
+                        "headline": "‘Avengers: Infinity War’ First Reactions: ‘Marvel Puts It All on the Table’"
+                    },
+                    {
+                        "articlesection": "Politics",
+                        "headline": "Inside the Intense, Combative World of Covering the Trump White House"
+                    },
+                    {
+                        "articlesection": "Film",
+                        "headline": "‘Miss Bala,’ Animated Spider-Man Show Sony’s Commitment to Diverse Heroes"
+                    },
+                    {
+                        "headline": "'Avengers: Infinity War' Heads to Monster $225+ Million Opening Weekend",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T15:36:53+00:00"
+                    },
+                    {
+                        "headline": "Film News Roundup: Denis O'Hare, John Early Join Mindy Kaling's Comedy 'Late Night'",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T15:34:07+00:00"
+                    },
+                    {
+                        "headline": "Oscars: Academy Makes Key Changes in Documentary, Music and VFX Categories",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T15:25:20+00:00"
+                    },
+                    {
+                        "headline": "Benicio Del Toro Teases 'Sicario' Sequel, Talks 'Avengers: Infinity War'",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T15:23:52+00:00"
+                    },
+                    {
+                        "headline": "Film Review: 'Avengers: Infinity War'",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T15:00:27+00:00"
+                    },
+                    {
+                        "headline": "'Incredibles 2': Samuel L. Jackson's Frozone Saves the Day in CinemaCon Footage",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T13:59:16+00:00"
+                    },
+                    {
+                        "headline": "'Solo: A Star Wars Story' CinemaCon Footage Shows Han Meeting Lando",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T13:16:54+00:00"
+                    },
+                    {
+                        "sourceorganization": "Footwear News",
+                        "headline": "Sarah Jessica Parker Reveals the Shoes She Wore to Her Own Wedding",
+                        "datepublished": "7 hours ago"
+                    },
+                    {
+                        "sourceorganization": "Deadline",
+                        "headline": "AMC Boss Adam Aron On Monthly Ticket Sub Programs, Co-Existing With Netflix & ‘Booming Industry’ – CinemaCon",
+                        "datepublished": "7 hours ago"
+                    },
+                    {
+                        "sourceorganization": "TVLine",
+                        "headline": "Lethal Weapon's Clayne Crawford Reacts to 'Incredibly Distressing' Reports of Bad On-Set Behavior",
+                        "datepublished": "5 hours ago"
+                    },
+                    {
+                        "sourceorganization": "Indiewire",
+                        "headline": "‘Avengers: Infinity War’ Review: A Decade of Marvel Movies Collide in One Epic Showdown After Another",
+                        "datepublished": "7 hours ago"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2015/12/starwars_forceawakens_new.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-7.jpg?w=250&h=140&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/clayne-crawford.jpg?w=250&h=140&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/disney-cinemacon.jpg?w=250&h=140&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-14.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/donald-trump-press-corp-2.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/02/gina-rodriguez1.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-15.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/denis-ohare.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2017/02/oscars-placeholder.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/rexfeatures_9640546a.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-7.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/incredibles-2-frozone.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/solo-a-star-wars-story-20.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "http://pmcfootwearnews.files.wordpress.com/2018/04/sarah-jessica-parker-matthew-broderick-tribeca-film-festival-2018.jpg?resize=230%2C135"
+                    },
+                    {
+                        "contenturl": "http://pmcdeadline2.files.wordpress.com/2018/04/adam-aron.jpg?resize=230%2C135"
+                    },
+                    {
+                        "contenturl": "http://pmctvline2.files.wordpress.com/2018/04/lethal-weapon-fox-clayne-crawford-apology.jpg?w=200&resize=230%2C135"
+                    },
+                    {
+                        "contenturl": "http://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/04/infinity.jpg?resize=230%2C135"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=700&h=393&crop=1"
                     }
                 ]
             }

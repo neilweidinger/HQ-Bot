@@ -7,9 +7,9 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
-                "totalResults": "10100",
-                "searchTerms": "you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
+                "totalResults": "1190",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
-                "totalResults": "10100",
-                "searchTerms": "you would ﬁnd a cloaca in the digestive system of what animals? Caterpillar",
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
+                "totalResults": "1190",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
@@ -36,357 +36,377 @@
         "title": "first"
     },
     "searchInformation": {
-        "searchTime": 0.265632,
-        "formattedSearchTime": "0.27",
-        "totalResults": "10100",
-        "formattedTotalResults": "10,100"
+        "searchTime": 0.29483,
+        "formattedSearchTime": "0.29",
+        "totalResults": "1190",
+        "formattedTotalResults": "1,190"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "Cloaca - Wikipedia",
-            "htmlTitle": "<b>Cloaca</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Cloaca",
+            "title": "Sex (book) - Wikipedia",
+            "htmlTitle": "<b>Sex</b> (book) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Sex_(book)",
             "displayLink": "en.wikipedia.org",
-            "snippet": "In animal anatomy, a cloaca /kloʊˈeɪkə/ kloh-AY-kə (plural cloacae /kloʊˈeɪsi/ \nkloh-AY-see or /kloʊˈeɪki/ kloh-AY-kee) is the posterior orifice that serves as the \nonly opening for the digestive, reproductive, and urinary tracts (if present) of \nmany vertebrate animals, opening at the vent. All amphibians, birds, reptiles, and \na ...",
-            "htmlSnippet": "In <b>animal anatomy</b>, a <b>cloaca</b> /kloʊˈeɪkə/ kloh-AY-kə (plural cloacae /kloʊˈeɪsi/ <br>\nkloh-AY-<b>see</b> or /kloʊˈeɪki/ kloh-AY-kee) is the posterior orifice that serves as the <br>\nonly opening for the digestive, <b>reproductive</b>, <b>and urinary tracts</b> (if present) of <br>\nmany vertebrate <b>animals</b>, opening at the vent. All amphibians, birds, reptiles, and <br>\na&nbsp;...",
-            "cacheId": "Eevz_-jDYO0J",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Cloaca",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cloaca</b>",
+            "snippet": "Due to the scandalous nature of the photographs and the media mayhem \nsurrounding it from the initial preview of the book, Madonna did not have to \npromote Sex, except for a pre-release party and some television specials. Her \npublishers were extremely apprehensive about the release as well as its \ncommercial potential.",
+            "htmlSnippet": "Due to the scandalous nature of the photographs and the media mayhem <br>\nsurrounding it <b>from</b> the initial preview of the book, Madonna did not have to <br>\npromote <b>Sex</b>, except for a pre-release party and some <b>television</b> specials. Her <br>\npublishers were extremely apprehensive about the release as well as its <br>\ncommercial potential.",
+            "cacheId": "pjT1dRFDV50J",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sex_(book)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sex</b>_(book)",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "415",
-                        "height": "121",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnXlXGkyHxXq-NxpfwF_vZgSg_CXpLDmp6ayhHbCOw0TPF72BixkwklPo"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "referrer": "origin"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/A_laboratory_manual_for_comparative_vertebrate_anatomy_%281922%29_%2820754316592%29.jpg/600px-A_laboratory_manual_for_comparative_vertebrate_anatomy_%281922%29_%2820754316592%29.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Body cavities and the digestive system",
-            "htmlTitle": "Body cavities and the <b>digestive system</b>",
-            "link": "http://www.shsu.edu/~bio_mlt/Chap13.html",
-            "displayLink": "www.shsu.edu",
-            "snippet": "the buccal cavity - teeth, tongue, and palate; the pharynx and esophagus; \nstomach, small intestine, large intestine and external opening - cloaca (vent) or \nanal opening ... Acrodont - simplest teeth that have no roots and may break off \neasily from jaw (fish and amphibians); Pleurodont - teeth attached by one side to \nthe inner ...",
-            "htmlSnippet": "the buccal cavity - teeth, tongue, and palate; the pharynx and esophagus; <br>\n<b>stomach</b>, small intestine, large intestine and external opening - <b>cloaca</b> (vent) or <br>\nanal opening ... Acrodont - simplest teeth that have no roots and <b>may</b> break off <br>\neasily from jaw (fish and amphibians); Pleurodont - teeth attached by <b>one</b> side to <br>\nthe inner&nbsp;...",
-            "cacheId": "g1e5f97AnLQJ",
-            "formattedUrl": "www.shsu.edu/~bio_mlt/Chap13.html",
-            "htmlFormattedUrl": "www.shsu.edu/~bio_mlt/Chap13.html"
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Sea cucumber - Wikipedia",
-            "htmlTitle": "Sea cucumber - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Sea_cucumber",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "In most sea cucumbers, this is the only substantial part of the skeleton, and it \nforms the point of attachment for muscles that can retract the tentacles into the \nbody for safety as for the main muscles of the body wall. Many species possess \nan oesophagus and stomach, but in some the pharynx opens directly into the \nintestine.",
-            "htmlSnippet": "In most sea cucumbers, this is the only substantial part of the skeleton, and it <br>\nforms the point of attachment for muscles that <b>can</b> retract the tentacles into the <br>\nbody for safety as for the main muscles of the body wall. Many <b>species</b> possess <br>\nan oesophagus and <b>stomach</b>, but in some the pharynx opens directly into the <br>\nintestine.",
-            "cacheId": "QfngR5H16iQJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Sea_cucumber",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sea_cucumber",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "275",
-                        "height": "183",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwEiOWqg0itfAd9MtDi2ub_NsWUCaxEHju95PZkSz0XYxXNNeoNXGnZm_"
+                        "width": "201",
+                        "height": "251",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkuIhgZdxiJiAVGps3hkV04YGOVZCWleySXoAiP7reIUf65gS51ZTPWYg0"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Actinopyga_echinites1.jpg/1200px-Actinopyga_echinites1.jpg"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Cover_of_Madonna%27s_Sex_Book.jpg"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Madonna",
+                        "nickname": "Madonna"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Actinopyga_echinites1.jpg/1200px-Actinopyga_echinites1.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/en/c/cb/Cover_of_Madonna%27s_Sex_Book.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "THE DIGESTIVE AND UROGENITAL SYSTEMS",
-            "htmlTitle": "THE <b>DIGESTIVE AND</b> UROGENITAL SYSTEMS",
-            "link": "http://www.zoology.ubc.ca/courses/bio204/Bio204_Labs/Lab7__Digestive_Urogenital.html",
-            "displayLink": "www.zoology.ubc.ca",
-            "snippet": "Once you have studied the reproductive structures of your animal, you must trade \nanimals with a group that has an animal of the opposite sex. It is the therefore \nessential that you do not destroy any of the reproductive features. DOGFISH. \nDogfish digestive tract. Dissection: Use scissors to cut through the body wall, from \nthe ...",
-            "htmlSnippet": "Once <b>you</b> have studied the reproductive structures of your <b>animal</b>, <b>you</b> must trade <br>\n<b>animals</b> with a group that has an <b>animal</b> of the opposite sex. It is the therefore <br>\nessential that <b>you do</b> not destroy any of the reproductive features. DOGFISH. <br>\nDogfish <b>digestive tract</b>. Dissection: Use scissors to cut through the body wall, from <br>\nthe&nbsp;...",
-            "cacheId": "1Dfl-d9k35sJ",
-            "formattedUrl": "www.zoology.ubc.ca/courses/.../Lab7__Digestive_Urogenital.html",
-            "htmlFormattedUrl": "www.zoology.ubc.ca/courses/.../Lab7__<b>Digestive</b>_Urogenital.html",
+            "title": "Inside RENT by Scott Miller",
+            "htmlTitle": "Inside RENT by Scott Miller",
+            "link": "http://www.newlinetheatre.com/rentchapter.html",
+            "displayLink": "www.newlinetheatre.com",
+            "snippet": "In December 1995 Larson finished another revision that returned to the earlier \nstructure and he wrote a one-sentence summary of the show: \"Rent is about a \ncommunity celebrating life, in the face of death and AIDS, at the turn of the \ncentury.\" This statement of purpose helped later on. After his death, as previews \nbegan, the ...",
+            "htmlSnippet": "In December 1995 Larson finished another revision that returned to the earlier <br>\nstructure and he wrote a one-sentence summary of the <b>show</b>: &quot;Rent is about a <br>\ncommunity celebrating life, in the <b>face</b> of death and AIDS, at the <b>turn</b> of the <br>\ncentury.&quot; This statement of purpose helped later on. <b>After</b> his death, as previews <br>\nbegan, the&nbsp;...",
+            "cacheId": "49awGBkujNkJ",
+            "formattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "htmlFormattedUrl": "www.newlinetheatre.com/rentchapter.html",
             "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "width": "183",
-                        "height": "275",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSniIyRV5svgzYNr9ZQQh9XZegLDWxNgsN0w6uNavMe4iW6ot9UbWejhWRq"
-                    }
-                ],
                 "metatags": [
                     {
-                        "iweb-build": "local-build-20101214",
-                        "viewport": "width=700"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "http://www.zoology.ubc.ca/courses/bio204/Bio204_Labs/Lab7__Digestive_Urogenital_files/dogfish%20digest.jpg"
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Lepidoptera - Wikipedia",
-            "htmlTitle": "Lepidoptera - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Lepidoptera",
+            "title": "His Dark Materials - Wikipedia",
+            "htmlTitle": "His Dark Materials - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/His_Dark_Materials",
             "displayLink": "en.wikipedia.org",
-            "snippet": "In many species, the female may produce from 200 to 600 eggs, while in others, \nthe number may approach 30,000 eggs in one day. The caterpillars hatching \nfrom these eggs can cause damage to large quantities of crops. Many moth and \nbutterfly species are of economic interest by virtue of their role as pollinators, the \nsilk ...",
-            "htmlSnippet": "In many <b>species</b>, the female <b>may</b> produce from 200 to 600 eggs, while in others, <br>\nthe number <b>may</b> approach 30,000 eggs in <b>one</b> day. The <b>caterpillars</b> hatching <br>\nfrom these eggs <b>can</b> cause damage to large quantities of crops. Many moth <b>and</b> <br>\nbutterfly <b>species</b> are of economic interest by virtue of their role as pollinators, the <br>\nsilk&nbsp;...",
-            "cacheId": "VMzQ81F6qzUJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Lepidoptera",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lepidoptera",
+            "snippet": "The series has attracted controversy for its criticism of religion. The London Royal \nNational Theatre staged a two-part adaptation of the series in 2003–2004. New \nLine Cinema released a film adaptation of Northern Lights, The Golden Compass\n, in 2007. Pullman followed the trilogy with two shorter books set in the same ...",
+            "htmlSnippet": "The <b>series</b> has attracted <b>controversy</b> for its criticism of religion. The London Royal <br>\nNational Theatre staged a two-part adaptation of the <b>series</b> in 2003–2004. New <br>\nLine Cinema released a film adaptation of Northern Lights, The Golden Compass<br>\n, in 2007. Pullman followed the trilogy with two shorter books set in the same&nbsp;...",
+            "cacheId": "zWzmPGZuM1YJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/His_Dark_Materials",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/His_Dark_Materials",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "177",
-                        "height": "284",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVMwSlPtNGiOdbFnegPyevJzM_-FdKLHG6JsKdtgJtI3XdbOk-TmlWBh4"
+                        "width": "125",
+                        "height": "191",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwGCdTTK3fuUg2XchMi5L6eCvXxoZXV_BoKFjmswSYHH13kz29ZpvNpUY"
                     }
                 ],
                 "metatags": [
                     {
                         "referrer": "origin",
-                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Danaus_plexippus_%26_Actias_luna.jpg"
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/a/ac/His_Dark_Materials_%28Scholastic_collected_ed.%29_Front_cover.jpg"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Danaus_plexippus_%26_Actias_luna.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/en/a/ac/His_Dark_Materials_%28Scholastic_collected_ed.%29_Front_cover.jpg"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Dogfish Shark Dissection",
-            "htmlTitle": "Dogfish Shark Dissection",
-            "link": "https://sharkresearch.rsmas.miami.edu/assets/pdfs/learning-tools/high-school/MODULE%202%20Ichthyology%20-%20SECTION%205%20Shark%20Anatomy%20and%20Dogfish%20Dissection.pdf",
-            "displayLink": "sharkresearch.rsmas.miami.edu",
-            "snippet": "The spiny dogfish, spurdog, mud shark, or piked dogfish, Squalus acanthias, is \none of ... Cloaca- the digestive tracts exit and opening for the sex organs ... \ndigestive tract. We will be looking at the variations and similarities in the digestive \ntracts of the dogfish, salamander and mammal in this lab. Dogfish Digestive Tract.",
-            "htmlSnippet": "The spiny dogfish, spurdog, mud shark, or piked dogfish, Squalus acanthias, is <br>\n<b>one</b> of ... <b>Cloaca</b>- the <b>digestive tracts</b> exit and opening for the sex organs ... <br>\n<b>digestive tract</b>. We <b>will</b> be looking at the variations and similarities in the <b>digestive</b> <br>\n<b>tracts</b> of the dogfish, salamander and mammal in this lab. Dogfish <b>Digestive Tract</b>.",
-            "cacheId": "im2_RtaEVAkJ",
-            "mime": "application/pdf",
-            "fileFormat": "PDF/Adobe Acrobat",
-            "formattedUrl": "https://sharkresearch.rsmas.miami.edu/.../ MODULE%202%20Ichthyology%20- ...",
-            "htmlFormattedUrl": "https://sharkresearch.rsmas.miami.edu/.../ MODULE%202%20Ichthyology%20- ...",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "title": "Dogfish Shark Dissection",
-                        "author": "yburgos",
-                        "creator": "Microsoft® Office Word 2007",
-                        "creationdate": "D:20110805105205",
-                        "moddate": "D:20110805105205",
-                        "producer": "Microsoft® Office Word 2007"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Reproductive system - Wikipedia",
-            "htmlTitle": "<b>Reproductive system</b> - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Reproductive_system",
-            "displayLink": "en.wikipedia.org",
-            "snippet": "Vertebrate animals all share key elements of their reproductive systems. They all \nhave gamete-producing organs or gonads. In females, these gonads are then \nconnected by oviducts to an opening to the outside of the body, typically the \ncloaca, but sometimes to a unique pore such as a vagina or intromittent organ.",
-            "htmlSnippet": "Vertebrate <b>animals</b> all share key elements of their <b>reproductive systems</b>. They all <br>\nhave gamete-producing organs or gonads. In females, these gonads are then <br>\nconnected by oviducts to an opening to the outside of the body, typically the <br>\n<b>cloaca</b>, but sometimes to a unique pore such as a vagina or intromittent organ.",
-            "cacheId": "XCQAA2GCZIoJ",
-            "formattedUrl": "https://en.wikipedia.org/wiki/Reproductive_system",
-            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Reproductive</b>_<b>system</b>",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "referrer": "origin"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Cloaca 'Poop Machine' at MONA - YouTube",
-            "htmlTitle": "<b>Cloaca</b> &#39;Poop Machine&#39; at MONA - YouTube",
-            "link": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
-            "displayLink": "www.youtube.com",
-            "snippet": "Oct 4, 2013 ... At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there \nis an installation that is essentially a 'poop machine'. It is vile. I could no... ... It's \nYouTube. Uninterrupted. Loading... Want music and videos with zero ads? Get \nYouTube Red. Working... Not now. Try it free · Find out why. Close ...",
-            "htmlSnippet": "Oct 4, 2013 <b>...</b> At the Museum of Old <b>and</b> New Art (MONA) in Hobart, Tasmania, Australia, there <br>\nis an installation that is essentially a &#39;poop machine&#39;. It is vile. I <b>could</b> no... ... It&#39;s <br>\nYouTube. Uninterrupted. Loading... Want music <b>and</b> videos with zero ads? Get <br>\nYouTube Red. Working... Not now. Try it free &middot; <b>Find</b> out why. Close&nbsp;...",
-            "cacheId": "YokXHAqz1x4J",
-            "formattedUrl": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
-            "htmlFormattedUrl": "https://www.<b>you</b>tube.com/watch?v=rVyhGNMMgvo",
+            "title": "9.2 The Relationship Between Television and Culture ...",
+            "htmlTitle": "9.2 The Relationship Between <b>Television</b> and Culture ...",
+            "link": "http://open.lib.umn.edu/mediaandculture/chapter/9-2-the-relationship-between-television-and-culture/",
+            "displayLink": "open.lib.umn.edu",
+            "snippet": "Since its inception as an integral part of American life in the 1950s, television has \nboth reflected and nurtured cultural mores and values. From the escapist dramas \nof the 1960s, which consciously avoided controversial issues and glossed over \nlife's harsher realities in favor of an idealized portrayal, to the copious reality TV ...",
+            "htmlSnippet": "Since its inception as an integral part of American life in the 1950s, <b>television</b> has <br>\nboth reflected and nurtured cultural mores and values. <b>From</b> the escapist dramas <br>\nof the 1960s, which consciously avoided <b>controversial</b> issues and glossed over <br>\nlife&#39;s harsher realities in favor of an idealized portrayal, to the copious reality <b>TV</b>&nbsp;...",
+            "cacheId": "JBjZtmmJErMJ",
+            "formattedUrl": "open.lib.umn.edu/.../9-2-the-relationship-between-television-and-culture/",
+            "htmlFormattedUrl": "open.lib.umn.edu/.../9-2-the-relationship-between-<b>television</b>-and-culture/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "259",
-                        "height": "194",
-                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThFr87T-0b2GtNLWFyMW9qTQUFcEpzKOrppD9LM6ue6PlWD_-IyHgl0ARg"
+                        "width": "199",
+                        "height": "254",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrZABkWlxcNL56OQCyj_GBEfQjTeMP-ig4r6vsFfgwQPnDPfUwoJ36zO0"
                     }
                 ],
                 "metatags": [
                     {
-                        "title": "Cloaca 'Poop Machine' at MONA",
-                        "theme-color": "#ff0000",
-                        "og:site_name": "YouTube",
-                        "og:url": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
-                        "og:title": "Cloaca 'Poop Machine' at MONA",
-                        "og:image": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
-                        "og:description": "At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there is an installation that is essentially a 'poop machine'. It is vile. I could no...",
-                        "al:ios:app_store_id": "544007664",
-                        "al:ios:app_name": "YouTube",
-                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
-                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
-                        "al:android:app_name": "YouTube",
-                        "al:android:package": "com.google.android.youtube",
-                        "al:web:url": "https://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
-                        "og:type": "video.other",
-                        "og:video:url": "https://www.youtube.com/embed/rVyhGNMMgvo",
-                        "og:video:secure_url": "https://www.youtube.com/embed/rVyhGNMMgvo",
-                        "og:video:type": "text/html",
-                        "og:video:width": "480",
-                        "og:video:height": "360",
-                        "og:video:tag": "Australia",
-                        "fb:app_id": "87741124305",
-                        "twitter:card": "player",
-                        "twitter:site": "@youtube",
-                        "twitter:url": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
-                        "twitter:title": "Cloaca 'Poop Machine' at MONA",
-                        "twitter:description": "At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there is an installation that is essentially a 'poop machine'. It is vile. I could no...",
-                        "twitter:image": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
-                        "twitter:app:name:iphone": "YouTube",
-                        "twitter:app:id:iphone": "544007664",
-                        "twitter:app:name:ipad": "YouTube",
-                        "twitter:app:id:ipad": "544007664",
-                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks",
-                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=rVyhGNMMgvo&feature=applinks"
+                        "viewport": "width=device-width, initial-scale=1.0"
                     }
                 ],
-                "videoobject": [
+                "webpage": [
                     {
-                        "url": "https://www.youtube.com/watch?v=rVyhGNMMgvo",
-                        "name": "Cloaca 'Poop Machine' at MONA",
-                        "description": "At the Museum of Old and New Art (MONA) in Hobart, Tasmania, Australia, there is an installation that is essentially a 'poop machine'. It is vile. I could no...",
-                        "paid": "False",
-                        "channelid": "UCdY5-POSszV0dgCaWJr9l2w",
-                        "videoid": "rVyhGNMMgvo",
-                        "duration": "PT1M41S",
-                        "unlisted": "False",
-                        "thumbnailurl": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
-                        "embedurl": "https://www.youtube.com/embed/rVyhGNMMgvo",
-                        "playertype": "HTML5 Flash",
-                        "width": "480",
-                        "height": "360",
-                        "isfamilyfriendly": "True",
-                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
-                        "interactioncount": "63344",
-                        "datepublished": "2013-10-04",
-                        "genre": "Travel & Events"
+                        "about": "Business, Management & Marketing",
+                        "copyrightholder": "University of Minnesota",
+                        "copyrightyear": "2016",
+                        "inlanguage": "en",
+                        "publisher": "University of Minnesota Libraries Publishing edition, 2016. This edition adapted from a work originally produced in 2010 by a publisher who has requested that it not receive attribution."
                     }
                 ],
-                "imageobject": [
+                "cse_image": [
                     {
-                        "url": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg",
-                        "width": "480",
-                        "height": "360"
+                        "src": "http://open.lib.umn.edu/mediaandculture/wp-content/uploads/sites/9/2015/11/9.2.0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Rob Zombie - Wikipedia",
+            "htmlTitle": "Rob Zombie - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "He released a remix album the following year that contained songs from Hellbilly \nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though \nthe controversial project failed to see a release until 2003. His second studio \nalbum, The Sinister Urge (2001), became his second platinum album in the \nUnited ...",
+            "htmlSnippet": "He released a remix album the <b>following</b> year that contained songs <b>from</b> Hellbilly <br>\nDeluxe. Zombie directed the horror film House of 1000 Corpses in 2000, though <br>\nthe <b>controversial</b> project failed to see a release until 2003. His second studio <br>\nalbum, The Sinister Urge (2001), became his second platinum album in the <br>\nUnited&nbsp;...",
+            "cacheId": "A4fvPsgNVgkJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rob_Zombie",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220",
+                        "height": "229",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oGJbchl5aEl0gdq-CKtKOkN3ROCWz3t0XI4uRs9rGUpWH6klPKCK3Q"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Rob Zombie",
+                        "nickname": "Robert Bartleh Cummings",
+                        "url": "robzombie.com",
+                        "url_text": "robzombie.com",
+                        "bday": "1965-01-12",
+                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor",
+                        "note": "Vocals"
+                    },
+                    {
+                        "fn": "Rob Zombie"
+                    },
+                    {
+                        "fn": "White Zombie"
                     }
                 ],
                 "person": [
                     {
-                        "url": "http://www.youtube.com/user/CricketsAunty"
-                    },
-                    {
-                        "url": "https://plus.google.com/114842861206314542212"
+                        "role": "Musician singer-songwriter screenwriter film director film producer programmer record producer composer actor"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://i.ytimg.com/vi/rVyhGNMMgvo/hqdefault.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Rob_Zombie_in_2009.png"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Cloaca (embryology) - an overview | ScienceDirect Topics",
-            "htmlTitle": "<b>Cloaca</b> (embryology) - an overview | ScienceDirect Topics",
-            "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cloaca-embryology",
-            "displayLink": "www.sciencedirect.com",
-            "snippet": "The cloaca consists of three compartments and collects the excretion of the \ndigestive tract, the urinary tract, and the genital tract. The proximal coprodeum is \n... Along with neoplasia in many species, large psittacines also commonly \npresent with cloacal papillomas with a cauliflower-like appearance (see Fig. 13-\n52). For more ...",
-            "htmlSnippet": "The <b>cloaca</b> consists of three compartments and collects the excretion of the <br>\n<b>digestive tract</b>, the <b>urinary tract</b>, and the genital tract. The proximal coprodeum is <br>\n... Along with neoplasia in many <b>species</b>, large psittacines also commonly <br>\npresent with <b>cloacal</b> papillomas with a cauliflower-like appearance (<b>see</b> Fig. 13-<br>\n52). For more&nbsp;...",
-            "formattedUrl": "https://www.sciencedirect.com/topics/agricultural-and.../cloaca-embryology",
-            "htmlFormattedUrl": "https://www.sciencedirect.com/topics/agricultural-<b>and</b>.../<b>cloaca</b>-embryology",
+            "title": "Sex Crimes and the Media - Oxford Research Encyclopedia of ...",
+            "htmlTitle": "<b>Sex</b> Crimes and the Media - Oxford Research Encyclopedia of ...",
+            "link": "http://criminology.oxfordre.com/view/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-118",
+            "displayLink": "criminology.oxfordre.com",
+            "snippet": "Sex crimes have become a highly controversial and contested area, and media \ncoverage reflects this, sometimes supporting progressive social and cultural \nchange and sometimes providing a vehicle for “backlash” sentiments. Social \nmedia has been a driver of changes in the media landscape around sexual \nviolence in ...",
+            "htmlSnippet": "<b>Sex</b> crimes have become a highly <b>controversial</b> and contested area, and media <br>\ncoverage reflects this, sometimes supporting progressive social and cultural <br>\n<b>change</b> and sometimes providing a vehicle for “<b>backlash</b>” sentiments. Social <br>\nmedia has been a driver of <b>changes</b> in the media landscape around sexual <br>\nviolence in&nbsp;...",
+            "formattedUrl": "criminology.oxfordre.com/view/10.../acrefore-9780190264079-e-118",
+            "htmlFormattedUrl": "criminology.oxfordre.com/view/10.../acrefore-9780190264079-e-118",
             "pagemap": {
                 "metatags": [
                     {
-                        "viewport": "width=device-width, initial-scale=1",
-                        "sdtech": "Proudly brought to you by the SD Technology team in London, Dayton, and Amsterdam"
+                        "article:modified_time": "2017-06-08",
+                        "og:type": "article",
+                        "og:title": "Sex Crimes and the Media - Oxford Research Encyclopedia of Criminology",
+                        "og:url": "http://criminology.oxfordre.com/view/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-118",
+                        "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                        "citation_title": "Sex Crimes and the Media",
+                        "citation_inbook_title": "Oxford Research Encyclopedia of Criminology and Criminal Justice",
+                        "citation_author": "Tanya Serisier",
+                        "citation_publication_date": "2017/01/25",
+                        "citation_doi": "10.1093/acrefore/9780190264079.013.118",
+                        "citation_keywords": "rape",
+                        "http://schema.org/about": "Sex Crimes and the Media",
+                        "http://schema.org/author": "Tanya Serisier",
+                        "http://purl.org/dc/terms/description": "In media representations the term sex crimes most frequently refers to rape and child sexual abuse, although it can include a wider range of acts such as exhibitionism and voyeurism. While the majority of these crimes receive little media attention, certain sensational sex crimes are prominent topics in news and entertainment media. Media attention tends to focus on violent crimes committed by “dangerous” strangers, largely defined as poor men of color, and crimes committed against white and middle-class victims. These representations provide a distorted image of the reality of sex crimes, which most frequently occur in private settings, by someone known to the victim. Media coverage has also been criticized for focusing on the actions and responsibility of victims, suggesting that victim behavior, such as drinking, flirting, or being in the “wrong place at the wrong time” precipitates sexual violence. Again, these representations vary significantly according to race and class, with white and middle-c",
+                        "http://purl.org/dc/terms/identifier": "10.1093/acrefore/9780190264079.013.118",
+                        "http://purl.org/dc/terms/subject": "Criminology and Criminal Justice",
+                        "http://schema.org/datecreated": "2017-01-25",
+                        "http://schema.org/isbn": "9780190264079",
+                        "http://schema.org/keywords": "rape",
+                        "http://schema.org/publisher": "Oxford University Press",
+                        "http://schema.org/wordcount": "16140"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Cloaca: Bird Term of the Day - Petcha",
-            "htmlTitle": "<b>Cloaca</b>: Bird Term of the Day - Petcha",
-            "link": "https://www.petcha.com/cloaca-bird-term-of-the-day/",
-            "displayLink": "www.petcha.com",
-            "snippet": "Whereas mammals have separate openings for each of these systems, birds, \nreptiles and amphibians only have one: the cloaca. ... In addition, pet birds can \nexperience a cloacal prolapse, which means that the muscles in the bird's \ndigestive, reproductive or urinary tract loose strength to the point where internal \norgans are ...",
-            "htmlSnippet": "Whereas mammals have separate openings for each of these systems, birds, <br>\nreptiles and amphibians only have <b>one</b>: the <b>cloaca</b>. ... In addition, pet birds <b>can</b> <br>\nexperience a <b>cloacal</b> prolapse, which means that the muscles in the bird&#39;s <br>\ndigestive, reproductive or <b>urinary tract</b> loose strength to the point where internal <br>\norgans are&nbsp;...",
-            "cacheId": "Zfxd-0AFtXQJ",
-            "formattedUrl": "https://www.petcha.com/cloaca-bird-term-of-the-day/",
-            "htmlFormattedUrl": "https://www.petcha.com/<b>cloaca</b>-bird-term-of-the-day/",
+            "title": "Female bodybuilding - Wikipedia",
+            "htmlTitle": "Female bodybuilding - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Female_bodybuilding",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Female bodybuilding originally developed as an outgrowth of not only the late \nnineteenth-century European vaudeville and circus strongwomen acts, Bernarr \nMacfadden's turn of the century women's physique competitions, and the \nweightlifting of Abbye \"Pudgy\" Stockton, but also as an outgrowth of the men's \nbodybuilding.",
+            "htmlSnippet": "Female bodybuilding originally developed as an outgrowth of not only the late <br>\nnineteenth-century European vaudeville and circus strongwomen acts, Bernarr <br>\nMacfadden&#39;s <b>turn</b> of the century women&#39;s physique competitions, and the <br>\nweightlifting of Abbye &quot;Pudgy&quot; Stockton, but also as an outgrowth of the men&#39;s <br>\nbodybuilding.",
+            "cacheId": "EjbYY9-GtdoJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Female_bodybuilding",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Female_bodybuilding",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "width": "256",
-                        "height": "197",
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeitCfKVpa7DfC_nmi1UTVAOF_rvW50qK67xp895HG7AKQ8rJZnh6oTa3"
+                        "width": "199",
+                        "height": "253",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnvKJBRs9my4aIAx7QXilB1dd4NRq29mbcpl8PsG0MhPfHQoPRoXZLuTQ"
                     }
                 ],
                 "metatags": [
                     {
-                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui",
-                        "og:locale": "en_US",
-                        "og:type": "article",
-                        "og:title": "Cloaca: Bird Term of the Day - Petcha",
-                        "og:description": "Definitions of words used by pet bird enthusiasts with the pet bird slant.",
-                        "og:url": "https://www.petcha.com/cloaca-bird-term-of-the-day/",
-                        "og:site_name": "Petcha",
-                        "article:tag": "bird channel",
-                        "article:section": "Birds",
-                        "article:published_time": "2013-02-06T00:00:00-07:00",
-                        "article:modified_time": "2016-10-05T11:30:49-07:00",
-                        "og:updated_time": "2016-10-05T11:30:49-07:00",
-                        "twitter:card": "summary",
-                        "twitter:description": "Definitions of words used by pet bird enthusiasts with the pet bird slant.",
-                        "twitter:title": "Cloaca: Bird Term of the Day - Petcha"
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nikki_Fuller.jpg"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://www.petcha.com/wp-content/themes/frog-wp-child/images/stock/birds-bird-lifestyle-1.jpg"
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Nikki_Fuller.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "11 actually pretty shocking things Friends couldn't get away with today",
+            "htmlTitle": "11 actually pretty shocking things Friends couldn&#39;t get away with today",
+            "link": "https://www.cosmopolitan.com/uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+            "displayLink": "www.cosmopolitan.com",
+            "snippet": "Jan 11, 2017 ... Come the end of the programme, four of the six main characters were \"coupled-\nwith-children\", the fifth was \"coupled up\" and the sixth character ... In college, \nMonica is only known as \"fat Monica\" - but after overhearing Chandler make fun \nof her size, she loses weight and is suddenly described with a whole ...",
+            "htmlSnippet": "Jan 11, 2017 <b>...</b> Come the end of the <b>programme</b>, four of the six main characters were &quot;coupled-<br>\nwith-children&quot;, the fifth was &quot;coupled up&quot; and the sixth character ... In college, <br>\nMonica is only known as &quot;fat Monica&quot; - but <b>after</b> overhearing Chandler make fun <br>\nof her size, she loses weight and is suddenly described with a whole&nbsp;...",
+            "cacheId": "OySJ2cr71moJ",
+            "formattedUrl": "https://www.cosmopolitan.com/.../11-times-friends-sexist-homophobic/",
+            "htmlFormattedUrl": "https://www.cosmopolitan.com/.../11-times-friends-<b>sex</b>ist-homophobic/",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*"
+                    }
+                ],
+                "speakablespecification": [
+                    {
+                        "cssselector": ".content-hed"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "x-ua-compatible": "IE=edge,chrome=1",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                        "msapplication-tap-highlight": "no",
+                        "theme-color": "#EC008C",
+                        "og:type": "article",
+                        "fb:app_id": "211620818858710",
+                        "article:publisher": "https://facebook.com/cosmopolitanuk",
+                        "twitter:site": "@CosmopolitanUK",
+                        "og:site_name": "Cosmopolitan",
+                        "title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:description": "Sexism, homophobia and fat-shaming, anyone?",
+                        "news_keywords": "friends, sitcom, sexism, misogyny, programme, watch, racist, sitcom, diversity, stereotypical",
+                        "article:modified_time": "2018-01-11 11:04:00",
+                        "auto-publish": "evergreen",
+                        "twitter:card": "summary_large_image",
+                        "og:url": "http://www.cosmopolitan.co.uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+                        "og:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=1200:*",
+                        "og:image:width": "1200",
+                        "og:image:height": "600",
+                        "twitter:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=640:*",
+                        "thumbnail": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*",
+                        "article:published_time": "2017-01-11 11:02:00",
+                        "article:section": "Entertainment",
+                        "sailthru.contenttype": "standard-article",
+                        "sailthru.tags": "Entertainment",
+                        "sailthru.date": "2017-01-11T11:02:00Z",
+                        "sailthru.image.full": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg",
+                        "sailthru.image.thumb": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg",
+                        "sailthru.socialtitle": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "sailthru.excerpt": "Love it or hate it, there's no denying that EVERYBODY of a certain generation has probably seen an episode of Friends in their time - which makes the obvious sexism, homophobia and all round lack of diversity all the more interesting more than 20 years later. 1. Chandler's transgender father...",
+                        "m1": ".content-hed",
+                        "m2": ".content-dek p"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "https://www.cosmopolitan.com/uk/author/2482/dusty-baxter-wright/"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Dusty Baxter-Wright"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meghan-markle-1524493798.jpg?crop=1xw:1xh;center,top&resize=320:*",
+                        "type": "1",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Wikipedia Terms",
+            "htmlTitle": "Wikipedia Terms",
+            "link": "https://www.princeton.edu/~achaney/tmve/wiki100k/browse/term-graph.html",
+            "displayLink": "www.princeton.edu",
+            "snippet": "city ... show · begin · end · township · living · spread · school · couple · housing · \ncountry · reside · husband · term · poverty · member · racial · village · married · \ngood · base · capita · versus · makeup · day · result · non-family · males · \nhouseholder · set · game · world · home · language · math · change ...",
+            "htmlSnippet": "<b>city</b> ... <b>show</b> &middot; begin &middot; end &middot; township &middot; living &middot; spread &middot; school &middot; couple &middot; housing &middot; <br>\ncountry &middot; reside &middot; husband &middot; term &middot; poverty &middot; member &middot; racial &middot; village &middot; married &middot; <br>\ngood &middot; base &middot; capita &middot; versus &middot; makeup &middot; day &middot; result &middot; non-family &middot; males &middot; <br>\nhouseholder &middot; set &middot; game &middot; world &middot; home &middot; language &middot; math &middot; <b>change</b>&nbsp;...",
+            "formattedUrl": "https://www.princeton.edu/~achaney/tmve/wiki100k/.../term-graph.html",
+            "htmlFormattedUrl": "https://www.princeton.edu/~achaney/tmve/wiki100k/.../term-graph.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "April 4, 2018 | New York Post",
+            "htmlTitle": "April 4, 2018 | New York Post",
+            "link": "https://nypost.com/2018/04/04/",
+            "displayLink": "nypost.com",
+            "snippet": "Apr 4, 2018 ... A 29-year-old man in Illinois faces several charges, including driving under the \ninfluence, after he allegedly crashed a vehicle early Monday morning and \nabandoned the ... New YouTube video shows Alexa, the popular voice of the \nworld's personal assistant, coming from the mouth of the ol' fish on the wall,.",
+            "htmlSnippet": "Apr 4, 2018 <b>...</b> A 29-year-old man in Illinois <b>faces</b> several charges, including driving under the <br>\ninfluence, <b>after</b> he allegedly crashed a vehicle early Monday morning and <br>\nabandoned the ... New YouTube video <b>shows</b> Alexa, the popular voice of the <br>\nworld&#39;s personal assistant, coming <b>from</b> the mouth of the ol&#39; fish on the wall,.",
+            "cacheId": "qYl5KLJ-NDMJ",
+            "formattedUrl": "https://nypost.com/2018/04/04/",
+            "htmlFormattedUrl": "https://nypost.com/2018/04/04/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "copyright": "Copyright 2018 NYP Holdings. All rights reserved.",
+                        "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+                        "fb:pages": "134486075205",
+                        "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+                        "application-name": "New York Post",
+                        "msapplication-window": "width=device-width;height=device-height",
+                        "msapplication-tooltip": "Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
+                        "msapplication-task": "name=Subscribe;action-uri=https://nypost.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=16"
                     }
                 ]
             }

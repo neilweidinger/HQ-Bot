@@ -3,6 +3,8 @@ import pytesseract
 import pyscreenshot as ImageGrab
 from apiclient.discovery import build
 import json
+import cv2
+import numpy
 
 g_cse_api_key = "***REMOVED***"
 g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
@@ -53,9 +55,17 @@ def read_image():
     Contraster = ImageEnhance.Contrast(image)
     image = Contraster.enhance(3)
 
-    # Increase sharpness
-    Sharpener = ImageEnhance.Sharpness(image)
-    image = Sharpener.enhance(2)
+    # # Increase sharpness
+    # Sharpener = ImageEnhance.Sharpness(image)
+    # image = Sharpener.enhance(2)
+
+
+    cvimage = numpy.array(image)
+    image = cv2.cvtColor(cvimage, cv2.COLOR_BGR2GRAY)
+    image = cv2.threshold(image, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
+
+    cv2.imshow("image", image)
+    cv2.waitKey(0)
 
     return pytesseract.image_to_string(image)
 
