@@ -3,7 +3,6 @@ import pytesseract
 import pyscreenshot as ImageGrab
 from apiclient.discovery import build
 import json
-import pprint
 
 g_cse_api_key = "***REMOVED***"
 g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
@@ -56,7 +55,6 @@ def read_image():
 
 # calculates and prints out final percentages
 def output_answers():
-    print(results)
 
     # find total number of results and total number of occurrences for all answers
     total_num_occurrences = sum(results[key][0] for key in results)
@@ -121,13 +119,6 @@ def attempt_one():
     # build service object to interact with Google api
     service = build("customsearch", "v1", developerKey=g_cse_api_key)
 
-    # Manually override and edit answers and question
-    # global question
-    # question = "What kind of tax does apply in the regular edition of monopoly "
-    # answers[0] = "Ireland"
-    # answers[1] = "Diff'rent Strokes"
-    # answers[2] = "Scotland"
-
     # pull data from Google cse 
     google_data = service.cse().list(q=question, cx=g_cse_id).execute()
 
@@ -136,7 +127,7 @@ def attempt_one():
 
     for i in range(3):
 
-        num_occurrences = search_occurences(google_data, i)
+        num_occurrences = search_occurences(new_data=google_data, ans_num=i)
 
         results[answers[i]] = []
         results[answers[i]].append(num_occurrences)
@@ -147,13 +138,6 @@ def attempt_two_three():
 
     # build service object to interact with Google api
     service = build("customsearch", "v1", developerKey=g_cse_api_key)
-
-    # manually override and edit answers and question
-    # global question
-    # question = "What kind of tax does apply in the regular edition of monopoly "
-    # answers[0] = "Ireland"
-    # answers[1] = "Diff'rent Strokes"
-    # answers[2] = "Scotland"
 
     for i in range(3):
 
@@ -167,7 +151,7 @@ def attempt_two_three():
         # save data to disk in json format
         writefiles(attempt="2_3", num=str(i), data=google_data)
         
-        num_occurrences = search_occurences(google_data, i)
+        num_occurrences = search_occurences(new_data=google_data, ans_num=i)
 
         results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
         results[answers[i]].append(num_occurrences)
@@ -179,6 +163,13 @@ if __name__ == "__main__":
     question, answers = parse_question(read_image())
     print(question)
     print(answers, end="\n\n")
+
+    # manually override and edit answers and question
+    # global question
+    # question = "What kind of tax does apply in the regular edition of monopoly "
+    # answers[0] = "Ireland"
+    # answers[1] = "Diff'rent Strokes"
+    # answers[2] = "Scotland"
 
     # get data from Google
     results = {}
