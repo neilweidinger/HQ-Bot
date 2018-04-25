@@ -80,6 +80,53 @@ def output_answers():
 
     print(results)
 
+# receive data from Google cse and return data in form of dictionary
+def search_up():
+
+    # build service object to interact with Google api
+    service = build("customsearch", "v1", developerKey=g_cse_api_key)
+
+    # store results in this dictionary
+    results = {}
+
+    # manually override and edit answers and question
+    # global question
+    # question = "What kind of tax does apply in the regular edition of monopoly "
+    # answers[0] = "Ireland"
+    # answers[1] = "Diff'rent Strokes"
+    # answers[2] = "Scotland"
+
+    for i in range(3):
+
+        # pull data from Google cse 
+        google_data = service.cse().list(q=question + answers[i], cx=g_cse_id).execute()
+
+        # or alternatively use sample/already saved data (doens't count against api quota)
+        # json_file = open("data/data" + str(i) + ".json", "r", encoding="utf-8")
+        # google_data = json.load(json_file)
+
+        # save data to disk in json format
+        writefiles(str(i), google_data)
+        
+        # find number of occurrences of answer in retrieved data
+        num_occurrences = 0
+
+        # properties that will be searched for number of occurrences
+        property_list = ["link", "title", "snippet", "htmlSnippet", 
+                         "formattedUrl", "htmlFormattedUrl"]
+
+        try:
+            for item in google_data["items"]:
+                # if "wikipedia" not in item["link"]:
+                for property in property_list:
+                    num_occurrences += item[property].lower().count(answers[i].lower())
+        # just in case we try to access a nonexistent "item" above bc search didn't return anything
+        except KeyError:
+            print("search for {} returned no results".format(answers[i]))
+
+        results[answers[i]] = (int(google_data["searchInformation"]["totalResults"]), num_occurrences)
+
+    return results
 
 def attempt_one():
 
