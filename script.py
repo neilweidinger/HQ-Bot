@@ -56,16 +56,17 @@ def read_image():
 
 # calculates and prints out final percentages
 def output_answers():
+    print(results)
 
     # find total number of results and total number of occurrences for all answers
-    total_num_occurrences = sum(f_results[key][0] for key in f_results)
-    total_num_results = sum(f_results[key][1] for key in f_results)
-    total_num_ans_occurrences = sum(f_results[key][2] for key in f_results)
+    total_num_occurrences = sum(results[key][0] for key in results)
+    total_num_results = sum(results[key][1] for key in results)
+    total_num_ans_occurrences = sum(results[key][2] for key in results)
 
     print(question)
 
     # loops through main data dictionary (dict value aka nums is a list)
-    for answer, nums in f_results.items():
+    for answer, nums in results.items():
         occurrences_percentage = 0
         results_percentage = 0
         ans_occurrences_percentage = 0
@@ -83,7 +84,63 @@ def output_answers():
         print(str((ans_occurrences_percentage + results_percentage +
                    occurrences_percentage) / 3 * 100) + "\n")
 
-    print(f_results)
+    print(results)
+
+
+def search_occurences(new_data, ans_num):
+
+        # find number of occurrences of answer in retrieved data
+        num_occurrences = 0
+
+        # properties that will be searched for number of occurrences
+        property_list = ["link", "title", "snippet", "htmlSnippet", 
+                         "formattedUrl", "htmlFormattedUrl"]
+
+        try:
+            for item in new_data["items"]:
+                # if "wikipedia" not in item["link"]:
+                for property in property_list:
+                    num_occurrences += item[property].lower().count(answers[ans_num].lower())
+
+                # search through metatags, try for just in case metatags don't exist
+                try:
+                    for key in item["pagemap"]["metatags"][0].keys():
+                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_sum].lower())
+                except:
+                    continue
+
+        # just in case we try to access a nonexistent "item" above bc search didn't return anything
+        except KeyError:
+            print("search for {} returned no results".format(answers[ans_sum]))
+
+        return num_occurrences
+
+
+def attempt_one():
+
+    # build service object to interact with Google api
+    service = build("customsearch", "v1", developerKey=g_cse_api_key)
+
+    # Manually override and edit answers and question
+    # global question
+    # question = "What kind of tax does apply in the regular edition of monopoly "
+    # answers[0] = "Ireland"
+    # answers[1] = "Diff'rent Strokes"
+    # answers[2] = "Scotland"
+
+    # pull data from Google cse 
+    google_data = service.cse().list(q=question, cx=g_cse_id).execute()
+
+    # save data to disk in json format
+    writefiles(attempt=1, num="_all", data=google_data)
+
+    for i in range(3):
+
+        num_occurrences = search_occurences(google_data, i)
+
+        results[answers[i]] = []
+        results[answers[i]].append(num_occurrences)
+
 
 # receive data from Google cse and return data in form of dictionary
 def attempt_two_three():
@@ -110,85 +167,10 @@ def attempt_two_three():
         # save data to disk in json format
         writefiles(attempt="2_3", num=str(i), data=google_data)
         
-        # find number of occurrences of answer in retrieved data
-        num_occurrences = 0
+        num_occurrences = search_occurences(google_data, i)
 
-        # properties that will be searched for number of occurrences
-        property_list = ["link", "title", "snippet", "htmlSnippet", 
-                         "formattedUrl", "htmlFormattedUrl"]
-
-        try:
-            for item in google_data["items"]:
-                # if "wikipedia" not in item["link"]:
-                for property in property_list:
-                    num_occurrences += item[property].lower().count(answers[i].lower())
-
-                # search through metatags, try for just in case metatags don't exist
-                try:
-                    for key in item["pagemap"]["metatags"][0].keys():
-                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[i].lower())
-                except:
-                    continue
-
-        # just in case we try to access a nonexistent "item" above bc search didn't return anything
-        except KeyError:
-            print("search for {} returned no results".format(answers[i]))
-
-        f_results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
-        f_results[answers[i]].append(num_occurrences)
-
-    return f_results
-
-def attempt_one():
-
-    # build service object to interact with Google api
-    service = build("customsearch", "v1", developerKey=g_cse_api_key)
-
-    # store results in this dictionary
-    results = {}
-
-    # Manually override and edit answers and question
-    # global question
-    # question = "What kind of tax does apply in the regular edition of monopoly "
-    # answers[0] = "Ireland"
-    # answers[1] = "Diff'rent Strokes"
-    # answers[2] = "Scotland"
-
-    # pull data from Google cse 
-    google_data = service.cse().list(q=question, cx=g_cse_id).execute()
-
-    # save data to disk in json format
-    writefiles(attempt=1, num="_all", data=google_data)
-
-    for i in range(3):
-
-        # find number of occurrences of answer in retrieved data
-        num_occurrences = 0
-
-        # properties that will be searched for number of occurrences
-        property_list = ["link", "title", "snippet", "htmlSnippet", 
-                         "formattedUrl", "htmlFormattedUrl"]
-
-        try:
-            for item in google_data["items"]:
-                # if "wikipedia" not in item["link"]:
-                for property in property_list:
-                    num_occurrences += item[property].lower().count(answers[i].lower())
-
-                # search through metatags, try for just in case metatags don't exist
-                try:
-                    for key in item["pagemap"]["metatags"][0].keys():
-                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[i].lower())
-                except:
-                    continue
-
-        # just in case we try to access a nonexistent "item" above bc search didn't return anything
-        except KeyError:
-            print("search for {} returned no results".format(answers[i]))
-
-        results[answers[i]] = [num_occurrences]
-
-    return results
+        results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
+        results[answers[i]].append(num_occurrences)
 
 
 if __name__ == "__main__":
@@ -199,7 +181,8 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # get data from Google
-    f_results = attempt_one()
+    results = {}
+    attempt_one()
     attempt_two_three()
 
     # print results
