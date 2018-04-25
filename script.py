@@ -78,16 +78,13 @@ def output_answers():
     #     print(str(results_percentage) + " --- " + str(occurrences_percentage))
     #     print(str((occurrences_percentage + results_percentage) / 2 * 100) + "\n")
 
-    print(results)
+    print(atp_one_results)
 
 # receive data from Google cse and return data in form of dictionary
-def search_up():
+def attempt_two_three():
 
     # build service object to interact with Google api
     service = build("customsearch", "v1", developerKey=g_cse_api_key)
-
-    # store results in this dictionary
-    results = {}
 
     # manually override and edit answers and question
     # global question
@@ -106,7 +103,7 @@ def search_up():
         # google_data = json.load(json_file)
 
         # save data to disk in json format
-        writefiles(str(i), google_data)
+        writefiles(attempt="2_3", num=str(i), data=google_data)
         
         # find number of occurrences of answer in retrieved data
         num_occurrences = 0
@@ -120,13 +117,22 @@ def search_up():
                 # if "wikipedia" not in item["link"]:
                 for property in property_list:
                     num_occurrences += item[property].lower().count(answers[i].lower())
+
+                # search through metatags, try for just in case metatags don't exist
+                try:
+                    for key in item["pagemap"]["metatags"][0].keys():
+                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[i].lower())
+                except:
+                    continue
+
         # just in case we try to access a nonexistent "item" above bc search didn't return anything
         except KeyError:
             print("search for {} returned no results".format(answers[i]))
 
-        results[answers[i]] = (int(google_data["searchInformation"]["totalResults"]), num_occurrences)
+        atp_one_results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
+        atp_one_results[answers[i]].append(num_occurrences)
 
-    return results
+    return atp_one_results
 
 def attempt_one():
 
@@ -188,7 +194,8 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # get data from Google
-    results = attempt_one()
+    atp_one_results = attempt_one()
+    attempt_two_three()
 
     # print results
     output_answers()
