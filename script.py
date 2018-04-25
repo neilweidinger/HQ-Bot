@@ -20,16 +20,15 @@ def parse_question(ocr_text):
     ans = False
     for line in lines:
         if not ans:
-            print(line)
             line = line.lower().replace("which of these", "what")
             line = line.lower().replace(" never ", " ")
             # line = line.lower().replace(" not ", " ")
-            print(line)
             question += line + " "
             if '?' in line:
                 ans = True
         else:
             if len(line) != 0:
+                line = line.lower().replace(" / ", " and ")
                 answers.append(line)
 
     return question, answers
@@ -118,10 +117,13 @@ def attempt_one():
                 for property in property_list:
                     num_occurrences += item[property].lower().count(answers[i].lower())
 
-                # search through metatags
-                for metatags_dict in item["pagemap"]["metatags"]:
-                    for key in metatags_dict.keys():
-                        num_occurrences += metatags_dict[key].lower().count(answers[i].lower())
+                # search through metatags, try for just in case metatags don't exist
+                try:
+                    for key in item["pagemap"]["metatags"][0].keys():
+                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[i].lower())
+                except:
+                    continue
+
         # just in case we try to access a nonexistent "item" above bc search didn't return anything
         except KeyError:
             print("search for {} returned no results".format(answers[i]))
