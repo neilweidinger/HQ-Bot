@@ -22,7 +22,7 @@ def parse_question(ocr_text):
         if not ans:
             line = line.lower().replace("which of these", "what")
             line = line.lower().replace(" never ", " ")
-            # line = line.lower().replace(" not ", " ")
+            line = line.lower().replace(" not ", " ")
             question += line + " "
             if '?' in line:
                 ans = True
@@ -57,28 +57,33 @@ def read_image():
 # calculates and prints out final percentages
 def output_answers():
 
-    # # find total number of results and total number of occurrences for all answers
-    # total_num_results = sum(results[k][0] for k in results)
-    # total_num_occurrences = sum(results[k][1] for k in results)
+    # find total number of results and total number of occurrences for all answers
+    total_num_occurrences = sum(f_results[key][0] for key in f_results)
+    total_num_results = sum(f_results[key][1] for key in f_results)
+    total_num_ans_occurrences = sum(f_results[key][2] for key in f_results)
 
-    # print(question)
+    print(question)
 
-    # # loops through main data dictionary (dict value aka nums is a tuple)
-    # for answer, nums in results.items():
-    #     results_percentage = 0
-    #     occurrences_percentage = 0
+    # loops through main data dictionary (dict value aka nums is a list)
+    for answer, nums in f_results.items():
+        occurrences_percentage = 0
+        results_percentage = 0
+        ans_occurrences_percentage = 0
 
-    #     # if statements to avoid division through 0 error
-    #     if (total_num_results > 0):
-    #         results_percentage = int(nums[0]) / total_num_results
-    #     if (total_num_occurrences > 0):
-    #         occurrences_percentage = nums[1] / total_num_occurrences
+        # if statements to avoid division through 0 error
+        if (total_num_occurrences > 0):
+            occurrences_percentage = nums[0] / total_num_occurrences
+        if (total_num_results > 0):
+            results_percentage = int(nums[1]) / total_num_results
+        if (total_num_ans_occurrences > 0):
+            ans_occurrences_percentage = nums[2] / total_num_ans_occurrences
 
-    #     print(answer + " --- " + str(nums[0]) + " --- " + str(nums[1]))
-    #     print(str(results_percentage) + " --- " + str(occurrences_percentage))
-    #     print(str((occurrences_percentage + results_percentage) / 2 * 100) + "\n")
+        # print(answer + " --- " + str(nums[0]) + " --- " + str(nums[1]))
+        print("{}".format(answer))
+        print(str((ans_occurrences_percentage + results_percentage +
+                   occurrences_percentage) / 3 * 100) + "\n")
 
-    print(atp_one_results)
+    print(f_results)
 
 # receive data from Google cse and return data in form of dictionary
 def attempt_two_three():
@@ -129,10 +134,10 @@ def attempt_two_three():
         except KeyError:
             print("search for {} returned no results".format(answers[i]))
 
-        atp_one_results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
-        atp_one_results[answers[i]].append(num_occurrences)
+        f_results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
+        f_results[answers[i]].append(num_occurrences)
 
-    return atp_one_results
+    return f_results
 
 def attempt_one():
 
@@ -194,7 +199,7 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # get data from Google
-    atp_one_results = attempt_one()
+    f_results = attempt_one()
     attempt_two_three()
 
     # print results
