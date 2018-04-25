@@ -1,0 +1,719 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
+                "totalResults": "19400",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:dhdhqg4tpxi"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
+                "totalResults": "19400",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Fﬁends",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:dhdhqg4tpxi"
+            }
+        ]
+    },
+    "context": {
+        "title": "first"
+    },
+    "searchInformation": {
+        "searchTime": 0.31698,
+        "formattedSearchTime": "0.32",
+        "totalResults": "19400",
+        "formattedTotalResults": "19,400"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "List of Saturday Night Live incidents - Wikipedia",
+            "htmlTitle": "List of Saturday Night Live incidents - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_incidents",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "As a live sketch comedy show, NBC's Saturday Night Live (officially abbreviated \nSNL) has had a number of technical problems, performer mishaps, and \ncontroversial content. Several hosts and musical guests have received negative \npress due to their appearances on the program, including musician Sinéad O'\nConnor, ...",
+            "htmlSnippet": "As a live sketch comedy <b>show</b>, NBC&#39;s Saturday Night Live (officially abbreviated <br>\nSNL) has had a number of technical problems, performer mishaps, and <br>\n<b>controversial</b> content. Several hosts and musical guests have received negative <br>\npress due to their appearances on the <b>program</b>, including musician Sinéad O&#39;<br>\nConnor,&nbsp;...",
+            "cacheId": "RNZq_rJnBPgJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_incidents",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_incidents",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "170",
+                        "height": "245",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Cl-vNxebb08Ryu_H8m7bIfFU9bKWuaEnAGrklpdYSq7lY4WrJXo3JwZw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ashlee_Simpson_2012.jpg/170px-Ashlee_Simpson_2012.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Millennials watching 'Friends' on Netflix shocked by storylines ...",
+            "htmlTitle": "Millennials watching &#39;<b>Friends</b>&#39; on Netflix shocked by storylines ...",
+            "link": "https://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+            "displayLink": "www.independent.co.uk",
+            "snippet": "Jan 11, 2018 ... Millennials watching Friends on Netflix have expressed reservations about the \npopular sitcom's storylines, describing it as transphobic, homophobic and sexist. \nWhile the show ran for more than 10 years until 2004, it arrived on Netflix at the \nend of last year in the UK. The series, starring Jennifer Aniston, ...",
+            "htmlSnippet": "Jan 11, 2018 <b>...</b> Millennials watching <b>Friends</b> on Netflix have expressed reservations about the <br>\npopular sitcom&#39;s storylines, describing it as transphobic, homophobic and sexist. <br>\nWhile the <b>show</b> ran for more than 10 years until 2004, it arrived on Netflix at the <br>\nend of last year in the UK. The <b>series</b>, starring Jennifer Aniston,&nbsp;...",
+            "cacheId": "CAfNKoPu-Q4J",
+            "formattedUrl": "https://www.independent.co.uk/.../tv/friends-netflix-sexist-racist-transphobic- problematic-millenials-watch-a8154626.html",
+            "htmlFormattedUrl": "https://www.independent.co.uk/.../<b>tv</b>/<b>friends</b>-netflix-sexist-racist-transphobic- problematic-millenials-watch-a8154626.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHK7lUQm-PjiFDThyv9p0tzBDgptx45tzxRR2JIhkhVgbdly8HNDPu_5RE"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "article:content_type": "story",
+                        "og:video": "https://f1.media.brightcove.com/4/624246174001/624246174001_5708466565001_5708464593001.mp4?pubId=624246174001&videoId=5708464593001",
+                        "og:video:type": "application/octet-stream",
+                        "article:section": "TV & Radio",
+                        "article:subsection": "Video",
+                        "article:author_name": "Ilana Kaplan",
+                        "article:word_count": "409",
+                        "article:image_count": "1",
+                        "article:video_count": "0",
+                        "article:embed_count": "0",
+                        "article:internal_link_count": "0",
+                        "article:external_link_count": "3",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "apple-itunes-app": "app-id=473985355, affiliate-data=1l3v95Z",
+                        "og:video:duration": "60",
+                        "fb:admins": "729735830",
+                        "fb:app_id": "235586169789578",
+                        "og:site_name": "The Independent",
+                        "og:type": "article",
+                        "og:title": "Millenials watching Friends on Netflix are shocked at how problematic it is",
+                        "og:url": "http://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+                        "og:description": "Millennials watching Friends on Netflix have expressed reservations about the popular sitcom’s storylines, describing it as transphobic, homophobic and sexist. While the show ran for more than 10 years until 2004, it arrived on Netflix at the end of last year in the UK.  The series, starring Jennifer Aniston, Matthew Perry, Courtney Cox, Lisa Kudrow, Matt LeBlanc and David Schwimmer, remains one of the most popular shows in the US. ",
+                        "og:updated_time": "2018-03-20T15:09:29+00:00",
+                        "og:image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/11/20/6a79dd40-9223-0133-6dce-0e87cd6e10c7.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@independent",
+                        "twitter:title": "Millenials watching Friends on Netflix are shocked at how problematic it is",
+                        "twitter:url": "http://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+                        "twitter:description": "Millennials watching Friends on Netflix have expressed reservations about the popular sitcom’s storylines, describing it as transphobic, homophobic and sexist. While the show ran for more than 10 years until 2004, it arrived on Netflix at the end of last year in the UK.  The series, starring Jennifer Aniston, Matthew Perry, Courtney Cox, Lisa Kudrow, Matt LeBlanc and David Schwimmer, remains one of the most popular shows in the US. ",
+                        "og:locale": "en_GB",
+                        "article:tag": "Friends",
+                        "article:published_time": "2018-01-11T21:20:47+00:00",
+                        "article:modified_time": "2018-03-20T15:09:29+00:00",
+                        "msvalidate.01": "58C7FB6B9237322BB527AA3C68656AE3"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "description": "Courtney Cox, Matthew Perry, David Schwimmer and Jennifer Anison on 'Friends'. Credit: Warner Bros."
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "mainentityofpage": "http://www.independent.co.uk/arts-entertainment/tv/friends-netflix-sexist-racist-transphobic-problematic-millenials-watch-a8154626.html",
+                        "headline": "Millennials watching ‘Friends’ on Netflix shocked by storylines ​",
+                        "articlebody": "Millennials watching Friends on Netflix have expressed reservations about the popular sitcom’s storylines, describing it as transphobic, homophobic and sexist. While the show ran for more...",
+                        "datepublished": "2018-01-11T21:31:00+00:00",
+                        "keywords": "Friends"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Ilana Kaplan",
+                        "sameas": "Ilana Kaplan"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The Independent",
+                        "sameas": "http://www.independent.co.uk/",
+                        "logo": "https://static.independent.co.uk/static-assets/brand-logo.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/11/20/6a79dd40-9223-0133-6dce-0e87cd6e10c7.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "South Pacific (musical) - Wikipedia",
+            "htmlTitle": "South Pacific (musical) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The original Broadway production enjoyed immense critical and box-office \nsuccess, became the second-longest running Broadway musical to that point (\nbehind Rodgers and Hammerstein's earlier Oklahoma! (1943)), and has \nremained popular ever since. After they signed Ezio Pinza and Mary Martin as \nthe leads, Rodgers ...",
+            "htmlSnippet": "The original Broadway production enjoyed immense <b>critical</b> and box-office <br>\nsuccess, became the second-longest running Broadway musical to that point (<br>\nbehind Rodgers and Hammerstein&#39;s earlier Oklahoma! (1943)), and has <br>\nremained popular ever since. <b>After</b> they signed Ezio Pinza and Mary Martin as <br>\nthe leads, Rodgers&nbsp;...",
+            "cacheId": "_zile8LX03gJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "178",
+                        "height": "282",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRJac_KGi-kWuzx7N-_q6gFRUz6pQAPzmldZeYYatCfe3rBUaqCZ51Bksw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Free speech is so last century. Today's students want the 'right to be ...",
+            "htmlTitle": "Free speech is so last century. Today&#39;s students want the &#39;right to be ...",
+            "link": "https://www.spectator.co.uk/2014/11/free-speech-is-so-last-century-todays-students-want-the-right-to-be-comfortable/",
+            "displayLink": "www.spectator.co.uk",
+            "snippet": "Nov 22, 2014 ... This isn't the first time I've encountered the Stepford students. Last month, at \nBritain's other famously prestigious university, Cambridge, I was circled by \nStepfords after taking part in a debate on faith schools. It wasn't my defence of \nparents' rights to send their children to religious schools they wanted to ...",
+            "htmlSnippet": "Nov 22, 2014 <b>...</b> This isn&#39;t the first time I&#39;ve <b>encountered</b> the Stepford students. Last month, at <br>\nBritain&#39;s other famously prestigious university, Cambridge, I was circled by <br>\nStepfords <b>after</b> taking part in a debate on faith schools. It wasn&#39;t my defence of <br>\nparents&#39; rights to send their children to religious schools they wanted to&nbsp;...",
+            "cacheId": "j31RSm_KK5cJ",
+            "formattedUrl": "https://www.spectator.co.uk/.../free-speech-is-so-last-century-todays-students- want-the-right-to-be-comfortable/",
+            "htmlFormattedUrl": "https://www.spectator.co.uk/.../free-speech-is-so-last-century-todays-students- want-the-right-to-be-comfortable/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS1XoHCKa5oGKp8urzOaaVdoVLw74B0mE0HshThdfVf1TC0-XUaDwJnEQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "msapplication-tileimage": "https://www.spectator.co.uk/content/themes/spectator-new/assets/favicons/mstile-144x144.png",
+                        "msapplication-tilecolor": "#2b5797",
+                        "theme-color": "#d2091e",
+                        "og:image": "https://spectator.imgix.net/content/uploads/2014/11/ste0.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413",
+                        "og:image:width": "620",
+                        "og:image:height": "413",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Free speech is so last century. Today’s students want the ‘right to be comfortable’ | The Spectator",
+                        "og:description": "Don’t be a Stepford student — subscribe to The Spectator’s print and digital bundle for just £22 for 22 weeks.  Have you met the Stepford students? They’re everywhere. On campuses across the land.",
+                        "og:url": "https://www.spectator.co.uk/2014/11/free-speech-is-so-last-century-todays-students-want-the-right-to-be-comfortable/",
+                        "og:site_name": "The Spectator",
+                        "article:published_time": "2014-11-22",
+                        "article:modified_time": "2015-11-30",
+                        "og:updated_time": "2015-11-30",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Free speech is so last century. Today’s students want the ‘right to be comfortable’ | The Spectator",
+                        "twitter:description": "Don’t be a Stepford student — subscribe to The Spectator’s print and digital bundle for just £22 for 22 weeks.  Have you met the Stepford students? They’re everywhere. On campuses across the land.",
+                        "twitter:image": "https://spectator.imgix.net/content/uploads/2014/11/ste0.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413",
+                        "twitter:image:width": "620",
+                        "twitter:image:height": "413"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://spectator.imgix.net/content/uploads/2014/11/ste0.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Britney Spears - Wikipedia",
+            "htmlTitle": "Britney Spears - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, \nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, \nshe performed acting roles in stage productions and television shows as a child \nbefore signing with Jive Records in 1997. Spears's first two studio albums, ...Baby \nOne ...",
+            "htmlSnippet": "Britney Jean Spears (born December 2, 1981) is an American singer, dancer, <br>\nand actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, <br>\nshe performed acting roles in stage productions and <b>television shows</b> as a child <br>\nbefore signing with Jive Records in 1997. Spears&#39;s first two studio albums, ...Baby <br>\nOne&nbsp;...",
+            "cacheId": "iOR-dPynXLgJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Britney_Spears",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "178",
+                        "height": "283",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1ZcgEENf47CtU2nzyh0cy3eRD5m9bmVLVXWa-bsFVt2dDQ62j9oDKdVE"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Britney Spears",
+                        "nickname": "Britney Jean Spears",
+                        "url": "britneyspears.com",
+                        "url_text": "britneyspears.com",
+                        "bday": "1981-12-02",
+                        "role": "Singer dancer actress",
+                        "note": "Vocals"
+                    },
+                    {
+                        "fn": "Britney Spears"
+                    }
+                ],
+                "person": [
+                    {
+                        "role": "Singer dancer actress"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Britney_Spears_2013_%28Straighten_Crop%29.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Inside RENT by Scott Miller",
+            "htmlTitle": "Inside RENT by Scott Miller",
+            "link": "http://www.newlinetheatre.com/rentchapter.html",
+            "displayLink": "www.newlinetheatre.com",
+            "snippet": "In December 1995 Larson finished another revision that returned to the earlier \nstructure and he wrote a one-sentence summary of the show: \"Rent is about a \ncommunity celebrating life, in the face of death and AIDS, at the turn of the \ncentury.\" This statement of purpose helped later on. After his death, as previews \nbegan, the ...",
+            "htmlSnippet": "In December 1995 Larson finished another revision that returned to the earlier <br>\nstructure and he wrote a one-sentence summary of the <b>show</b>: &quot;Rent is about a <br>\ncommunity celebrating life, in the <b>face</b> of death and AIDS, at the <b>turn</b> of the <br>\ncentury.&quot; This statement of purpose helped later on. <b>After</b> his death, as previews <br>\nbegan, the&nbsp;...",
+            "cacheId": "49awGBkujNkJ",
+            "formattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "htmlFormattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "2000s (decade) - Wikipedia",
+            "htmlTitle": "2000s (decade) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "On June 5, 2004, Ronald Reagan, the 40th President of the United States, died \nafter having suffered from Alzheimer's disease for nearly a decade. His seven-\nday state funeral followed, spanning June 5–11. The general public stood in long \nlines waiting for a turn to view the casket. People passed by the casket at a rate of\n ...",
+            "htmlSnippet": "On June 5, 2004, Ronald Reagan, the 40th President of the United States, died <br>\n<b>after</b> having suffered <b>from</b> Alzheimer&#39;s disease for nearly a decade. His seven-<br>\nday state funeral followed, spanning June 5–11. The general public stood in long <br>\nlines waiting for a <b>turn</b> to view the casket. People passed by the casket at a rate of<br>\n&nbsp;...",
+            "formattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "227",
+                        "height": "222",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIujmn2D6znSYFYGbGURp72KxZxFhpK0OxEjXxVyr1y4OqqfbrTwSmH2I"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "11 actually pretty shocking things Friends couldn't get away with today",
+            "htmlTitle": "11 actually pretty shocking things <b>Friends</b> couldn&#39;t get away with today",
+            "link": "https://www.cosmopolitan.com/uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+            "displayLink": "www.cosmopolitan.com",
+            "snippet": "Jan 11, 2017 ... 11 un PC moments in Friends that it wouldn't be able to get away with today. ... In \ncollege, Monica is only known as \"fat Monica\" - but after overhearing Chandler \nmake fun of her size, she loses weight and is suddenly described with a whole \nwealth of other words. Obviously, fat-shaming and size-ism isn't ...",
+            "htmlSnippet": "Jan 11, 2017 <b>...</b> 11 un PC moments in <b>Friends</b> that it wouldn&#39;t be able to get away with today. ... In <br>\ncollege, Monica is only known as &quot;fat Monica&quot; - but <b>after</b> overhearing Chandler <br>\nmake fun of her size, she loses weight and is suddenly described with a whole <br>\nwealth of other words. Obviously, fat-shaming and size-ism isn&#39;t&nbsp;...",
+            "cacheId": "OySJ2cr71moJ",
+            "formattedUrl": "https://www.cosmopolitan.com/.../11-times-friends-sexist-homophobic/",
+            "htmlFormattedUrl": "https://www.cosmopolitan.com/.../11-times-<b>friends</b>-sexist-homophobic/",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*"
+                    }
+                ],
+                "speakablespecification": [
+                    {
+                        "cssselector": ".content-hed"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "x-ua-compatible": "IE=edge,chrome=1",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                        "msapplication-tap-highlight": "no",
+                        "theme-color": "#EC008C",
+                        "og:type": "article",
+                        "fb:app_id": "211620818858710",
+                        "article:publisher": "https://facebook.com/cosmopolitanuk",
+                        "twitter:site": "@CosmopolitanUK",
+                        "og:site_name": "Cosmopolitan",
+                        "title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:description": "Sexism, homophobia and fat-shaming, anyone?",
+                        "news_keywords": "friends, sitcom, sexism, misogyny, programme, watch, racist, sitcom, diversity, stereotypical",
+                        "article:modified_time": "2018-01-11 11:04:00",
+                        "auto-publish": "evergreen",
+                        "twitter:card": "summary_large_image",
+                        "og:url": "http://www.cosmopolitan.co.uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+                        "og:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=1200:*",
+                        "og:image:width": "1200",
+                        "og:image:height": "600",
+                        "twitter:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=640:*",
+                        "thumbnail": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*",
+                        "article:published_time": "2017-01-11 11:02:00",
+                        "article:section": "Entertainment",
+                        "sailthru.contenttype": "standard-article",
+                        "sailthru.tags": "Entertainment",
+                        "sailthru.date": "2017-01-11T11:02:00Z",
+                        "sailthru.image.full": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg",
+                        "sailthru.image.thumb": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg",
+                        "sailthru.socialtitle": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "sailthru.excerpt": "Love it or hate it, there's no denying that EVERYBODY of a certain generation has probably seen an episode of Friends in their time - which makes the obvious sexism, homophobia and all round lack of diversity all the more interesting more than 20 years later. 1. Chandler's transgender father...",
+                        "m1": ".content-hed",
+                        "m2": ".content-dek p"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "https://www.cosmopolitan.com/uk/author/2482/dusty-baxter-wright/"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Dusty Baxter-Wright"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meghan-markle-1524493798.jpg?crop=1xw:1xh;center,top&resize=320:*",
+                        "type": "1",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What's Wrong With Craig Venter? | The New Republic",
+            "htmlTitle": "What&#39;s Wrong With Craig Venter? | The New Republic",
+            "link": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+            "displayLink": "newrepublic.com",
+            "snippet": "Feb 2, 2016 ... At the turn of the millennium, at a ceremony at the White House involving \nPresident Clinton and UK prime minister Tony Blair, Venter had unveiled his first \ndraft of the human genome, a mosaic of DNA from ... 'Maverick' and 'controversial' \nare among the labels that have stuck to Venter from the last century.",
+            "htmlSnippet": "Feb 2, 2016 <b>...</b> At the <b>turn</b> of the <b>millennium</b>, at a ceremony at the White House involving <br>\nPresident Clinton and UK prime minister Tony Blair, Venter had unveiled his first <br>\ndraft of the human genome, a mosaic of DNA <b>from</b> ... &#39;Maverick&#39; and &#39;<b>controversial</b>&#39; <br>\nare among the labels that have stuck to Venter <b>from</b> the last century.",
+            "cacheId": "lQA-9putM8IJ",
+            "formattedUrl": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+            "htmlFormattedUrl": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "311",
+                        "height": "162",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnyhyhH3z3BfsNjlxKsIrTqKaR0Uicxv3vkBoIvlKxpARN9dT4RzvqijcD"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "fb:admins": "4404589",
+                        "fb:app_id": "1675346479369918",
+                        "fb:pages": "161419311535",
+                        "parsely-page": "{\"title\":\"What’s Wrong With Craig Venter?\",\"link\":\"https://newrepublic.com/article/128977/whats-wrong-craig-venter\",\"section\":\"Mosaic\",\"pub_date\":\"2016-02-02T15:10:28.000Z\",\"post_id\":128977,\"authors\":[\"Roger Highfield\"],\"type\":\"post\",\"tags\":[\"Mosaic\",\"Science\",\"Craig Venter\",\"-homepage-bottom1\",\"-type_article\"]}",
+                        "parsely-metadata": "{\"thumb_image\":\"http://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg\"}",
+                        "og:title": "What’s Wrong With Craig Venter?",
+                        "og:description": "Craig Venter, multi-millionaire maverick, says he can help you live a better, longer life.",
+                        "twitter:title": "What’s Wrong With Craig Venter?",
+                        "twitter:description": "Craig Venter, multi-millionaire maverick, says he can help you live a better, longer life.",
+                        "og:type": "article",
+                        "og:url": "https://newrepublic.com/article/128977/whats-wrong-craig-venter",
+                        "twitter:card": "summary_large_image",
+                        "article:publisher": "https://www.facebook.com/newrepublic",
+                        "article:published_time": "2016-02-02",
+                        "twitter:image": "https://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg?w=1024&h=512&crop=faces&fit=crop&fm=jpg",
+                        "og:image": "https://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                        "og:image:height": "577",
+                        "og:image:width": "1109",
+                        "og:image:type": "image/jpeg",
+                        "article:tag": "Mosaic",
+                        "og:site_name": "The New Republic",
+                        "twitter:site": "@newrepublic",
+                        "og:locale": "en_US",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-tileimage": "//assets.newrepublic.com/assets/favicons/mstile-144x144.png",
+                        "msapplication-config": "//assets.newrepublic.com/assets/favicons/browserconfig.xml",
+                        "theme-color": "#ffffff"
+                    }
+                ],
+                "article": [
+                    {
+                        "headline": "What’s Wrong With Craig Venter?",
+                        "author": "Roger Highfield",
+                        "datepublished": "2016-02-02",
+                        "articlebody": "On the eve of his 69th birthday, Craig Venter looks on, amused, as his digital doppelganger shuffles from foot to foot. Venter’s white-bearded avatar is the star of an iPad app being demonstrated...",
+                        "keywords": "Mosaic,Science,Craig Venter,-homepage-bottom1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.newrepublic.com/4bac795f2edd62d7c7c7f38028412ab19f22dfab.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "'Star Wars: The Last Jedi' Review: Rian Johnson Steers the Ship ...",
+            "htmlTitle": "&#39;Star Wars: The Last Jedi&#39; Review: Rian Johnson Steers the Ship ...",
+            "link": "http://variety.com/2017/film/reviews/star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+            "displayLink": "variety.com",
+            "snippet": "Dec 12, 2017 ... As the fate of the Jedi religion hangs in the balance, one begins to detect a \ncertain unwillingness to stray too far from the official text. ... It's as if Johnson's \nassignment was to extend the franchise without changing anything fundamental, \nwhich is closer to the way classic television and vintage James Bond ...",
+            "htmlSnippet": "Dec 12, 2017 <b>...</b> As the fate of the Jedi religion hangs in the balance, one begins to detect a <br>\ncertain unwillingness to stray too far <b>from</b> the official text. ... It&#39;s as if Johnson&#39;s <br>\nassignment was to extend the franchise without <b>changing</b> anything fundamental, <br>\nwhich is closer to the way classic <b>television</b> and vintage James Bond&nbsp;...",
+            "cacheId": "09EXnoPrcCkJ",
+            "formattedUrl": "variety.com/.../star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+            "htmlFormattedUrl": "variety.com/.../star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5HKsw5ye2UC7ooeAUHkyAwxItKrAZhfxKEmdSGhOFUEm9GSu_5Ab35Bk"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "alexaverifyid": "4IBqfMBcohHTnitnTLanYijElhs",
+                        "fb:admins": "697514199",
+                        "news_keywords": "Carrie Fisher, Rian Johnson, Star Wars: The Last Jedi",
+                        "og:type": "article",
+                        "og:title": "Film Review: ‘Star Wars: The Last Jedi’",
+                        "og:url": "http://variety.com/2017/film/reviews/star-wars-the-last-jedi-review-rian-johnson-1202635597/",
+                        "og:description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case …",
+                        "article:published_time": "2017-12-12T17:00:57+00:00",
+                        "article:modified_time": "2017-12-13T01:23:22+00:00",
+                        "og:site_name": "Variety",
+                        "og:image": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=700&h=393&crop=1",
+                        "og:image:width": "1000",
+                        "og:image:height": "563",
+                        "og:locale": "en_US",
+                        "twitter:site": "@variety",
+                        "twitter:text:title": "Film Review: ‘Star Wars: The Last Jedi’",
+                        "twitter:image:src": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=640",
+                        "twitter:card": "summary_large_image",
+                        "twitter:creator": "@AskDebruge",
+                        "twitter:title": "Film Review: ‘Star Wars: The Last Jedi’",
+                        "twitter:description": "As the fate of the Jedi religion hangs in the balance, one begins to detect a certain unwillingness to stray too far from the official text.",
+                        "twitter:image": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg",
+                        "author": "Peter Debruge",
+                        "content_type": "Article",
+                        "title": "Film Review: 'Star Wars: The Last Jedi'",
+                        "published_at": "2017-12-12 09:00:57",
+                        "image": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=1000",
+                        "comment_count": "322",
+                        "tags": "Carrie Fisher",
+                        "topics": "Reviews",
+                        "appeared_in_print": "No",
+                        "body": "SPOILER ALERT: The following review contains mild spoilers for \"Star Wars: The Last Jedi.\"    Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case of “Star Wars: The Last Jedi,” that seemed like an actual possibility. Written and directed by Rian Johnson, a Sundance alum who established his serious-filmmaker bona fides with his 2005 indie debut, “Brick,” before graduating to young Christopher Nolan territory via the relatively big-budget sci-fi movie “Looper,” Episode VIII seemed to have everything going for it.    To the extent that “The Force Awakens” was essentially a heightened reboot of “A New Hope,” recycling many of the 1977 original’s thrills in fresh form with a mostly new cast, this latest chapter was positioned as the new trilogy’s “The Empire Strikes Back” — which is to say, a darker, more serious chapter (commonly regarded as the series’ best) that deepens the underlying mythology, shapes its emerging hero (originally L",
+                        "fb:pages": "12616252196",
+                        "ia:markup_url_dev": "http://variety.com/2017/film/reviews/star-wars-the-last-jedi-review-rian-johnson-1202635597/?ia_markup=1",
+                        "application-name": "Variety",
+                        "msapplication-window": "width=device-width;height=device-height",
+                        "msapplication-task": "name=Subscribe;action-uri=http://variety.com/feed/;icon-uri=http://0.gravatar.com/blavatar/8181b523e3c891bc770494a0bbbe8244?s=16",
+                        "fragment": "!",
+                        "og:video:width": "300",
+                        "og:video:height": "400"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "datepublished": "2017-12-12T17:00:57+00:00",
+                        "image": "CREDIT: Courtesy of Disney"
+                    }
+                ],
+                "article": [
+                    {
+                        "headline": "Variety’s Reviews of Every ‘Star Wars’ Film"
+                    },
+                    {
+                        "headline": "‘Star Wars: The Last Jedi’ Honors Late Carrie Fisher at Elaborate Premiere"
+                    },
+                    {
+                        "headline": "‘Star Wars: The Last Jedi’ Rockets Toward $425 Million Global Launch Weekend"
+                    },
+                    {
+                        "headline": "Film Review: 'Avengers: Infinity War'"
+                    },
+                    {
+                        "headline": "Clayne Crawford Explains His 'Lethal Weapon' Reprimands, Apologizes to Cast and Crew"
+                    },
+                    {
+                        "headline": "Disney Debuts Live-Action 'Lion King,' 'Dumbo,' 'Aladdin' Footage at CinemaCon"
+                    },
+                    {
+                        "articlesection": "Film",
+                        "headline": "‘Avengers: Infinity War’ First Reactions: ‘Marvel Puts It All on the Table’"
+                    },
+                    {
+                        "articlesection": "Politics",
+                        "headline": "Inside the Intense, Combative World of Covering the Trump White House"
+                    },
+                    {
+                        "articlesection": "Film",
+                        "headline": "‘Miss Bala,’ Animated Spider-Man Show Sony’s Commitment to Diverse Heroes"
+                    },
+                    {
+                        "headline": "'A Star Is Born' CinemaCon Trailer Shows Lady Gaga, Bradley Cooper Singing Live",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T18:22:27+00:00"
+                    },
+                    {
+                        "headline": "'Aquaman' Footage Debuts at CinemaCon; 'Wonder Woman 2' Details Revealed",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T17:24:45+00:00"
+                    },
+                    {
+                        "headline": "'Avengers: Infinity War' Is Atom Tickets' Biggest Pre-Seller Ever",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T16:55:54+00:00"
+                    },
+                    {
+                        "headline": "Tribeca Film Review: 'No Greater Law'",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T16:51:18+00:00"
+                    },
+                    {
+                        "headline": "Tribeca Film Review: 'State Like Sleep'",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T16:49:41+00:00"
+                    },
+                    {
+                        "headline": "Marvel's Kevin Feige Teases How 'Captain Marvel' Will Bring Back the '90s",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T16:42:59+00:00"
+                    },
+                    {
+                        "headline": "Variety Names 10 Producers to Watch for 2018",
+                        "description": "SPOILER ALERT: The following review contains mild spoilers for “Star Wars: The Last Jedi.” Surely, all “Star Wars” fans hope each new installment will be the best ever. But in the case...",
+                        "datepublished": "2018-04-24T16:42:34+00:00"
+                    },
+                    {
+                        "sourceorganization": "Footwear News",
+                        "headline": "Melania Trump Sparkles in Silver While France’s First Lady Goes for Gold at State Dinner",
+                        "datepublished": "7 hours ago"
+                    },
+                    {
+                        "sourceorganization": "Deadline",
+                        "headline": "‘Lethal Weapon’: More On The Incidents & On-Set Environment That Led To Fox Series’ Limbo",
+                        "datepublished": "7 hours ago"
+                    },
+                    {
+                        "sourceorganization": "TVLine",
+                        "headline": "Lethal Weapon's Clayne Crawford Reacts to 'Incredibly Distressing' Reports of Bad On-Set Behavior",
+                        "datepublished": "3 hours ago"
+                    },
+                    {
+                        "sourceorganization": "Indiewire",
+                        "headline": "As the Academy Tweaks Oscar Rules, Campaigners Complain",
+                        "datepublished": "5 hours ago"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2015/12/starwars_forceawakens_new.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-7.jpg?w=250&h=140&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/clayne-crawford.jpg?w=250&h=140&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/disney-cinemacon.jpg?w=250&h=140&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-14.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/donald-trump-press-corp-2.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/02/gina-rodriguez1.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2015/12/a-star-is-born.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2017/03/justice-league-teaser-aquaman.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/avengers-infinity-war-12.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/no-greater-law.jpg?w=700&h=393&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/statelikesleep.png?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "https://pmcvariety.files.wordpress.com/2018/04/kevin-feige-avengers.jpg?w=450&h=253&crop=1"
+                    },
+                    {
+                        "contenturl": "http://pmcvariety.files.wordpress.com/2018/04/yomeddine-5-c2a9-desert-highway-pictures-e1524613256670.jpg?crop=0px%2C2215px%2C7200px%2C4050px&resize=450%2C253"
+                    },
+                    {
+                        "contenturl": "http://pmcfootwearnews.files.wordpress.com/2018/04/melania-trump-state-dinner-dress.jpg?resize=230%2C135"
+                    },
+                    {
+                        "contenturl": "http://pmcdeadline2.files.wordpress.com/2018/04/lethal-weapon-clayne-crawford-damon-wayans.jpg?resize=230%2C135"
+                    },
+                    {
+                        "contenturl": "http://pmctvline2.files.wordpress.com/2018/04/lethal-weapon-fox-clayne-crawford-apology.jpg?w=200&resize=230%2C135"
+                    },
+                    {
+                        "contenturl": "http://i1.wp.com/www.indiewire.com/wp-content/uploads/2018/03/148840_gs139951.jpg?resize=230%2C135"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pmcvariety.files.wordpress.com/2017/11/the-last-jedi-11.jpg?w=700&h=393&crop=1"
+                    }
+                ]
+            }
+        }
+    ]
+}

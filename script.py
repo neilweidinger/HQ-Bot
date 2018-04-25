@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image, ImageEnhance
 import pytesseract
 import pyscreenshot as ImageGrab
 from apiclient.discovery import build
@@ -48,9 +48,17 @@ def createfilename(attempt, num):
 
 # take screenshot and extract text
 def read_image():
-    im = ImageGrab.grab(bbox=(31,182,470,620))
-    # im = Image.open("tests/3.jpg")
-    return pytesseract.image_to_string(im)
+
+    # Capture image
+    image = ImageGrab.grab(bbox=(31,184,470,620))
+    # image = Image.open("tests/3.jpg")
+
+    # Increase contrast
+    Contraster = ImageEnhance.Contrast(image)
+    image = Contraster.enhance(3)
+
+    # tesseract recognizes text and outputs it as a string
+    return pytesseract.image_to_string(image)
 
 
 # calculates and prints out final percentages

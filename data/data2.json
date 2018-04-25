@@ -1,0 +1,495 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Felicity",
+                "totalResults": "54",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Felicity",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:dhdhqg4tpxi"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Felicity",
+                "totalResults": "54",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Felicity",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:dhdhqg4tpxi"
+            }
+        ]
+    },
+    "context": {
+        "title": "first"
+    },
+    "searchInformation": {
+        "searchTime": 0.271398,
+        "formattedSearchTime": "0.27",
+        "totalResults": "54",
+        "formattedTotalResults": "54"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Entertainment – Los Angeles Times",
+            "htmlTitle": "Entertainment – Los Angeles Times",
+            "link": "http://www.latimes.com/entertainment/",
+            "displayLink": "www.latimes.com",
+            "snippet": "After spending the bulk of her career chasing pop perfection, Beyoncé continues \nto push back on pop tradition by taking risks for her artistic statement. At \nCoachella, she staged an unapologetic celebration of blackness rife with \npowerful references. Gerrick D. Kennedy. By Gerrick D. Kennedy. 3:00 AM ...",
+            "htmlSnippet": "<b>After</b> spending the bulk of her career chasing pop perfection, Beyoncé continues <br>\nto push back on pop tradition by taking risks for her artistic statement. At <br>\nCoachella, she staged an unapologetic celebration of blackness rife with <br>\npowerful references. Gerrick D. Kennedy. By Gerrick D. Kennedy. 3:00 AM&nbsp;...",
+            "cacheId": "LFRpAVRu2rMJ",
+            "formattedUrl": "www.latimes.com/entertainment/",
+            "htmlFormattedUrl": "www.latimes.com/entertainment/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5hTX1471wcewKHIRenLLrfoXnYbaho74fKOBlSzs3YKaxkoB2C89NKCY"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, minimum-scale=1, initial-scale=1",
+                        "copyright": "Copyright (c) 2018 Los Angeles Times",
+                        "y_key": "cee2fe4077f8d050",
+                        "msvalidate.01": "AAC9C18F70AC386BC4DCF4DDF9BF1786",
+                        "distribution": "global",
+                        "rating": "general",
+                        "language": "English (United States), en-US",
+                        "googlebot-news": "index",
+                        "twitter:title": "Entertainment – Los Angeles Times",
+                        "twitter:image": "/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                        "twitter:card": "summary",
+                        "twitter:site": "latimes",
+                        "twitter:creator": "latimes",
+                        "fb_title": "Entertainment – Los Angeles Times",
+                        "og:title": "Entertainment – Los Angeles Times",
+                        "og:image": "/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                        "og:locale": "en_US",
+                        "og:site_name": "latimes.com",
+                        "og:type": "WebPage",
+                        "fb:app_id": "119932621434123",
+                        "fb:page_id": "5863113009",
+                        "apple-itunes-app": "app-id=373238146, app-argument=http://www.latimes.com/deeplinkid/la-times/entertainment",
+                        "ptype": "sf"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.latimes.com/resizer/ApQjWYfH90uw3XGbjFOzrFNyVR8=/1200x675/www.trbimg.com/img-5adf4b52/turbine/la-lb-media-princelawsuit-20180424-082047/900"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "HQ Trivia Scribe (@HQTriviaScribe) | Twitter",
+            "htmlTitle": "HQ Trivia Scribe (@HQTriviaScribe) | Twitter",
+            "link": "https://twitter.com/hqtriviascribe?lang=en",
+            "displayLink": "twitter.com",
+            "snippet": "The latest Tweets from HQ Trivia Scribe (@HQTriviaScribe): \"Paul Newman is \nmentioned in the first line of what novel? 1) The Hustler 2) The Outsiders ✓ 3) Get \nShorty\" ... Which TV show faced critical backlash after a controversial turn-of-the-\nmillennium hairstyle change? 1) Sex and the City 2) Friends 3) Felicity ✓. 0 \nreplies ...",
+            "htmlSnippet": "The latest Tweets <b>from</b> HQ Trivia Scribe (@HQTriviaScribe): &quot;Paul Newman is <br>\nmentioned in the first line of what novel? 1) The Hustler 2) The Outsiders ✓ 3) Get <br>\nShorty&quot; ... Which <b>TV show faced critical backlash after</b> a <b>controversial turn</b>-of-the-<br>\n<b>millennium hairstyle change</b>? 1) Sex and the City 2) Friends 3) <b>Felicity</b> ✓. 0 <br>\nreplies&nbsp;...",
+            "cacheId": "mPNEfMNRXsEJ",
+            "formattedUrl": "https://twitter.com/hqtriviascribe?lang=en",
+            "htmlFormattedUrl": "https://twitter.com/hqtriviascribe?lang=en",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKSiMjZgIwNSBtdK49cSKbe-fyf8fxnyExjNj9_y-AnwEYLuwhLebB0LfX"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+                        "msapplication-tilecolor": "#00aced",
+                        "swift-page-name": "profile",
+                        "swift-page-section": "profile",
+                        "al:ios:url": "twitter://user?screen_name=HQTriviaScribe",
+                        "al:ios:app_store_id": "333903271",
+                        "al:ios:app_name": "Twitter",
+                        "al:android:url": "twitter://user?screen_name=HQTriviaScribe",
+                        "al:android:package": "com.twitter.android",
+                        "al:android:app_name": "Twitter"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Overshadowed by Controversy - TV Tropes",
+            "htmlTitle": "Overshadowed by <b>Controversy</b> - <b>TV</b> Tropes",
+            "link": "http://tvtropes.org/pmwiki/pmwiki.php/Main/OvershadowedByControversy",
+            "displayLink": "tvtropes.org",
+            "snippet": "There are some well-known works that gathered controversy throughout the \nyears, and there are also famously controversial works in which the controversy, \n... Which isn't to say that works in the latter category have no other redeeming \nfactor, just that most people would know little else aside from the controversial \naspects.",
+            "htmlSnippet": "There are some well-known works that gathered <b>controversy</b> throughout the <br>\nyears, and there are also famously <b>controversial</b> works in which the <b>controversy</b>, <br>\n... Which isn&#39;t to say that works in the latter category have no other redeeming <br>\nfactor, just that most people would know little else aside <b>from</b> the <b>controversial</b> <br>\naspects.",
+            "cacheId": "8USmOO0nWpoJ",
+            "formattedUrl": "tvtropes.org/pmwiki/pmwiki.php/.../OvershadowedByControversy",
+            "htmlFormattedUrl": "tvtropes.org/pmwiki/pmwiki.php/.../OvershadowedBy<b>Controversy</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200",
+                        "height": "67",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSjPXd3nYAjkplMUz3DaXBszWodL7YF6cUi2D_V0s96IwJ1weQggHliw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:card": "The Overshadowed by Controversy trope as used in popular culture. There are some well-known works that gathered controversy throughout the years, and there …",
+                        "twitter:site": "@tvtropes",
+                        "twitter:owner": "@tvtropes",
+                        "twitter:title": "Overshadowed by Controversy - TV Tropes",
+                        "twitter:description": "The Overshadowed by Controversy trope as used in popular culture. There are some well-known works that gathered controversy throughout the years, and there …",
+                        "twitter:image:src": "http://static.tvtropes.org/logo_blue_small.png",
+                        "og:title": "Overshadowed by Controversy - TV Tropes",
+                        "og:description": "The Overshadowed by Controversy trope as used in popular culture. There are some well-known works that gathered controversy throughout the years, and there …",
+                        "og:site_name": "TV Tropes",
+                        "og:image": "http://static.tvtropes.org/logo_blue_small.png",
+                        "og:type": "website",
+                        "og:locale": "en_US",
+                        "article:publisher": "https://www.facebook.com/tvtropes",
+                        "fb:pages": "43296822099",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "http://tvtropes.org/pmwiki/pmwiki.php/Main/OvershadowedByControversy"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "headline": "Overshadowed by Controversy",
+                        "articlebody": "\"Hounddog: Don't remember it by title? Don't worry, neither did we, and now the Cracked IT guys are asking why we have \"Dakota Fanning rape\" in our Google cache.\" — Cracked.com, 5 Ways Hollywood..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static.tvtropes.org/logo_blue_small.png"
+                    }
+                ],
+                "breadcrumblist": [
+                    {
+                        "position": "1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TV Series Finale: Canceled TV shows HQ",
+            "htmlTitle": "<b>TV Series</b> Finale: Canceled <b>TV shows</b> HQ",
+            "link": "https://tvseriesfinale.com/",
+            "displayLink": "tvseriesfinale.com",
+            "snippet": "Lead source for cancelled and renewed TV show news + ratings since 2006. \nReferenced by NY Times, LA Times, USA Today, ABC, CBS, FOX, NBC, BBC, \nPBS, TV Guide, EW, and many other respected outlets.",
+            "htmlSnippet": "Lead source for cancelled and renewed <b>TV show</b> news + ratings since 2006. <br>\nReferenced by NY Times, LA Times, USA Today, ABC, CBS, FOX, NBC, BBC, <br>\nPBS, TV Guide, EW, and many other respected outlets.",
+            "cacheId": "fF8yTrpPpFUJ",
+            "formattedUrl": "https://tvseriesfinale.com/",
+            "htmlFormattedUrl": "https://<b>tvseries</b>finale.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318",
+                        "height": "158",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwu18nw8Sb4Znx6pIkDKQ7-pjyFYe0cjxNbwEGa74I5esmCxX6x2EmeHB0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "news_keywords": "tv show, tv series, canceled, cancelled, renewed, television",
+                        "original-source": "https://tvseriesfinale.com/",
+                        "og:locale": "en_US",
+                        "og:type": "website",
+                        "og:title": "Canceled TV shows HQ - TV Series Finale",
+                        "og:description": "Lead source for cancelled and renewed TV show news + ratings since 2006. Referenced by NY Times, LA Times, USA Today, ABC, CBS, FOX, NBC, BBC, PBS, TV Guide, EW, and many other respected outlets.",
+                        "og:url": "https://tvseriesfinale.com/",
+                        "og:site_name": "canceled TV shows - TV Series Finale",
+                        "fb:admins": "trevor1",
+                        "twitter:card": "summary_large_image",
+                        "twitter:description": "Lead source for cancelled and renewed TV show news + ratings since 2006. Referenced by NY Times, LA Times, USA Today, ABC, CBS, FOX, NBC, BBC, PBS, TV Guide, EW, and many other respected outlets.",
+                        "twitter:title": "Canceled TV shows HQ - TV Series Finale",
+                        "twitter:site": "@tvseriesfinale",
+                        "twitter:creator": "@tvseriesfinale",
+                        "yandex-verification": "6ceb0882133f0b13",
+                        "msvalidate.01": "E118E1580D1E10D49CA9324B8C7D98B2",
+                        "msapplication-tileimage": "https://tvseriesfinale.com/wp-content/uploads/2013/09/cropped-TVSF-1400x1400-270x270.png"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "text": "TV Show News Motherland: Sundance Now Acquires Scripted Comedy Series April 24, 2018 Raven's Home, Tangled, BUNK'D, Big Hero 6 The Series: Disney Reveals Summer Programming April 24, 2018 David..."
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Home",
+                        "name": "Home"
+                    },
+                    {
+                        "url": "YouTube",
+                        "name": "YouTube"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://tvseriesfinale.com/wp-content/uploads/2016/03/2016-17-canceled-ended-tv-shows-733x366_c.jpg"
+                    }
+                ],
+                "searchaction": [
+                    {
+                        "target": "https://tvseriesfinale.com/?s={s}",
+                        "query-input": "name=s"
+                    },
+                    {
+                        "target": "https://tvseriesfinale.com/?s={s}",
+                        "query-input": "name=s"
+                    },
+                    {
+                        "target": "https://tvseriesfinale.com/?s={s}",
+                        "query-input": "name=s"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Optimistic Thought Experiment | Hoover Institution",
+            "htmlTitle": "The Optimistic Thought Experiment | Hoover Institution",
+            "link": "https://www.hoover.org/research/optimistic-thought-experiment",
+            "displayLink": "www.hoover.org",
+            "snippet": "Jan 29, 2008 ... Beginning with the Great War in 1914, and accelerating after 1945, there has re-\nemerged an apocalyptic dimension to the modern world. ... scenarios in which \nfree markets cease to function, such as a series of wars and crises so disruptive \nas to drive the developed world towards fascism, anarchy, or both.",
+            "htmlSnippet": "Jan 29, 2008 <b>...</b> Beginning with the Great War in 1914, and accelerating <b>after</b> 1945, there has re-<br>\nemerged an apocalyptic dimension to the modern world. ... scenarios in which <br>\nfree markets cease to function, such as a <b>series</b> of wars and crises so disruptive <br>\nas to drive the developed world towards fascism, anarchy, or both.",
+            "cacheId": "tYLcgWAe9iMJ",
+            "formattedUrl": "https://www.hoover.org/research/optimistic-thought-experiment",
+            "htmlFormattedUrl": "https://www.hoover.org/research/optimistic-thought-experiment",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:site_name": "Hoover Institution",
+                        "og:type": "article",
+                        "og:url": "https://www.hoover.org/research/optimistic-thought-experiment",
+                        "og:title": "The Optimistic Thought Experiment",
+                        "og:description": "In the long run, there are no good bets against globalization",
+                        "dcterms.title": "The Optimistic Thought Experiment",
+                        "dcterms.type": "Text",
+                        "dcterms.format": "text/html",
+                        "dcterms.identifier": "https://www.hoover.org/research/optimistic-thought-experiment",
+                        "mobileoptimized": "width",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.6",
+                        "msapplication-tilecolor": "#ff0000",
+                        "msapplication-tileimage": "/mstile-144x144.png",
+                        "apple-itunes-app": "app-id=964410905",
+                        "fb:pages": "577214555786847"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Deflowering the voting virgin: Piety, political advertising, and the ...",
+            "htmlTitle": "Deflowering the voting virgin: Piety, political advertising, and the ...",
+            "link": "http://www.tandfonline.com/doi/full/10.1080/00335630.2016.1241891?src=recsys",
+            "displayLink": "www.tandfonline.com",
+            "snippet": "The conversation subsides and the following message flashes on your television \nscreen: “VOTE November 7th. ...... invoke the memory of virgin sex (and all the \nbaggage that may come with it—yeah, that first time) could help change the fact \nthat 20 million single American women didn't show up at the polls in Election \n2004.",
+            "htmlSnippet": "The conversation subsides and the <b>following</b> message flashes on your <b>television</b> <br>\nscreen: “VOTE November 7th. ...... invoke the memory of virgin sex (and all the <br>\nbaggage that may come with it—yeah, that first time) could help <b>change</b> the fact <br>\nthat 20 million single American women didn&#39;t <b>show</b> up at the polls in Election <br>\n2004.",
+            "formattedUrl": "www.tandfonline.com/doi/full/10.1080/00335630.2016.1241891?src...",
+            "htmlFormattedUrl": "www.tandfonline.com/doi/full/10.1080/00335630.2016.1241891?src...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "pbcontext": ";issue:issue:10.1080/rqjs20.v103.i01-02;page:string:Article/Chapter View;journal:journal:rqjs20;article:article:10.1080/00335630.2016.1241891;wgroup:string:Publication Websites;website:website:TFOPB;pageGroup:string:Publication Pages;subPage:string:Full Text",
+                        "dc.title": "Deflowering the voting virgin: Piety, political advertising, and the pleasure prerogative",
+                        "citation_journal_title": "Quarterly Journal of Speech",
+                        "dc.creator": "Karrin Vasby Anderson",
+                        "dc.subject": "Political advertising; perspective by incongruity; feminism; postfeminism; women voters",
+                        "dc.description": "ABSTRACTIn this essay, the author examines political advertisements that employ the tropology of sex and romance in order to promote voter participation. The ads appear initially to be humorous attempts at “perspective by incongruity,” disrupting U.S. political culture by seeking to activate otherwise disengaged young women as a formidable political constituency. Although the ads challenge standards of political propriety, they leave intact the pieties of postfeminism and patriarchy which govern political dialogue on both the left and the right. Furthermore, the ads foster a “pleasure prerogative” which conflates female political agency with romantic engagement, (hetero)sexual consummation, and consumer consciousness. By valorizing the instant gratification of fleeting contact with the ballot box over the subdued satisfaction of a long-term commitment to deliberative democracy, these ads ultimately are corrosive to democratic culture.",
+                        "dc.publisher": "Routledge",
+                        "dc.date": "6 Oct 2016",
+                        "dc.type": "research-article",
+                        "dc.format": "text/HTML",
+                        "dc.identifier": "1241891",
+                        "dc.source": "http://dx.doi.org/10.1080/00335630.2016.1241891",
+                        "dc.language": "en",
+                        "dc.coverage": "world",
+                        "og:title": "Deflowering the voting virgin: Piety, political advertising, and the pleasure prerogative",
+                        "og:type": "article",
+                        "og:url": "https://www.tandfonline.com/doi/abs/10.1080/00335630.2016.1241891",
+                        "og:image": "https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rqjs20/2017/rqjs20.v103.i01-02/rqjs20.v103.i01-02/20170105-01/rqjs20.v103.i01-02.largecover.jpg",
+                        "og:site_name": "Taylor & Francis",
+                        "og:description": "(2017). Deflowering the voting virgin: Piety, political advertising, and the pleasure prerogative. Quarterly Journal of Speech: Vol. 103, The Changing Face of Presidential Campaigns, pp. 160-181.",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@tandfonline",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/rqjs20/2017/rqjs20.v103.i01-02/rqjs20.v103.i01-02/20170105-01/rqjs20.v103.i01-02.largecover.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "28 November 2016",
+            "htmlTitle": "28 November 2016",
+            "link": "http://www.dailymail.co.uk/home/sitemaparchive/day_20161128.html",
+            "displayLink": "www.dailymail.co.uk",
+            "snippet": "Nov 28, 2016 ... Ministers face backlash after publishing watered down crackdown on fat cat \nbosses in wake of BHS pension scandal · Two Swiss bankers plead not guilty ... \nJacenko reveals that she STILL hasn't made up with Celebrity Apprentice co-star \nStephanie Rice THREE years after appearing on the show together ...",
+            "htmlSnippet": "Nov 28, 2016 <b>...</b> Ministers <b>face backlash after</b> publishing watered down crackdown on fat cat <br>\nbosses in wake of BHS pension scandal &middot; Two Swiss bankers plead not guilty ... <br>\nJacenko reveals that she STILL hasn&#39;t made up with Celebrity Apprentice co-star <br>\nStephanie Rice THREE years <b>after</b> appearing on the <b>show</b> together&nbsp;...",
+            "cacheId": "k_9U9Fo8cisJ",
+            "formattedUrl": "www.dailymail.co.uk/home/sitemaparchive/day_20161128.html",
+            "htmlFormattedUrl": "www.dailymail.co.uk/home/sitemaparchive/day_20161128.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "154",
+                        "height": "115",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdhsXF1frKuT2k6tTMKUkwzMjFXSAAue4ohPkTPtkx_up5eKgbjdkO618"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "rating": "General",
+                        "doc-class": "Living Document",
+                        "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+                        "y_key": "1a7e912afbfcab2f",
+                        "twitter:account_id": "15438913",
+                        "application-name": "MailOnline",
+                        "msapplication-tooltip": "MailOnline",
+                        "msapplication-starturl": "/",
+                        "msapplication-task": "name=Register to Comment;action-uri=https://register.dailymail.co.uk/startRegister;icon-uri=http://i.dailymail.co.uk/i/furniture/ie9/jmplstic_register.ico"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://i.dailymail.co.uk/i/newpix/2018/04/23/01/4B72418500000578-0-image-a-44_1524444843043.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sociology | Rowman & Littlefield",
+            "htmlTitle": "Sociology | Rowman &amp; Littlefield",
+            "link": "https://rowman.com/Action/nBISAC/SCP/40",
+            "displayLink": "rowman.com",
+            "snippet": "Books in Spanish for Children and Young Adults, Series IV Libros Infantiles y Ju: \nAn Annotated Guide/Una Gu'a Anotada. ISABEL ..... Measuring Social and \nEconomic Change in Rural Russia: Surveys from 1991 to 2003 ...... Sheila's Shop\n: Working-Class African American Women Talk about Life, Love, Race, and Hair.",
+            "htmlSnippet": "Books in Spanish for Children and Young Adults, <b>Series</b> IV Libros Infantiles y Ju: <br>\nAn Annotated Guide/Una Gu&#39;a Anotada. ISABEL ..... Measuring Social and <br>\nEconomic <b>Change</b> in Rural Russia: Surveys <b>from</b> 1991 to 2003 ...... Sheila&#39;s Shop<br>\n: Working-Class African American Women <b>Talk</b> about Life, Love, Race, and <b>Hair</b>.",
+            "formattedUrl": "https://rowman.com/Action/nBISAC/SCP/40",
+            "htmlFormattedUrl": "https://rowman.com/Action/nBISAC/SCP/40",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "World History commentary 1 (PDF Download Available)",
+            "htmlTitle": "World History commentary 1 (PDF Download Available)",
+            "link": "https://www.researchgate.net/publication/275963747_World_History_commentary_1",
+            "displayLink": "www.researchgate.net",
+            "snippet": "full of fine linen smocks or undershirts to enable a daily change was. the height of \n...... mattered more back then than did the recent introduction of the internet, \ncomputers, satellite television, and mobile ... shows real wages for England from \n1400-1860, as calculated by Clark (2005) and by Phelps-Brown and Hopkins (\n1981).",
+            "htmlSnippet": "full of fine linen smocks or undershirts to enable a daily <b>change</b> was. the height of <br>\n...... mattered more back then than did the recent introduction of the internet, <br>\ncomputers, satellite <b>television</b>, and mobile ... <b>shows</b> real wages for England <b>from</b> <br>\n1400-1860, as calculated by Clark (2005) and by Phelps-Brown and Hopkins (<br>\n1981).",
+            "formattedUrl": "https://www.researchgate.net/.../275963747_World_History_commentary_1",
+            "htmlFormattedUrl": "https://www.researchgate.net/.../275963747_World_History_commentary_1",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "197",
+                        "height": "255",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdve1PpLGdz1E37W1qBtaZ0KmCOyT9-25d16mhTdpQ2UY2KREf7Veb-l0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "rg-request-token": "OgqVKZPxt4r9MDlqXtKY7qg6qPcEQLqMTYzLJX7fprluOpBcdaPH/wuTUZ5R7uSxhTyfAL4C8rA3rZ5eomasFpFNoDM8yfpj29ihdMDP37J0Ct8cOrsX97apCswlUc/rx5B3Uj97DP9t1Z2/S5zJUJnybGOzEhqL1pnqiiTUxhwNbVjtjJ9Ncl+DgNUf3KzE75Rz+RS+1ohfDYu6O6X9hShy6ovodF+y0Pkp8ngCcqqctrM4SuADFYjSOGIMtBiaQxX2bd+qkpg3bmRYbdRWxWtoAp6DpIJr66Y=",
+                        "application-name": "ResearchGate",
+                        "msapplication-tilecolor": "#00ccbb",
+                        "msapplication-tileimage": "https://www.researchgate.net/mstile-144x144.png",
+                        "theme-color": "#444444",
+                        "twitter:site": "@ResearchGate",
+                        "twitter:creator": "@ResearchGate",
+                        "twitter:card": "summary",
+                        "twitter:url": "https://www.researchgate.net/publication/275963747_World_History_commentary_1",
+                        "og:site": "ResearchGate",
+                        "og:site_name": "ResearchGate",
+                        "og:type": "website",
+                        "og:title": "World History commentary 1 (PDF Download Available)",
+                        "og:description": "Full-Text Paper (PDF): World History commentary 1",
+                        "og:url": "https://www.researchgate.net/publication/275963747_World_History_commentary_1",
+                        "og:image": "https://i1.rgstatic.net/publication/275963747_World_History_commentary_1/links/554be5ed0cf21ed2135b7b58/largepreview.png",
+                        "gs_meta_revision": "1.1",
+                        "citation_title": "World History commentary 1",
+                        "citation_abstract_html_url": "https://www.researchgate.net/publication/275963747_World_History_commentary_1",
+                        "citation_fulltext_html_url": "https://www.researchgate.net/publication/275963747_World_History_commentary_1",
+                        "citation_author": "Robbie Robertson",
+                        "citation_publication_date": "2015/05/07",
+                        "citation_doi": "10.13140/RG.2.1.2448.5284",
+                        "citation_pdf_url": "https://www.researchgate.net/profile/Robbie_Robertson/publication/275963747_World_History_commentary_1/links/554be5ed0cf21ed2135b7b58/World-History-commentary-1.pdf",
+                        "dc.identifier": "http://dx.doi.org/10.13140/RG.2.1.2448.5284",
+                        "rg:id": "PB:275963747",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "datepublished": "2015-05-07",
+                        "image": "https://i1.rgstatic.net/publication/275963747_World_History_commentary_1/links/554be5ed0cf21ed2135b7b58/largepreview.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i1.rgstatic.net/publication/275963747_World_History_commentary_1/links/554be5ed0cf21ed2135b7b58/largepreview.png"
+                    }
+                ],
+                "scholarlyarticle": [
+                    {
+                        "datepublished": "2015-05-07",
+                        "image": "https://i1.rgstatic.net/publication/275963747_World_History_commentary_1/links/554be5ed0cf21ed2135b7b58/largepreview.png",
+                        "headline": "World History commentary 1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Newsweek November 1999 Article Archives | HighBeam Research",
+            "htmlTitle": "Newsweek November 1999 Article Archives | HighBeam Research",
+            "link": "https://www.highbeam.com/publications/newsweek-p5473/november-1999",
+            "displayLink": "www.highbeam.com",
+            "snippet": "Articles from Newsweek November 1999 on HighBeam Research. ... Critical \nCondition: From the Capital to Kitchen Tables, and from Frustration with HMOs to \nWorries about Cost, Health Care Is Topic A. and the Patients Are Ready ... (\nCHARITY)(donation made to food program for visits to Web site)(Cyberscope)(\nBrief Article).",
+            "htmlSnippet": "Articles <b>from</b> Newsweek November 1999 on HighBeam Research. ... <b>Critical</b> <br>\nCondition: <b>From</b> the Capital to Kitchen Tables, and <b>from</b> Frustration with HMOs to <br>\nWorries about Cost, Health Care Is Topic A. and the Patients Are Ready ... (<br>\nCHARITY)(donation made to food <b>program</b> for visits to Web site)(Cyberscope)(<br>\nBrief Article).",
+            "cacheId": "mR0R_frMfIcJ",
+            "formattedUrl": "https://www.highbeam.com/publications/newsweek.../november-1999",
+            "htmlFormattedUrl": "https://www.highbeam.com/publications/newsweek.../november-1999",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no",
+                        "apple-mobile-web-app-capable": "yes"
+                    }
+                ]
+            }
+        }
+    ]
+}

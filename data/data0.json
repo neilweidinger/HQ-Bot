@@ -1,0 +1,405 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
+                "totalResults": "17400",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:dhdhqg4tpxi"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
+                "totalResults": "17400",
+                "searchTerms": "which tv show faced critical backlash after a controversial turn-of-the-millennium hairstyle change? Sex and the City",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "007453928249679215123:dhdhqg4tpxi"
+            }
+        ]
+    },
+    "context": {
+        "title": "first"
+    },
+    "searchInformation": {
+        "searchTime": 0.357045,
+        "formattedSearchTime": "0.36",
+        "totalResults": "17400",
+        "formattedTotalResults": "17,400"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "South Pacific (musical) - Wikipedia",
+            "htmlTitle": "South Pacific (musical) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The original Broadway production enjoyed immense critical and box-office \nsuccess, became the second-longest running Broadway musical to that point (\nbehind Rodgers and Hammerstein's earlier Oklahoma! (1943)), and has \nremained popular ever since. After they signed Ezio Pinza and Mary Martin as \nthe leads, Rodgers ...",
+            "htmlSnippet": "The original Broadway production enjoyed immense <b>critical</b> and box-office <br>\nsuccess, became the second-longest running Broadway musical to that point (<br>\nbehind Rodgers and Hammerstein&#39;s earlier Oklahoma! (1943)), and has <br>\nremained popular ever since. <b>After</b> they signed Ezio Pinza and Mary Martin as <br>\nthe leads, Rodgers&nbsp;...",
+            "cacheId": "_zile8LX03gJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "178",
+                        "height": "282",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRJac_KGi-kWuzx7N-_q6gFRUz6pQAPzmldZeYYatCfe3rBUaqCZ51Bksw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/Musical1949-SouthPacific-OriginalPoster.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Inside RENT by Scott Miller",
+            "htmlTitle": "Inside RENT by Scott Miller",
+            "link": "http://www.newlinetheatre.com/rentchapter.html",
+            "displayLink": "www.newlinetheatre.com",
+            "snippet": "In December 1995 Larson finished another revision that returned to the earlier \nstructure and he wrote a one-sentence summary of the show: \"Rent is about a \ncommunity celebrating life, in the face of death and AIDS, at the turn of the \ncentury.\" This statement of purpose helped later on. After his death, as previews \nbegan, the ...",
+            "htmlSnippet": "In December 1995 Larson finished another revision that returned to the earlier <br>\nstructure and he wrote a one-sentence summary of the <b>show</b>: &quot;Rent is about a <br>\ncommunity celebrating life, in the <b>face</b> of death and AIDS, at the <b>turn</b> of the <br>\ncentury.&quot; This statement of purpose helped later on. <b>After</b> his death, as previews <br>\nbegan, the&nbsp;...",
+            "cacheId": "49awGBkujNkJ",
+            "formattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "htmlFormattedUrl": "www.newlinetheatre.com/rentchapter.html",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sex (book) - Wikipedia",
+            "htmlTitle": "<b>Sex</b> (book) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Sex_(book)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Due to the scandalous nature of the photographs and the media mayhem \nsurrounding it from the initial preview of the book, Madonna did not have to \npromote Sex, except for a pre-release party and some television specials. Her \npublishers were extremely apprehensive about the release as well as its \ncommercial potential.",
+            "htmlSnippet": "Due to the scandalous nature of the photographs and the media mayhem <br>\nsurrounding it <b>from</b> the initial preview of the book, Madonna did not have to <br>\npromote <b>Sex</b>, except for a pre-release party and some <b>television</b> specials. Her <br>\npublishers were extremely apprehensive about the release as well as its <br>\ncommercial potential.",
+            "cacheId": "pjT1dRFDV50J",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sex_(book)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sex</b>_(book)",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201",
+                        "height": "251",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkuIhgZdxiJiAVGps3hkV04YGOVZCWleySXoAiP7reIUf65gS51ZTPWYg0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Cover_of_Madonna%27s_Sex_Book.jpg"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "Madonna",
+                        "nickname": "Madonna"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/c/cb/Cover_of_Madonna%27s_Sex_Book.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "9.2 The Relationship Between Television and Culture ...",
+            "htmlTitle": "9.2 The Relationship Between <b>Television</b> and Culture ...",
+            "link": "http://open.lib.umn.edu/mediaandculture/chapter/9-2-the-relationship-between-television-and-culture/",
+            "displayLink": "open.lib.umn.edu",
+            "snippet": "Since its inception as an integral part of American life in the 1950s, television has \nboth reflected and nurtured cultural mores and values. From the escapist dramas \nof the 1960s, which consciously avoided controversial issues and glossed over \nlife's harsher realities in favor of an idealized portrayal, to the copious reality TV ...",
+            "htmlSnippet": "Since its inception as an integral part of American life in the 1950s, <b>television</b> has <br>\nboth reflected and nurtured cultural mores and values. <b>From</b> the escapist dramas <br>\nof the 1960s, which consciously avoided <b>controversial</b> issues and glossed over <br>\nlife&#39;s harsher realities in favor of an idealized portrayal, to the copious reality <b>TV</b>&nbsp;...",
+            "cacheId": "JBjZtmmJErMJ",
+            "formattedUrl": "open.lib.umn.edu/.../9-2-the-relationship-between-television-and-culture/",
+            "htmlFormattedUrl": "open.lib.umn.edu/.../9-2-the-relationship-between-<b>television</b>-and-culture/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "199",
+                        "height": "254",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrZABkWlxcNL56OQCyj_GBEfQjTeMP-ig4r6vsFfgwQPnDPfUwoJ36zO0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "about": "Business, Management & Marketing",
+                        "copyrightholder": "University of Minnesota",
+                        "copyrightyear": "2016",
+                        "inlanguage": "en",
+                        "publisher": "University of Minnesota Libraries Publishing edition, 2016. This edition adapted from a work originally produced in 2010 by a publisher who has requested that it not receive attribution."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://open.lib.umn.edu/mediaandculture/wp-content/uploads/sites/9/2015/11/9.2.0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "2000s (decade) - Wikipedia",
+            "htmlTitle": "2000s (decade) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "Cooperative international rescue missions by many countries from around the \nworld helped in efforts by the most affected nations to rebuild and recover from \nthe devastation. An enormous loss of life and property value came in 2005, when \nHurricane Katrina flooded nearly the entire city of New Orleans. The resulting ...",
+            "htmlSnippet": "Cooperative international rescue missions by many countries <b>from</b> around the <br>\nworld helped in efforts by the most affected nations to rebuild and recover <b>from</b> <br>\nthe devastation. An enormous loss of life and property value came in 2005, when <br>\nHurricane Katrina flooded nearly the entire <b>city</b> of New Orleans. The resulting&nbsp;...",
+            "formattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2000s_(decade)",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "227",
+                        "height": "222",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIujmn2D6znSYFYGbGURp72KxZxFhpK0OxEjXxVyr1y4OqqfbrTwSmH2I"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2000s_decade_montage3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sex Crimes and the Media - Oxford Research Encyclopedia of ...",
+            "htmlTitle": "<b>Sex</b> Crimes and the Media - Oxford Research Encyclopedia of ...",
+            "link": "http://criminology.oxfordre.com/view/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-118",
+            "displayLink": "criminology.oxfordre.com",
+            "snippet": "Sex crimes have become a highly controversial and contested area, and media \ncoverage reflects this, sometimes supporting progressive social and cultural \nchange and sometimes providing a vehicle for “backlash” sentiments. Social \nmedia has been a driver of changes in the media landscape around sexual \nviolence in ...",
+            "htmlSnippet": "<b>Sex</b> crimes have become a highly <b>controversial</b> and contested area, and media <br>\ncoverage reflects this, sometimes supporting progressive social and cultural <br>\n<b>change</b> and sometimes providing a vehicle for “<b>backlash</b>” sentiments. Social <br>\nmedia has been a driver of <b>changes</b> in the media landscape around sexual <br>\nviolence in&nbsp;...",
+            "formattedUrl": "criminology.oxfordre.com/view/10.../acrefore-9780190264079-e-118",
+            "htmlFormattedUrl": "criminology.oxfordre.com/view/10.../acrefore-9780190264079-e-118",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "article:modified_time": "2017-06-08",
+                        "og:type": "article",
+                        "og:title": "Sex Crimes and the Media - Oxford Research Encyclopedia of Criminology",
+                        "og:url": "http://criminology.oxfordre.com/view/10.1093/acrefore/9780190264079.001.0001/acrefore-9780190264079-e-118",
+                        "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                        "citation_title": "Sex Crimes and the Media",
+                        "citation_inbook_title": "Oxford Research Encyclopedia of Criminology and Criminal Justice",
+                        "citation_author": "Tanya Serisier",
+                        "citation_publication_date": "2017/01/25",
+                        "citation_doi": "10.1093/acrefore/9780190264079.013.118",
+                        "citation_keywords": "rape",
+                        "http://schema.org/about": "Sex Crimes and the Media",
+                        "http://schema.org/author": "Tanya Serisier",
+                        "http://purl.org/dc/terms/description": "In media representations the term sex crimes most frequently refers to rape and child sexual abuse, although it can include a wider range of acts such as exhibitionism and voyeurism. While the majority of these crimes receive little media attention, certain sensational sex crimes are prominent topics in news and entertainment media. Media attention tends to focus on violent crimes committed by “dangerous” strangers, largely defined as poor men of color, and crimes committed against white and middle-class victims. These representations provide a distorted image of the reality of sex crimes, which most frequently occur in private settings, by someone known to the victim. Media coverage has also been criticized for focusing on the actions and responsibility of victims, suggesting that victim behavior, such as drinking, flirting, or being in the “wrong place at the wrong time” precipitates sexual violence. Again, these representations vary significantly according to race and class, with white and middle-c",
+                        "http://purl.org/dc/terms/identifier": "10.1093/acrefore/9780190264079.013.118",
+                        "http://purl.org/dc/terms/subject": "Criminology and Criminal Justice",
+                        "http://schema.org/datecreated": "2017-01-25",
+                        "http://schema.org/isbn": "9780190264079",
+                        "http://schema.org/keywords": "rape",
+                        "http://schema.org/publisher": "Oxford University Press",
+                        "http://schema.org/wordcount": "16140"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Monkees - Wikipedia",
+            "htmlTitle": "The Monkees - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/The_Monkees",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The Monkees were an American rock and pop band originally active between \n1966 and 1971, with reunion albums and tours in the decades that followed. \nThey were formed in Los Angeles in 1965 by Bob Rafelson and Bert Schneider \nfor the American television series The Monkees which aired from 1966 to 1968.",
+            "htmlSnippet": "The Monkees were an American rock and pop band originally active between <br>\n1966 and 1971, with reunion albums and tours in the decades that followed. <br>\nThey were formed in Los Angeles in 1965 by Bob Rafelson and Bert Schneider <br>\nfor the American <b>television series</b> The Monkees which aired <b>from</b> 1966 to 1968.",
+            "cacheId": "5FTbb0ig21AJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Monkees",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Monkees",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "208",
+                        "height": "243",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTKt7QFV9APaKCnQB4heXGp71s5V99SMkkxsyak3vldtaRnReAggIlb9XR"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Monkees_1966.JPG"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "The Monkees",
+                        "url": "monkees.com",
+                        "url_text": "monkees.com"
+                    },
+                    {
+                        "fn": "The Monkees"
+                    },
+                    {
+                        "fn": "Michael Nesmith"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Monkees_1966.JPG"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "11 actually pretty shocking things Friends couldn't get away with today",
+            "htmlTitle": "11 actually pretty shocking things Friends couldn&#39;t get away with today",
+            "link": "https://www.cosmopolitan.com/uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+            "displayLink": "www.cosmopolitan.com",
+            "snippet": "Jan 11, 2017 ... Come the end of the programme, four of the six main characters were \"coupled-\nwith-children\", the fifth was \"coupled up\" and the sixth character ... In college, \nMonica is only known as \"fat Monica\" - but after overhearing Chandler make fun \nof her size, she loses weight and is suddenly described with a whole ...",
+            "htmlSnippet": "Jan 11, 2017 <b>...</b> Come the end of the <b>programme</b>, four of the six main characters were &quot;coupled-<br>\nwith-children&quot;, the fifth was &quot;coupled up&quot; and the sixth character ... In college, <br>\nMonica is only known as &quot;fat Monica&quot; - but <b>after</b> overhearing Chandler make fun <br>\nof her size, she loses weight and is suddenly described with a whole&nbsp;...",
+            "cacheId": "OySJ2cr71moJ",
+            "formattedUrl": "https://www.cosmopolitan.com/.../11-times-friends-sexist-homophobic/",
+            "htmlFormattedUrl": "https://www.cosmopolitan.com/.../11-times-friends-<b>sex</b>ist-homophobic/",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*"
+                    }
+                ],
+                "speakablespecification": [
+                    {
+                        "cssselector": ".content-hed"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "x-ua-compatible": "IE=edge,chrome=1",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                        "msapplication-tap-highlight": "no",
+                        "theme-color": "#EC008C",
+                        "og:type": "article",
+                        "fb:app_id": "211620818858710",
+                        "article:publisher": "https://facebook.com/cosmopolitanuk",
+                        "twitter:site": "@CosmopolitanUK",
+                        "og:site_name": "Cosmopolitan",
+                        "title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:title": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "og:description": "Sexism, homophobia and fat-shaming, anyone?",
+                        "news_keywords": "friends, sitcom, sexism, misogyny, programme, watch, racist, sitcom, diversity, stereotypical",
+                        "article:modified_time": "2018-01-11 11:04:00",
+                        "auto-publish": "evergreen",
+                        "twitter:card": "summary_large_image",
+                        "og:url": "http://www.cosmopolitan.co.uk/entertainment/a38817/11-times-friends-sexist-homophobic/",
+                        "og:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=1200:*",
+                        "og:image:width": "1200",
+                        "og:image:height": "600",
+                        "twitter:image": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg?resize=640:*",
+                        "thumbnail": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg?resize=320:*",
+                        "article:published_time": "2017-01-11 11:02:00",
+                        "article:section": "Entertainment",
+                        "sailthru.contenttype": "standard-article",
+                        "sailthru.tags": "Entertainment",
+                        "sailthru.date": "2017-01-11T11:02:00Z",
+                        "sailthru.image.full": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/768x384/landscape-1443456162-friends.jpg",
+                        "sailthru.image.thumb": "https://hips.hearstapps.com/cosmouk.cdnds.net/15/40/320x320/square-1443456162-friends.jpg",
+                        "sailthru.socialtitle": "11 actually pretty shocking things Friends couldn't get away with today",
+                        "sailthru.excerpt": "Love it or hate it, there's no denying that EVERYBODY of a certain generation has probably seen an episode of Friends in their time - which makes the obvious sexism, homophobia and all round lack of diversity all the more interesting more than 20 years later. 1. Chandler's transgender father...",
+                        "m1": ".content-hed",
+                        "m2": ".content-dek p"
+                    }
+                ],
+                "hcard": [
+                    {
+                        "fn": "https://www.cosmopolitan.com/uk/author/2482/dusty-baxter-wright/"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Dusty Baxter-Wright"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meghan-markle-1524493798.jpg?crop=1xw:1xh;center,top&resize=320:*",
+                        "type": "1",
+                        "width": "318",
+                        "height": "159"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Wikipedia Terms",
+            "htmlTitle": "Wikipedia Terms",
+            "link": "https://www.princeton.edu/~achaney/tmve/wiki100k/browse/term-graph.html",
+            "displayLink": "www.princeton.edu",
+            "snippet": "city ... show · begin · end · township · living · spread · school · couple · housing · \ncountry · reside · husband · term · poverty · member · racial · village · married · \ngood · base · capita · versus · makeup · day · result · non-family · males · \nhouseholder · set · game · world · home · language · math · change ...",
+            "htmlSnippet": "<b>city</b> ... <b>show</b> &middot; begin &middot; end &middot; township &middot; living &middot; spread &middot; school &middot; couple &middot; housing &middot; <br>\ncountry &middot; reside &middot; husband &middot; term &middot; poverty &middot; member &middot; racial &middot; village &middot; married &middot; <br>\ngood &middot; base &middot; capita &middot; versus &middot; makeup &middot; day &middot; result &middot; non-family &middot; males &middot; <br>\nhouseholder &middot; set &middot; game &middot; world &middot; home &middot; language &middot; math &middot; <b>change</b>&nbsp;...",
+            "formattedUrl": "https://www.princeton.edu/~achaney/tmve/wiki100k/.../term-graph.html",
+            "htmlFormattedUrl": "https://www.princeton.edu/~achaney/tmve/wiki100k/.../term-graph.html"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Representation and Gender Change in the Sitcom",
+            "htmlTitle": "Representation and Gender <b>Change</b> in the Sitcom",
+            "link": "https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=2598&context=etd_hon_theses",
+            "displayLink": "wesscholar.wesleyan.edu",
+            "snippet": "Apr 12, 2016 ... Sex and the City (1998-2004), Girls (2012—), and Broad City (2014—). \nConclusion. 108 .... women shows—SATC's turn-of-the-millennium \nthirtysomethings versus millennial young adults on Girls and ... One episode from \nseason one “was the first television program to be seen in ten million homes, at a \ntime ...",
+            "htmlSnippet": "Apr 12, 2016 <b>...</b> <b>Sex</b> and the <b>City</b> (1998-2004), Girls (2012—), and Broad <b>City</b> (2014—). <br>\nConclusion. 108 .... women shows—SATC&#39;s <b>turn</b>-of-the-<b>millennium</b> <br>\nthirtysomethings versus millennial young adults on Girls and ... One episode <b>from</b> <br>\nseason one “was the first <b>television program</b> to be seen in ten million homes, at a <br>\ntime&nbsp;...",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=2598...",
+            "htmlFormattedUrl": "https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=2598...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "appligent": "pdfHarmony 2.0 Linux Kernel 2.6 64bit Mar 13 2012 Library 9.0.1",
+                        "author": "Regen Routman",
+                        "creationdate": "D:20160412044324Z",
+                        "creator": "Appligent pdfHarmony 2.0",
+                        "moddate": "D:20170801074943-07'00'",
+                        "producer": "Mac OS X 10.10.1 Quartz PDFContext",
+                        "title": "Women on the Move: Representation and Gender Change in the Sitcom"
+                    }
+                ]
+            }
+        }
+    ]
+}
