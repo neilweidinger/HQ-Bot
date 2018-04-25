@@ -3,8 +3,6 @@ import pytesseract
 import pyscreenshot as ImageGrab
 from apiclient.discovery import build
 import json
-import cv2
-import numpy
 
 g_cse_api_key = "***REMOVED***"
 g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
