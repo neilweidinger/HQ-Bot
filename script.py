@@ -5,9 +5,10 @@ from apiclient.discovery import build
 import json
 
 g_cse_api_key = "***REMOVED***"
-g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
+# g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
 # g_cse_id = "007453928249679215123:ynpo3pdphmg" # everything
 # g_cse_id = "007453928249679215123:zrrhksiiyh8" # no wikipedia
+g_cse_id = "007453928249679215123:iisyb2-ac_s" # first engine but no dictionaries or thesauruses
 
 
 # parse ocr text to get question as string and answers as list
@@ -87,8 +88,11 @@ def output_answers():
 
         # print(answer + " --- " + str(nums[0]) + " --- " + str(nums[1]))
         print("{}".format(answer))
-        print(str((ans_occurrences_percentage + results_percentage +
-                   occurrences_percentage) / 3 * 100) + "\n")
+        print("{:5.2f} --- {:5.2f} --- {:5.2f}".format(occurrences_percentage * 100, 
+                                                       results_percentage * 100,
+                                                       ans_occurrences_percentage * 100))
+        print("{:5.2f} \n".format((ans_occurrences_percentage + (results_percentage * .75) +
+                   occurrences_percentage) / 3 * 100))
 
     print(results)
 
@@ -104,7 +108,8 @@ def search_occurences(new_data, ans_num):
 
         try:
             for item in new_data["items"]:
-                # if "wikipedia" not in item["link"]:
+                # if "wikipedia" in item["link"]:
+                #     continue
                 for property in property_list:
                     num_occurrences += item[property].lower().count(answers[ans_num].lower())
 
@@ -173,10 +178,10 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # manually override and edit answers and question
-    # question = "\"Walker, Texas Ranger\" was co-created by the director of which Oscar-winning film? "
-    # answers[0] = "Crash"
-    # answers[1] = "Million Dollar Baby"
-    # answers[2] = "Driving Miss Daisy"
+    question = "what us states does have a sales tax? "
+    answers[0] = "ohio"
+    answers[1] = "oklahoma"
+    answers[2] = "oregon"
 
     # get data from Google
     results = {}
