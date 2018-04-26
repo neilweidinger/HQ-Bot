@@ -3,6 +3,7 @@ import pytesseract
 import pyscreenshot as ImageGrab
 from apiclient.discovery import build
 import json
+import re
 
 g_cse_api_key = "***REMOVED***"
 # g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
@@ -20,15 +21,23 @@ def parse_question(ocr_text):
     ans = False
     for line in lines:
         if not ans:
-            line = line.lower().replace("which of these", "what")
-            line = line.lower().replace(" never ", " ")
-            line = line.lower().replace(" not ", " ")
-            question += line + " "
+            # replaces "which of these" or just "which" with "what"
+            line = re.sub(r"(?i)\bWhich of these\b|\bwhich\b", "what", line)
+            # replaces "never" with a space
+            line = re.sub(r"(?i)\bNever\b", " ", line)
+            # takes out all occurrences of a "not"
+            line = re.sub(r"(?i)\bNOT ?", "", line)
+
+            # only add non-empty lines to question
+            if len(line) > 0:
+                question += line + " "
+            # if we encounter a "?", that means answers are coming up in the text
             if '?' in line:
                 ans = True
         else:
             if len(line) != 0:
-                line = line.lower().replace(" / ", " and ")
+                # replaces "/" with "and"
+                line = re.sub(r"/", "and", line)
                 answers.append(line)
 
     return question, answers
