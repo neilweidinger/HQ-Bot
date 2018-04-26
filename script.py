@@ -22,7 +22,7 @@ def parse_question(ocr_text):
     for line in lines:
         if not ans:
             # replaces "which of these" or just "which" with "what"
-            line = re.sub(r"(?i)\bWhich of these\b|\bwhich\b", "what", line)
+            line = re.sub(r"(?i)\bWhich of these\b|\bWhich\b", "what", line)
             # replaces "never" with a space
             line = re.sub(r"(?i)\bNever\b", " ", line)
             # takes out all occurrences of a "not"
@@ -45,15 +45,10 @@ def parse_question(ocr_text):
 
 # write data to disk
 def writefiles(attempt, num, data):
-    filename = createfilename(attempt, num)
+    filename = "data/attempt{}_answer{}.json".format(attempt, num)
     file = open(filename, "w")
     file.write(json.dumps(data, indent=4, ensure_ascii=False))
     file.close()
-
-
-# create file name depending on attempt and answer number
-def createfilename(attempt, num):
-    return "data/attempt{}_answer{}.json".format(attempt, num)
 
 
 # take screenshot and extract text
@@ -186,8 +181,8 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # manually override and edit answers and question
-    # question = "what words is part of the diving acronym scuba? "
-    # answers[0] = "superior"
+    # question = "What type of wine is spoiled in a hit ’90s song by Alanis Morissette? "
+    # answers[0] = "Superior"
     # answers[1] = "sherry"
     # answers[2] = "merlot"
 
