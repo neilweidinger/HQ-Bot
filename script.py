@@ -86,7 +86,6 @@ def output_answers():
         if (total_num_ans_occurrences > 0):
             ans_occurrences_percentage = nums[2] / total_num_ans_occurrences
 
-        # print(answer + " --- " + str(nums[0]) + " --- " + str(nums[1]))
         print("{}".format(answer))
         print("{:5.2f} --- {:5.2f} --- {:5.2f}".format(occurrences_percentage * 100, 
                                                        results_percentage * 100,
@@ -178,10 +177,10 @@ if __name__ == "__main__":
     print(answers, end="\n\n")
 
     # manually override and edit answers and question
-    question = "what us states does have a sales tax? "
-    answers[0] = "ohio"
-    answers[1] = "oklahoma"
-    answers[2] = "oregon"
+    # question = "what words is part of the diving acronym scuba? "
+    # answers[0] = "superior"
+    # answers[1] = "sherry"
+    # answers[2] = "merlot"
 
     # get data from Google
     results = {}
