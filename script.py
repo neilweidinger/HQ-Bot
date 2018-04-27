@@ -18,6 +18,7 @@ def parse_question(ocr_text):
     lines = ocr_text.splitlines()
     question = ""
     answers = []
+    is_not = False
 
     # for quizbiz
     # lines[0] = lines[0][3:]
@@ -25,6 +26,11 @@ def parse_question(ocr_text):
     ans = False
     for line in lines:
         if not ans:
+
+            # checks to see if question is an "is not" question
+            if re.match(r"(?i)(.*)\bNOT\b(.*)", line):
+                is_not = True
+
             # replaces "which of these" or just "which" with "what"
             line = re.sub(r"(?i)\bWhich of these\b|\bWhich\b", "what", line)
             # replaces "never" with a space
@@ -44,7 +50,7 @@ def parse_question(ocr_text):
                 line = re.sub(r"/", "and", line)
                 answers.append(line)
 
-    return question, answers
+    return question, answers, is_not
 
 
 # write data to disk
@@ -82,7 +88,7 @@ def output_answers():
     print(question)
 
     # list to keep track of answer and corresponding percentage most likely to be correct
-    max_percentage = [0, ""]
+    predicted_percentage = [0, "", False]
 
     # loops through main data dictionary (dict value aka nums is a list)
     for answer, nums in results.items():
@@ -103,9 +109,14 @@ def output_answers():
                               occurrences_percentage) / 3 * 100
 
         # track most likely answer
-        if overall_percentage > max_percentage[0]:
-            max_percentage[0] = overall_percentage
-            max_percentage[1] = answer
+        if not is_not and overall_percentage > predicted_percentage[0]:
+            predicted_percentage[0] = overall_percentage
+            predicted_percentage[1] = answer
+        elif is_not:
+            if not predicted_percentage[2] or overall_percentage < predicted_percentage[0]:
+                predicted_percentage[2] = True
+                predicted_percentage[0] = overall_percentage
+                predicted_percentage[1] = answer
 
         print("{}".format(answer))
         print("{:5.2f} --- {:5.2f} --- {:5.2f}".format(occurrences_percentage * 100, 
@@ -114,7 +125,7 @@ def output_answers():
         print("{:5.2f} \n".format(overall_percentage))
 
     # prints out most likely answer
-    print("\033[4;32m{} --- {}\033[0m".format(max_percentage[1], max_percentage[0]))
+    print("\033[4;32m{} --- {}\033[0m".format(predicted_percentage[1], predicted_percentage[0]))
 
     print(results)
 
@@ -197,12 +208,12 @@ if __name__ == "__main__":
     start = time.time()
 
     # separate question and answers from text
-    question, answers = parse_question(read_image())
+    question, answers, is_not = parse_question(read_image())
     print(question)
     print(answers, end="\n\n")
 
     # manually override and edit answers and question
-    # question = "Whoe is the only athlete ever to play in a Super Bowl and a World Series? "
+    # question = "Who has played in both the Super Bowl and the World Series? "
     # answers[0] = "Bo Jackson"
     # answers[1] = "Brian Jordan"
     # answers[2] = "Deion Sanders"
