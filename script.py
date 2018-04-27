@@ -19,6 +19,9 @@ def parse_question(ocr_text):
     question = ""
     answers = []
 
+    # for quizbiz
+    # lines[0] = lines[0][3:]
+
     ans = False
     for line in lines:
         if not ans:
@@ -57,6 +60,7 @@ def read_image():
 
     # Capture image
     image = ImageGrab.grab(bbox=(31,184,470,620))
+    # image = ImageGrab.grab(bbox=(33,205,463,590))
     # image = Image.open("tests/3.jpg")
 
     # Increase contrast
