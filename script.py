@@ -4,6 +4,7 @@ import pyscreenshot as ImageGrab
 from apiclient.discovery import build
 import json
 import re
+import time
 
 g_cse_api_key = "***REMOVED***"
 # g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
@@ -24,7 +25,7 @@ def parse_question(ocr_text):
             # replaces "which of these" or just "which" with "what"
             line = re.sub(r"(?i)\bWhich of these\b|\bWhich\b", "what", line)
             # replaces "never" with a space
-            line = re.sub(r"(?i)\bNever\b", " ", line)
+            line = re.sub(r"(?i)\bNever ?", "", line)
             # takes out all occurrences of a "not"
             line = re.sub(r"(?i)\bNOT ?", "", line)
 
@@ -76,13 +77,16 @@ def output_answers():
 
     print(question)
 
+    # list to keep track of answer and corresponding percentage most likely to be correct
+    max_percentage = [0, ""]
+
     # loops through main data dictionary (dict value aka nums is a list)
     for answer, nums in results.items():
         occurrences_percentage = 0
         results_percentage = 0
         ans_occurrences_percentage = 0
 
-        # if statements to avoid division through 0 error
+        # if statements to avoid division through 0 error, then find decimal percentage
         if (total_num_occurrences > 0):
             occurrences_percentage = nums[0] / total_num_occurrences
         if (total_num_results > 0):
@@ -90,12 +94,23 @@ def output_answers():
         if (total_num_ans_occurrences > 0):
             ans_occurrences_percentage = nums[2] / total_num_ans_occurrences
 
+        # finds overall percentage by averaging all percentages (results % not weighted as much)
+        overall_percentage = (ans_occurrences_percentage + (results_percentage * .75) +
+                              occurrences_percentage) / 3 * 100
+
+        # track most likely answer
+        if overall_percentage > max_percentage[0]:
+            max_percentage[0] = overall_percentage
+            max_percentage[1] = answer
+
         print("{}".format(answer))
         print("{:5.2f} --- {:5.2f} --- {:5.2f}".format(occurrences_percentage * 100, 
                                                        results_percentage * 100,
                                                        ans_occurrences_percentage * 100))
-        print("{:5.2f} \n".format((ans_occurrences_percentage + (results_percentage * .75) +
-                   occurrences_percentage) / 3 * 100))
+        print("{:5.2f} \n".format(overall_percentage))
+
+    # prints out most likely answer
+    print("\033[4;32m{} --- {}\033[0m".format(max_percentage[1], max_percentage[0]))
 
     print(results)
 
@@ -175,21 +190,26 @@ def attempt_two_three():
 
 if __name__ == "__main__":
 
+    start = time.time()
+
     # separate question and answers from text
     question, answers = parse_question(read_image())
     print(question)
     print(answers, end="\n\n")
 
     # manually override and edit answers and question
-    # question = "What type of wine is spoiled in a hit ’90s song by Alanis Morissette? "
-    # answers[0] = "Superior"
-    # answers[1] = "sherry"
-    # answers[2] = "merlot"
+    # question = "Whoe is the only athlete ever to play in a Super Bowl and a World Series? "
+    # answers[0] = "Bo Jackson"
+    # answers[1] = "Brian Jordan"
+    # answers[2] = "Deion Sanders"
 
     # get data from Google
     results = {}
     attempt_one()
+    print("{} --- {}".format("attempt one", time.time() - start))
     attempt_two_three()
+    print("{} --- {}".format("attempt two", time.time() - start))
 
     # print results
     output_answers()
+    print("{} --- {}".format("final", time.time() - start))
