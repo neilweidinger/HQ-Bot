@@ -65,9 +65,9 @@ def writefiles(attempt, num, data):
 def read_image():
 
     # Capture image
-    image = ImageGrab.grab(bbox=(31,184,470,620))
-    # image = ImageGrab.grab(bbox=(33,205,463,590))
-    # image = Image.open("tests/3.jpg")
+    image = ImageGrab.grab(bbox=(31,184,470,620)) # for hq
+    # image = ImageGrab.grab(bbox=(33,205,463,590)) # for quizbiz
+    # image = Image.open("tests/3.jpg") # for test images
 
     # Increase contrast
     Contraster = ImageEnhance.Contrast(image)
@@ -88,6 +88,8 @@ def output_answers():
     print(question)
 
     # list to keep track of answer and corresponding percentage most likely to be correct
+    # boolean used later for is_not questions, since we're looking for the lowest percentage
+    # for these types of questions and nothing can be less than 0 (which means it would never get set)
     predicted_percentage = [0, "", False]
 
     # loops through main data dictionary (dict value aka nums is a list)
@@ -105,7 +107,7 @@ def output_answers():
             ans_occurrences_percentage = nums[2] / total_num_ans_occurrences
 
         # finds overall percentage by averaging all percentages (results % not weighted as much)
-        overall_percentage = (ans_occurrences_percentage + (results_percentage * .75) +
+        overall_percentage = (ans_occurrences_percentage + (results_percentage * .7) +
                               occurrences_percentage) / 3 * 100
 
         # track most likely answer
@@ -214,7 +216,7 @@ if __name__ == "__main__":
 
     # manually override and edit answers and question
     # question = "Who has played in both the Super Bowl and the World Series? "
-    # answers[0] = "Bo Jackson"
+    # answers[0] = "Kings"
     # answers[1] = "Brian Jordan"
     # answers[2] = "Deion Sanders"
 
