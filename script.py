@@ -12,7 +12,6 @@ g_cse_api_key = "***REMOVED***"
 # g_cse_id = "007453928249679215123:zrrhksiiyh8" # no wikipedia
 g_cse_id = "007453928249679215123:iisyb2-ac_s" # first engine but no dictionaries or thesauruses
 
-
 # parse ocr text to get question as string and answers as list
 def parse_question(ocr_text):
     lines = ocr_text.splitlines()
@@ -52,7 +51,6 @@ def parse_question(ocr_text):
 
     return question, answers, is_not
 
-
 # write data to disk
 def writefiles(attempt, num, data):
     filename = "data/attempt{}_answer{}.json".format(attempt, num)
@@ -60,13 +58,11 @@ def writefiles(attempt, num, data):
     file.write(json.dumps(data, indent=4, ensure_ascii=False))
     file.close()
 
-
 # take screenshot and extract text
 def read_image():
 
     # Capture image
     image = ImageGrab.grab(bbox=(31,184,470,620)) # for hq
-    # image = ImageGrab.grab(bbox=(33,205,463,590)) # for quizbiz
     # image = Image.open("tests/3.jpg") # for test images
 
     # Increase contrast
@@ -75,7 +71,6 @@ def read_image():
 
     # tesseract recognizes text and outputs it as a string
     return pytesseract.image_to_string(image)
-
 
 # calculates and prints out final percentages
 def output_answers():
@@ -107,8 +102,8 @@ def output_answers():
             ans_occurrences_percentage = nums[2] / total_num_ans_occurrences
 
         # finds overall percentage by averaging all percentages (results % not weighted as much)
-        overall_percentage = (ans_occurrences_percentage + (results_percentage * .7) +
-                              occurrences_percentage) / 3 * 100
+        overall_percentage = ((ans_occurrences_percentage + (results_percentage * .7) +
+                              occurrences_percentage) / 3 * 100)
 
         # track most likely answer
         if not is_not and overall_percentage > predicted_percentage[0]:
@@ -130,7 +125,6 @@ def output_answers():
     print("\033[4;32m{} --- {}\033[0m".format(predicted_percentage[1], predicted_percentage[0]))
 
     print(results)
-
 
 def search_occurences(new_data, ans_num):
 
@@ -161,7 +155,6 @@ def search_occurences(new_data, ans_num):
 
         return num_occurrences
 
-
 def attempt_one():
 
     # build service object to interact with Google api
@@ -179,7 +172,6 @@ def attempt_one():
 
         results[answers[i]] = []
         results[answers[i]].append(num_occurrences)
-
 
 # receive data from Google cse and return data in form of dictionary
 def attempt_two_three():
@@ -203,7 +195,6 @@ def attempt_two_three():
 
         results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
         results[answers[i]].append(num_occurrences)
-
 
 if __name__ == "__main__":
 
