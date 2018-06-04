@@ -128,32 +128,32 @@ def output_answers():
 
 def search_occurences(new_data, ans_num):
 
-        # find number of occurrences of answer in retrieved data
-        _num_occurrences = 0
+    # find number of occurrences of answer in retrieved data
+    _num_occurrences = 0
 
-        # properties that will be searched for number of occurrences
-        property_list = ["link", "title", "snippet", "htmlSnippet", 
-                         "formattedUrl", "htmlFormattedUrl"]
+    # properties that will be searched for number of occurrences
+    property_list = ["link", "title", "snippet", "htmlSnippet", 
+                     "formattedUrl", "htmlFormattedUrl"]
 
-        try:
-            for item in new_data["items"]:
-                # if "wikipedia" in item["link"]:
-                #     continue
-                for property in property_list:
-                    _num_occurrences += item[property].lower().count(answers[ans_num].lower())
+    try:
+        for item in new_data["items"]:
+            # if "wikipedia" in item["link"]:
+            #     continue
+            for property in property_list:
+                _num_occurrences += item[property].lower().count(answers[ans_num].lower())
 
-                # search through metatags, try for just in case metatags don't exist
-                try:
-                    for key in item["pagemap"]["metatags"][0].keys():
-                        _num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_num].lower())
-                except:
-                    continue
+            # search through metatags, try for just in case metatags don't exist
+            try:
+                for key in item["pagemap"]["metatags"][0].keys():
+                    _num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_num].lower())
+            except:
+                continue
 
-        # just in case we try to access a nonexistent "item" above bc search didn't return anything
-        except KeyError:
-            print("search for {} returned no results".format(answers[ans_num]))
+    # just in case we try to access a nonexistent "item" above bc search didn't return anything
+    except KeyError:
+        print("search for {} returned no results".format(answers[ans_num]))
 
-        return _num_occurrences
+    return _num_occurrences
 
 def attempt_one():
 
