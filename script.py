@@ -236,9 +236,6 @@ if __name__ == "__main__":
     p1.join()
     p2.join()
 
-    print("FINAL")
-    print(results)
-
     # print results
     output_answers()
-    print("{} --- {}".format("final", time.time() - start))
+    print("{} --- {}".format("Total time", time.time() - start))
