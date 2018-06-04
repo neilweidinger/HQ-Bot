@@ -1,4 +1,4 @@
-from PIL import Image, ImageEnhance
+from PIL import ImageEnhance
 from threading import Thread
 import pytesseract
 import pyscreenshot as ImageGrab
