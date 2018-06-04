@@ -1,4 +1,5 @@
 from PIL import Image, ImageEnhance
+from threading import Thread
 import pytesseract
 import pyscreenshot as ImageGrab
 from apiclient.discovery import build
@@ -222,12 +223,21 @@ if __name__ == "__main__":
     # answers[1] = "Brian Jordan"
     # answers[2] = "Deion Sanders"
 
-    # get data from Google
+    # init results dictionary
     results = init_results_array();
-    attempt_one()
-    print("{} --- {}".format("attempt one", time.time() - start))
-    attempt_two_three()
-    print("{} --- {}".format("attempt two", time.time() - start))
+
+    # get data from Google
+    p1 = Thread(name='attempt one', target=attempt_one)
+    p1.start()
+
+    p2 = Thread(name='attempt two three', target=attempt_two_three)
+    p2.start()
+
+    p1.join()
+    p2.join()
+
+    print("FINAL")
+    print(results)
 
     # print results
     output_answers()
