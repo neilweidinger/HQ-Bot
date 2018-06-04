@@ -129,7 +129,7 @@ def output_answers():
 def search_occurences(new_data, ans_num):
 
         # find number of occurrences of answer in retrieved data
-        num_occurrences = 0
+        _num_occurrences = 0
 
         # properties that will be searched for number of occurrences
         property_list = ["link", "title", "snippet", "htmlSnippet", 
@@ -140,12 +140,12 @@ def search_occurences(new_data, ans_num):
                 # if "wikipedia" in item["link"]:
                 #     continue
                 for property in property_list:
-                    num_occurrences += item[property].lower().count(answers[ans_num].lower())
+                    _num_occurrences += item[property].lower().count(answers[ans_num].lower())
 
                 # search through metatags, try for just in case metatags don't exist
                 try:
                     for key in item["pagemap"]["metatags"][0].keys():
-                        num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_num].lower())
+                        _num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_num].lower())
                 except:
                     continue
 
@@ -153,7 +153,7 @@ def search_occurences(new_data, ans_num):
         except KeyError:
             print("search for {} returned no results".format(answers[ans_num]))
 
-        return num_occurrences
+        return _num_occurrences
 
 def attempt_one():
 
@@ -168,10 +168,10 @@ def attempt_one():
 
     for i in range(3):
 
-        num_occurrences = search_occurences(new_data=google_data, ans_num=i)
+        num_occurrences_A = search_occurences(new_data=google_data, ans_num=i)
 
         results[answers[i]] = []
-        results[answers[i]].append(num_occurrences)
+        results[answers[i]].append(num_occurrences_A)
 
 # receive data from Google cse and return data in form of dictionary
 def attempt_two_three():
@@ -191,10 +191,10 @@ def attempt_two_three():
         # save data to disk in json format
         writefiles(attempt="2_3", num=str(i), data=google_data)
         
-        num_occurrences = search_occurences(new_data=google_data, ans_num=i)
+        num_occurrences_B = search_occurences(new_data=google_data, ans_num=i)
 
         results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
-        results[answers[i]].append(num_occurrences)
+        results[answers[i]].append(num_occurrences_B)
 
 if __name__ == "__main__":
 
