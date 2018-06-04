@@ -170,8 +170,7 @@ def attempt_one():
 
         num_occurrences_A = search_occurences(new_data=google_data, ans_num=i)
 
-        results[answers[i]] = []
-        results[answers[i]].append(num_occurrences_A)
+        results[answers[i]][0] = (num_occurrences_A)
 
 # receive data from Google cse and return data in form of dictionary
 def attempt_two_three():
@@ -193,8 +192,20 @@ def attempt_two_three():
         
         num_occurrences_B = search_occurences(new_data=google_data, ans_num=i)
 
-        results[answers[i]].append(int(google_data["searchInformation"]["totalResults"]))
-        results[answers[i]].append(num_occurrences_B)
+        results[answers[i]][1] = (int(google_data["searchInformation"]["totalResults"]))
+        results[answers[i]][2] = (num_occurrences_B)
+
+# initialize a dictionary to store our results in. This is really just so we can use array indexing later
+def init_results_array():
+    results_dict = {}
+
+    for i in range(3):
+        results_dict[answers[i]] = []
+        
+        for j in range(3):
+            results_dict[answers[i]].insert(j, "index {}".format(j))
+
+    return results_dict
 
 if __name__ == "__main__":
 
@@ -212,7 +223,7 @@ if __name__ == "__main__":
     # answers[2] = "Deion Sanders"
 
     # get data from Google
-    results = {}
+    results = init_results_array();
     attempt_one()
     print("{} --- {}".format("attempt one", time.time() - start))
     attempt_two_three()
