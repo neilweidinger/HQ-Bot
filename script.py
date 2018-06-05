@@ -130,7 +130,7 @@ def output_answers():
 def search_occurences(new_data, ans_num):
 
     # find number of occurrences of answer in retrieved data
-    _num_occurrences = 0
+    num_occurrences = 0
 
     # properties that will be searched for number of occurrences
     property_list = ["link", "title", "snippet", "htmlSnippet", 
@@ -141,12 +141,12 @@ def search_occurences(new_data, ans_num):
             # if "wikipedia" in item["link"]:
             #     continue
             for property in property_list:
-                _num_occurrences += item[property].lower().count(answers[ans_num].lower())
+                num_occurrences += item[property].lower().count(answers[ans_num].lower())
 
             # search through metatags, try for just in case metatags don't exist
             try:
                 for key in item["pagemap"]["metatags"][0].keys():
-                    _num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_num].lower())
+                    num_occurrences += item["pagemap"]["metatags"][0][key].lower().count(answers[ans_num].lower())
             except:
                 continue
 
@@ -154,7 +154,7 @@ def search_occurences(new_data, ans_num):
     except KeyError:
         print("search for {} returned no results".format(answers[ans_num]))
 
-    return _num_occurrences
+    return num_occurrences
 
 def attempt_one():
 
@@ -169,9 +169,8 @@ def attempt_one():
 
     for i in range(3):
 
-        num_occurrences_A = search_occurences(new_data=google_data, ans_num=i)
-
-        results[answers[i]][0] = (num_occurrences_A)
+        # put into results dict number of occurrences each answer has when just searching up question
+        results[answers[i]][0] = search_occurences(new_data=google_data, ans_num=i)
 
 # receive data from Google cse and return data in form of dictionary
 def attempt_two_three():
@@ -191,20 +190,23 @@ def attempt_two_three():
         # save data to disk in json format
         writefiles(attempt="2_3", num=str(i), data=google_data)
         
-        num_occurrences_B = search_occurences(new_data=google_data, ans_num=i)
-
-        results[answers[i]][1] = (int(google_data["searchInformation"]["totalResults"]))
-        results[answers[i]][2] = (num_occurrences_B)
+        # put into results dict number of pages returned and number of occurrences of question + answer 
+        results[answers[i]][1] = int(google_data["searchInformation"]["totalResults"])
+        results[answers[i]][2] = search_occurences(new_data=google_data, ans_num=i)
 
 # initialize a dictionary to store our results in. This is really just so we can use array indexing later
 def init_results_array():
     results_dict = {}
 
+    # for our three potential answers initialize a list where we'll store our respective data
     for i in range(3):
         results_dict[answers[i]] = []
         
+        # for each answer create a list with placeholders for our three data variables 
+        # these placeholders are just so when our attempt methods are running in parallel they know
+        # exactly which index in the results dict to write into
         for j in range(3):
-            results_dict[answers[i]].insert(j, "index {}".format(j))
+            results_dict[answers[i]].insert(j, "EMPTY")
 
     return results_dict
 
@@ -226,7 +228,9 @@ if __name__ == "__main__":
     # init results dictionary
     results = init_results_array();
 
-    # get data from Google
+    # get data from Google (run attempt functions in parallel)
+    # threading is used instead of multiprocessing since threading is easier to work with for
+    # tasks that need to share data and tbh it was super easy to set up lol
     p1 = Thread(name='attempt one', target=attempt_one)
     p1.start()
 
@@ -238,4 +242,5 @@ if __name__ == "__main__":
 
     # print results
     output_answers()
+    # print total time
     print("{} --- {}".format("Total time", time.time() - start))
