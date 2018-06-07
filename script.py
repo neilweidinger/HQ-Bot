@@ -36,14 +36,13 @@ def parse_question(ocr_text):
                 is_not = True
 
             # replaces "which of these" or just "which" with "what"
-            line = re.sub(r"(?i)\bWhich of these\b|\bWhich\b", "what", line)
-            # replaces "never" with a space
+            line = re.sub(r"(?i)\bWhich ??( ? of these\b)", "what", line)
+            # takes out all occurrences of "never"
             line = re.sub(r"(?i)\bNever ?", "", line)
-            # takes out all occurrences of a "not"
+            # takes out all occurrences of "not"
             line = re.sub(r"(?i)\bNOT ?", "", line)
-            # takes out all occurrences of a "least"
-            line = re.sub(r"(?i)\bLEAST ?", "", line)
-
+            # takes out all occurrences of "least" or "the least"
+            line = re.sub(r"(?i)(\bTHE ?)?\bLEAST ?", "", line)
 
             # only add non-empty lines to question
             if len(line) > 0:
