@@ -31,12 +31,19 @@ def parse_question(ocr_text):
             if re.match(r"(?i)(.*)\bNOT\b(.*)", line):
                 is_not = True
 
+            # checks to see if question is a "least" question
+            if re.match(r"(?i)(.*)\bLEAST\b(.*)", line):
+                is_not = True
+
             # replaces "which of these" or just "which" with "what"
             line = re.sub(r"(?i)\bWhich of these\b|\bWhich\b", "what", line)
             # replaces "never" with a space
             line = re.sub(r"(?i)\bNever ?", "", line)
             # takes out all occurrences of a "not"
             line = re.sub(r"(?i)\bNOT ?", "", line)
+            # takes out all occurrences of a "least"
+            line = re.sub(r"(?i)\bLEAST ?", "", line)
+
 
             # only add non-empty lines to question
             if len(line) > 0:
@@ -71,6 +78,8 @@ def read_image():
     image = Contraster.enhance(3)
 
     # tesseract recognizes text and outputs it as a string
+    # return pytesseract.image_to_string(image, config="-c tessedit_char_whitelist=.?/0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    # return pytesseract.image_to_string(image, config="hq")
     return pytesseract.image_to_string(image)
 
 # calculates and prints out final percentages
@@ -103,8 +112,8 @@ def output_answers():
             ans_occurrences_percentage = nums[2] / total_num_ans_occurrences
 
         # finds overall percentage by averaging all percentages (results % not weighted as much)
-        overall_percentage = ((ans_occurrences_percentage + (results_percentage * .7) +
-                              occurrences_percentage) / 3 * 100)
+        # overall_percentage = ((ans_occurrences_percentage * .5) + (results_percentage * .7) + occurrences_percentage)                                   / 3 * 100
+        overall_percentage = ((results_percentage * .2 * 100) + (nums[0] * 5) + (nums[2] * 3))
 
         # track most likely answer
         if not is_not and overall_percentage > predicted_percentage[0]:
@@ -231,6 +240,7 @@ if __name__ == "__main__":
     # get data from Google (run attempt functions in parallel)
     # threading is used instead of multiprocessing since threading is easier to work with for
     # tasks that need to share data and tbh it was super easy to set up lol
+    # threading also seems to be faster than multiprocessing
     p1 = Thread(name='attempt one', target=attempt_one)
     p1.start()
 
