@@ -35,18 +35,10 @@ def parse_question(ocr_text):
             if re.match(r"(?i)(.*)\bLEAST\b(.*)", line):
                 is_not = True
 
-            # replaces "which of these" or just "which" with "what"
-            line = re.sub(r"(?i)\bWhich ??( ? of these\b)", "what", line)
-            # takes out all occurrences of "never"
-            line = re.sub(r"(?i)\bNever ?", "", line)
-            # takes out all occurrences of "not"
-            line = re.sub(r"(?i)\bNOT ?", "", line)
-            # takes out all occurrences of "least" or "the least"
-            line = re.sub(r"(?i)(\bTHE ?)?\bLEAST ?", "", line)
-
             # only add non-empty lines to question
             if len(line) > 0:
                 question += line + " "
+
             # if we encounter a "?", that means answers are coming up in the text
             if '?' in line:
                 ans = True
@@ -55,6 +47,15 @@ def parse_question(ocr_text):
                 # replaces "/" with "and"
                 line = re.sub(r"/", "and", line)
                 answers.append(line)
+
+    # replaces "which of these" or just "which" with "what"
+    question = re.sub(r"(?i)\bWhich ??( of these\b)", "what", question)
+    # takes out all occurrences of "never"
+    question = re.sub(r"(?i)\bNever ?", "", question)
+    # takes out all occurrences of "not"
+    question = re.sub(r"(?i)\bNOT ?", "", question)
+    # takes out all occurrences of "least" or "the least"
+    question = re.sub(r"(?i)(\bTHE )?\bLEAST ?", "", question)
 
     return question, answers, is_not
 
@@ -112,7 +113,7 @@ def output_answers():
 
         # finds overall percentage by averaging all percentages (results % not weighted as much)
         # overall_percentage = ((ans_occurrences_percentage * .5) + (results_percentage * .7) + occurrences_percentage)                                   / 3 * 100
-        overall_percentage = ((results_percentage * .2 * 100) + (nums[0] * 5) + (nums[2] * 3))
+        overall_percentage = ((results_percentage * .5 * 100) + (nums[0] * 5) + (nums[2] * 3))
 
         # track most likely answer
         if not is_not and overall_percentage > predicted_percentage[0]:
