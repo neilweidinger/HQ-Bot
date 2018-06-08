@@ -20,9 +20,6 @@ def parse_question(ocr_text):
     answers = []
     is_not = False
 
-    # for quizbiz
-    # lines[0] = lines[0][3:]
-
     ans = False
     for line in lines:
         if not ans:
