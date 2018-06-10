@@ -46,9 +46,9 @@ def parse_question(ocr_text):
                 answers.append(line)
 
     # replaces "which of these" or just "which" with "what"
-    question = re.sub(r"(?i)\bWhich ??( of these\b)", "what", question)
+    question = re.sub(r"(?i)\bWHICH ??( OF THESE\b)?", "WHAT", question)
     # takes out all occurrences of "never"
-    question = re.sub(r"(?i)\bNever ?", "", question)
+    question = re.sub(r"(?i)\bNEVER ?", "", question)
     # takes out all occurrences of "not"
     question = re.sub(r"(?i)\bNOT ?", "", question)
     # takes out all occurrences of "least" or "the least"
@@ -109,7 +109,7 @@ def output_answers():
             ans_occurrences_percentage = nums[2] / total_num_ans_occurrences
 
         # finds overall percentage by averaging all percentages (results % not weighted as much)
-        # overall_percentage = ((ans_occurrences_percentage * .5) + (results_percentage * .7) + occurrences_percentage)                                   / 3 * 100
+        # overall_percentage = ((ans_occurrences_percentage * .5) + (results_percentage * .7) + occurrences_percentage) / 3 * 100
         overall_percentage = ((results_percentage * .5 * 100) + (nums[0] * 5) + (nums[2] * 3))
 
         # track most likely answer
