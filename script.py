@@ -46,7 +46,7 @@ def parse_question(ocr_text):
                 answers.append(line)
 
     # replaces "which of these" or just "which" with "what"
-    question = re.sub(r"(?i)\bWHICH ??( OF THESE\b)?", "WHAT", question)
+    question = re.sub(r"(?i)\bWHICH ??( OF THESE\b)?", "what", question)
     # takes out all occurrences of "never"
     question = re.sub(r"(?i)\bNEVER ?", "", question)
     # takes out all occurrences of "not"
