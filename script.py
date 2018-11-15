@@ -1,3 +1,4 @@
+from pathlib import Path
 from PIL import ImageEnhance
 from threading import Thread
 import pytesseract
@@ -6,8 +7,15 @@ from apiclient.discovery import build
 import json
 import re
 import time
+import sys
 
-g_cse_api_key = "***REMOVED***"
+g_cse_api_key = ""
+try:
+    with Path("./key.config").open() as f:
+        g_cse_api_key = f.readline().splitlines()[0]
+except FileNotFoundError:
+    sys.exit("ERROR: MAKE SURE TO PUT API KEY IN ./key.config")
+
 # g_cse_id = "007453928249679215123:dhdhqg4tpxi" # emphasizes a few sites
 # g_cse_id = "007453928249679215123:ynpo3pdphmg" # everything
 # g_cse_id = "007453928249679215123:zrrhksiiyh8" # no wikipedia
@@ -190,7 +198,7 @@ def attempt_two_three():
         google_data = service.cse().list(q=question + answers[i], cx=g_cse_id).execute()
 
         # or alternatively use sample/already saved data (doens't count against api quota)
-        # json_file = open("data/data" + str(i) + ".json", "r", encoding="utf-8")
+        # json_file = open("data/d" + str(i) + ".json", "r", encoding="utf-8")
         # google_data = json.load(json_file)
 
         # save data to disk in json format
