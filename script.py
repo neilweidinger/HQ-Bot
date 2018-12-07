@@ -76,6 +76,7 @@ def read_image():
 
     # Capture image
     image = ImageGrab.grab(bbox=(31,184,470,620)) # for hq
+    # image.show() # this displays the screenshot to allow for easy changing of above parameters
     # image = Image.open("tests/3.jpg") # for test images
 
     # Increase contrast
