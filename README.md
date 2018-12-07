@@ -22,4 +22,4 @@ and it will tell you what it thinks is the most likely answer.
 
 ## Screenshots
 ![example1](https://i.imgur.com/beRFiwN.jpg)
-*Starry Night was the correct answer*
+*Bot predicted Starry Night; Starry Night was the correct answer*
