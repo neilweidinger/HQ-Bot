@@ -8,6 +8,10 @@ Install requirements using pip:
 ```
 $ pip3 install -r requirements.txt
 ```
+Also install tesseract:
+```
+$ brew install tesseract
+```
 
 Change `key.config.example` to just `key.config` and put in your Google Custom Search API Key in the file.
 
