@@ -20,7 +20,7 @@ Make sure your recording of the HQ game is in the top left corner of your screen
 
 When the question and answers are displayed on the app, run
 ```
-python script.py
+$ python script.py
 ```
 and it will tell you what it thinks is the most likely answer.
 
